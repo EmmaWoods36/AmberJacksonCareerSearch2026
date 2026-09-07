@@ -1,8 +1,8 @@
 {
-  "as_of": "2026-09-07T16:19:00-05:00",
+  "as_of": "2026-09-07T17:25:00-05:00",
   "applications_total": 47,
   "active_pending": 25,
-  "confirmed_rejections": 17,
+  "confirmed_rejections": 14,
   "interview_request_events": 5,
   "distinct_positions_interviewed": 3,
   "completed_interview_meetings": 4,
@@ -37,5 +37,98 @@
       "completed_meetings": 1,
       "status": "Panel interview completed"
     }
+  ],
+  "confirmed_rejections_basis": "Evidence-backed minimum as of 2026-09-07 17:25 CT. Direct rejection screenshots + explicit handwritten rejection annotations/project history are counted; ambiguous X marks that could mean closed/unavailable are not automatically counted as rejections.",
+  "rejection_estimate_user_reported": "previously estimated approximately 12–14; current evidence-backed minimum is now 14 unique rejection outcomes",
+  "rejection_evidence": [
+    {
+      "company": "Deloitte",
+      "title": "Senior Consultant, Functional Transformation — SAP",
+      "evidence": "user-provided rejection email screenshot",
+      "status": "CONFIRMED"
+    },
+    {
+      "company": "Deloitte",
+      "title": "Manager, Functional Transformation — SAP",
+      "evidence": "user-provided rejection email screenshot",
+      "status": "CONFIRMED"
+    },
+    {
+      "company": "ITS Consulting",
+      "title": "SAP Migration SME",
+      "evidence": "user-provided Indeed rejection screenshot",
+      "status": "CONFIRMED"
+    },
+    {
+      "company": "Pfizer",
+      "title": "Senior Manager, Performance Analytics and Insights, Oncology",
+      "evidence": "user-provided Pfizer rejection email screenshot",
+      "status": "CONFIRMED"
+    },
+    {
+      "company": "Boston Consulting Group (Inverto)",
+      "title": "Senior Consultant, Digital, Data & AI",
+      "evidence": "user-provided BCG Inverto rejection email screenshot",
+      "status": "CONFIRMED"
+    },
+    {
+      "company": "Molex",
+      "title": "Sr. Manager, Business Analytics & Strategy",
+      "evidence": "user-provided Koch/Molex rejection email screenshot; req 191799",
+      "status": "CONFIRMED"
+    },
+    {
+      "company": "AbbVie",
+      "title": "Senior Manager, Commercial Business Intelligence",
+      "evidence": "user-provided handwritten application log marked X",
+      "status": "CONFIRMED_USER_LOG"
+    },
+    {
+      "company": "SEI",
+      "title": "Data & Analytics Consultant",
+      "evidence": "user-provided handwritten application log marked X",
+      "status": "CONFIRMED_USER_LOG"
+    },
+    {
+      "company": "Grainger",
+      "title": "Senior Manager, Supply Chain Systems & Technology",
+      "evidence": "user-provided handwritten application log marked X; exact tracker-title reconciliation needed",
+      "status": "CONFIRMED_USER_LOG_TITLE_RECONCILE"
+    },
+    {
+      "company": "Siemens Healthineers",
+      "title": "Data Governance Services Specialist",
+      "evidence": "user-provided handwritten application log marked X",
+      "status": "CONFIRMED_USER_LOG"
+    },
+    {
+      "company": "Deloitte",
+      "title": "Reliability & Maintenance Digital Transformation Sr Manager Architect",
+      "evidence": "previously established rejection in project history",
+      "status": "CONFIRMED_PROJECT_HISTORY"
+    },
+    {
+      "company": "Oil-Dri",
+      "title": "Senior Data & Reporting Analyst",
+      "evidence": "previously established rejection/closure in project history",
+      "status": "CONFIRMED_PROJECT_HISTORY"
+    },
+    {
+      "company": "Strongpoint Partners",
+      "title": "Data Transformation Manager",
+      "evidence": "user-provided rejection email screenshot: employer states it will move forward with other candidates and will not proceed with the application",
+      "status": "CONFIRMED"
+    },
+    {
+      "company": "Rakuten",
+      "title": "Strategy Planning & Cross-Group Project Management - AI & Data Governance Office (AIDGO)",
+      "evidence": "user-provided Rakuten rejection email screenshot in English/Japanese stating candidacy will not be further considered",
+      "status": "CONFIRMED"
+    }
+  ],
+  "reconciliation_notes": [
+    "Oil-Dri Sr. Production Planning Data Analyst is NOT counted as a rejection: interview requested, then screen canceled because the employer extended an offer to another candidate / role filled.",
+    "Consumer Credit Union Data Governance Program Manager notebook X is annotated “not available” and is NOT counted as a rejection.",
+    "Coca-Cola Senior Manager Data Product Manager Japan, Northern Trust Data Product Implementation Lead, and Syniti Sr. Manager Technical Program have notebook X marks, but those marks are not counted as confirmed rejection outcomes until exact outcome evidence is reconciled because X is not used exclusively for rejection in the notebook."
   ]
 }

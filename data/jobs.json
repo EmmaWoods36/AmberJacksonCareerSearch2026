@@ -356,7 +356,9 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
+    "rejection_evidence_status": "NEEDS_RECONCILIATION",
+    "outcome_class": "REJECTED_REPORTED_UNVERIFIED"
   },
   {
     "rank": 8,
@@ -561,7 +563,10 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
+    "rejection_evidence_status": "CONFIRMED",
+    "rejection_evidence": "Previously established rejection in project history",
+    "outcome_class": "REJECTED"
   },
   {
     "rank": 12,
@@ -766,7 +771,10 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
+    "rejection_evidence_status": "CONFIRMED",
+    "rejection_evidence": "Previously established rejection/closure in project history",
+    "outcome_class": "REJECTED"
   },
   {
     "rank": 16,
@@ -817,7 +825,9 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
+    "rejection_evidence_status": "NEEDS_RECONCILIATION",
+    "outcome_class": "REJECTED_REPORTED_UNVERIFIED"
   },
   {
     "rank": 17,
@@ -1175,7 +1185,10 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
+    "rejection_evidence_status": "CONFIRMED",
+    "rejection_evidence": "User-provided Indeed/ITS rejection screenshot",
+    "outcome_class": "REJECTED"
   },
   {
     "rank": 24,
@@ -1481,7 +1494,10 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
+    "rejection_evidence_status": "CONFIRMED",
+    "rejection_evidence": "User-provided handwritten application log marked X",
+    "outcome_class": "REJECTED"
   },
   {
     "rank": 30,
@@ -1583,7 +1599,10 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
+    "rejection_evidence_status": "CONFIRMED",
+    "rejection_evidence": "User-provided BCG Inverto rejection email screenshot",
+    "outcome_class": "REJECTED"
   },
   {
     "rank": 32,
@@ -1736,7 +1755,10 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
+    "rejection_evidence_status": "CONFIRMED",
+    "rejection_evidence": "User-provided Deloitte rejection email screenshot",
+    "outcome_class": "REJECTED"
   },
   {
     "rank": 35,
@@ -1909,7 +1931,7 @@
     "domain": "Data Transformation",
     "link": "",
     "notes": "Rejected 2026-08-24 at 11:00 AM via application-status email. Strongpoint Par...",
-    "decision": "HISTORICAL - CLOSED/REJECTED",
+    "decision": "HISTORICAL - REJECTED",
     "live_status": "Rejected",
     "hard_gate": "Empirical application status retained; not part of the current unapplied attack queue.",
     "audit_basis": "historical tracker + project status history",
@@ -1942,7 +1964,11 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
+    "rejection_evidence_status": "NEEDS_RECONCILIATION",
+    "outcome_class": "REJECTED_REPORTED_UNVERIFIED",
+    "outcome_type": "REJECTED",
+    "outcome_evidence": "Direct rejection email screenshot supplied by user on 2026-09-07."
   },
   {
     "rank": 39,
@@ -2164,7 +2190,7 @@
     "domain": "AI / Data Governance / Japan",
     "link": "",
     "notes": "User-confirmed via application-submission screenshot on 2026-08-23. Rakuten W...",
-    "decision": "HISTORICAL - CLOSED/REJECTED",
+    "decision": "HISTORICAL - REJECTED",
     "live_status": "Rejected",
     "hard_gate": "Empirical application status retained; not part of the current unapplied attack queue.",
     "audit_basis": "historical tracker + project status history",
@@ -2197,7 +2223,11 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
+    "rejection_evidence_status": "NEEDS_RECONCILIATION",
+    "outcome_class": "REJECTED_REPORTED_UNVERIFIED",
+    "outcome_type": "REJECTED",
+    "outcome_evidence": "Direct Rakuten rejection email screenshot supplied by user on 2026-09-07."
   },
   {
     "rank": 44,
@@ -2350,7 +2380,8 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
+    "outcome_reconciliation": "Notebook contains an X mark, but X is not exclusively a rejection marker; exact outcome evidence still needed."
   },
   {
     "rank": 47,
@@ -3525,7 +3556,10 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
+    "rejection_evidence_status": "CONFIRMED_USER_LOG_TITLE_RECONCILE",
+    "outcome_class": "REJECTED_TITLE_RECONCILE",
+    "rejection_evidence": "Handwritten log confirms Grainger rejection for “Senior Manager, Supply Chain Systems & Technology”; current tracker row title differs and must not be silently conflated."
   },
   {
     "rank": 70,
@@ -4392,7 +4426,10 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
+    "rejection_evidence_status": "CONFIRMED",
+    "rejection_evidence": "User-provided Koch/Molex rejection email screenshot, req 191799",
+    "outcome_class": "REJECTED"
   },
   {
     "rank": 87,
@@ -4698,7 +4735,8 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
+    "outcome_reconciliation": "Notebook contains an X mark, but X is not exclusively a rejection marker; exact outcome evidence still needed."
   },
   {
     "rank": 93,
@@ -5157,7 +5195,9 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
+    "rejection_evidence_status": "NEEDS_RECONCILIATION",
+    "outcome_class": "REJECTED_REPORTED_UNVERIFIED"
   },
   {
     "rank": 102,
@@ -5208,7 +5248,10 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
+    "rejection_evidence_status": "CONFIRMED",
+    "rejection_evidence": "User-provided Deloitte rejection email screenshot",
+    "outcome_class": "REJECTED"
   },
   {
     "rank": 103,
@@ -5820,7 +5863,10 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
+    "rejection_evidence_status": "CONFIRMED",
+    "rejection_evidence": "User-provided handwritten application log marked X",
+    "outcome_class": "REJECTED"
   },
   {
     "rank": 115,
@@ -5973,7 +6019,10 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
+    "rejection_evidence_status": "CONFIRMED",
+    "rejection_evidence": "User-provided handwritten application log marked X",
+    "outcome_class": "REJECTED"
   },
   {
     "rank": 118,
@@ -6024,7 +6073,8 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
+    "outcome_reconciliation": "Notebook contains an X mark, but X is not exclusively a rejection marker; exact outcome evidence still needed."
   },
   {
     "rank": 119,
@@ -6993,7 +7043,10 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
+    "rejection_evidence_status": "CONFIRMED",
+    "rejection_evidence": "User-provided Pfizer rejection email screenshot",
+    "outcome_class": "REJECTED"
   },
   {
     "rank": 138,
@@ -9284,7 +9337,9 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
+    "outcome_type": "ROLE_FILLED_AFTER_INTERVIEW_REQUEST",
+    "outcome_evidence": "Recruiter email: screen canceled because team extended an offer for the role; not counted as candidate rejection."
   },
   {
     "rank": 183,

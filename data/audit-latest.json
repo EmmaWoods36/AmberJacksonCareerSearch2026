@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T21:57:18+00:00",
+  "generated_at": "2026-09-07T22:31:09+00:00",
   "errors": [],
   "warnings": [],
   "role_records": 184,
@@ -9,5 +9,12 @@
   "interview_request_events": 5,
   "distinct_positions_interviewed": 3,
   "completed_interview_meetings": 4,
-  "offers": 0
+  "offers": 0,
+  "as_of": "2026-09-07T17:25:00-05:00",
+  "confirmed_rejections": 14,
+  "outcome_reconciliation_notes": [
+    "Oil-Dri Sr. Production Planning Data Analyst is NOT counted as a rejection: interview requested, then screen canceled because the employer extended an offer to another candidate / role filled.",
+    "Consumer Credit Union Data Governance Program Manager notebook X is annotated “not available” and is NOT counted as a rejection.",
+    "Coca-Cola Senior Manager Data Product Manager Japan, Northern Trust Data Product Implementation Lead, and Syniti Sr. Manager Technical Program have notebook X marks, but those marks are not counted as confirmed rejection outcomes until exact outcome evidence is reconciled because X is not used exclusively for rejection in the notebook."
+  ]
 }
