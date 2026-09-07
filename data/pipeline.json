@@ -1,0 +1,41 @@
+{
+  "as_of": "2026-09-07T16:19:00-05:00",
+  "applications_total": 47,
+  "active_pending": 25,
+  "confirmed_rejections": 17,
+  "interview_request_events": 5,
+  "distinct_positions_interviewed": 3,
+  "completed_interview_meetings": 4,
+  "offers_extended": 0,
+  "zombie_threshold_business_days": 10,
+  "interview_history": [
+    {
+      "company": "Oil-Dri",
+      "title": "Sr. Production Planning Data Analyst",
+      "request_events": 1,
+      "completed_meetings": 0,
+      "status": "Role filled before recruiter screen"
+    },
+    {
+      "company": "Combined Metals",
+      "title": "Senior Manager, ERP Platform",
+      "request_events": 2,
+      "completed_meetings": 2,
+      "status": "HR screen + Hiring Manager / Director of IT completed; CFO only a potential next step"
+    },
+    {
+      "company": "International Motors",
+      "title": "Manager, Procurement Digitalization",
+      "request_events": 1,
+      "completed_meetings": 1,
+      "status": "Hiring Manager interview completed"
+    },
+    {
+      "company": "International Motors",
+      "title": "Manager, Supply Chain Technology & Operations",
+      "request_events": 1,
+      "completed_meetings": 1,
+      "status": "Panel interview completed"
+    }
+  ]
+}

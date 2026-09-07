@@ -1,0 +1,47 @@
+{
+  "timezone": "America/Chicago",
+  "zombie_business_days": 10,
+  "open_role_check": {
+    "enabled": true,
+    "priority_only_weekdays": true,
+    "max_links_per_run": 40,
+    "timeout_seconds": 20,
+    "closure_phrases": [
+      "no longer accepting applications",
+      "this job is no longer available",
+      "job is no longer available",
+      "position has been filled",
+      "job has expired",
+      "posting has expired",
+      "requisition is closed",
+      "this position is closed",
+      "this job has been filled"
+    ]
+  },
+  "notification": {
+    "create_github_issue_on_new_alert": true
+  },
+  "scouting": {
+    "enabled_when_secrets_exist": true,
+    "minimum_screening_fit": 85,
+    "exceptional_yellow_floor": 80,
+    "target_locations": [
+      "Chicago, IL",
+      "North Chicago, IL",
+      "Deerfield, IL",
+      "Lisle, IL",
+      "Naperville, IL",
+      "Rosemont, IL",
+      "Remote, US"
+    ],
+    "target_lanes": [
+      "Senior Manager Enterprise Systems",
+      "Senior Manager ERP",
+      "Senior Manager Supply Chain Technology",
+      "Senior Manager Procurement Digitalization",
+      "Senior Manager Data Transformation",
+      "Senior Manager Master Data Governance",
+      "Associate Director Supply Chain Transformation"
+    ]
+  }
+}
