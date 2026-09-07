@@ -1,0 +1,52 @@
+name: Career Tracker Monitor
+
+on:
+  workflow_dispatch:
+  schedule:
+    # GitHub cron is UTC. 13:00 UTC is 8 AM CDT / 7 AM CST.
+    # The deterministic checks are safe to run once each weekday.
+    - cron: '0 13 * * 1-5'
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: career-tracker-monitor
+  cancel-in-progress: true
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install -r requirements.txt
+      - name: Recompute Zombies and check priority job links
+        run: python scripts/monitor.py
+      - name: Run integrity audit
+        run: python scripts/audit.py
+      - name: Commit tracker updates
+        run: |
+          if git diff --quiet; then
+            echo "No repository changes."
+            exit 0
+          fi
+          git config user.name "career-tracker-bot"
+          git config user.email "career-tracker-bot@users.noreply.github.com"
+          git add index.html data reports
+          git commit -m "chore: automated career tracker refresh"
+          git push
+      - name: Create GitHub issue when a new alert exists
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if grep -q '^## ' reports/alerts-latest.md; then
+            gh issue create \
+              --title "Career tracker alert — $(date -u +%Y-%m-%d)" \
+              --body-file reports/alerts-latest.md || true
+          fi

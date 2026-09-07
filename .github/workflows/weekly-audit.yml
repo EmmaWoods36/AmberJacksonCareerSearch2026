@@ -1,0 +1,53 @@
+name: Weekly Career Search Audit
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Sunday evening Chicago-ish. GitHub schedules are UTC and can drift relative to DST.
+    - cron: '0 23 * * 0'
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install -r requirements.txt
+      - name: Deterministic monitor refresh
+        run: python scripts/monitor.py --skip-http
+      - name: Full consistency audit
+        id: audit
+        continue-on-error: true
+        run: python scripts/audit.py
+      - name: Optional new-role scout hook
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          TAVILY_API_KEY: ${{ secrets.TAVILY_API_KEY }}
+        run: python scripts/scout.py
+      - name: Commit reports and deterministic state
+        run: |
+          if git diff --quiet; then
+            echo "No repository changes."
+          else
+            git config user.name "career-tracker-bot"
+            git config user.email "career-tracker-bot@users.noreply.github.com"
+            git add index.html data reports
+            git commit -m "chore: weekly career search audit"
+            git push
+          fi
+      - name: Open an integrity issue if audit failed
+        if: steps.audit.outcome == 'failure'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh issue create \
+            --title "Career tracker integrity audit needs attention" \
+            --body-file reports/weekly-audit.md || true
