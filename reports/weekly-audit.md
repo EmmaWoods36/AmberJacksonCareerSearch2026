@@ -1,6 +1,6 @@
 # Weekly career search integrity audit
 
-Generated: 2026-09-07T21:57:18+00:00
+Generated: 2026-09-08T17:07:58+00:00
 Role records: 184
 Confirmed applications: 47
 Pending applications: 25

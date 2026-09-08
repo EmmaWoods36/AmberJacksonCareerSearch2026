@@ -35,8 +35,8 @@
     "applied_at": null,
     "record_audited_at": "2026-09-07T16:00:42-05:00",
     "posting_status": "OPEN_VERIFIED",
-    "status_checked_at": "2026-09-07T16:00:42-05:00",
-    "status_check_source": "Official RUSH job listing / Apply link — Sep 7",
+    "status_checked_at": "2026-09-08T12:07:49-05:00",
+    "status_check_source": "GitHub Actions HTTP monitor",
     "interview_request_count": 0,
     "completed_interview_count": 0,
     "potential_next_step": "",
@@ -48,7 +48,13 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00",
+    "last_link_check": {
+      "result": "REACHABLE",
+      "reason": "HTTP 200; no strong closure phrase detected",
+      "status_code": 200,
+      "final_url": "https://rush.fxrecruiter.com/jobs/details/united-states/il/chicago/work-type/senior-manager-supply-chain-systems-technology/12124"
+    }
   },
   {
     "rank": 2,
@@ -98,9 +104,9 @@
     "audit_cadence_days": 3,
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": true,
-    "zombie_business_days": 10,
-    "last_zombie_alert_key": "4417cf7e21baa0d3b677",
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "zombie_business_days": 11,
+    "last_zombie_alert_key": "447474e6e7e942b593bd",
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 3,
@@ -150,9 +156,9 @@
     "audit_cadence_days": 3,
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": true,
-    "zombie_business_days": 10,
-    "last_zombie_alert_key": "7ee7110916b8381667f6",
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "zombie_business_days": 11,
+    "last_zombie_alert_key": "d74a282abfef203de8e2",
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 4,
@@ -203,7 +209,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 5,
@@ -253,8 +259,8 @@
     "audit_cadence_days": 3,
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
-    "zombie_business_days": 7,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "zombie_business_days": 8,
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 6,
@@ -305,7 +311,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 7,
@@ -356,7 +362,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00",
     "rejection_evidence_status": "NEEDS_RECONCILIATION",
     "outcome_class": "REJECTED_REPORTED_UNVERIFIED"
   },
@@ -408,8 +414,8 @@
     "audit_cadence_days": 3,
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
-    "zombie_business_days": 8,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "zombie_business_days": 9,
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 9,
@@ -460,7 +466,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 10,
@@ -510,9 +516,9 @@
     "audit_cadence_days": 3,
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": true,
-    "zombie_business_days": 10,
-    "last_zombie_alert_key": "b93b39e60f4c5233d3f5",
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "zombie_business_days": 11,
+    "last_zombie_alert_key": "e7ecb3367c4b0cf028a7",
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 11,
@@ -563,7 +569,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00",
     "rejection_evidence_status": "CONFIRMED",
     "rejection_evidence": "Previously established rejection in project history",
     "outcome_class": "REJECTED"
@@ -617,7 +623,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 13,
@@ -667,8 +673,8 @@
     "audit_cadence_days": 3,
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
-    "zombie_business_days": 8,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "zombie_business_days": 9,
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 14,
@@ -718,9 +724,9 @@
     "audit_cadence_days": 3,
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": true,
-    "zombie_business_days": 10,
-    "last_zombie_alert_key": "836d08745f037b2a7e9b",
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "zombie_business_days": 11,
+    "last_zombie_alert_key": "f1441b05fdecbc67fec1",
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 15,
@@ -771,7 +777,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00",
     "rejection_evidence_status": "CONFIRMED",
     "rejection_evidence": "Previously established rejection/closure in project history",
     "outcome_class": "REJECTED"
@@ -825,7 +831,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00",
     "rejection_evidence_status": "NEEDS_RECONCILIATION",
     "outcome_class": "REJECTED_REPORTED_UNVERIFIED"
   },
@@ -877,8 +883,8 @@
     "audit_cadence_days": 3,
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
-    "zombie_business_days": 7,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "zombie_business_days": 8,
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 18,
@@ -928,9 +934,9 @@
     "audit_cadence_days": 3,
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": true,
-    "zombie_business_days": 10,
-    "last_zombie_alert_key": "f7a047a8649c7269cc8f",
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "zombie_business_days": 11,
+    "last_zombie_alert_key": "8d4cbb510549d32617ae",
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 19,
@@ -968,8 +974,8 @@
     "applied_at": null,
     "record_audited_at": "2026-09-07T16:00:42-05:00",
     "posting_status": "OPEN_VERIFIED",
-    "status_checked_at": "2026-09-07T16:00:42-05:00",
-    "status_check_source": "Abbott Workday — Sep 7",
+    "status_checked_at": "2026-09-08T12:07:53-05:00",
+    "status_check_source": "GitHub Actions HTTP monitor",
     "interview_request_count": 0,
     "completed_interview_count": 0,
     "potential_next_step": "",
@@ -981,7 +987,13 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00",
+    "last_link_check": {
+      "result": "REACHABLE",
+      "reason": "HTTP 200; no strong closure phrase detected",
+      "status_code": 200,
+      "final_url": "https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers2/job/Senior-Manager-Supply-Chain_31159318"
+    }
   },
   {
     "rank": 20,
@@ -1032,7 +1044,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 21,
@@ -1083,7 +1095,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 22,
@@ -1121,8 +1133,8 @@
     "applied_at": null,
     "record_audited_at": "2026-09-07T16:00:42-05:00",
     "posting_status": "OPEN_VERIFIED",
-    "status_checked_at": "2026-09-07T16:00:42-05:00",
-    "status_check_source": "Official UNFI jobs page — Sep 7",
+    "status_checked_at": "2026-09-08T12:07:55-05:00",
+    "status_check_source": "GitHub Actions HTTP monitor",
     "interview_request_count": 0,
     "completed_interview_count": 0,
     "potential_next_step": "",
@@ -1134,7 +1146,13 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00",
+    "last_link_check": {
+      "result": "REACHABLE",
+      "reason": "HTTP 200; no strong closure phrase detected",
+      "status_code": 200,
+      "final_url": "https://jobs.unfi.com/job/14638/sr-it-manager-food-safety-quality-and-traceability-it-us-ri-providence/"
+    }
   },
   {
     "rank": 23,
@@ -1185,7 +1203,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00",
     "rejection_evidence_status": "CONFIRMED",
     "rejection_evidence": "User-provided Indeed/ITS rejection screenshot",
     "outcome_class": "REJECTED"
@@ -1239,7 +1257,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 25,
@@ -1290,7 +1308,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 26,
@@ -1340,8 +1358,8 @@
     "audit_cadence_days": 3,
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
-    "zombie_business_days": 8,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "zombie_business_days": 9,
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 27,
@@ -1392,7 +1410,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 28,
@@ -1430,8 +1448,8 @@
     "applied_at": null,
     "record_audited_at": "2026-09-07T16:00:42-05:00",
     "posting_status": "OPEN_AT_LAST_CHECK",
-    "status_checked_at": "2026-09-06T18:00:00-05:00",
-    "status_check_source": "Sep 6 live/full-JD audit",
+    "status_checked_at": "2026-09-08T12:07:58-05:00",
+    "status_check_source": "GitHub Actions HTTP monitor",
     "interview_request_count": 0,
     "completed_interview_count": 0,
     "potential_next_step": "",
@@ -1443,7 +1461,13 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00",
+    "last_link_check": {
+      "result": "REACHABLE",
+      "reason": "HTTP 200; no strong closure phrase detected",
+      "status_code": 200,
+      "final_url": "https://jobs.lever.co/brooksrunning/7863fa11-efeb-4a38-aaf9-fd4d0ad778ba"
+    }
   },
   {
     "rank": 29,
@@ -1494,7 +1518,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00",
     "rejection_evidence_status": "CONFIRMED",
     "rejection_evidence": "User-provided handwritten application log marked X",
     "outcome_class": "REJECTED"
@@ -1548,7 +1572,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 31,
@@ -1599,7 +1623,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00",
     "rejection_evidence_status": "CONFIRMED",
     "rejection_evidence": "User-provided BCG Inverto rejection email screenshot",
     "outcome_class": "REJECTED"
@@ -1640,8 +1664,8 @@
     "applied_at": null,
     "record_audited_at": "2026-09-07T16:00:42-05:00",
     "posting_status": "OPEN_VERIFIED",
-    "status_checked_at": "2026-09-07T16:00:42-05:00",
-    "status_check_source": "Current Indeed posting surfaced — Sep 7",
+    "status_checked_at": "2026-09-08T12:07:58-05:00",
+    "status_check_source": "GitHub Actions HTTP monitor",
     "interview_request_count": 0,
     "completed_interview_count": 0,
     "potential_next_step": "",
@@ -1653,7 +1677,13 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00",
+    "last_link_check": {
+      "result": "CHECK_BLOCKED",
+      "reason": "HTTP 401",
+      "status_code": 401,
+      "final_url": "https://www.indeed.com/viewjob?jk=09fcac7fbb801d8c"
+    }
   },
   {
     "rank": 33,
@@ -1704,7 +1734,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 34,
@@ -1755,7 +1785,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00",
     "rejection_evidence_status": "CONFIRMED",
     "rejection_evidence": "User-provided Deloitte rejection email screenshot",
     "outcome_class": "REJECTED"
@@ -1810,7 +1840,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 36,
@@ -1862,7 +1892,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 37,
@@ -1913,7 +1943,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 38,
@@ -1964,7 +1994,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00",
     "rejection_evidence_status": "NEEDS_RECONCILIATION",
     "outcome_class": "REJECTED_REPORTED_UNVERIFIED",
     "outcome_type": "REJECTED",
@@ -2019,7 +2049,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 40,
@@ -2070,7 +2100,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 41,
@@ -2121,7 +2151,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 42,
@@ -2172,7 +2202,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 43,
@@ -2223,7 +2253,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00",
     "rejection_evidence_status": "NEEDS_RECONCILIATION",
     "outcome_class": "REJECTED_REPORTED_UNVERIFIED",
     "outcome_type": "REJECTED",
@@ -2278,7 +2308,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 45,
@@ -2329,7 +2359,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 46,
@@ -2380,7 +2410,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00",
     "outcome_reconciliation": "Notebook contains an X mark, but X is not exclusively a rejection marker; exact outcome evidence still needed."
   },
   {
@@ -2432,7 +2462,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 48,
@@ -2483,7 +2513,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 49,
@@ -2534,7 +2564,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 50,
@@ -2584,9 +2614,9 @@
     "audit_cadence_days": 3,
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": true,
-    "zombie_business_days": 10,
-    "last_zombie_alert_key": "2935a71e0cfd9be89c4e",
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "zombie_business_days": 11,
+    "last_zombie_alert_key": "2f0113b68008f1c23847",
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 51,
@@ -2637,7 +2667,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 52,
@@ -2689,7 +2719,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 53,
@@ -2740,7 +2770,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 54,
@@ -2791,7 +2821,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 55,
@@ -2842,7 +2872,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 56,
@@ -2893,7 +2923,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 57,
@@ -2944,7 +2974,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 58,
@@ -2995,7 +3025,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 59,
@@ -3046,7 +3076,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 60,
@@ -3097,7 +3127,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 61,
@@ -3148,7 +3178,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 62,
@@ -3199,7 +3229,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 63,
@@ -3250,7 +3280,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 64,
@@ -3301,7 +3331,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 65,
@@ -3352,7 +3382,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 66,
@@ -3403,7 +3433,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 67,
@@ -3454,7 +3484,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 68,
@@ -3505,7 +3535,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 69,
@@ -3556,7 +3586,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00",
     "rejection_evidence_status": "CONFIRMED_USER_LOG_TITLE_RECONCILE",
     "outcome_class": "REJECTED_TITLE_RECONCILE",
     "rejection_evidence": "Handwritten log confirms Grainger rejection for “Senior Manager, Supply Chain Systems & Technology”; current tracker row title differs and must not be silently conflated."
@@ -3610,7 +3640,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 71,
@@ -3661,7 +3691,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 72,
@@ -3712,7 +3742,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 73,
@@ -3763,7 +3793,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 74,
@@ -3801,8 +3831,8 @@
     "applied_at": null,
     "record_audited_at": "2026-09-07T16:00:42-05:00",
     "posting_status": "OPEN_VERIFIED",
-    "status_checked_at": "2026-09-07T16:00:42-05:00",
-    "status_check_source": "Official Google Careers — Sep 7",
+    "status_checked_at": "2026-09-08T12:07:55-05:00",
+    "status_check_source": "GitHub Actions HTTP monitor",
     "interview_request_count": 0,
     "completed_interview_count": 0,
     "potential_next_step": "",
@@ -3814,7 +3844,13 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00",
+    "last_link_check": {
+      "result": "REACHABLE",
+      "reason": "HTTP 200; no strong closure phrase detected",
+      "status_code": 200,
+      "final_url": "https://www.google.com/about/careers/applications/jobs/results/133491213935223494-enablement-manager-google-procurement-organization"
+    }
   },
   {
     "rank": 75,
@@ -3865,7 +3901,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 76,
@@ -3915,8 +3951,8 @@
     "audit_cadence_days": 3,
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
-    "zombie_business_days": 7,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "zombie_business_days": 8,
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 77,
@@ -3967,7 +4003,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 78,
@@ -4018,7 +4054,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 79,
@@ -4056,8 +4092,8 @@
     "applied_at": null,
     "record_audited_at": "2026-09-07T16:00:42-05:00",
     "posting_status": "OPEN_VERIFIED",
-    "status_checked_at": "2026-09-07T16:00:42-05:00",
-    "status_check_source": "Official Amgen Careers — Sep 7",
+    "status_checked_at": "2026-09-08T12:07:53-05:00",
+    "status_check_source": "GitHub Actions HTTP monitor",
     "interview_request_count": 0,
     "completed_interview_count": 0,
     "potential_next_step": "",
@@ -4069,7 +4105,13 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00",
+    "last_link_check": {
+      "result": "REACHABLE",
+      "reason": "HTTP 200; no strong closure phrase detected",
+      "status_code": 200,
+      "final_url": "https://careers.amgen.com/en/job/thousand-oaks/strategic-planning-and-operations-sr-mgr-global-customer-capabilities-and-innovation/87/99867779664"
+    }
   },
   {
     "rank": 80,
@@ -4120,7 +4162,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 81,
@@ -4171,7 +4213,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 82,
@@ -4222,7 +4264,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 83,
@@ -4273,7 +4315,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 84,
@@ -4324,7 +4366,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 85,
@@ -4375,7 +4417,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 86,
@@ -4426,7 +4468,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00",
     "rejection_evidence_status": "CONFIRMED",
     "rejection_evidence": "User-provided Koch/Molex rejection email screenshot, req 191799",
     "outcome_class": "REJECTED"
@@ -4480,7 +4522,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 88,
@@ -4531,7 +4573,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 89,
@@ -4582,7 +4624,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 90,
@@ -4633,7 +4675,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 91,
@@ -4684,7 +4726,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 92,
@@ -4735,7 +4777,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00",
     "outcome_reconciliation": "Notebook contains an X mark, but X is not exclusively a rejection marker; exact outcome evidence still needed."
   },
   {
@@ -4787,7 +4829,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 94,
@@ -4837,8 +4879,8 @@
     "audit_cadence_days": 3,
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
-    "zombie_business_days": 8,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "zombie_business_days": 9,
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 95,
@@ -4889,7 +4931,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 96,
@@ -4940,7 +4982,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 97,
@@ -4991,7 +5033,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 98,
@@ -5042,7 +5084,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 99,
@@ -5093,7 +5135,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 100,
@@ -5144,7 +5186,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 101,
@@ -5195,7 +5237,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00",
     "rejection_evidence_status": "NEEDS_RECONCILIATION",
     "outcome_class": "REJECTED_REPORTED_UNVERIFIED"
   },
@@ -5248,7 +5290,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00",
     "rejection_evidence_status": "CONFIRMED",
     "rejection_evidence": "User-provided Deloitte rejection email screenshot",
     "outcome_class": "REJECTED"
@@ -5302,7 +5344,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 104,
@@ -5353,7 +5395,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 105,
@@ -5404,7 +5446,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 106,
@@ -5455,7 +5497,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 107,
@@ -5506,7 +5548,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 108,
@@ -5557,7 +5599,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 109,
@@ -5608,7 +5650,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 110,
@@ -5659,7 +5701,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 111,
@@ -5697,8 +5739,8 @@
     "applied_at": null,
     "record_audited_at": "2026-09-07T16:00:42-05:00",
     "posting_status": "OPEN_VERIFIED",
-    "status_checked_at": "2026-09-07T16:00:42-05:00",
-    "status_check_source": "Official AbbVie Careers — Sep 7",
+    "status_checked_at": "2026-09-08T12:07:51-05:00",
+    "status_check_source": "GitHub Actions HTTP monitor",
     "interview_request_count": 0,
     "completed_interview_count": 0,
     "potential_next_step": "",
@@ -5710,7 +5752,13 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00",
+    "last_link_check": {
+      "result": "REACHABLE",
+      "reason": "HTTP 200; no strong closure phrase detected",
+      "status_code": 200,
+      "final_url": "https://careers.abbvie.com/en/job/manager-business-enablement-value-generation-and-optimization-in-north-chicago-il-jid-30108"
+    }
   },
   {
     "rank": 112,
@@ -5761,7 +5809,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 113,
@@ -5812,7 +5860,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 114,
@@ -5863,7 +5911,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00",
     "rejection_evidence_status": "CONFIRMED",
     "rejection_evidence": "User-provided handwritten application log marked X",
     "outcome_class": "REJECTED"
@@ -5917,7 +5965,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 116,
@@ -5968,7 +6016,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 117,
@@ -6019,7 +6067,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00",
     "rejection_evidence_status": "CONFIRMED",
     "rejection_evidence": "User-provided handwritten application log marked X",
     "outcome_class": "REJECTED"
@@ -6073,7 +6121,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00",
     "outcome_reconciliation": "Notebook contains an X mark, but X is not exclusively a rejection marker; exact outcome evidence still needed."
   },
   {
@@ -6125,7 +6173,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 120,
@@ -6176,7 +6224,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 121,
@@ -6227,7 +6275,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 122,
@@ -6278,7 +6326,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 123,
@@ -6329,7 +6377,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 124,
@@ -6380,7 +6428,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 125,
@@ -6431,7 +6479,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 126,
@@ -6482,7 +6530,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 127,
@@ -6533,7 +6581,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 128,
@@ -6571,8 +6619,8 @@
     "applied_at": null,
     "record_audited_at": "2026-09-07T16:00:42-05:00",
     "posting_status": "OPEN_VERIFIED",
-    "status_checked_at": "2026-09-07T16:00:42-05:00",
-    "status_check_source": "Official AbbVie Careers — Sep 7",
+    "status_checked_at": "2026-09-08T12:07:57-05:00",
+    "status_check_source": "GitHub Actions HTTP monitor",
     "interview_request_count": 0,
     "completed_interview_count": 0,
     "potential_next_step": "",
@@ -6584,7 +6632,13 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00",
+    "last_link_check": {
+      "result": "REACHABLE",
+      "reason": "HTTP 200; no strong closure phrase detected",
+      "status_code": 200,
+      "final_url": "https://careers.abbvie.com/en/job/manager-business-analytics-in-north-chicago-il-jid-28036"
+    }
   },
   {
     "rank": 129,
@@ -6635,7 +6689,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 130,
@@ -6673,8 +6727,8 @@
     "applied_at": null,
     "record_audited_at": "2026-09-07T16:00:42-05:00",
     "posting_status": "OPEN_VERIFIED",
-    "status_checked_at": "2026-09-07T16:00:42-05:00",
-    "status_check_source": "Amgen Illinois job listing — Sep 7",
+    "status_checked_at": "2026-09-08T12:07:57-05:00",
+    "status_check_source": "GitHub Actions HTTP monitor",
     "interview_request_count": 0,
     "completed_interview_count": 0,
     "potential_next_step": "",
@@ -6686,7 +6740,13 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00",
+    "last_link_check": {
+      "result": "REACHABLE",
+      "reason": "HTTP 200; no strong closure phrase detected",
+      "status_code": 200,
+      "final_url": "https://amgen.wd1.myworkdayjobs.com/en-US/Careers/job/US---IL---Deerfield/Senior-Manager--Commercial-Analytics--Patient---Access-Analytics-_R-248991"
+    }
   },
   {
     "rank": 131,
@@ -6737,7 +6797,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 132,
@@ -6788,7 +6848,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 133,
@@ -6839,7 +6899,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 134,
@@ -6890,7 +6950,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 135,
@@ -6941,7 +7001,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 136,
@@ -6992,7 +7052,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 137,
@@ -7043,7 +7103,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00",
     "rejection_evidence_status": "CONFIRMED",
     "rejection_evidence": "User-provided Pfizer rejection email screenshot",
     "outcome_class": "REJECTED"
@@ -7097,7 +7157,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 139,
@@ -7148,7 +7208,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 140,
@@ -7199,7 +7259,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 141,
@@ -7250,7 +7310,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 142,
@@ -7301,7 +7361,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 143,
@@ -7352,7 +7412,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 144,
@@ -7403,7 +7463,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 145,
@@ -7454,7 +7514,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 146,
@@ -7505,7 +7565,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 147,
@@ -7556,7 +7616,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 148,
@@ -7607,7 +7667,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 149,
@@ -7658,7 +7718,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 150,
@@ -7709,7 +7769,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 151,
@@ -7760,7 +7820,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 152,
@@ -7811,7 +7871,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 153,
@@ -7862,7 +7922,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 154,
@@ -7913,7 +7973,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 155,
@@ -7964,7 +8024,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 156,
@@ -8015,7 +8075,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 157,
@@ -8066,7 +8126,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 158,
@@ -8117,7 +8177,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 159,
@@ -8168,7 +8228,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 160,
@@ -8219,7 +8279,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 161,
@@ -8270,7 +8330,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 162,
@@ -8308,8 +8368,8 @@
     "applied_at": null,
     "record_audited_at": "2026-09-07T16:00:42-05:00",
     "posting_status": "OPEN_VERIFIED",
-    "status_checked_at": "2026-09-07T16:00:42-05:00",
-    "status_check_source": "Official Amgen Careers — Sep 7",
+    "status_checked_at": "2026-09-08T12:07:58-05:00",
+    "status_check_source": "GitHub Actions HTTP monitor",
     "interview_request_count": 0,
     "completed_interview_count": 0,
     "potential_next_step": "",
@@ -8321,7 +8381,13 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00",
+    "last_link_check": {
+      "result": "REACHABLE",
+      "reason": "HTTP 200; no strong closure phrase detected",
+      "status_code": 200,
+      "final_url": "https://careers.amgen.com/en/job/thousand-oaks/senior-manager-us-primary-market-research/87/100035054432"
+    }
   },
   {
     "rank": 163,
@@ -8372,7 +8438,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 164,
@@ -8423,7 +8489,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 165,
@@ -8474,7 +8540,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 166,
@@ -8525,7 +8591,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 167,
@@ -8576,7 +8642,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 168,
@@ -8627,7 +8693,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 169,
@@ -8678,7 +8744,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 170,
@@ -8729,7 +8795,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 171,
@@ -8780,7 +8846,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 172,
@@ -8831,7 +8897,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 173,
@@ -8882,7 +8948,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 174,
@@ -8933,7 +8999,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 175,
@@ -8984,7 +9050,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 176,
@@ -9035,7 +9101,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 177,
@@ -9070,8 +9136,8 @@
     "link_type": "Open role",
     "record_audited_at": "2026-09-07T16:00:42-05:00",
     "posting_status": "OPEN_VERIFIED",
-    "status_checked_at": "2026-09-07T16:00:42-05:00",
-    "status_check_source": "Current Mars/Built In listing — Sep 7",
+    "status_checked_at": "2026-09-08T12:07:50-05:00",
+    "status_check_source": "GitHub Actions HTTP monitor",
     "interview_request_count": 0,
     "completed_interview_count": 0,
     "potential_next_step": "",
@@ -9085,7 +9151,13 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00",
+    "last_link_check": {
+      "result": "REACHABLE",
+      "reason": "HTTP 200; no strong closure phrase detected",
+      "status_code": 200,
+      "final_url": "https://www.builtinchicago.org/job/senior-manager-commercial-operations-packs/11014013"
+    }
   },
   {
     "rank": 178,
@@ -9120,8 +9192,8 @@
     "link_type": "Open role",
     "record_audited_at": "2026-09-07T16:00:42-05:00",
     "posting_status": "OPEN_VERIFIED",
-    "status_checked_at": "2026-09-07T16:00:42-05:00",
-    "status_check_source": "Official Vantive Careers — Sep 7",
+    "status_checked_at": "2026-09-08T12:07:51-05:00",
+    "status_check_source": "GitHub Actions HTTP monitor",
     "interview_request_count": 0,
     "completed_interview_count": 0,
     "potential_next_step": "",
@@ -9135,7 +9207,13 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00",
+    "last_link_check": {
+      "result": "REACHABLE",
+      "reason": "HTTP 200; no strong closure phrase detected",
+      "status_code": 200,
+      "final_url": "https://jobs.vantive.com/job/deerfield/associate-director-supply-chain-development/47727/96936951824"
+    }
   },
   {
     "rank": 179,
@@ -9170,8 +9248,8 @@
     "link_type": "Open role",
     "record_audited_at": "2026-09-07T16:00:42-05:00",
     "posting_status": "OPEN_VERIFIED",
-    "status_checked_at": "2026-09-07T16:00:42-05:00",
-    "status_check_source": "Abbott Workday — Sep 7",
+    "status_checked_at": "2026-09-08T12:07:52-05:00",
+    "status_check_source": "GitHub Actions HTTP monitor",
     "interview_request_count": 0,
     "completed_interview_count": 0,
     "potential_next_step": "",
@@ -9185,7 +9263,13 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00",
+    "last_link_check": {
+      "result": "REACHABLE",
+      "reason": "HTTP 200; no strong closure phrase detected",
+      "status_code": 200,
+      "final_url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/Global-Supply-Chain-Risk-Manager_31157547"
+    }
   },
   {
     "rank": 180,
@@ -9220,8 +9304,8 @@
     "link_type": "Open role",
     "record_audited_at": "2026-09-07T16:00:42-05:00",
     "posting_status": "OPEN_VERIFIED",
-    "status_checked_at": "2026-09-07T16:00:42-05:00",
-    "status_check_source": "Current Built In listing — Sep 7",
+    "status_checked_at": "2026-09-08T12:07:56-05:00",
+    "status_check_source": "GitHub Actions HTTP monitor",
     "interview_request_count": 0,
     "completed_interview_count": 0,
     "potential_next_step": "",
@@ -9235,7 +9319,13 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00",
+    "last_link_check": {
+      "result": "REACHABLE",
+      "reason": "HTTP 200; no strong closure phrase detected",
+      "status_code": 200,
+      "final_url": "https://builtin.com/job/senior-manager-indirect-sourcing-operations/11012775"
+    }
   },
   {
     "rank": 181,
@@ -9285,7 +9375,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00"
   },
   {
     "rank": 182,
@@ -9337,7 +9427,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00",
     "outcome_type": "ROLE_FILLED_AFTER_INTERVIEW_REQUEST",
     "outcome_evidence": "Recruiter email: screen canceled because team extended an offer for the role; not counted as candidate rejection."
   },
@@ -9377,8 +9467,8 @@
     "audit_scope": "live JD + hidden gates + career evidence + compensation + LIVE POSTING VERIFIED 2026-09-07",
     "applied_at": null,
     "posting_status": "OPEN_VERIFIED",
-    "status_checked_at": "2026-09-07T16:00:42-05:00",
-    "status_check_source": "Regal Rexnord Workday — Sep 7",
+    "status_checked_at": "2026-09-08T12:07:56-05:00",
+    "status_check_source": "GitHub Actions HTTP monitor",
     "interview_request_count": 0,
     "completed_interview_count": 0,
     "potential_next_step": "",
@@ -9390,7 +9480,13 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00",
+    "last_link_check": {
+      "result": "REACHABLE",
+      "reason": "HTTP 200; no strong closure phrase detected",
+      "status_code": 200,
+      "final_url": "https://regalrexnord.wd1.myworkdayjobs.com/en-US/Careers/job/Supply-Chain-Program-Manager_R26_02728"
+    }
   },
   {
     "rank": 184,
@@ -9428,8 +9524,8 @@
     "audit_scope": "live JD + hidden gates + career evidence + callback-pattern calibration + compensation + LIVE POSTING VERIFIED 2026-09-07",
     "applied_at": null,
     "posting_status": "OPEN_VERIFIED",
-    "status_checked_at": "2026-09-07T16:00:42-05:00",
-    "status_check_source": "Current Ahold Delhaize/Built In listing — Sep 7",
+    "status_checked_at": "2026-09-08T12:07:50-05:00",
+    "status_check_source": "GitHub Actions HTTP monitor",
     "interview_request_count": 0,
     "completed_interview_count": 0,
     "potential_next_step": "",
@@ -9441,6 +9537,12 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-08T12:07:58-05:00",
+    "last_link_check": {
+      "result": "REACHABLE",
+      "reason": "HTTP 200; no strong closure phrase detected",
+      "status_code": 200,
+      "final_url": "https://builtin.com/job/manager-iii-business-transformation-store-operations/9951267"
+    }
   }
 ]
