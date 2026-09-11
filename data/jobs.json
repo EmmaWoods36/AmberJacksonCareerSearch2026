@@ -35,7 +35,7 @@
     "applied_at": null,
     "record_audited_at": "2026-09-07T16:00:42-05:00",
     "posting_status": "OPEN_VERIFIED",
-    "status_checked_at": "2026-09-10T11:55:20-05:00",
+    "status_checked_at": "2026-09-11T11:56:49-05:00",
     "status_check_source": "GitHub Actions HTTP monitor",
     "interview_request_count": 0,
     "completed_interview_count": 0,
@@ -48,7 +48,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00",
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00",
     "last_link_check": {
       "result": "REACHABLE",
       "reason": "HTTP 200; no strong closure phrase detected",
@@ -104,9 +104,9 @@
     "audit_cadence_days": 3,
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": true,
-    "zombie_business_days": 13,
-    "last_zombie_alert_key": "99ce42517ec0b523b21a",
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "zombie_business_days": 14,
+    "last_zombie_alert_key": "377b01886a48431d97d4",
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 3,
@@ -156,9 +156,9 @@
     "audit_cadence_days": 3,
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": true,
-    "zombie_business_days": 13,
-    "last_zombie_alert_key": "13d001fca3df7767cf19",
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "zombie_business_days": 14,
+    "last_zombie_alert_key": "b54a11ede10c5d6254d0",
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 4,
@@ -209,7 +209,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 5,
@@ -259,9 +259,9 @@
     "audit_cadence_days": 3,
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": true,
-    "zombie_business_days": 10,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00",
-    "last_zombie_alert_key": "4b7bd87ff56d65e7816b"
+    "zombie_business_days": 11,
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00",
+    "last_zombie_alert_key": "7b2dde8f42117204a9ab"
   },
   {
     "rank": 6,
@@ -312,7 +312,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 7,
@@ -363,7 +363,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00",
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00",
     "rejection_evidence_status": "NEEDS_RECONCILIATION",
     "outcome_class": "REJECTED_REPORTED_UNVERIFIED"
   },
@@ -415,9 +415,9 @@
     "audit_cadence_days": 3,
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": true,
-    "zombie_business_days": 11,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00",
-    "last_zombie_alert_key": "78b60b1682dda558a9fc"
+    "zombie_business_days": 12,
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00",
+    "last_zombie_alert_key": "4dfe2d3de8c3215ad079"
   },
   {
     "rank": 9,
@@ -468,7 +468,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 10,
@@ -518,9 +518,9 @@
     "audit_cadence_days": 3,
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": true,
-    "zombie_business_days": 13,
-    "last_zombie_alert_key": "acd9fc9ad8270ff431e4",
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "zombie_business_days": 14,
+    "last_zombie_alert_key": "fde4655cea7846de026b",
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 11,
@@ -571,7 +571,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00",
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00",
     "rejection_evidence_status": "CONFIRMED",
     "rejection_evidence": "Previously established rejection in project history",
     "outcome_class": "REJECTED"
@@ -625,7 +625,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 13,
@@ -675,9 +675,9 @@
     "audit_cadence_days": 3,
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": true,
-    "zombie_business_days": 11,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00",
-    "last_zombie_alert_key": "beb86fdbd7dcd373eca3"
+    "zombie_business_days": 12,
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00",
+    "last_zombie_alert_key": "180821aaa8f9523a7561"
   },
   {
     "rank": 14,
@@ -727,9 +727,9 @@
     "audit_cadence_days": 3,
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": true,
-    "zombie_business_days": 13,
-    "last_zombie_alert_key": "90ebd6ecfe95a579b8f8",
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "zombie_business_days": 14,
+    "last_zombie_alert_key": "2c741b968f964d894ffe",
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 15,
@@ -780,7 +780,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00",
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00",
     "rejection_evidence_status": "CONFIRMED",
     "rejection_evidence": "Previously established rejection/closure in project history",
     "outcome_class": "REJECTED"
@@ -834,7 +834,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00",
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00",
     "rejection_evidence_status": "NEEDS_RECONCILIATION",
     "outcome_class": "REJECTED_REPORTED_UNVERIFIED"
   },
@@ -886,9 +886,9 @@
     "audit_cadence_days": 3,
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": true,
-    "zombie_business_days": 10,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00",
-    "last_zombie_alert_key": "558f17bfcb4747b686ff"
+    "zombie_business_days": 11,
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00",
+    "last_zombie_alert_key": "aed9ef8e834fbbc9379c"
   },
   {
     "rank": 18,
@@ -938,9 +938,9 @@
     "audit_cadence_days": 3,
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": true,
-    "zombie_business_days": 13,
-    "last_zombie_alert_key": "ff72de292d07d5e0e933",
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "zombie_business_days": 14,
+    "last_zombie_alert_key": "cf5d695304af108c2f1c",
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 19,
@@ -978,7 +978,7 @@
     "applied_at": null,
     "record_audited_at": "2026-09-07T16:00:42-05:00",
     "posting_status": "OPEN_VERIFIED",
-    "status_checked_at": "2026-09-10T11:55:24-05:00",
+    "status_checked_at": "2026-09-11T11:56:54-05:00",
     "status_check_source": "GitHub Actions HTTP monitor",
     "interview_request_count": 0,
     "completed_interview_count": 0,
@@ -991,7 +991,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00",
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00",
     "last_link_check": {
       "result": "REACHABLE",
       "reason": "HTTP 200; no strong closure phrase detected",
@@ -1048,7 +1048,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 21,
@@ -1099,7 +1099,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 22,
@@ -1137,7 +1137,7 @@
     "applied_at": null,
     "record_audited_at": "2026-09-07T16:00:42-05:00",
     "posting_status": "OPEN_VERIFIED",
-    "status_checked_at": "2026-09-10T11:55:25-05:00",
+    "status_checked_at": "2026-09-11T11:56:55-05:00",
     "status_check_source": "GitHub Actions HTTP monitor",
     "interview_request_count": 0,
     "completed_interview_count": 0,
@@ -1150,7 +1150,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00",
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00",
     "last_link_check": {
       "result": "REACHABLE",
       "reason": "HTTP 200; no strong closure phrase detected",
@@ -1207,7 +1207,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00",
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00",
     "rejection_evidence_status": "CONFIRMED",
     "rejection_evidence": "User-provided Indeed/ITS rejection screenshot",
     "outcome_class": "REJECTED"
@@ -1261,7 +1261,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 25,
@@ -1312,7 +1312,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 26,
@@ -1362,9 +1362,9 @@
     "audit_cadence_days": 3,
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": true,
-    "zombie_business_days": 11,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00",
-    "last_zombie_alert_key": "ac8994c23e1098f13513"
+    "zombie_business_days": 12,
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00",
+    "last_zombie_alert_key": "d065a9403a8ee545fd0f"
   },
   {
     "rank": 27,
@@ -1415,7 +1415,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 28,
@@ -1453,7 +1453,7 @@
     "applied_at": null,
     "record_audited_at": "2026-09-07T16:00:42-05:00",
     "posting_status": "OPEN_AT_LAST_CHECK",
-    "status_checked_at": "2026-09-10T11:55:28-05:00",
+    "status_checked_at": "2026-09-11T11:56:58-05:00",
     "status_check_source": "GitHub Actions HTTP monitor",
     "interview_request_count": 0,
     "completed_interview_count": 0,
@@ -1466,7 +1466,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00",
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00",
     "last_link_check": {
       "result": "REACHABLE",
       "reason": "HTTP 200; no strong closure phrase detected",
@@ -1523,7 +1523,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00",
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00",
     "rejection_evidence_status": "CONFIRMED",
     "rejection_evidence": "User-provided handwritten application log marked X",
     "outcome_class": "REJECTED"
@@ -1577,7 +1577,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 31,
@@ -1628,7 +1628,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00",
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00",
     "rejection_evidence_status": "CONFIRMED",
     "rejection_evidence": "User-provided BCG Inverto rejection email screenshot",
     "outcome_class": "REJECTED"
@@ -1669,7 +1669,7 @@
     "applied_at": null,
     "record_audited_at": "2026-09-07T16:00:42-05:00",
     "posting_status": "OPEN_VERIFIED",
-    "status_checked_at": "2026-09-10T11:55:28-05:00",
+    "status_checked_at": "2026-09-11T11:56:58-05:00",
     "status_check_source": "GitHub Actions HTTP monitor",
     "interview_request_count": 0,
     "completed_interview_count": 0,
@@ -1682,7 +1682,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00",
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00",
     "last_link_check": {
       "result": "CHECK_BLOCKED",
       "reason": "HTTP 401",
@@ -1739,7 +1739,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 34,
@@ -1790,7 +1790,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00",
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00",
     "rejection_evidence_status": "CONFIRMED",
     "rejection_evidence": "User-provided Deloitte rejection email screenshot",
     "outcome_class": "REJECTED"
@@ -1845,7 +1845,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 36,
@@ -1897,7 +1897,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 37,
@@ -1948,7 +1948,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 38,
@@ -1999,7 +1999,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00",
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00",
     "rejection_evidence_status": "NEEDS_RECONCILIATION",
     "outcome_class": "REJECTED_REPORTED_UNVERIFIED",
     "outcome_type": "REJECTED",
@@ -2054,7 +2054,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 40,
@@ -2105,7 +2105,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 41,
@@ -2156,7 +2156,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 42,
@@ -2207,7 +2207,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 43,
@@ -2258,7 +2258,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00",
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00",
     "rejection_evidence_status": "NEEDS_RECONCILIATION",
     "outcome_class": "REJECTED_REPORTED_UNVERIFIED",
     "outcome_type": "REJECTED",
@@ -2313,7 +2313,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 45,
@@ -2364,7 +2364,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 46,
@@ -2415,7 +2415,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00",
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00",
     "outcome_reconciliation": "Notebook contains an X mark, but X is not exclusively a rejection marker; exact outcome evidence still needed."
   },
   {
@@ -2467,7 +2467,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 48,
@@ -2518,7 +2518,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 49,
@@ -2569,7 +2569,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 50,
@@ -2619,9 +2619,9 @@
     "audit_cadence_days": 3,
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": true,
-    "zombie_business_days": 13,
-    "last_zombie_alert_key": "e180f9b75fdf0ede6383",
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "zombie_business_days": 14,
+    "last_zombie_alert_key": "b1a1d1a17a187d52a1b7",
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 51,
@@ -2672,7 +2672,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 52,
@@ -2724,7 +2724,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 53,
@@ -2775,7 +2775,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 54,
@@ -2826,7 +2826,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 55,
@@ -2877,7 +2877,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 56,
@@ -2928,7 +2928,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 57,
@@ -2979,7 +2979,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 58,
@@ -3030,7 +3030,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 59,
@@ -3081,7 +3081,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 60,
@@ -3132,7 +3132,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 61,
@@ -3183,7 +3183,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 62,
@@ -3234,7 +3234,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 63,
@@ -3285,7 +3285,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 64,
@@ -3336,7 +3336,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 65,
@@ -3387,7 +3387,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 66,
@@ -3438,7 +3438,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 67,
@@ -3489,7 +3489,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 68,
@@ -3540,7 +3540,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 69,
@@ -3591,7 +3591,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00",
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00",
     "rejection_evidence_status": "CONFIRMED_USER_LOG_TITLE_RECONCILE",
     "outcome_class": "REJECTED_TITLE_RECONCILE",
     "rejection_evidence": "Handwritten log confirms Grainger rejection for “Senior Manager, Supply Chain Systems & Technology”; current tracker row title differs and must not be silently conflated."
@@ -3645,7 +3645,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 71,
@@ -3696,7 +3696,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 72,
@@ -3747,7 +3747,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 73,
@@ -3798,7 +3798,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 74,
@@ -3836,7 +3836,7 @@
     "applied_at": null,
     "record_audited_at": "2026-09-07T16:00:42-05:00",
     "posting_status": "OPEN_VERIFIED",
-    "status_checked_at": "2026-09-10T11:55:26-05:00",
+    "status_checked_at": "2026-09-11T11:56:56-05:00",
     "status_check_source": "GitHub Actions HTTP monitor",
     "interview_request_count": 0,
     "completed_interview_count": 0,
@@ -3849,7 +3849,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00",
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00",
     "last_link_check": {
       "result": "REACHABLE",
       "reason": "HTTP 200; no strong closure phrase detected",
@@ -3906,7 +3906,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 76,
@@ -3956,9 +3956,9 @@
     "audit_cadence_days": 3,
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": true,
-    "zombie_business_days": 10,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00",
-    "last_zombie_alert_key": "509bdbf2cc5c8b1db9a1"
+    "zombie_business_days": 11,
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00",
+    "last_zombie_alert_key": "651286c2c3e6c1b56eb3"
   },
   {
     "rank": 77,
@@ -4009,7 +4009,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 78,
@@ -4060,7 +4060,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 79,
@@ -4098,7 +4098,7 @@
     "applied_at": null,
     "record_audited_at": "2026-09-07T16:00:42-05:00",
     "posting_status": "OPEN_VERIFIED",
-    "status_checked_at": "2026-09-10T11:55:24-05:00",
+    "status_checked_at": "2026-09-11T11:56:54-05:00",
     "status_check_source": "GitHub Actions HTTP monitor",
     "interview_request_count": 0,
     "completed_interview_count": 0,
@@ -4111,7 +4111,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00",
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00",
     "last_link_check": {
       "result": "REACHABLE",
       "reason": "HTTP 200; no strong closure phrase detected",
@@ -4168,7 +4168,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 81,
@@ -4219,7 +4219,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 82,
@@ -4270,7 +4270,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 83,
@@ -4321,7 +4321,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 84,
@@ -4372,7 +4372,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 85,
@@ -4423,7 +4423,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 86,
@@ -4474,7 +4474,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00",
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00",
     "rejection_evidence_status": "CONFIRMED",
     "rejection_evidence": "User-provided Koch/Molex rejection email screenshot, req 191799",
     "outcome_class": "REJECTED"
@@ -4528,7 +4528,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 88,
@@ -4579,7 +4579,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 89,
@@ -4630,7 +4630,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 90,
@@ -4681,7 +4681,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 91,
@@ -4732,7 +4732,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 92,
@@ -4783,7 +4783,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00",
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00",
     "outcome_reconciliation": "Notebook contains an X mark, but X is not exclusively a rejection marker; exact outcome evidence still needed."
   },
   {
@@ -4835,7 +4835,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 94,
@@ -4885,9 +4885,9 @@
     "audit_cadence_days": 3,
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": true,
-    "zombie_business_days": 11,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00",
-    "last_zombie_alert_key": "c6b364d813bd2a03ea35"
+    "zombie_business_days": 12,
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00",
+    "last_zombie_alert_key": "d51c64cfed84b1f12c58"
   },
   {
     "rank": 95,
@@ -4938,7 +4938,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 96,
@@ -4989,7 +4989,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 97,
@@ -5040,7 +5040,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 98,
@@ -5091,7 +5091,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 99,
@@ -5142,7 +5142,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 100,
@@ -5193,7 +5193,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 101,
@@ -5244,7 +5244,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00",
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00",
     "rejection_evidence_status": "NEEDS_RECONCILIATION",
     "outcome_class": "REJECTED_REPORTED_UNVERIFIED"
   },
@@ -5297,7 +5297,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00",
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00",
     "rejection_evidence_status": "CONFIRMED",
     "rejection_evidence": "User-provided Deloitte rejection email screenshot",
     "outcome_class": "REJECTED"
@@ -5351,7 +5351,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 104,
@@ -5402,7 +5402,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 105,
@@ -5453,7 +5453,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 106,
@@ -5504,7 +5504,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 107,
@@ -5555,7 +5555,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 108,
@@ -5606,7 +5606,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 109,
@@ -5657,7 +5657,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 110,
@@ -5708,7 +5708,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 111,
@@ -5746,7 +5746,7 @@
     "applied_at": null,
     "record_audited_at": "2026-09-07T16:00:42-05:00",
     "posting_status": "OPEN_VERIFIED",
-    "status_checked_at": "2026-09-10T11:55:23-05:00",
+    "status_checked_at": "2026-09-11T11:56:52-05:00",
     "status_check_source": "GitHub Actions HTTP monitor",
     "interview_request_count": 0,
     "completed_interview_count": 0,
@@ -5759,7 +5759,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00",
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00",
     "last_link_check": {
       "result": "REACHABLE",
       "reason": "HTTP 200; no strong closure phrase detected",
@@ -5816,7 +5816,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 113,
@@ -5867,7 +5867,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 114,
@@ -5918,7 +5918,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00",
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00",
     "rejection_evidence_status": "CONFIRMED",
     "rejection_evidence": "User-provided handwritten application log marked X",
     "outcome_class": "REJECTED"
@@ -5972,7 +5972,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 116,
@@ -6023,7 +6023,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 117,
@@ -6074,7 +6074,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00",
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00",
     "rejection_evidence_status": "CONFIRMED",
     "rejection_evidence": "User-provided handwritten application log marked X",
     "outcome_class": "REJECTED"
@@ -6128,7 +6128,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00",
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00",
     "outcome_reconciliation": "Notebook contains an X mark, but X is not exclusively a rejection marker; exact outcome evidence still needed."
   },
   {
@@ -6180,7 +6180,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 120,
@@ -6231,7 +6231,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 121,
@@ -6282,7 +6282,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 122,
@@ -6333,7 +6333,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 123,
@@ -6384,7 +6384,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 124,
@@ -6435,7 +6435,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 125,
@@ -6486,7 +6486,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 126,
@@ -6537,7 +6537,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 127,
@@ -6588,7 +6588,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 128,
@@ -6626,7 +6626,7 @@
     "applied_at": null,
     "record_audited_at": "2026-09-07T16:00:42-05:00",
     "posting_status": "OPEN_VERIFIED",
-    "status_checked_at": "2026-09-10T11:55:28-05:00",
+    "status_checked_at": "2026-09-11T11:56:58-05:00",
     "status_check_source": "GitHub Actions HTTP monitor",
     "interview_request_count": 0,
     "completed_interview_count": 0,
@@ -6639,7 +6639,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00",
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00",
     "last_link_check": {
       "result": "REACHABLE",
       "reason": "HTTP 200; no strong closure phrase detected",
@@ -6696,7 +6696,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 130,
@@ -6734,7 +6734,7 @@
     "applied_at": null,
     "record_audited_at": "2026-09-07T16:00:42-05:00",
     "posting_status": "OPEN_VERIFIED",
-    "status_checked_at": "2026-09-10T11:55:27-05:00",
+    "status_checked_at": "2026-09-11T11:56:57-05:00",
     "status_check_source": "GitHub Actions HTTP monitor",
     "interview_request_count": 0,
     "completed_interview_count": 0,
@@ -6747,7 +6747,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00",
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00",
     "last_link_check": {
       "result": "REACHABLE",
       "reason": "HTTP 200; no strong closure phrase detected",
@@ -6804,7 +6804,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 132,
@@ -6855,7 +6855,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 133,
@@ -6906,7 +6906,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 134,
@@ -6957,7 +6957,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 135,
@@ -7008,7 +7008,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 136,
@@ -7059,7 +7059,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 137,
@@ -7110,7 +7110,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00",
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00",
     "rejection_evidence_status": "CONFIRMED",
     "rejection_evidence": "User-provided Pfizer rejection email screenshot",
     "outcome_class": "REJECTED"
@@ -7164,7 +7164,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 139,
@@ -7215,7 +7215,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 140,
@@ -7266,7 +7266,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 141,
@@ -7317,7 +7317,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 142,
@@ -7368,7 +7368,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 143,
@@ -7419,7 +7419,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 144,
@@ -7470,7 +7470,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 145,
@@ -7521,7 +7521,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 146,
@@ -7572,7 +7572,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 147,
@@ -7623,7 +7623,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 148,
@@ -7674,7 +7674,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 149,
@@ -7725,7 +7725,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 150,
@@ -7776,7 +7776,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 151,
@@ -7827,7 +7827,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 152,
@@ -7878,7 +7878,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 153,
@@ -7929,7 +7929,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 154,
@@ -7980,7 +7980,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 155,
@@ -8031,7 +8031,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 156,
@@ -8082,7 +8082,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 157,
@@ -8133,7 +8133,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 158,
@@ -8184,7 +8184,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 159,
@@ -8235,7 +8235,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 160,
@@ -8286,7 +8286,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 161,
@@ -8337,7 +8337,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 162,
@@ -8375,7 +8375,7 @@
     "applied_at": null,
     "record_audited_at": "2026-09-07T16:00:42-05:00",
     "posting_status": "OPEN_VERIFIED",
-    "status_checked_at": "2026-09-10T11:55:29-05:00",
+    "status_checked_at": "2026-09-11T11:56:58-05:00",
     "status_check_source": "GitHub Actions HTTP monitor",
     "interview_request_count": 0,
     "completed_interview_count": 0,
@@ -8388,7 +8388,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00",
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00",
     "last_link_check": {
       "result": "REACHABLE",
       "reason": "HTTP 200; no strong closure phrase detected",
@@ -8445,7 +8445,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 164,
@@ -8496,7 +8496,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 165,
@@ -8547,7 +8547,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 166,
@@ -8598,7 +8598,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 167,
@@ -8649,7 +8649,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 168,
@@ -8700,7 +8700,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 169,
@@ -8751,7 +8751,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 170,
@@ -8802,7 +8802,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 171,
@@ -8853,7 +8853,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 172,
@@ -8904,7 +8904,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 173,
@@ -8955,7 +8955,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 174,
@@ -9006,7 +9006,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 175,
@@ -9057,7 +9057,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 176,
@@ -9108,7 +9108,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 177,
@@ -9143,7 +9143,7 @@
     "link_type": "Open role",
     "record_audited_at": "2026-09-07T16:00:42-05:00",
     "posting_status": "OPEN_VERIFIED",
-    "status_checked_at": "2026-09-10T11:55:20-05:00",
+    "status_checked_at": "2026-09-11T11:56:50-05:00",
     "status_check_source": "GitHub Actions HTTP monitor",
     "interview_request_count": 0,
     "completed_interview_count": 0,
@@ -9158,7 +9158,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00",
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00",
     "last_link_check": {
       "result": "REACHABLE",
       "reason": "HTTP 200; no strong closure phrase detected",
@@ -9199,7 +9199,7 @@
     "link_type": "Open role",
     "record_audited_at": "2026-09-07T16:00:42-05:00",
     "posting_status": "OPEN_VERIFIED",
-    "status_checked_at": "2026-09-10T11:55:22-05:00",
+    "status_checked_at": "2026-09-11T11:56:51-05:00",
     "status_check_source": "GitHub Actions HTTP monitor",
     "interview_request_count": 0,
     "completed_interview_count": 0,
@@ -9214,7 +9214,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00",
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00",
     "last_link_check": {
       "result": "REACHABLE",
       "reason": "HTTP 200; no strong closure phrase detected",
@@ -9255,7 +9255,7 @@
     "link_type": "Open role",
     "record_audited_at": "2026-09-07T16:00:42-05:00",
     "posting_status": "OPEN_VERIFIED",
-    "status_checked_at": "2026-09-10T11:55:23-05:00",
+    "status_checked_at": "2026-09-11T11:56:53-05:00",
     "status_check_source": "GitHub Actions HTTP monitor",
     "interview_request_count": 0,
     "completed_interview_count": 0,
@@ -9270,7 +9270,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00",
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00",
     "last_link_check": {
       "result": "REACHABLE",
       "reason": "HTTP 200; no strong closure phrase detected",
@@ -9311,7 +9311,7 @@
     "link_type": "Open role",
     "record_audited_at": "2026-09-07T16:00:42-05:00",
     "posting_status": "OPEN_VERIFIED",
-    "status_checked_at": "2026-09-10T11:55:27-05:00",
+    "status_checked_at": "2026-09-11T11:56:57-05:00",
     "status_check_source": "GitHub Actions HTTP monitor",
     "interview_request_count": 0,
     "completed_interview_count": 0,
@@ -9326,7 +9326,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00",
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00",
     "last_link_check": {
       "result": "REACHABLE",
       "reason": "HTTP 200; no strong closure phrase detected",
@@ -9382,7 +9382,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00"
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00"
   },
   {
     "rank": 182,
@@ -9434,7 +9434,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00",
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00",
     "outcome_type": "ROLE_FILLED_AFTER_INTERVIEW_REQUEST",
     "outcome_evidence": "Recruiter email: screen canceled because team extended an offer for the role; not counted as candidate rejection."
   },
@@ -9474,7 +9474,7 @@
     "audit_scope": "live JD + hidden gates + career evidence + compensation + LIVE POSTING VERIFIED 2026-09-07",
     "applied_at": null,
     "posting_status": "OPEN_VERIFIED",
-    "status_checked_at": "2026-09-10T11:55:26-05:00",
+    "status_checked_at": "2026-09-11T11:56:56-05:00",
     "status_check_source": "GitHub Actions HTTP monitor",
     "interview_request_count": 0,
     "completed_interview_count": 0,
@@ -9487,7 +9487,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00",
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00",
     "last_link_check": {
       "result": "REACHABLE",
       "reason": "HTTP 200; no strong closure phrase detected",
@@ -9531,7 +9531,7 @@
     "audit_scope": "live JD + hidden gates + career evidence + callback-pattern calibration + compensation + LIVE POSTING VERIFIED 2026-09-07",
     "applied_at": null,
     "posting_status": "OPEN_VERIFIED",
-    "status_checked_at": "2026-09-10T11:55:21-05:00",
+    "status_checked_at": "2026-09-11T11:56:51-05:00",
     "status_check_source": "GitHub Actions HTTP monitor",
     "interview_request_count": 0,
     "completed_interview_count": 0,
@@ -9544,7 +9544,7 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-10T11:55:29-05:00",
+    "scheduler_last_run_at": "2026-09-11T11:56:58-05:00",
     "last_link_check": {
       "result": "REACHABLE",
       "reason": "HTTP 200; no strong closure phrase detected",
