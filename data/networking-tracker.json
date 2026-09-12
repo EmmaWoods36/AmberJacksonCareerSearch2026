@@ -1,0 +1,82 @@
+{
+  "as_of": "2026-09-12T10:00:00-05:00",
+  "description": "Networking and referral tracker. Senior Manager searches benefit from warm introductions. Track contacts, outreach, referrals, and follow-up cadence.",
+  "contacts": [
+    {
+      "name": "Brian Stith",
+      "company": "Oil-Dri",
+      "relationship": "Recruiter — requested phone screen",
+      "title": "Recruiter",
+      "outreach_date": "2026-08-22",
+      "last_touch": "Screen cancelled — role filled",
+      "response": "Responsive — requested interview",
+      "referral_status": "No active referral",
+      "next_action": "Connect on LinkedIn; ask to be considered for future openings",
+      "next_action_date": "2026-09-15",
+      "notes": "Brian was interested enough to request a screen. Oil-Dri filled the role, not a rejection of Amber. Keep warm for future openings."
+    },
+    {
+      "name": "Rachel Hecker",
+      "company": "Combined Metals",
+      "relationship": "HR — confirmed rejection",
+      "title": "HR Representative",
+      "outreach_date": "2026-09-09",
+      "last_touch": "Rejection confirmation email",
+      "response": "Responsive — provided confirmation",
+      "referral_status": "No active referral",
+      "next_action": "Thank for feedback; ask to be kept in mind for future ERP/platform roles",
+      "next_action_date": "2026-09-14",
+      "notes": "Rachel provided the only confirmed rejection feedback. Professional interaction. Combined Metals may have future openings."
+    },
+    {
+      "name": "Pranati Yadav",
+      "company": "International Motors",
+      "relationship": "Hiring Manager — interviewed",
+      "title": "Associate Director, Procurement Process and Digitization",
+      "outreach_date": "2026-09-09",
+      "last_touch": "Interview completed",
+      "response": "Interviewed — no formal rejection",
+      "referral_status": "No active referral",
+      "next_action": "Follow up on status; express continued interest in International Motors",
+      "next_action_date": "2026-09-14",
+      "notes": "Pranati interviewed Amber for the Procurement Digitalization role. No formal rejection received. Keep warm for future openings at International Motors."
+    },
+    {
+      "name": "CJ",
+      "company": "Combined Metals",
+      "relationship": "Hiring Manager / Director of IT — interviewed",
+      "title": "Director of IT",
+      "outreach_date": "2026-09-09",
+      "last_touch": "Interview completed",
+      "response": "Interviewed — role offered to another candidate",
+      "referral_status": "No active referral",
+      "next_action": "Connect on LinkedIn; ask for feedback on what would have strengthened candidacy",
+      "next_action_date": "2026-09-14",
+      "notes": "CJ was the hiring manager for the ERP Platform role. Interview reached hiring-manager stage. Potential source of direct feedback on scope gaps."
+    },
+    {
+      "name": "Reverse Recruiter (unnamed)",
+      "company": "Independent",
+      "relationship": "Reverse recruiter — consultation requested",
+      "title": "Reverse Recruiter",
+      "outreach_date": "2026-09-08",
+      "last_touch": "Accepted LinkedIn invitation",
+      "response": "Warm — accepted connection",
+      "referral_status": "No paid engagement selected yet",
+      "next_action": "Schedule consultation call; evaluate paid engagement terms",
+      "next_action_date": "2026-09-15",
+      "notes": "At least one reverse-recruiter contact accepted Amber's LinkedIn invitation. No paid engagement selected yet. Evaluate whether paid reverse-recruiting could accelerate search."
+    }
+  ],
+  "referral_pipeline": {
+    "status": "Not yet established",
+    "note": "No applications have been submitted via referral or warm introduction yet. All applications have been cold/direct. Establishing a referral pipeline could improve conversion rates — referred applications typically convert at 5-10x the rate of cold applications at senior levels.",
+    "target_referral_sources": [
+      "CSL Behring colleagues and former managers",
+      "Sumitomo Electric colleagues and former managers",
+      "MTSU MBA network",
+      "LinkedIn connections at target companies (United Airlines, Abbott, Amgen, Mars, Gallagher Bassett)",
+      "Reverse recruiter network"
+    ]
+  }
+}

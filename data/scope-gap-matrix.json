@@ -1,0 +1,72 @@
+{
+  "as_of": "2026-09-12T10:00:00-05:00",
+  "description": "Structured scope-gap tracking for the three recurring interview feedback themes.",
+  "scope_dimensions": [
+    {
+      "id": "erp_breadth",
+      "label": "ERP Leadership Breadth",
+      "employer_concern": "Can this person lead an enterprise-wide system landscape, integrations, governance, and change across multiple platforms/business units?",
+      "amber_evidence": "SAP S/4HANA ownership including RISE/UAT/hypercare, BDC/LSMW, governed mass-change delivery, 2,167-FLOC-BOM production migration; enterprise master-data governance across 40K+ assets and 11K+ maintenance plans; cross-functional transformation leadership; ServiceNow intake/governance; training/adoption and executive stakeholder translation.",
+      "match_level": "ADJACENT",
+      "risk": "Deep SAP PM/MM/MDM and S/4HANA data governance experience but has not owned a full enterprise ERP portfolio across all modules (FI/CO/SD/PP/MM/HR) in a formal portfolio-leadership capacity.",
+      "interview_bridge": "90-second ERP leadership story: scope of systems owned, governance framework built, cross-functional teams led, measurable outcomes. Broader ERP portfolio scope is the next logical extension of work already being done."
+    },
+    {
+      "id": "direct_procurement",
+      "label": "Direct Procurement Experience",
+      "employer_concern": "Can this person make sourcing, supplier, spend, contract, and stakeholder trade-offs with direct ownership?",
+      "amber_evidence": "Sumitomo production planning with forecasts-to-POs, supplier readiness coordination, international shipment tracking, inventory exposure; CSL supplier coordination, vendor performance management, ASN uploads; procurement-adjacent governance: spend analysis, vendor data governance, contract/renewal support.",
+      "match_level": "ADJACENT",
+      "risk": "Has procurement-adjacent and supply-chain procurement experience but has not held formal end-to-end category management, strategic sourcing, or direct procurement leadership ownership.",
+      "interview_bridge": "Procurement-adjacent story: specific vendor/category decisions, operational requirements defined, service/risk trade-offs evaluated, cost savings achieved. Operator's perspective that sourcing decisions must survive implementation."
+    },
+    {
+      "id": "budget_ownership",
+      "label": "$10M Technology Budget Ownership",
+      "employer_concern": "Can this person prioritize investments, manage run-vs-change spend, defend trade-offs, and forecast accurately at $10M+ scale?",
+      "amber_evidence": "Governed vendor spend and project portfolios; business-case development; cost avoidance through automation; portfolio prioritization decisions; executive communication of trade-offs; forecasting and budget input for data/technology initiatives.",
+      "match_level": "ADJACENT",
+      "risk": "Has budget influence and management experience but has not held sole formal cost-center ownership of a $10M technology-tower budget.",
+      "interview_bridge": "Financial-governance story: actual spend influenced, vendor economics managed, business cases built, prioritization decisions made, trade-offs communicated to leadership. Scale is the development step, not the type of work."
+    }
+  ],
+  "per_role_assessment": [
+    {
+      "company": "Combined Metals",
+      "title": "Senior Manager, ERP Platform",
+      "erp_breadth": {"requirement": "Enterprise ERP platform leadership", "match": "ADJACENT", "evidence": "SAP S/4HANA data governance and migration; cross-functional ERP transformation leadership"},
+      "direct_procurement": {"requirement": "Not stated as core requirement", "match": "N/A", "evidence": "Role focused on ERP platform, not procurement"},
+      "budget_ownership": {"requirement": "Not explicitly stated", "match": "N/A", "evidence": "Role scope unclear on budget ownership"},
+      "outcome": "Rejected after HR screen + Hiring Manager/Director of IT interview",
+      "feedback_theme": "Scope concern — employer likely sought candidate with formal enterprise ERP platform ownership breadth"
+    },
+    {
+      "company": "International Motors",
+      "title": "Manager, Procurement Digitalization",
+      "erp_breadth": {"requirement": "SAP/ERP systems in procurement context", "match": "DIRECT", "evidence": "SAP S/4HANA ownership, master data governance, systems integration"},
+      "direct_procurement": {"requirement": "Procurement process and digitalization leadership", "match": "ADJACENT", "evidence": "Supply-chain procurement-adjacent experience; supplier coordination; PO/forecast management"},
+      "budget_ownership": {"requirement": "Not explicitly stated", "match": "N/A", "evidence": "Manager-level role, budget scope unclear"},
+      "outcome": "Assumed closed/rejected for planning — no formal notice",
+      "feedback_theme": "Likely scope concern around direct procurement digitalization depth"
+    },
+    {
+      "company": "International Motors",
+      "title": "Manager, Supply Chain Technology & Operations",
+      "erp_breadth": {"requirement": "Supply chain technology and ERP systems", "match": "DIRECT", "evidence": "SAP S/4HANA ownership, supply-chain systems leadership"},
+      "direct_procurement": {"requirement": "Supply chain operations including procurement", "match": "ADJACENT", "evidence": "Production planning, supplier coordination, inventory management"},
+      "budget_ownership": {"requirement": "Not explicitly stated", "match": "N/A", "evidence": "Manager-level role"},
+      "outcome": "Assumed closed/rejected for planning — no formal notice",
+      "feedback_theme": "Likely scope concern around breadth of supply-chain technology ownership"
+    },
+    {
+      "company": "Oil-Dri",
+      "title": "Sr. Production Planning Data Analyst",
+      "erp_breadth": {"requirement": "SAP data and reporting", "match": "DIRECT", "evidence": "SAP master data governance, Power BI, analytics"},
+      "direct_procurement": {"requirement": "Not core requirement", "match": "N/A", "evidence": "Production planning role"},
+      "budget_ownership": {"requirement": "Not stated", "match": "N/A", "evidence": "Analyst-level role"},
+      "outcome": "Interview requested, screen cancelled — role filled by another candidate",
+      "feedback_theme": "No feedback received — employer filled position before interview"
+    }
+  ],
+  "pattern_summary": "All three interview-stage rejections share a common theme: employers are not questioning capability or fit, they are questioning whether Amber has already held the exact formal scope (ERP portfolio breadth, direct procurement ownership, or budget accountability) at the level the role requires. The market signal is consistent and actionable: position adjacent experience as proof of readiness for the next scope level, and prioritize roles where the core scope already maps cleanly to the track record."
+}
