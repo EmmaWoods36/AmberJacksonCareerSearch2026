@@ -34,39 +34,87 @@
     {
       "company": "Combined Metals",
       "title": "Senior Manager, ERP Platform",
-      "erp_breadth": {"requirement": "Enterprise ERP platform leadership", "match": "ADJACENT", "evidence": "SAP S/4HANA data governance and migration; cross-functional ERP transformation leadership"},
-      "direct_procurement": {"requirement": "Not stated as core requirement", "match": "N/A", "evidence": "Role focused on ERP platform, not procurement"},
-      "budget_ownership": {"requirement": "Not explicitly stated", "match": "N/A", "evidence": "Role scope unclear on budget ownership"},
+      "erp_breadth": {
+        "requirement": "Enterprise ERP platform leadership",
+        "match": "ADJACENT",
+        "evidence": "SAP S/4HANA data governance and migration; cross-functional ERP transformation leadership"
+      },
+      "direct_procurement": {
+        "requirement": "Not stated as core requirement",
+        "match": "N/A",
+        "evidence": "Role focused on ERP platform, not procurement"
+      },
+      "budget_ownership": {
+        "requirement": "Not explicitly stated",
+        "match": "N/A",
+        "evidence": "Role scope unclear on budget ownership"
+      },
       "outcome": "Rejected after HR screen + Hiring Manager/Director of IT interview",
-      "feedback_theme": "Scope concern — employer likely sought candidate with formal enterprise ERP platform ownership breadth"
+      "feedback_theme": "Scope concern \u2014 employer likely sought candidate with formal enterprise ERP platform ownership breadth"
     },
     {
       "company": "International Motors",
       "title": "Manager, Procurement Digitalization",
-      "erp_breadth": {"requirement": "SAP/ERP systems in procurement context", "match": "DIRECT", "evidence": "SAP S/4HANA ownership, master data governance, systems integration"},
-      "direct_procurement": {"requirement": "Procurement process and digitalization leadership", "match": "ADJACENT", "evidence": "Supply-chain procurement-adjacent experience; supplier coordination; PO/forecast management"},
-      "budget_ownership": {"requirement": "Not explicitly stated", "match": "N/A", "evidence": "Manager-level role, budget scope unclear"},
-      "outcome": "Assumed closed/rejected for planning — no formal notice",
-      "feedback_theme": "Likely scope concern around direct procurement digitalization depth"
+      "erp_breadth": {
+        "requirement": "SAP/ERP systems in procurement context",
+        "match": "DIRECT",
+        "evidence": "No ERP concern raised in this interview. Focus was on procurement knowledge and digitalization roadmap."
+      },
+      "direct_procurement": {
+        "requirement": "Procurement process and digitalization leadership",
+        "match": "ADJACENT",
+        "evidence": "Hiring manager explicitly stated: \"having an understanding of procurement is probably core to it... that's the only gap that I see at this point.\" This is a direct quote from the transcript."
+      },
+      "budget_ownership": {
+        "requirement": "Not explicitly stated",
+        "match": "N/A",
+        "evidence": "Not directly discussed in this interview. Hiring manager mentioned the role involves building business cases and selling them to upper management for funding approval."
+      },
+      "outcome": "Pending \u2014 first-round interview completed. Hiring manager said Lacey will be in touch about next steps.",
+      "feedback_theme": "Procurement understanding is the single explicit gap identified. Hiring manager was otherwise positive. Role requires strategic technology decision (system expiring in 1.5 years) and PeopleSoft\u2192SAP migration support."
     },
     {
       "company": "International Motors",
       "title": "Manager, Supply Chain Technology & Operations",
-      "erp_breadth": {"requirement": "Supply chain technology and ERP systems", "match": "DIRECT", "evidence": "SAP S/4HANA ownership, supply-chain systems leadership"},
-      "direct_procurement": {"requirement": "Supply chain operations including procurement", "match": "ADJACENT", "evidence": "Production planning, supplier coordination, inventory management"},
-      "budget_ownership": {"requirement": "Not explicitly stated", "match": "N/A", "evidence": "Manager-level role"},
-      "outcome": "Assumed closed/rejected for planning — no formal notice",
-      "feedback_theme": "Likely scope concern around breadth of supply-chain technology ownership"
+      "erp_breadth": {
+        "requirement": "Supply chain technology and ERP systems",
+        "match": "DIRECT",
+        "evidence": "Panel confirmed SAP experience is strong (plant maintenance + materials management modules). Justin Slater (Director, Production IT) engaged on Springfield paint shop automation. No ERP concern raised."
+      },
+      "direct_procurement": {
+        "requirement": "Supply chain operations including procurement",
+        "match": "ADJACENT",
+        "evidence": "Harshan (Procurement & Supply Quality Manager) asked about procurement IT integration points. Amber could describe source-to-contract and supplier/contract interfaces but from research, not direct experience."
+      },
+      "budget_ownership": {
+        "requirement": "Not explicitly stated",
+        "match": "N/A",
+        "evidence": "Justin Slater directly questioned: \"What do you think would be your biggest challenge with managing a multimillion dollar budget?\" Amber's current $60K budget only covers merit increases and bonuses for 5 direct reports. She does not own capital or operating budgets. This is a confirmed gap from the transcript."
+      },
+      "outcome": "Pending \u2014 first-round panel interview completed. Still interviewing other candidates.",
+      "feedback_theme": "Budget ownership is the primary concern. Panel probed financial responsibility depth. Procurement system knowledge is secondary concern. SAP and compliance experience are strengths."
     },
     {
       "company": "Oil-Dri",
       "title": "Sr. Production Planning Data Analyst",
-      "erp_breadth": {"requirement": "SAP data and reporting", "match": "DIRECT", "evidence": "SAP master data governance, Power BI, analytics"},
-      "direct_procurement": {"requirement": "Not core requirement", "match": "N/A", "evidence": "Production planning role"},
-      "budget_ownership": {"requirement": "Not stated", "match": "N/A", "evidence": "Analyst-level role"},
-      "outcome": "Interview requested, screen cancelled — role filled by another candidate",
-      "feedback_theme": "No feedback received — employer filled position before interview"
+      "erp_breadth": {
+        "requirement": "SAP data and reporting",
+        "match": "DIRECT",
+        "evidence": "SAP master data governance, Power BI, analytics"
+      },
+      "direct_procurement": {
+        "requirement": "Not core requirement",
+        "match": "N/A",
+        "evidence": "Production planning role"
+      },
+      "budget_ownership": {
+        "requirement": "Not stated",
+        "match": "N/A",
+        "evidence": "Analyst-level role"
+      },
+      "outcome": "Interview requested, screen cancelled \u2014 role filled by another candidate",
+      "feedback_theme": "No feedback received \u2014 employer filled position before interview"
     }
   ],
-  "pattern_summary": "All three interview-stage rejections share a common theme: employers are not questioning capability or fit, they are questioning whether Amber has already held the exact formal scope (ERP portfolio breadth, direct procurement ownership, or budget accountability) at the level the role requires. The market signal is consistent and actionable: position adjacent experience as proof of readiness for the next scope level, and prioritize roles where the core scope already maps cleanly to the track record."
+  "pattern_summary": "Both International Motors interviews confirm the three feedback themes from actual transcripts. The Procurement Digitalization hiring manager explicitly stated procurement understanding is \"the only gap\" (direct quote). The Supply Chain Manager panel (Major Ramirez, Harshan, Justin Slater) directly questioned Amber's budget ownership \u2014 her $60K budget only covers merit/bonus for 5 reports, not capital or operating budgets. Justin Slater asked about managing a \"multimillion dollar budget.\" SAP/ERP experience was confirmed as a strength in both interviews. Both roles are still pending \u2014 International Motors is completing first-round interviews \"this week and next week.\" Combined Metals advanced Amber to the hiring-manager stage before rejection. The pattern is consistent: ERP breadth is a strength, but direct procurement experience and budget ownership scope are the two gaps that interviewers consistently probe. Amber should prepare targeted responses for both before any future interviews."
 }
