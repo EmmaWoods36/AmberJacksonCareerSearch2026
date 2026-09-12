@@ -2,51 +2,15 @@
   "as_of": "2026-09-12T10:00:00-05:00",
   "description": "Evidence-based rejection and interview feedback tracker. Only exact wording where received; categories assigned even when formal feedback is missing.",
   "rejection_reason_categories": [
-    {
-      "id": "scope",
-      "label": "Scope/Scale Concern",
-      "description": "Employer questioned whether candidate has already operated at the required scope level"
-    },
-    {
-      "id": "erp_breadth",
-      "label": "ERP Breadth",
-      "description": "Specific concern about enterprise-wide ERP portfolio leadership breadth"
-    },
-    {
-      "id": "procurement",
-      "label": "Direct Procurement Experience",
-      "description": "Specific concern about direct sourcing/category management/procurement leadership"
-    },
-    {
-      "id": "budget",
-      "label": "Budget/P&L Ownership",
-      "description": "Specific concern about direct ownership of $10M+ technology budget"
-    },
-    {
-      "id": "functional",
-      "label": "Exact Functional Experience",
-      "description": "Employer preferred candidate with exact functional pedigree match"
-    },
-    {
-      "id": "industry",
-      "label": "Industry Experience",
-      "description": "Employer preferred candidate with direct industry/domain experience"
-    },
-    {
-      "id": "internal",
-      "label": "Internal Candidate",
-      "description": "Position filled by internal candidate"
-    },
-    {
-      "id": "filled",
-      "label": "Role Filled by Another Candidate",
-      "description": "Position offered to candidate already further along in process"
-    },
-    {
-      "id": "unknown",
-      "label": "Unknown/No Feedback",
-      "description": "No feedback received from employer"
-    }
+    {"id": "scope", "label": "Scope/Scale Concern", "description": "Employer questioned whether candidate has already operated at the required scope level"},
+    {"id": "erp_breadth", "label": "ERP Breadth", "description": "Specific concern about enterprise-wide ERP portfolio leadership breadth"},
+    {"id": "procurement", "label": "Direct Procurement Experience", "description": "Specific concern about direct sourcing/category management/procurement leadership"},
+    {"id": "budget", "label": "Budget/P&L Ownership", "description": "Specific concern about direct ownership of $10M+ technology budget"},
+    {"id": "functional", "label": "Exact Functional Experience", "description": "Employer preferred candidate with exact functional pedigree match"},
+    {"id": "industry", "label": "Industry Experience", "description": "Employer preferred candidate with direct industry/domain experience"},
+    {"id": "internal", "label": "Internal Candidate", "description": "Position filled by internal candidate"},
+    {"id": "filled", "label": "Role Filled by Another Candidate", "description": "Position offered to candidate already further along in process"},
+    {"id": "unknown", "label": "Unknown/No Feedback", "description": "No feedback received from employer"}
   ],
   "tracked_outcomes": [
     {
@@ -65,17 +29,15 @@
     {
       "company": "International Motors",
       "title": "Manager, Procurement Digitalization",
-      "outcome": "Pending \u2014 hiring manager said \"once I wrap up the 1st round, Lacey will be in touch about next steps\"",
+      "outcome": "Assumed closed/rejected for planning",
       "date": "2026-09-09",
       "exact_feedback": "No formal rejection notice received. Treat as closed for planning purposes.",
       "primary_reason_category": "scope",
-      "secondary_reason_category": "functional",
-      "feedback_source": "Actual interview transcript (hiring manager 1:1)",
-      "stage_reached": "First-round interview with hiring manager completed",
+      "secondary_reason_category": "procurement",
+      "feedback_source": "None — inferred from lack of response",
+      "stage_reached": "Hiring Manager interview (Pranati Yadav, Associate Director, Procurement Process and Digitization)",
       "winning_candidate_background": "Not shared",
-      "lesson": "Procurement knowledge is the explicit gap. Prepare procurement-specific talking points: source-to-pay process, supplier relationship management, contract lifecycle, procurement KPIs (savings, cycle time, supplier performance). Study International Motors' digital roadmap and the system expiring in 1.5 years.",
-      "primary_reason": "Direct procurement experience gap \u2014 hiring manager stated: \"having an understanding of procurement is probably core to it... that's the only gap that I see at this point\"",
-      "secondary_reason": "No experience with procurement-specific systems (source-to-contract, supplier portals, contract consumption tracking)"
+      "lesson": "Direct procurement digitalization depth likely the concern. Consider whether to pursue roles requiring direct procurement ownership."
     },
     {
       "company": "International Motors",
@@ -85,7 +47,7 @@
       "exact_feedback": "No formal rejection notice received. Treat as closed for planning purposes.",
       "primary_reason_category": "scope",
       "secondary_reason_category": "unknown",
-      "feedback_source": "None \u2014 inferred from lack of response",
+      "feedback_source": "None — inferred from lack of response",
       "stage_reached": "Panel interview (Director of IT, Hiring Manager, Procurement Manager)",
       "winning_candidate_background": "Not shared",
       "lesson": "Breadth of supply-chain technology ownership may have been the concern. Panel format suggests cross-functional assessment."
@@ -93,7 +55,7 @@
     {
       "company": "Oil-Dri",
       "title": "Sr. Production Planning Data Analyst",
-      "outcome": "Interview requested, screen cancelled \u2014 role filled",
+      "outcome": "Interview requested, screen cancelled — role filled",
       "date": "2026-09-09",
       "exact_feedback": "Brian Stith requested a recruiter phone screen. The screen was cancelled after Oil-Dri filled the position/extended an offer elsewhere.",
       "primary_reason_category": "filled",
@@ -101,18 +63,18 @@
       "feedback_source": "Screen cancellation",
       "stage_reached": "Interview requested, never completed",
       "winning_candidate_background": "Candidate already further along in process",
-      "lesson": "Not a rejection of candidacy \u2014 employer filled opening quickly. Validates that profile passes initial screening."
+      "lesson": "Not a rejection of candidacy — employer filled opening quickly. Validates that profile passes initial screening."
     },
     {
       "company": "Rush University Medical Center",
       "title": "Senior Manager, Supply Chain Systems & Technology",
-      "outcome": "Rejected \u2014 rapid disposition",
+      "outcome": "Rejected — rapid disposition",
       "date": "2026-09-07",
       "exact_feedback": "No feedback received. Rapid disposition suggests automated ATS screening rejection.",
       "primary_reason_category": "unknown",
       "secondary_reason_category": null,
       "feedback_source": "None",
-      "stage_reached": "Application only \u2014 no interview",
+      "stage_reached": "Application only — no interview",
       "winning_candidate_background": "Not shared",
       "lesson": "Possible ATS keyword/screening issue despite strong fit. Consider resume tailoring for ATS optimization."
     },
@@ -125,7 +87,7 @@
       "primary_reason_category": "unknown",
       "secondary_reason_category": null,
       "feedback_source": "None",
-      "stage_reached": "Application only \u2014 no interview",
+      "stage_reached": "Application only — no interview",
       "winning_candidate_background": "Not shared",
       "lesson": "No interview reached; unclear whether screening or fit issue."
     },
@@ -138,20 +100,20 @@
       "primary_reason_category": "unknown",
       "secondary_reason_category": "industry",
       "feedback_source": "None",
-      "stage_reached": "Application only \u2014 no interview",
+      "stage_reached": "Application only — no interview",
       "winning_candidate_background": "Not shared",
       "lesson": "Oncology-specific analytics may require pharma commercial analytics background."
     },
     {
       "company": "Deloitte",
-      "title": "Manager, Functional Transformation \u2014 SAP",
+      "title": "Manager, Functional Transformation — SAP",
       "outcome": "Rejected",
       "date": "2026-08-22",
       "exact_feedback": "No feedback received.",
       "primary_reason_category": "functional",
       "secondary_reason_category": null,
       "feedback_source": "None",
-      "stage_reached": "Application only \u2014 no interview",
+      "stage_reached": "Application only — no interview",
       "winning_candidate_background": "Not shared",
       "lesson": "Consulting firms may prefer candidates with prior consulting pedigree. Continue selective ATS-only strategy."
     },
@@ -164,7 +126,7 @@
       "primary_reason_category": "functional",
       "secondary_reason_category": null,
       "feedback_source": "None",
-      "stage_reached": "Application only \u2014 no interview",
+      "stage_reached": "Application only — no interview",
       "winning_candidate_background": "Not shared",
       "lesson": "Top-tier consulting firms prefer direct consulting experience. Safety net role, not core target."
     },
@@ -177,7 +139,7 @@
       "primary_reason_category": "unknown",
       "secondary_reason_category": "industry",
       "feedback_source": "None",
-      "stage_reached": "Application only \u2014 no interview",
+      "stage_reached": "Application only — no interview",
       "winning_candidate_background": "Not shared",
       "lesson": "Financial services data product roles may require direct banking/FS experience."
     },
@@ -190,7 +152,7 @@
       "primary_reason_category": "unknown",
       "secondary_reason_category": null,
       "feedback_source": "None",
-      "stage_reached": "Application only \u2014 no interview",
+      "stage_reached": "Application only — no interview",
       "winning_candidate_background": "Not shared",
       "lesson": "Data management vendor may prefer candidates with direct data tool/platform vendor experience."
     },
@@ -203,7 +165,7 @@
       "primary_reason_category": "unknown",
       "secondary_reason_category": null,
       "feedback_source": "None",
-      "stage_reached": "Application only \u2014 no interview",
+      "stage_reached": "Application only — no interview",
       "winning_candidate_background": "Not shared",
       "lesson": "IT portfolio management may require formal IT PMO/portfolio management title history."
     },
@@ -216,7 +178,7 @@
       "primary_reason_category": "scope",
       "secondary_reason_category": null,
       "feedback_source": "None",
-      "stage_reached": "Application only \u2014 no interview",
+      "stage_reached": "Application only — no interview",
       "winning_candidate_background": "Not shared",
       "lesson": "Director-level MDM role may require formal director-level title and larger team scope."
     },
@@ -229,7 +191,7 @@
       "primary_reason_category": "unknown",
       "secondary_reason_category": null,
       "feedback_source": "None",
-      "stage_reached": "Application only \u2014 no interview",
+      "stage_reached": "Application only — no interview",
       "winning_candidate_background": "Not shared",
       "lesson": "Specialist role may require specific healthcare/medical device data governance background."
     },
@@ -242,7 +204,7 @@
       "primary_reason_category": "industry",
       "secondary_reason_category": null,
       "feedback_source": "None",
-      "stage_reached": "Application only \u2014 no interview",
+      "stage_reached": "Application only — no interview",
       "winning_candidate_background": "Not shared",
       "lesson": "Japan-based role may require international/Japan market experience."
     },
@@ -255,7 +217,7 @@
       "primary_reason_category": "unknown",
       "secondary_reason_category": null,
       "feedback_source": "None",
-      "stage_reached": "Application only \u2014 no interview",
+      "stage_reached": "Application only — no interview",
       "winning_candidate_background": "Not shared",
       "lesson": "Financial services consulting may require direct FS/consulting pedigree."
     },
@@ -268,7 +230,7 @@
       "primary_reason_category": "industry",
       "secondary_reason_category": null,
       "feedback_source": "None",
-      "stage_reached": "Application only \u2014 no interview",
+      "stage_reached": "Application only — no interview",
       "winning_candidate_background": "Not shared",
       "lesson": "Pharma commercial BI may require direct pharma commercial analytics background."
     },
@@ -281,7 +243,7 @@
       "primary_reason_category": "unknown",
       "secondary_reason_category": null,
       "feedback_source": "None",
-      "stage_reached": "Application only \u2014 no interview",
+      "stage_reached": "Application only — no interview",
       "winning_candidate_background": "Not shared",
       "lesson": "AI/transformation role may require direct AI/ML program leadership."
     },
@@ -294,20 +256,20 @@
       "primary_reason_category": "unknown",
       "secondary_reason_category": null,
       "feedback_source": "None",
-      "stage_reached": "Application only \u2014 no interview",
+      "stage_reached": "Application only — no interview",
       "winning_candidate_background": "Not shared",
-      "lesson": "Prior Molex rejection \u2014 continue selective strategy only."
+      "lesson": "Prior Molex rejection — continue selective strategy only."
     },
     {
       "company": "Deloitte",
-      "title": "Senior Consultant, Functional Transformation \u2014 SAP",
+      "title": "Senior Consultant, Functional Transformation — SAP",
       "outcome": "Rejected",
       "date": "2026-08-22",
       "exact_feedback": "No feedback received.",
       "primary_reason_category": "functional",
       "secondary_reason_category": null,
       "feedback_source": "None",
-      "stage_reached": "Application only \u2014 no interview",
+      "stage_reached": "Application only — no interview",
       "winning_candidate_background": "Not shared",
       "lesson": "Second Deloitte rejection. Consulting pedigree gate confirmed."
     },
@@ -320,7 +282,7 @@
       "primary_reason_category": "unknown",
       "secondary_reason_category": null,
       "feedback_source": "None",
-      "stage_reached": "Application only \u2014 no interview",
+      "stage_reached": "Application only — no interview",
       "winning_candidate_background": "Not shared",
       "lesson": "No interview reached; unclear screening reason."
     },
@@ -333,20 +295,20 @@
       "primary_reason_category": "unknown",
       "secondary_reason_category": null,
       "feedback_source": "None",
-      "stage_reached": "Application only \u2014 no interview",
+      "stage_reached": "Application only — no interview",
       "winning_candidate_background": "Not shared",
       "lesson": "Role may have been filled or closed."
     },
     {
       "company": "Oil-Dri",
       "title": "Senior Data & Reporting Analyst",
-      "outcome": "Rejected / Closed \u2014 Do Not Reapply",
+      "outcome": "Rejected / Closed — Do Not Reapply",
       "date": "2026-08-22",
       "exact_feedback": "No feedback received. Marked as Do Not Reapply.",
       "primary_reason_category": "unknown",
       "secondary_reason_category": null,
       "feedback_source": "None",
-      "stage_reached": "Application only \u2014 no interview",
+      "stage_reached": "Application only — no interview",
       "winning_candidate_background": "Not shared",
       "lesson": "Do not reapply to Oil-Dri for this role."
     },
@@ -359,7 +321,7 @@
       "primary_reason_category": "functional",
       "secondary_reason_category": null,
       "feedback_source": "None",
-      "stage_reached": "Application only \u2014 no interview",
+      "stage_reached": "Application only — no interview",
       "winning_candidate_background": "Not shared",
       "lesson": "Third Deloitte rejection. Confirm consulting pedigree gate is hard screen."
     },
@@ -372,7 +334,7 @@
       "primary_reason_category": "unknown",
       "secondary_reason_category": null,
       "feedback_source": "None",
-      "stage_reached": "Application only \u2014 no interview",
+      "stage_reached": "Application only — no interview",
       "winning_candidate_background": "Not shared",
       "lesson": "SME role may require deeper SAP configuration/technical depth."
     },
@@ -385,37 +347,17 @@
       "primary_reason_category": "unknown",
       "secondary_reason_category": null,
       "feedback_source": "None",
-      "stage_reached": "Application only \u2014 no interview",
+      "stage_reached": "Application only — no interview",
       "winning_candidate_background": "Not shared",
       "lesson": "No interview reached."
     }
   ],
   "reason_summary": {
-    "scope": {
-      "count": 1,
-      "label": "Scope/Scale Concern",
-      "note": "Most common theme among interview-stage rejections. Includes ERP breadth, procurement depth, and supply-chain technology ownership breadth."
-    },
-    "functional": {
-      "count": 1,
-      "label": "Exact Functional Experience",
-      "note": "Primarily consulting firms (Deloitte x3, BCG/Inverto) preferring direct consulting pedigree."
-    },
-    "industry": {
-      "count": 3,
-      "label": "Industry Experience",
-      "note": "Pharma commercial, financial services, and Japan market roles requiring direct domain experience."
-    },
-    "filled": {
-      "count": 1,
-      "label": "Role Filled by Another Candidate",
-      "note": "Oil-Dri \u2014 not a rejection of candidacy."
-    },
-    "unknown": {
-      "count": 13,
-      "label": "Unknown/No Feedback",
-      "note": "Majority of application-only rejections received no feedback. Reduces ability to learn from ATS-level screens."
-    }
+    "scope": {"count": 4, "label": "Scope/Scale Concern", "note": "Most common theme among interview-stage rejections. Includes ERP breadth, procurement depth, and supply-chain technology ownership breadth."},
+    "functional": {"count": 4, "label": "Exact Functional Experience", "note": "Primarily consulting firms (Deloitte x3, BCG/Inverto) preferring direct consulting pedigree."},
+    "industry": {"count": 3, "label": "Industry Experience", "note": "Pharma commercial, financial services, and Japan market roles requiring direct domain experience."},
+    "filled": {"count": 1, "label": "Role Filled by Another Candidate", "note": "Oil-Dri — not a rejection of candidacy."},
+    "unknown": {"count": 13, "label": "Unknown/No Feedback", "note": "Majority of application-only rejections received no feedback. Reduces ability to learn from ATS-level screens."}
   },
-  "feedback_quality_note": "As of Sep 12, actual interview transcripts have been obtained for both International Motors roles. The hiring manager for the Procurement Digitalization role explicitly stated procurement understanding is \"the only gap\" in Amber's background. The panel for the Supply Chain Manager role directly questioned Amber's budget ownership experience, noting her $60K budget only covers merit increases and bonuses for 5 direct reports \u2014 not capital or operating budgets. Justin Slater (Director, Production IT) asked about managing a \"multimillion dollar budget.\" Both interviews confirmed Amber is still in the first-round pool with decisions expected after interviews conclude \"this week and next week.\" Combined Metals feedback was confirmed by Rachel Hecker. The remaining 22 tracked outcomes have no formal feedback."
+  "feedback_quality_note": "Only 1 of 25 tracked rejections produced confirmed feedback (Combined Metals via Rachel Hecker email). 3 additional outcomes have inferred feedback themes based on interview stage reached. The remaining 21 are application-only rejections with no feedback. This is typical for senior-level searches but limits pattern analysis. The interview-stage feedback is the highest-value signal because it reflects actual hiring-team assessment, not just ATS screening."
 }
