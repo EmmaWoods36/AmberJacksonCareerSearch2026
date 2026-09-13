@@ -14,7 +14,7 @@
     "pay": "$123.8K-$184.4K",
     "domain": "Supply Chain Technology / Data Governance / ERP / Analytics",
     "link": "https://rush.fxrecruiter.com/jobs/details/united-states/il/chicago/work-type/senior-manager-supply-chain-systems-technology/12124",
-    "notes": "A - Prime. Extremely direct overlap: supply-chain technology leadership, ERP/master-data governance, integrations, SQL/database work, Power BI, ServiceNow, digital supply-chain tools, technical-to-business translation, and 2+ years of direct-report leadership. Live posting uses the title “Senior Manager, Supply Chain Systems & Technology”; user supplied “Technology & Data.” Chicago/remote. Salary target set at the top of the posted range. Wave 2 notebook confirms this was the first application in the cohort and marks it as an immediate rejection. UPDATE Sep 13 2026 (user-reported): rejection email arrived ~12 HOURS after application (applied Sep 7, rejected notice Sep 8-9) - fastest rejection on record; flagged prominently on dashboard. UPDATE Sep 13 2026 (user-reported): rejection email arrived ~12 HOURS after application (applied Sep 7, rejected notice Sep 8-9) - fastest rejection on record; flagged prominently on dashboard. UPDATE Sep 13 2026 (user-reported): rejection email arrived ~12 HOURS after application (applied Sep 7, rejected notice Sep 8-9) - fastest rejection on record; flagged prominently on dashboard.",
+    "notes": "A - Prime. Extremely direct overlap: supply-chain technology leadership, ERP/master-data governance, integrations, SQL/database work, Power BI, ServiceNow, digital supply-chain tools, technical-to-business translation, and 2+ years of direct-report leadership. Live posting uses the title “Senior Manager, Supply Chain Systems & Technology”; user supplied “Technology & Data.” Chicago/remote. Salary target set at the top of the posted range. Wave 2 notebook confirms this was the first application in the cohort and marks it as an immediate rejection. UPDATE Sep 13 2026 (user-reported): rejection email arrived ~12 HOURS after application (applied Sep 7, rejected notice Sep 8-9) - fastest rejection on record; flagged prominently on dashboard. UPDATE Sep 13 2026 (user-reported): rejection email arrived ~12 HOURS after application (applied Sep 7, rejected notice Sep 8-9) - fastest rejection on record; flagged prominently on dashboard. UPDATE Sep 13 2026 (user-reported): rejection email arrived ~12 HOURS after application (applied Sep 7, rejected notice Sep 8-9) - fastest rejection on record; flagged prominently on dashboard. UPDATE Sep 13 2026 (user-reported): rejection email arrived ~12 HOURS after application (applied Sep 7, rejected notice Sep 8-9) - fastest rejection on record; flagged prominently on dashboard.",
     "decision": "HISTORICAL - CLOSED/REJECTED",
     "live_status": "Rejected - rapid / immediate disposition",
     "hard_gate": "Best empirical archetype: supply-chain technology + ERP/master data + analytics + governance + people leadership. Existing application is incomplete.",
@@ -979,7 +979,7 @@
     "capability": 95,
     "office": "9.2/10",
     "salary_target": "$230K",
-    "tracker_status": "Not Applied / Queue",
+    "tracker_status": "LIVE-VERIFIED (Sep 13, 2026): Workday req 31159318 shows Apply button, Posted 26 Days Ago. Amber-apply-only per gate. Resume already built (Abbott SM Supply Chain tailored, shared asset).",
     "status_class": "status-queue",
     "pay": "$129.3K-$258.7K",
     "domain": "Supply Chain / Life Sciences / Manufacturing / SAP",
@@ -1020,7 +1020,8 @@
     "zombie_business_days": null,
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
-    "resume_variant_label": "Executive Blue"
+    "resume_variant_label": "Executive Blue",
+    "last_action": "2026-09-13: ChatGPT re-flagged this role; live status verified directly on Abbott Workday (Apply present). Honest fit: quals genuinely clear (7+ yrs related, procurement/SC/mfg preferred — she exceeds with planning + regulated mfg + people leadership). Screen 85-88%, capability 95%. Trade-off per tracker: site supply-chain leadership direction vs ERP/data path. Division TM Transfusion Medicine, Abbott Park AP08B, onsite, $129.3K-$258.7K. GATE: Abbott is Amber-apply-only."
   },
   {
     "rank": 20,
@@ -14170,5 +14171,18 @@
     "url": "https://jobs.smartrecruiters.com/Resultant/744000137951059-manager-digital-transformation-technology-ai-",
     "pay": "$120K-$160K est.",
     "last_action": "2026-09-13: re-read JD, honest score 78% (6-9 yrs, 2+ leadership, MBA, ERP/data/analytics, consulting-style delivery, Chicago hybrid). Apply widget DataDome-blocked; full 2-page resume rebuilt and QA-passed. Email to careers@resultant.com drafted but NOT sent per Amber decision. Amber can submit from her own browser."
+  },
+  {
+    "company": "AbbVie",
+    "title": "Senior Manager, OneHUB Transformation (R00147827)",
+    "batch": "chatgpt_sep13_batch",
+    "fit_score": 78,
+    "screen": 78,
+    "status": "expired",
+    "location": "North Chicago, IL (hybrid)",
+    "pay": "$124.5K-$236.5K",
+    "url": "https://careers.abbvie.com/en/job/senior-manager-onehub-transformation-in-north-chicago-il-jid-30981",
+    "last_action": "2026-09-13: fit-checked on request. Posting EXPIRED on careers.abbvie.com (\"This vacancy has now expired\"). Honest fit 78% — 10+ yrs transformation/systems/operations OR consulting requirement reads broad, but her relevant ops/transformation track is ~7 yrs (2019-2026); capability ~95% (S/4HANA site-rep, ServiceNow operating model, governance, SOP/playbooks, UAT/hypercare). GATED: AbbVie excluded per Amber rules — she applies herself if she chooses. Watch for repost; Transformation Office hires repeatedly.",
+    "source": "ChatGPT Sep 13 recommendations (fit check requested)"
   }
 ]
