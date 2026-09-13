@@ -5,7 +5,7 @@
 **Status key (read this first):**
 - **Submitted by agent (30):** rows 1-30 below. Includes Blue Star **LEAD** (row 22 — submitted Sep 13 PM, portal-confirmed), Vantive (#27) and UNFI Food Safety (#28) — you received confirmation emails for those.
 - **Withdrawn (1):** UNFI Order to Cash — a DIFFERENT UNFI role from #28, applied then pulled back at your request (row 31).
-- **Waiting on Amber (4):** ONLY Intrado, CBS, Resultant, Elfonze — the captcha/bot-blocked roles in the table below. NOTHING else waits on you.
+- **Waiting on Amber (4 companies / 5 postings):** ONLY Intrado, CBS, Resultant (Manager + Sr. Manager), and Elfonze — the captcha/bot-blocked roles in the table below. NOTHING else waits on you.
 
 ## Agent-submitted applications (30 total, Sep 12-13)
 
@@ -47,7 +47,7 @@
 |---|---|---|---|---|
 | 31 | **UNFI — Sr. Manager, Business Process – SAP Order to Cash** (different role from #27 Food Safety; this one applied then withdrawn) | **177933** | O2C-tailored FULL 2-pg | **Applied ~3:00 PM CDT, withdrawn ~5:17 PM CDT same day at Amber's request (portal: "Withdrawn Sep 13 2026"). Never re-apply.** |
 
-## Amber-manual queue — ONLY these 4 (captcha/bot-blocked; everything else was submitted by the agent)
+## Amber-manual queue — ONLY these 4 companies / 5 postings (captcha/bot-blocked; everything else was submitted by the agent)
 
 | Company — Role | Req | Blocker | Resume |
 |---|---|---|---|
