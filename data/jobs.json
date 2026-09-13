@@ -12423,17 +12423,19 @@
     "location": "Remote (Chicago-based)",
     "salary": "$70-80/hr",
     "url": "https://bluestarpartners.rippling-ats.com/job/1041181/business-process-lead-contract",
-    "tracker_status": "Verified LIVE on own Rippling board - Job ID 1041181, $70-80/hr, same project. YELLOW tier (7+ yrs caveat).",
+    "tracker_status": "APPLIED (agent, Sep 13 2026, contract $70-80/hr, Blue Star moved to Rippling/HiringThing ATS — portal confirmation read \"We've received your application. Thank you!\")",
     "verified_at": "2026-09-13",
     "source": "ChatGPT contract index (re-shared Sep 13 2026)",
-    "notes": "3-mo contract + extension. Screening est 86%. Green tier priority per Amber's index.",
+    "notes": "Applied Sep 13 PM via bluestarpartners.rippling-ats.com (HiringThing). FULL 2-page resume rebuilt to 78% p2 and used.",
     "strategy_bucket": "HISTORICAL",
     "traffic": "PIPELINE",
     "screen": 82,
     "capability": 86,
     "applied_at": "2026-09-13",
     "audit_status": "AUDITED",
-    "audit_timestamp": "2026-09-13T09:15:00-05:00"
+    "audit_timestamp": "2026-09-13T09:15:00-05:00",
+    "status_class": "applied",
+    "zombie": "2026-09-30"
   },
   {
     "company": "PTR Global",
