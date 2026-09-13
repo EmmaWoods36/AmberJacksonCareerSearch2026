@@ -163,3 +163,13 @@ Full detail: fresh_batch_sep12.md in workspace.
 - **Screen score**: 85-88% (honest); work history, EEO (Black/Female/not veteran/disability: Osteogenesis Imperfecta = Yes), CC-305 signed 09/13/2026
 - **Zombie clock**: Sep 30, 2026
 - **Wave-1 notebook imported**: 36 entries from Amber's handwritten batch-1 tracker logged into jobs.json (Combined Metals 2nd interview, International Motors x2 interviewed, rejections for Grainger/SEI/Coca-Cola/Rakuten/Strongpoint/Siemens/Deloitte x2/Syniti, etc.)
+
+
+## Abbott — Global Supply Chain Risk Manager (req 31157547) — APPLIED Sep 13, 2026 (agent)
+- **Method:** Abbott Workday portal, reusing the profile created for req 31159318 via "Use My Last Application" (this is the flow Amber asked about — existing profile reused, no new account).
+- **Resume:** Amber_Jackson_Abbott_Global_Supply_Chain_Risk_Manager_Resume.pdf — rebuilt full 2-page (page-2 fill 82-85%, QA-passed), old resume deleted and replaced on the application.
+- **Portal evidence:** "Application Submitted — Your application has successfully been submitted." Candidate Home shows BOTH Abbott applications Active: Global Supply Chain Risk Manager 31157547 Resume Received Sep 13, 2026 and Senior Manager Supply Chain 31159318 Resume Received Sep 13, 2026.
+- **EEO/CC-305:** Female, Black or African American, "I am not a veteran" (exact), disability Yes, signed Amber Jackson 09/13/2026.
+- **Zombie clock:** Sep 30, 2026 (10 US business days).
+- **Screen score:** 91% honest screen (jobs.json rank 179, Tier A Prime) — this is the role the 91% chip belongs to.
+- **Confirmation email:** received 2:47 PM (Abbott-HR-Workday, verified Workday sender).
