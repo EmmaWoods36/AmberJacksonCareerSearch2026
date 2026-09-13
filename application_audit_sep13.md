@@ -29,6 +29,8 @@
 | 21 | Blue Star Partners — Business Process Analyst | — | [Posting](https://bluestarpartners.bamboohr.com/careers) | 73% (borderline) | Sep 13 |
 | 22 | Bel — Senior IT Solutions Manager, Operations (job 54152) | 54152 | [Posting](https://jobs.bel.net/) | 73% (borderline) | Sep 13 |
 | 23 | **Progress Rail — ERP Senior Manager (Infor LN)** | **12096BR** | [Posting](https://xjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=26144&siteid=5496&PageType=JobDetails&jobid=770935) | **FULL (77%)** | **Sep 13 PM — submitted** |
+| 24 | **Novartis — Dir, Innovative Enterprise Data Product Lead** | **REQ-10086344** | [Posting](https://novartis.wd3.myworkdayjobs.com/en-US/Novartis_Careers/job/Remote-Position-USA/Dir--Innovative-Enterprise-Data-Product-Lead_REQ-10086344-1) | **FULL — 82% (yellow)** | **Sep 13 PM — submitted (agent, portal confirmed)** |
+| 25 | **Novartis — AD, Tech/Ops Data Partnerships** | **REQ-10086353** | [Posting](https://novartis.wd3.myworkdayjobs.com/en-US/Novartis_Careers/job/Remote-Position-USA/AD--Tech-Ops-Data-Partnerships_REQ-10086353-2) | **FULL — 78% (yellow)** | **Sep 13 PM — submitted (agent, portal confirmed)** |
 
 ## Amber-queued (agent blocked — she sends the FULL resumes)
 
@@ -41,8 +43,6 @@
 
 | Company — Role | Req | Link | Resume |
 |---|---|---|---|
-| Novartis — Dir, Innovative Enterprise Data Product Lead | REQ-10086344 | [Posting](https://novartis.wd3.myworkdayjobs.com/en-US/Novartis_Careers/job/Remote-Position-USA/Dir--Innovative-Enterprise-Data-Product-Lead_REQ-10086344-1) | FULL — 82% screen (yellow under new scale) |
-| Novartis — AD, Tech/Ops Data Partnerships | REQ-10086353 | [Posting](https://novartis.wd3.myworkdayjobs.com/en-US/Novartis_Careers/job/Remote-Position-USA/AD--Tech-Ops-Data-Partnerships_REQ-10086353-2) | FULL — 78% screen (yellow under new scale) |
 | Intrado — Director, Enterprise Data Management | — | blocked by hCaptcha — Amber submits; answers in shared screenshots | FULL |
 | Resultant (2 roles) | — | careers@resultant.com | FULL |
 | Central Business Solutions — Master Data Specialist | — | hCaptcha — Amber submits | FULL |
@@ -51,5 +51,5 @@
 - ~16 earlier "1-page era" applications (incl. AMETEK, Indeed boards) remain locked — never re-submit those reqs.
 - Sep 12 zombie clock: +10 US business days → Sep 25. Sep 13 apps → Sep 30.
 - New tier scale (per Amber, Sep 13 afternoon): 96+ Gaping Green, 88+ Green, 75-87 Yellow, <75 Red unless exceptional upside.
-- Novartis Workday account created: amber.jackson94hks@gmail.com / Aj@Novartis2026!Seek — application flow paused at step 1 of 10 pending Amber's go.
+- Novartis Workday account used for both submissions: amber.jackson94hks@gmail.com / Aj@Novartis2026!Seek. Both applications submitted Sep 13, 2026 — Candidate Home shows "Active (2)": REQ-10086344 and REQ-10086353, both "Screening Phase In Process", Date Submitted September 13, 2026. Portal confirmation screenshot saved (novartis_ad_submitted.png) and shared.
 - Progress Rail Brassring account: amber.jackson94hks@gmail.com / Aj@ProgressRail2026!Seek (security answers: street-Gloucester, pet-Miku, vacation-Bourbonnais).
