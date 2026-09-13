@@ -172,4 +172,4 @@ Full detail: fresh_batch_sep12.md in workspace.
 - **EEO/CC-305:** Female, Black or African American, "I am not a veteran" (exact), disability Yes, signed Amber Jackson 09/13/2026.
 - **Zombie clock:** Sep 30, 2026 (10 US business days).
 - **Screen score:** 91% honest screen (jobs.json rank 179, Tier A Prime) — this is the role the 91% chip belongs to.
-- **Confirmation email:** received 2:47 PM (Abbott-HR-Workday, verified Workday sender).
+- **Confirmation email:** VERIFIED via Gmail - "We Received Your Application for Global Supply Chain Risk Manager - 31157547" from Abbott-HR-Workday, received Sep 13, 2026 2:54 PM CDT.

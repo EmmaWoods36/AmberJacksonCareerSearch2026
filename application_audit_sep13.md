@@ -66,4 +66,4 @@
 
 | 28 | Abbott | Senior Manager Supply Chain | 31159318 | Workday (agent) | Full 2-page PDF | Applied (agent, Sep 13 2026) | "Resume Received | September 13, 2026" + submitted modal | https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers2/job/United-States---Illinois---Abbott-Park/Senior-Manager-Supply-Chain_31159318 |
 
-| 29 | Abbott | Global Supply Chain Risk Manager (req 31157547) | Applied (agent, Sep 13 2026) | Resume Received (portal evidence + confirmation email) | Executive Blue full 2-page PDF | [Posting](https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers2/job/Global-Supply-Chain-Risk-Manager_31157547) | Sep 30 2026 |
+| 29 | Abbott | Global Supply Chain Risk Manager (req 31157547) | Applied (agent, Sep 13 2026) | Resume Received (portal evidence + confirmation email verified via Gmail) | Executive Blue full 2-page PDF | [Posting](https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers2/job/Global-Supply-Chain-Risk-Manager_31157547) | Sep 30 2026 |
