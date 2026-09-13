@@ -983,7 +983,7 @@
   "capability": 95,
   "office": "9.2/10",
   "salary_target": "$230K",
-  "tracker_status": "LIVE-VERIFIED (Sep 13, 2026): Workday req 31159318 shows Apply button, Posted 26 Days Ago. Amber-apply-only per gate. Resume already built (Abbott SM Supply Chain tailored, shared asset).",
+  "tracker_status": "Applied (agent, Sep 13 2026) \u2014 Workday portal: Resume Received Sep 13 2026; confirmation email received.",
   "status_class": "status-queue",
   "pay": "$129.3K-$258.7K",
   "domain": "Supply Chain / Life Sciences / Manufacturing / SAP",
@@ -1030,7 +1030,8 @@
   "applied_date": "2026-09-13",
   "zombie_clock": "2026-09-30",
   "portal_evidence": "Workday Candidate Home: \"Senior Manager Supply Chain | 31159318 | Resume Received | September 13, 2026\" + modal \"Your application has successfully been submitted.\"",
-  "account": "amber.jackson94hks@gmail.com (Abbott Workday, created Sep 13 2026)"
+  "account": "amber.jackson94hks@gmail.com (Abbott Workday, created Sep 13 2026)",
+  "zombie_date": "2026-09-30"
  },
  {
   "rank": 20,
@@ -2227,7 +2228,7 @@
   "capability": 93,
   "office": "8.5/10",
   "salary_target": "-",
-  "tracker_status": "Blocked \u2014 DataDome CAPTCHA on SmartRecruiters apply (2nd attempt, Sep 13 2026)",
+  "tracker_status": "RESOLVED \u2014 blocked: Resultant SmartRecruiters protected by DataDome; never retry same session per Amber gate. Manual/amber queue.",
   "status_class": "status-queue",
   "pay": "$126K-$180.4K",
   "domain": "Recovered from saved job shortlist",
@@ -12324,7 +12325,7 @@
   "location": "Remote (Chicago-based)",
   "salary": "$50-60/hr",
   "url": "https://bluestarpartners.rippling-ats.com/job/1041182/business-process-analyst-contract",
-  "tracker_status": "Verified LIVE on own Rippling board - Job ID 1041182, Remote-Chicago, $50-60/hr, 3mo+extension, utility-industry Site Selection project. In-page apply, no account.",
+  "tracker_status": "Applied (agent, Sep 13 2026) \u2014 HiringThing/Rippling: submitted confirmation; $50-60/hr contract.",
   "verified_at": "2026-09-13",
   "source": "ChatGPT contract index (re-shared Sep 13 2026)",
   "notes": "3-mo contract + extension. Screening est 91%. Green tier priority per Amber's index.",
@@ -12545,7 +12546,8 @@
   "screen": 80,
   "capability": 84,
   "audit_status": "AUDITED",
-  "audit_timestamp": "2026-09-13T09:15:00-05:00"
+  "audit_timestamp": "2026-09-13T09:15:00-05:00",
+  "tracker_status": "RESOLVED \u2014 duplicate-of-Bel: staffing-agency repost of Bel job 54152 (applied direct via Bel careers Sep 13, 2026). Do not double-apply."
  },
  {
   "company": "Bel",
@@ -12564,7 +12566,9 @@
   "capability": 85,
   "applied_at": "2026-09-13",
   "audit_status": "AUDITED",
-  "audit_timestamp": "2026-09-13T09:15:00-05:00"
+  "audit_timestamp": "2026-09-13T09:15:00-05:00",
+  "tracker_status": "Applied (agent, Sep 13 2026) \u2014 job 54152 submitted confirmation.",
+  "zombie_date": "2026-10-01"
  },
  {
   "company": "Cotiviti",
@@ -12636,7 +12640,9 @@
   "screen": 78,
   "capability": 84,
   "audit_status": "AUDITED",
-  "audit_timestamp": "2026-09-13T09:15:00-05:00"
+  "audit_timestamp": "2026-09-13T09:15:00-05:00",
+  "tracker_status": "CLOSED \u2014 posting anticipated close date Aug 15, 2026; verified Sep 13, 2026 no Apply button (job 14976 / req 177933).",
+  "live_status": "CLOSED"
  },
  {
   "company": "Apryse",
@@ -12653,7 +12659,8 @@
   "screen": 72,
   "capability": 78,
   "audit_status": "AUDITED",
-  "audit_timestamp": "2026-09-13T09:15:00-05:00"
+  "audit_timestamp": "2026-09-13T09:15:00-05:00",
+  "tracker_status": "RESOLVED \u2014 excluded-location gate (not Chicago-remote/hybrid per Amber location rules)."
  },
  {
   "company": "Veralto",
@@ -14209,7 +14216,8 @@
   "status": "blocked-datadome",
   "url": "https://jobs.smartrecruiters.com/Resultant/744000137951059-manager-digital-transformation-technology-ai-",
   "pay": "$120K-$160K est.",
-  "last_action": "2026-09-13: re-read JD, honest score 78% (6-9 yrs, 2+ leadership, MBA, ERP/data/analytics, consulting-style delivery, Chicago hybrid). Apply widget DataDome-blocked; full 2-page resume rebuilt and QA-passed. Email to careers@resultant.com drafted but NOT sent per Amber decision. Amber can submit from her own browser."
+  "last_action": "2026-09-13: re-read JD, honest score 78% (6-9 yrs, 2+ leadership, MBA, ERP/data/analytics, consulting-style delivery, Chicago hybrid). Apply widget DataDome-blocked; full 2-page resume rebuilt and QA-passed. Email to careers@resultant.com drafted but NOT sent per Amber decision. Amber can submit from her own browser.",
+  "tracker_status": "RESOLVED \u2014 blocked: Resultant SmartRecruiters protected by DataDome; never retry same session per Amber gate. Manual/amber queue."
  },
  {
   "company": "AbbVie",
@@ -14222,6 +14230,7 @@
   "pay": "$124.5K-$236.5K",
   "url": "https://careers.abbvie.com/en/job/senior-manager-onehub-transformation-in-north-chicago-il-jid-30981",
   "last_action": "2026-09-13: fit-checked on request. Posting EXPIRED on careers.abbvie.com (\"This vacancy has now expired\"). Honest fit 78% \u2014 10+ yrs transformation/systems/operations OR consulting requirement reads broad, but her relevant ops/transformation track is ~7 yrs (2019-2026); capability ~95% (S/4HANA site-rep, ServiceNow operating model, governance, SOP/playbooks, UAT/hypercare). GATED: AbbVie excluded per Amber rules \u2014 she applies herself if she chooses. Watch for repost; Transformation Office hires repeatedly.",
-  "source": "ChatGPT Sep 13 recommendations (fit check requested)"
+  "source": "ChatGPT Sep 13 recommendations (fit check requested)",
+  "tracker_status": "RESOLVED \u2014 EXPIRED posting (verified Sep 13, 2026) + permanent AbbVie gate."
  }
 ]
