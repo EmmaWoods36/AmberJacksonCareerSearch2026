@@ -54,7 +54,7 @@ All applications below were submitted by your AI assistant on your behalf, with 
 | Resultant | Manager, Digital Transformation | DataDome slider captcha blocked apply widget | Retry in 1-2 days, or email application to careers@resultant.com |
 | Vantive | Associate Director, Supply Chain Development | Draft 100% filled, saved (you finishing attach + submit) | Resume REBUILT as full 2-page (shared today) — sign in careers.vantive.com, amber.jackson94hks@gmail.com / Aj@Vantive2026!Seek → Edit Attachments → upload new PDF → Submit |
 | UNFI | Sr. IT Manager, Food Safety, Quality & Traceability | Draft 9/9 steps at Review & Submit (you finishing) | Resume REBUILT as full 2-page (shared today) — sign in jobs.unfi.com, amber.jackson94hks@gmail.com / Aj@UNFI2026!Seek → Edit Attachments → upload new PDF → Submit |
-| Blue Star Partners | Business Process Lead (contract, $70-80/hr, job 1041181) | Resume built & QA-passed; awaiting your go/no-go | Say the word and I'll submit (same portal as #20) |
+| Blue Star Partners | Business Process **LEAD** (contract, $70-80/hr, job 1041181) — a DIFFERENT role from #20 Analyst, which is submitted | Resume built & QA-passed; awaiting your go/no-go | Say the word and I'll submit (same portal as #20) |
 
 ## Verified NOT live (do not apply)
 - Gallagher Bassett — Sr Manager, Digital Transformation: NOT on their board (re-verified today, Sep 13; only 1 unrelated result for "digital transformation" on jobs.gallagherbassett.com, and the parent AJG portal doesn't list it either). Closest open role is Manager, Strategy (Req 51783, Rolling Meadows, $76.5K–$149K) — weak pay band and quantitative-consulting profile, not recommended.
