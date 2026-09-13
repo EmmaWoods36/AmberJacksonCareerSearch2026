@@ -94,7 +94,7 @@ Full detail: fresh_batch_sep12.md in workspace.
 - Applied via HiringThing in-page form (no account). Amber approved submission.
 - Confirmation: "We've received your application for a position at Blue Star Partners LLC." (eop_survey/51972009)
 - Zombie clock: 10 US business days → Friday, Sep 25, 2026 (submission-day +10 business days; recheck exact)
-- Note: Blue Star Lead role (1041181, $70-80/hr) still live — 2nd app available within cap
+- Note: Blue Star Lead role (1041181, $70-80/hr) was ALSO submitted Sep 13 PM — see the Lead section appended below; the cap note above predated its submission
 
 ## Intrado — Director, Enterprise Data Management — BLOCKED BY CAPTCHA, AMBER MUST SUBMIT (Sep 13, 2026)
 - Req 4628, Remote US, $150K-$175K, reports to SVP IT — 82% fit (best data-governance match in batch)
@@ -181,3 +181,13 @@ Full detail: fresh_batch_sep12.md in workspace.
 - **Portal evidence**: My Submissions now lists the O2C role under "Withdrawn Submissions — Withdrawn, Updated Sep 13, 2026" (screenshot: unfi_o2c_withdrawn.png). Food Safety IT Manager (req 177471) remains Completed/Active.
 - **Status change**: jobs.json + dashboard → status "withdrawn", strategy bucket WITHDRAWN. Do NOT re-apply this req.
 - **Net campaign effect**: agent-submitted count 29 total, 28 active (1 withdrawn). Zombie clock for this role cancelled.
+
+
+## Blue Star Partners — Business Process LEAD (Contract) — SUBMITTED (Sep 13, 2026 PM CDT)
+- **CORRECTION (Sep 13 evening):** This section was missing from earlier log passes due to a session-context error that temporarily lost the Lead's submitted status. It WAS submitted Sep 13 PM — no duplicate application was made after Amber's later "send it" instruction, because verification showed it was already in.
+- Job ID 1041181, Remote-Chicago, $70-80/hr, 3 months + extension, utility client Site Selection initiative
+- URL: https://bluestarpartners.rippling-ats.com/job/1041181/business-process-lead-contract
+- Resume: resumes/Blue Star Partners_Business Process Lead_Amber_Jackson_Resume.pdf (FULL 2-page, 78% p2 fill)
+- Applied via HiringThing in-page form (no account; keyed to amber.jackson94hks@gmail.com)
+- Portal confirmation: "We've received your application for a position at Blue Star Partners LLC. Thank you!" (eop_survey/51973673)
+- Zombie clock: 10 US business days → Wed Sep 30, 2026

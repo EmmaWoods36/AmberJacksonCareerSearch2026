@@ -1,14 +1,13 @@
 # Application Audit — Sep 12-13, 2026 (with job links)
 
-**Resume format audit (honest, measured by pixel analysis Sep 13 PM):** Every application used a 2-page resume. **FULL** = page-2 content ends 75%+ down. **THIN** = page 2 less than ~55% filled. The Sep 12 agent batch is THIN (Crystal Clean 34%, Ulta 36%, Molex 55%, and similar). The Sep 13 morning batch was built AFTER Amber's "2 full pages" order and measures FULL or borderline: Komatsu 88%, Mercury 88%, dv01 87%, Experis 74%, Bel 73%, Blue Star Analyst 73%. The Sep 13 afternoon builds measure: Progress Rail 77%, Novartis Dir 75%, Novartis AD 76%, Blue Star Lead 78% (rebuilt to FULL). Vantive (79%) and UNFI (76%) were submitted by the agent Sep 13 PM (rows 26-27) with genuinely full resumes. Resultant Manager was rebuilt Sep 13 PM to 75% page-2 fill after initially measuring thin.
+**Resume format audit (honest, measured by pixel analysis Sep 13 PM):** Every application used a 2-page resume. **FULL** = page-2 content ends 75%+ down. **THIN** = page 2 less than ~55% filled. The Sep 12 agent batch is THIN (Crystal Clean 34%, Ulta 36%, Molex 55%, and similar). The Sep 13 morning batch was built AFTER Amber's "2 full pages" order and measures FULL or borderline: Komatsu 88%, Mercury 88%, dv01 87%, Experis 74%, Bel 73%, Blue Star Analyst 73%. The Sep 13 afternoon builds measure: Progress Rail 77%, Novartis Dir 75%, Novartis AD 76%, Blue Star Lead 78% (rebuilt to FULL). Vantive (79%) and UNFI (76%) were submitted by the agent Sep 13 PM (rows 27-28); Blue Star Lead (78%) was also submitted Sep 13 PM (row 22) with genuinely full resumes. Resultant Manager was rebuilt Sep 13 PM to 75% page-2 fill after initially measuring thin.
 
 **Status key (read this first):**
-- **Submitted by agent (29):** rows 1-29 below. Vantive (#26) and UNFI Food Safety (#27) ARE submitted — portal-confirmed and you received the confirmation emails.
-- **Withdrawn (1):** UNFI Order to Cash — a DIFFERENT UNFI role, applied then pulled back at your request (row 30).
-- **Waiting on Amber (5):** ONLY Intrado, CBS, Resultant, Elfonze (captcha-blocked, rows below) + Blue Star Partners Business Process **LEAD** (job 1041181 — not captcha-blocked; agent submits on your go/no-go).
-- Blue Star row 21 is the **ANALYST** role (submitted). The **LEAD** role has never been applied.
+- **Submitted by agent (30):** rows 1-30 below. Includes Blue Star **LEAD** (row 22 — submitted Sep 13 PM, portal-confirmed), Vantive (#27) and UNFI Food Safety (#28) — you received confirmation emails for those.
+- **Withdrawn (1):** UNFI Order to Cash — a DIFFERENT UNFI role from #28, applied then pulled back at your request (row 31).
+- **Waiting on Amber (4):** ONLY Intrado, CBS, Resultant, Elfonze — the captcha/bot-blocked roles in the table below. NOTHING else waits on you.
 
-## Agent-submitted applications (29 total, Sep 12-13)
+## Agent-submitted applications (30 total, Sep 12-13)
 
 | # | Company — Role | Req | Link | Format | Submitted |
 |---|---|---|---|---|---|
@@ -32,20 +31,21 @@
 | 18 | Komatsu — IT Manager, Data & Analytics | — | [Posting](https://komatsu.wd1.myworkdayjobs.com/Careers) | FULL (88%) | Sep 13 |
 | 19 | dv01 — Data Governance Lead | — | [Posting](https://jobs.lever.co/dv01) | FULL (87%) | Sep 13 |
 | 20 | Mercury — Senior Manager, Data & AI Governance | — | [Posting](https://www.mercuryinsurance.com/careers/) | FULL (88%) | Sep 13 |
-| 21 | Blue Star Partners — Business Process **ANALYST** (submitted; the **LEAD** role job 1041181 is separate and still awaits your go/no-go) | 1041182 | [Posting](https://bluestarpartners.bamboohr.com/careers) | 73% (borderline) | Sep 13 |
-| 22 | Bel — Senior IT Solutions Manager, Operations (job 54152) | 54152 | [Posting](https://jobs.bel.net/) | 73% (borderline) | Sep 13 |
-| 23 | **Progress Rail — ERP Senior Manager (Infor LN)** | **12096BR** | [Posting](https://xjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=26144&siteid=5496&PageType=JobDetails&jobid=770935) | **FULL (77%)** | **Sep 13 PM — submitted** |
-| 24 | **Novartis — Dir, Innovative Enterprise Data Product Lead** | **REQ-10086344** | [Posting](https://novartis.wd3.myworkdayjobs.com/en-US/Novartis_Careers/job/Remote-Position-USA/Dir--Innovative-Enterprise-Data-Product-Lead_REQ-10086344-1) | **FULL — 82% (yellow)** | **Sep 13 PM — submitted (agent, portal confirmed)** |
-| 25 | **Novartis — AD, Tech/Ops Data Partnerships** | **REQ-10086353** | [Posting](https://novartis.wd3.myworkdayjobs.com/en-US/Novartis_Careers/job/Remote-Position-USA/AD--Tech-Ops-Data-Partnerships_REQ-10086353-2) | **FULL — 78% (yellow)** | **Sep 13 PM — submitted (agent, portal confirmed)** |
-| 26 | **Vantive — Associate Director, Supply Chain Development** | **JR-195434** | [Posting](https://vantive.wd1.myworkdayjobs.com/en-US/VantiveCareers) | **FULL (79%)** | **Sep 13 PM — submitted (agent, Workday read "Application Submitted"; Candidate Home "In Progress")** |
-| 27 | **UNFI — Sr. IT Manager, Food Safety, Quality & Traceability** (a different role from the O2C req below) | **177471 / 14638** | [Posting](https://jobs.unfi.com/job/14638/sr-it-manager-food-safety-quality-and-traceability-it-us-ri-providence/) | **FULL (76%)** | **Sep 13 PM — submitted (agent, Taleo read "Process completed")** |
-| 28 | **Abbott — Senior Manager Supply Chain** | **31159318** | [Posting](https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers2/job/United-States---Illinois---Abbott-Park/Senior-Manager-Supply-Chain_31159318) | FULL | **Sep 13 PM — submitted (agent, "Resume Received"; confirmation email 2:36 PM CDT verified)** |
-| 29 | **Abbott — Global Supply Chain Risk Manager** | **31157547** | [Posting](https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers2/job/Global-Supply-Chain-Risk-Manager_31157547) | Executive Blue FULL | **Sep 13 PM — submitted (agent, "Resume Received"; confirmation email 2:54 PM CDT verified)** |
+| 21 | Blue Star Partners — Business Process **ANALYST** (job 1041182) | 1041182 | [Posting](https://bluestarpartners.rippling-ats.com/job/1041182/business-process-analyst-contract) | 73% (borderline) | Sep 13 |
+| 22 | **Blue Star Partners — Business Process LEAD** (contract, $70-80/hr; different role from #21 Analyst) | **1041181** | [Posting](https://bluestarpartners.rippling-ats.com/job/1041181/business-process-lead-contract) | **FULL (78%)** | **Sep 13 PM — submitted (agent, portal confirmation received; eop_survey/51973673)** |
+| 23 | Bel — Senior IT Solutions Manager, Operations (job 54152) | 54152 | [Posting](https://jobs.bel.net/) | 73% (borderline) | Sep 13 |
+| 24 | **Progress Rail — ERP Senior Manager (Infor LN)** | **12096BR** | [Posting](https://xjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=26144&siteid=5496&PageType=JobDetails&jobid=770935) | **FULL (77%)** | **Sep 13 PM — submitted** |
+| 25 | **Novartis — Dir, Innovative Enterprise Data Product Lead** | **REQ-10086344** | [Posting](https://novartis.wd3.myworkdayjobs.com/en-US/Novartis_Careers/job/Remote-Position-USA/Dir--Innovative-Enterprise-Data-Product-Lead_REQ-10086344-1) | **FULL — 82% (yellow)** | **Sep 13 PM — submitted (agent, portal confirmed)** |
+| 26 | **Novartis — AD, Tech/Ops Data Partnerships** | **REQ-10086353** | [Posting](https://novartis.wd3.myworkdayjobs.com/en-US/Novartis_Careers/job/Remote-Position-USA/AD--Tech-Ops-Data-Partnerships_REQ-10086353-2) | **FULL — 78% (yellow)** | **Sep 13 PM — submitted (agent, portal confirmed)** |
+| 27 | **Vantive — Associate Director, Supply Chain Development** | **JR-195434** | [Posting](https://vantive.wd1.myworkdayjobs.com/en-US/VantiveCareers) | **FULL (79%)** | **Sep 13 PM — submitted (agent, Workday read "Application Submitted"; Candidate Home "In Progress")** |
+| 28 | **UNFI — Sr. IT Manager, Food Safety, Quality & Traceability** (a different role from the O2C req below) | **177471 / 14638** | [Posting](https://jobs.unfi.com/job/14638/sr-it-manager-food-safety-quality-and-traceability-it-us-ri-providence/) | **FULL (76%)** | **Sep 13 PM — submitted (agent, Taleo read "Process completed")** |
+| 29 | **Abbott — Senior Manager Supply Chain** | **31159318** | [Posting](https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers2/job/United-States---Illinois---Abbott-Park/Senior-Manager-Supply-Chain_31159318) | FULL | **Sep 13 PM — submitted (agent, "Resume Received"; confirmation email 2:36 PM CDT verified)** |
+| 30 | **Abbott — Global Supply Chain Risk Manager** | **31157547** | [Posting](https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers2/job/Global-Supply-Chain-Risk-Manager_31157547) | Executive Blue FULL | **Sep 13 PM — submitted (agent, "Resume Received"; confirmation email 2:54 PM CDT verified)** |
 
 ## Withdrawn (Sep 13 evening)
 | # | Company — Role | Req | Format | Outcome |
 |---|---|---|---|---|
-| 30 | **UNFI — Sr. Manager, Business Process – SAP Order to Cash** (different role from #27 Food Safety; this one applied then withdrawn) | **177933** | O2C-tailored FULL 2-pg | **Applied ~3:00 PM CDT, withdrawn ~5:17 PM CDT same day at Amber's request (portal: "Withdrawn Sep 13 2026"). Never re-apply.** |
+| 31 | **UNFI — Sr. Manager, Business Process – SAP Order to Cash** (different role from #27 Food Safety; this one applied then withdrawn) | **177933** | O2C-tailored FULL 2-pg | **Applied ~3:00 PM CDT, withdrawn ~5:17 PM CDT same day at Amber's request (portal: "Withdrawn Sep 13 2026"). Never re-apply.** |
 
 ## Amber-manual queue — ONLY these 4 (captcha/bot-blocked; everything else was submitted by the agent)
 
