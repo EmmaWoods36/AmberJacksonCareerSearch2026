@@ -12097,7 +12097,9 @@
     "resume_variant": "full_2page",
     "resume_variant_label": "Full 2-Page Detailed",
     "strategy_bucket": "HISTORICAL",
-    "traffic": "PIPELINE"
+    "traffic": "PIPELINE",
+    "audit_status": "AUDITED",
+    "audit_timestamp": "2026-09-13T09:15:00-05:00"
   },
   {
     "company": "dv01",
@@ -12112,7 +12114,9 @@
     "strategy_bucket": "HISTORICAL",
     "traffic": "PIPELINE",
     "screen": 85,
-    "capability": 88
+    "capability": 88,
+    "audit_status": "AUDITED",
+    "audit_timestamp": "2026-09-13T09:15:00-05:00"
   },
   {
     "company": "Mercury",
@@ -12127,7 +12131,9 @@
     "strategy_bucket": "HISTORICAL",
     "traffic": "PIPELINE",
     "screen": 84,
-    "capability": 88
+    "capability": 88,
+    "audit_status": "AUDITED",
+    "audit_timestamp": "2026-09-13T09:15:00-05:00"
   },
   {
     "company": "Experis (ManpowerGroup)",
@@ -12145,7 +12151,9 @@
     "traffic": "PIPELINE",
     "screen": 70,
     "capability": 75,
-    "applied_at": "2026-09-13"
+    "applied_at": "2026-09-13",
+    "audit_status": "AUDITED",
+    "audit_timestamp": "2026-09-13T09:15:00-05:00"
   },
   {
     "company": "West Leland Group",
@@ -12160,7 +12168,9 @@
     "strategy_bucket": "NO APPLY",
     "traffic": "RED",
     "status_class": "status-closed",
-    "screen": 20
+    "screen": 20,
+    "audit_status": "AUDITED",
+    "audit_timestamp": "2026-09-13T09:15:00-05:00"
   },
   {
     "company": "Central Business Solutions",
@@ -12177,7 +12187,9 @@
     "strategy_bucket": "CONTRACT ESCAPE HATCH",
     "traffic": "YELLOW",
     "screen": 78,
-    "capability": 84
+    "capability": 84,
+    "audit_status": "AUDITED",
+    "audit_timestamp": "2026-09-13T09:15:00-05:00"
   },
   {
     "company": "Intone Networks",
@@ -12192,7 +12204,9 @@
     "strategy_bucket": "CONTRACT ESCAPE HATCH",
     "traffic": "YELLOW",
     "screen": 60,
-    "capability": 70
+    "capability": 70,
+    "audit_status": "AUDITED",
+    "audit_timestamp": "2026-09-13T09:15:00-05:00"
   },
   {
     "company": "Elfonze Technologies",
@@ -12207,7 +12221,9 @@
     "strategy_bucket": "CONTRACT ESCAPE HATCH",
     "traffic": "YELLOW",
     "screen": 72,
-    "capability": 80
+    "capability": 80,
+    "audit_status": "AUDITED",
+    "audit_timestamp": "2026-09-13T09:15:00-05:00"
   },
   {
     "company": "Genesis10",
@@ -12222,7 +12238,9 @@
     "strategy_bucket": "NO APPLY",
     "traffic": "RED",
     "status_class": "status-closed",
-    "screen": 20
+    "screen": 20,
+    "audit_status": "AUDITED",
+    "audit_timestamp": "2026-09-13T09:15:00-05:00"
   },
   {
     "company": "Patriot Talent Solutions",
@@ -12237,7 +12255,9 @@
     "strategy_bucket": "NO APPLY",
     "traffic": "RED",
     "status_class": "status-closed",
-    "screen": 20
+    "screen": 20,
+    "audit_status": "AUDITED",
+    "audit_timestamp": "2026-09-13T09:15:00-05:00"
   },
   {
     "company": "Abacus Service Corporation",
@@ -12252,7 +12272,9 @@
     "strategy_bucket": "NO APPLY",
     "traffic": "RED",
     "status_class": "status-closed",
-    "screen": 20
+    "screen": 20,
+    "audit_status": "AUDITED",
+    "audit_timestamp": "2026-09-13T09:15:00-05:00"
   },
   {
     "company": "Blue Star Partners",
@@ -12272,7 +12294,9 @@
     "traffic": "PIPELINE",
     "screen": 82,
     "capability": 86,
-    "applied_at": "2026-09-13"
+    "applied_at": "2026-09-13",
+    "audit_status": "AUDITED",
+    "audit_timestamp": "2026-09-13T09:15:00-05:00"
   },
   {
     "company": "Capgemini",
@@ -12287,7 +12311,9 @@
     "strategy_bucket": "CONTRACT ESCAPE HATCH",
     "traffic": "YELLOW",
     "screen": 65,
-    "capability": 75
+    "capability": 75,
+    "audit_status": "AUDITED",
+    "audit_timestamp": "2026-09-13T09:15:00-05:00"
   },
   {
     "company": "Capgemini",
@@ -12302,7 +12328,9 @@
     "strategy_bucket": "CONTRACT ESCAPE HATCH",
     "traffic": "YELLOW",
     "screen": 65,
-    "capability": 75
+    "capability": 75,
+    "audit_status": "AUDITED",
+    "audit_timestamp": "2026-09-13T09:15:00-05:00"
   },
   {
     "company": "Neo Prism Solutions",
@@ -12317,7 +12345,9 @@
     "strategy_bucket": "NO APPLY",
     "traffic": "RED",
     "status_class": "status-closed",
-    "screen": 20
+    "screen": 20,
+    "audit_status": "AUDITED",
+    "audit_timestamp": "2026-09-13T09:15:00-05:00"
   },
   {
     "company": "Kforce",
@@ -12332,7 +12362,9 @@
     "strategy_bucket": "NO APPLY",
     "traffic": "RED",
     "status_class": "status-closed",
-    "screen": 20
+    "screen": 20,
+    "audit_status": "AUDITED",
+    "audit_timestamp": "2026-09-13T09:15:00-05:00"
   },
   {
     "company": "nLeague Services / Nebraska DHHS",
@@ -12347,7 +12379,9 @@
     "strategy_bucket": "CONTRACT ESCAPE HATCH",
     "traffic": "YELLOW",
     "screen": 58,
-    "capability": 65
+    "capability": 65,
+    "audit_status": "AUDITED",
+    "audit_timestamp": "2026-09-13T09:15:00-05:00"
   },
   {
     "company": "Trebecon",
@@ -12362,7 +12396,9 @@
     "strategy_bucket": "NO APPLY",
     "traffic": "RED",
     "status_class": "status-closed",
-    "screen": 20
+    "screen": 20,
+    "audit_status": "AUDITED",
+    "audit_timestamp": "2026-09-13T09:15:00-05:00"
   },
   {
     "company": "TalentBurst / Inova",
@@ -12377,7 +12413,9 @@
     "strategy_bucket": "CONTRACT ESCAPE HATCH",
     "traffic": "YELLOW",
     "screen": 60,
-    "capability": 70
+    "capability": 70,
+    "audit_status": "AUDITED",
+    "audit_timestamp": "2026-09-13T09:15:00-05:00"
   },
   {
     "company": "Blue Star Partners",
@@ -12393,7 +12431,9 @@
     "traffic": "PIPELINE",
     "screen": 82,
     "capability": 86,
-    "applied_at": "2026-09-13"
+    "applied_at": "2026-09-13",
+    "audit_status": "AUDITED",
+    "audit_timestamp": "2026-09-13T09:15:00-05:00"
   },
   {
     "company": "PTR Global",
@@ -12408,7 +12448,9 @@
     "strategy_bucket": "CONTRACT ESCAPE HATCH",
     "traffic": "YELLOW",
     "screen": 65,
-    "capability": 72
+    "capability": 72,
+    "audit_status": "AUDITED",
+    "audit_timestamp": "2026-09-13T09:15:00-05:00"
   },
   {
     "company": "Insight Global",
@@ -12423,7 +12465,9 @@
     "strategy_bucket": "NO APPLY",
     "traffic": "RED",
     "status_class": "status-closed",
-    "screen": 20
+    "screen": 20,
+    "audit_status": "AUDITED",
+    "audit_timestamp": "2026-09-13T09:15:00-05:00"
   },
   {
     "company": "Motion Recruitment",
@@ -12438,7 +12482,9 @@
     "strategy_bucket": "NO APPLY",
     "traffic": "RED",
     "screen": 35,
-    "capability": 55
+    "capability": 55,
+    "audit_status": "AUDITED",
+    "audit_timestamp": "2026-09-13T09:15:00-05:00"
   },
   {
     "company": "Hirewell",
@@ -12453,7 +12499,9 @@
     "strategy_bucket": "NO APPLY",
     "traffic": "YELLOW",
     "screen": 80,
-    "capability": 84
+    "capability": 84,
+    "audit_status": "AUDITED",
+    "audit_timestamp": "2026-09-13T09:15:00-05:00"
   },
   {
     "company": "Bel",
@@ -12470,7 +12518,9 @@
     "traffic": "PIPELINE",
     "screen": 80,
     "capability": 85,
-    "applied_at": "2026-09-13"
+    "applied_at": "2026-09-13",
+    "audit_status": "AUDITED",
+    "audit_timestamp": "2026-09-13T09:15:00-05:00"
   },
   {
     "company": "Cotiviti",
@@ -12485,7 +12535,9 @@
     "strategy_bucket": "NO APPLY",
     "traffic": "RED",
     "screen": 45,
-    "capability": 85
+    "capability": 85,
+    "audit_status": "AUDITED",
+    "audit_timestamp": "2026-09-13T09:15:00-05:00"
   },
   {
     "company": "Intrado",
@@ -12501,7 +12553,9 @@
     "strategy_bucket": "APPLY ASAP",
     "traffic": "GREEN",
     "screen": 85,
-    "capability": 90
+    "capability": 90,
+    "audit_status": "AUDITED",
+    "audit_timestamp": "2026-09-13T09:15:00-05:00"
   },
   {
     "company": "Versapay",
@@ -12517,7 +12571,9 @@
     "strategy_bucket": "NO APPLY",
     "traffic": "RED",
     "screen": 68,
-    "capability": 80
+    "capability": 80,
+    "audit_status": "AUDITED",
+    "audit_timestamp": "2026-09-13T09:15:00-05:00"
   },
   {
     "company": "UNFI",
@@ -12533,7 +12589,9 @@
     "strategy_bucket": "NO APPLY",
     "traffic": "RED",
     "screen": 78,
-    "capability": 84
+    "capability": 84,
+    "audit_status": "AUDITED",
+    "audit_timestamp": "2026-09-13T09:15:00-05:00"
   },
   {
     "company": "Apryse",
@@ -12548,7 +12606,9 @@
     "strategy_bucket": "NO APPLY",
     "traffic": "RED",
     "screen": 72,
-    "capability": 78
+    "capability": 78,
+    "audit_status": "AUDITED",
+    "audit_timestamp": "2026-09-13T09:15:00-05:00"
   },
   {
     "company": "Veralto",
@@ -12563,7 +12623,9 @@
     "strategy_bucket": "NO APPLY",
     "traffic": "RED",
     "screen": 65,
-    "capability": 75
+    "capability": 75,
+    "audit_status": "AUDITED",
+    "audit_timestamp": "2026-09-13T09:15:00-05:00"
   },
   {
     "company": "SAP Program/Delivery Lead",
@@ -12577,7 +12639,9 @@
     "strategy_bucket": "NO APPLY",
     "traffic": "RED",
     "screen": 60,
-    "capability": 72
+    "capability": 72,
+    "audit_status": "AUDITED",
+    "audit_timestamp": "2026-09-13T09:15:00-05:00"
   },
   {
     "company": "Perform Properties",
@@ -12591,7 +12655,9 @@
     "strategy_bucket": "NO APPLY",
     "traffic": "RED",
     "screen": 55,
-    "capability": 70
+    "capability": 70,
+    "audit_status": "AUDITED",
+    "audit_timestamp": "2026-09-13T09:15:00-05:00"
   },
   {
     "company": "Confidential Industrial Tech",
@@ -12605,7 +12671,9 @@
     "strategy_bucket": "NO APPLY",
     "traffic": "RED",
     "screen": 50,
-    "capability": 65
+    "capability": 65,
+    "audit_status": "AUDITED",
+    "audit_timestamp": "2026-09-13T09:15:00-05:00"
   },
   {
     "company": "Sims Limited",
@@ -12619,7 +12687,9 @@
     "strategy_bucket": "NO APPLY",
     "traffic": "RED",
     "screen": 30,
-    "capability": 60
+    "capability": 60,
+    "audit_status": "AUDITED",
+    "audit_timestamp": "2026-09-13T09:15:00-05:00"
   },
   {
     "company": "Motion Recruitment",
@@ -12633,7 +12703,9 @@
     "strategy_bucket": "NO APPLY",
     "traffic": "RED",
     "screen": 35,
-    "capability": 55
+    "capability": 55,
+    "audit_status": "AUDITED",
+    "audit_timestamp": "2026-09-13T09:15:00-05:00"
   },
   {
     "rank": 279,
