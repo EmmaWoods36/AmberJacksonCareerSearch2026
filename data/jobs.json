@@ -12256,7 +12256,7 @@
     "location": "Remote",
     "salary": "$50-75/hr",
     "url": "https://www.simplyhired.com/job/3kBTwgwSu2frH89SNskKiRel-hbPVqi_AEy18Rmo3oFfQxKriuQ7OA",
-    "tracker_status": "Blocked — Indeed bot-detection wall (anonymous sign-in redirect). Amber to apply from her own Indeed account. Resume ready.",
+    "tracker_status": "AMBER MANUAL — resume built Sep 13 PM; handoff doc delivered with job link + login pattern. Awaiting her submission.",
     "verified_at": "2026-09-13",
     "source": "ChatGPT contract index (re-shared Sep 13 2026)",
     "notes": "Contract. Screening est 92%. Green tier priority per Amber's index.",
@@ -12266,7 +12266,8 @@
     "capability": 80,
     "audit_status": "AUDITED",
     "audit_timestamp": "2026-09-13T09:15:00-05:00",
-    "status": "amber-manual"
+    "status": "amber-manual",
+    "last_action": "2026-09-13 PM: Elfonze-tailored 2-page resume built + QA-passed; handed to Amber for manual apply via her own Indeed/SimplyHired account (bot-wall)."
   },
   {
     "company": "Genesis10",
