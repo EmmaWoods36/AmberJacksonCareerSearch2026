@@ -48,14 +48,14 @@ Started Sep 12, 2026. All dates US Central.
 
 | Company | Role | Portal | Status | Finish instructions |
 |---|---|---|---|---|
-| Vantive | Associate Director, Supply Chain Development | Workday | 100% filled server-side, Amber finishing attach + submit | Sign in at careers.vantive.com with amber.jackson94hks@gmail.com / Aj@Vantive2026!Seek → Edit Attachments → upload Vantive resume PDF → Submit |
-| UNFI | Sr. IT Manager, Food Safety, Quality & Traceability (IT US RI Providence) | Taleo | 9/9 steps complete, SAVED AS DRAFT at Review & Submit | Reopen https://jobs.unfi.com/apply/14638/sr-it-manager-food-safety-quality-and-traceability-it-us-ri-providence/ after signing in (amber.jackson94hks@gmail.com / Aj@UNFI2026!Seek) → Edit Attachments → upload UNFI resume PDF → Submit |
+| Vantive | Associate Director, Supply Chain Development | Workday | SUBMITTED by agent Sep 13 PM — Workday read "Application Submitted"; Candidate Home "In Progress" | Zombie clock Wed Sep 30, 2026 |
+| UNFI | Sr. IT Manager, Food Safety, Quality & Traceability (IT US RI Providence) | Taleo | SUBMITTED by agent Sep 13 PM — Taleo read "Process completed"; My Submissions shows Completed | Zombie clock Wed Sep 30, 2026 |
 
 ## Zombie-clock rules
 - Clock starts on the SUBMISSION date (not draft date).
 - Before the 10-business-day mark: no nudges, no recruiter outreach.
 - After 10 business days with no response: mark as "zombie" in the weekly cadence, then decide (recruiter email / LinkedIn touch / deprioritize).
-- Log Vantive and UNFI dates here as soon as Amber confirms she submitted them.
+- Vantive + UNFI submitted by agent Sep 13 PM (portal-confirmed; confirmation emails since received by Amber).
 
 ## Fresh batch — hunted & verified Sep 12, 2026 (Chicago)
 
@@ -75,8 +75,8 @@ Full detail: fresh_batch_sep12.md in workspace.
 ## Zombie clock — pending start
 | Application | Submitted | Follow-up eligible |
 |---|---|---|
-| Vantive | TBD — Amber finishing | TBD |
-| UNFI | TBD — Amber finishing | TBD |
+| Vantive | Sep 13, 2026 (agent) | Wed Sep 30, 2026 |
+| UNFI | Sep 13, 2026 (agent) | Wed Sep 30, 2026 |
 
 ## Central Business Solutions — Master Data Specialist (SAP MDG / S/4HANA) — BLOCKED BY CAPTCHA (Sep 13, 2026)
 - Job ID 16854349, 100% Remote, Long Term Contract (NJ-based agency)
@@ -173,3 +173,11 @@ Full detail: fresh_batch_sep12.md in workspace.
 - **Zombie clock:** Sep 30, 2026 (10 US business days).
 - **Screen score:** 91% honest screen (jobs.json rank 179, Tier A Prime) — this is the role the 91% chip belongs to.
 - **Confirmation email:** VERIFIED via Gmail - "We Received Your Application for Global Supply Chain Risk Manager - 31157547" from Abbott-HR-Workday, received Sep 13, 2026 2:54 PM CDT.
+
+## 2026-09-13 (evening) — UNFI O2C Application WITHDRAWN (user request)
+- **Role**: Senior Manager, Business Process – SAP Order to Cash (Remote) — UNFI, req 177933 / job 14976
+- **Action**: WITHDRAWN via Taleo portal (My Submissions → Withdraw) at user request, same day as submission (~2 hrs after applying).
+- **Reason given to UNFI**: "After further reflection, I have decided to pursue other opportunities that are a closer fit with my background."
+- **Portal evidence**: My Submissions now lists the O2C role under "Withdrawn Submissions — Withdrawn, Updated Sep 13, 2026" (screenshot: unfi_o2c_withdrawn.png). Food Safety IT Manager (req 177471) remains Completed/Active.
+- **Status change**: jobs.json + dashboard → status "withdrawn", strategy bucket WITHDRAWN. Do NOT re-apply this req.
+- **Net campaign effect**: agent-submitted count 29 total, 28 active (1 withdrawn). Zombie clock for this role cancelled.
