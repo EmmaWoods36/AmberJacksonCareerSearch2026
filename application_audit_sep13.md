@@ -63,3 +63,5 @@
 - New tier scale (per Amber, Sep 13 afternoon): 96+ Gaping Green, 88+ Green, 75-87 Yellow, <75 Red unless exceptional upside.
 - Novartis Workday account used for both submissions: amber.jackson94hks@gmail.com / Aj@Novartis2026!Seek. Both applications submitted Sep 13, 2026 — Candidate Home shows "Active (2)": REQ-10086344 and REQ-10086353, both "Screening Phase In Process", Date Submitted September 13, 2026. Portal confirmation screenshot saved (novartis_ad_submitted.png) and shared.
 - Progress Rail Brassring account: amber.jackson94hks@gmail.com / Aj@ProgressRail2026!Seek (security answers: street-Gloucester, pet-Miku, vacation-Bourbonnais).
+
+| 28 | Abbott | Senior Manager Supply Chain | 31159318 | Workday (agent) | Full 2-page PDF | Applied (agent, Sep 13 2026) | "Resume Received | September 13, 2026" + submitted modal | https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers2/job/United-States---Illinois---Abbott-Park/Senior-Manager-Supply-Chain_31159318 |

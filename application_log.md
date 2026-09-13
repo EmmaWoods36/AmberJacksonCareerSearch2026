@@ -153,3 +153,13 @@ Full detail: fresh_batch_sep12.md in workspace.
 - Apryse: IL not in eligible states — skip.
 - Elfonze: Indeed bot-detection wall — Amber manual queue (her Indeed account).
 - Resultant Manager, Digital Transformation: honest re-score 78%; Senior variant stays ~35% (pure consulting tenure gate). Full 2-page resume REBUILT (page 2 now 75% fill, "data pipeline" wording removed per no-pipeline rule) and QA-passed.
+
+## 2026-09-13 — Abbott (agent-submitted)
+- **Company/Role**: Abbott — Senior Manager Supply Chain (req 31159318, Abbott Park IL, TM Transfusion Medicine, onsite, $129.3K–$258.7K)
+- **Action**: Applied via Abbott Workday (abbott.wd5.myworkdayjobs.com), account amber.jackson94hks@gmail.com created Sep 13 2026
+- **Resume**: Full 2-page tailored resume (Amber_Jackson_Abbott_Senior_Manager_Supply_Chain_Resume.pdf, 71.6 KB) uploaded
+- **Portal evidence**: "Application Submitted — Your application has successfully been submitted." Candidate Home shows: Senior Manager Supply Chain | 31159318 | Resume Received | September 13, 2026
+- **Double-application check**: Amber's only prior Abbott application was Manager of Global Project and Programs, Business Excellence (Wave 1 notebook, 8/14/26) — this req was never applied by anyone
+- **Screen score**: 85-88% (honest); work history, EEO (Black/Female/not veteran/disability: Osteogenesis Imperfecta = Yes), CC-305 signed 09/13/2026
+- **Zombie clock**: Sep 30, 2026
+- **Wave-1 notebook imported**: 36 entries from Amber's handwritten batch-1 tracker logged into jobs.json (Combined Metals 2nd interview, International Motors x2 interviewed, rejections for Grainger/SEI/Coca-Cola/Rakuten/Strongpoint/Siemens/Deloitte x2/Syniti, etc.)
