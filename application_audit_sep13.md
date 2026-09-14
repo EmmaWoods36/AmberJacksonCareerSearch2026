@@ -56,8 +56,8 @@
 | Central Business Solutions — Master Data Specialist, SAP MDG/S4 | 16854349 | hCaptcha on CATS; email draft to recruiter prepared but NOT sent (declined) | FULL |
 | Resultant — Manager, Digital Transformation | 744000137951059 | DataDome on SmartRecruiters; email draft to careers@resultant.com prepared but NOT sent (declined) | FULL (rebuilt Sep 13 PM, 75%) |
 | Elfonze — Lead, SAP MDG | — | Indeed/SimplyHired bot-detection wall; needs her Indeed account | FULL 2-pg BUILT Sep 13 PM + QA-passed; handoff doc delivered |
-| **Nufarm — Regional Planning Technology Analytics & Data (TAD) Lead** (Alsip IL, $110.9K–$141.4K) | **10512** | **SuccessFactors Google reCAPTCHA blocked registration (form pre-filled + screenshotted; account NOT created — use Aj@Nufarm2026!Seek)** | **FULL 2-pg built Sep 13 evening (91% p2), QA-passed** |
-| **L3Harris — Senior Specialist, Data Governance** (Remote US / Melbourne FL) | **41923** | **Oracle portal: account CREATED (amber.jackson94hks@gmail.com / Aj@L3Harris26!S) + profile started, but resume-upload widget hard-freezes automated browsers (3 attempts, fresh sessions). Application NOT submitted — sign in, upload resume, ~10 min to finish** | **FULL 2-pg built Sep 13 evening (81% p2), QA-passed** |
+| **Nufarm — Regional Planning Technology Analytics & Data (TAD) Lead** (Alsip IL, $110.9K–$141.4K) | **10512** | **SuccessFactors Google reCAPTCHA blocked registration (form pre-filled + screenshotted; account NOT created — use password on file with Amber)** | **FULL 2-pg built Sep 13 evening (91% p2), QA-passed** |
+| **L3Harris — Senior Specialist, Data Governance** (Remote US / Melbourne FL) | **41923** | **Oracle portal: account CREATED (credentials in Amber's private handoff (not published)) + profile started, but resume-upload widget hard-freezes automated browsers (3 attempts, fresh sessions). Application NOT submitted — sign in, upload resume, ~10 min to finish** | **FULL 2-pg built Sep 13 evening (81% p2), QA-passed** |
 
 ## Skipped per Amber's >70% rule or gates (Sep 13)
 
@@ -78,10 +78,10 @@
 - Sep 12 zombie clock: +10 US business days → Sep 25. Sep 13 apps → Sep 30.
 - **New standing rule (Amber, Sep 13 evening): "Regardless of compensation, if it's green, apply" — comp no longer gates green-role applications. Nufarm and L3Harris were re-opened as safety nets under this rule.**
 - **Gallagher Bassett — VERIFIED CLOSED Sep 13:** the Manager, Claims Data & Analytics posting is gone from jobs.gallagherbassett.com (absent across all 269 listings) and AJG iCIMS; the prior listing also carried a P&C insurance license hidden gate. Do not chase it.
-- Morningstar duplicate detail: her Aug 25 application + agent's Sep 12 application both sit on Workday req REQ-058077 under amber.jackson94hks@gmail.com (agent account pw: Aj@Morningstar2026!Seek). No third touch ever.
+- Morningstar duplicate detail: her Aug 25 application + agent's Sep 12 application both sit on Workday req REQ-058077 under amber.jackson94hks@gmail.com (agent account pw: on file with Amber). No third touch ever.
 - New tier scale (per Amber, Sep 13 afternoon): 96+ Gaping Green, 88+ Green, 75-87 Yellow, <75 Red unless exceptional upside.
-- Novartis Workday account used for both submissions: amber.jackson94hks@gmail.com / Aj@Novartis2026!Seek. Both applications submitted Sep 13, 2026 — Candidate Home shows "Active (2)": REQ-10086344 and REQ-10086353, both "Screening Phase In Process", Date Submitted September 13, 2026. Portal confirmation screenshot saved (novartis_ad_submitted.png) and shared.
-- Progress Rail Brassring account: amber.jackson94hks@gmail.com / Aj@ProgressRail2026!Seek (security answers: street-Gloucester, pet-Miku, vacation-Bourbonnais).
+- Novartis Workday account used for both submissions: credentials in Amber's private handoff (not published). Both applications submitted Sep 13, 2026 — Candidate Home shows "Active (2)": REQ-10086344 and REQ-10086353, both "Screening Phase In Process", Date Submitted September 13, 2026. Portal confirmation screenshot saved (novartis_ad_submitted.png) and shared.
+- Progress Rail Brassring account: credentials in Amber's private handoff (not published) (security answers: street-Gloucester, pet-Miku, vacation-Bourbonnais).
 
 
 

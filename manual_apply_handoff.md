@@ -5,7 +5,7 @@ These six applications were blocked by bot-protection walls or upload widgets th
 
 **Your info for forms:** Amber Jackson · 832 Gloucester Ct, Bourbonnais IL 60914 · (773) 701-3704 Mobile · amber.jackson94hks@gmail.com · Kankakee County · Full-Time (except Elfonze contract) · Start date Nov 2, 2026 · Salary $155K–$170K (contract roles: use posted rate) · US Citizen · EEO: Black / Female / not a protected veteran / disability: Yes (Osteogenesis Imperfecta).
 
-**Account credential pattern used across this campaign:** email = amber.jackson94hks@gmail.com, password = `Aj@<Company>2026!Seek` (e.g. Aj@Intrado2026!Seek). If a portal asks to create an account, keep the pattern so you can find it later.
+**Account credential pattern used across this campaign:** email = amber.jackson94hks@gmail.com; password pattern is private — Amber has it in her records. If a portal asks to create an account, keep the pattern so you can find it later.
 
 ---
 
@@ -43,7 +43,7 @@ These six applications were blocked by bot-protection walls or upload widgets th
 - **Job link (direct):** https://career41.sapsf.com/career?career_ns=job_listing&company=nufarmlimi&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=10512&selected_lang=en_US — or go nufarm.com/careers → SEARCH JOBS → req 10512
 - **Resume:** `Nufarm_Regional Planning Technology Analytics & Data (TAD) Lead_Amber_Jackson_Resume.pdf` (2 pages, QA-passed) — shared as an asset in this thread.
 - **Portal:** SAP SuccessFactors (career41.sapsf.com). Registration form was fully pre-filled by the agent but the Google reCAPTCHA checkbox is un-clickable by automation. Screenshot of the pre-filled form: `nufarm_prefilled_form.png`.
-- **Account to create:** amber.jackson94hks@gmail.com / `Aj@Nufarm2026!Seek` (never registered — captcha blocked it). First/Last: Amber Jackson · Phone: (773) 701-3704 · Country: US.
+- **Account to create:** amber.jackson94hks@gmail.com / (password on file with Amber — pattern private) (never registered — captcha blocked it). First/Last: Amber Jackson · Phone: (773) 701-3704 · Country: US.
 - **Then:** register → Apply to req 10512 → upload the resume → fill standard fields (address, work auth US, no sponsorship needed, EEO: Black / Female / not protected veteran / disability Yes — Osteogenesis Imperfecta, start Nov 2, 2026, salary "Negotiable, target $155K–$170K").
 
 ## 6. L3Harris — Senior Specialist, Data Governance (Job ID 41923)
@@ -51,7 +51,7 @@ These six applications were blocked by bot-protection walls or upload widgets th
 - **Job posting:** https://careers.l3harris.com/en/job/united-states/senior-specialist-data-governance/4832/98517797968
 - **Apply portal:** https://career-hcm20.ns2cloud.com/careers?company=L3HHCM20&clientId=jobs2web&career_ns=job_application&career_job_req_id=41923
 - **Resume:** `L3Harris_Senior Specialist, Data Governance_Amber_Jackson_Resume.pdf` (2 pages, QA-passed) — shared as an asset in this thread.
-- **Account ALREADY CREATED — just sign in:** amber.jackson94hks@gmail.com / `Aj@L3Harris26!S` (Oracle portal caps passwords at 18 chars, hence the short variant).
+- **Account ALREADY CREATED — just sign in:** amber.jackson94hks@gmail.com / (password on file with Amber — pattern private) (Oracle portal caps passwords at 18 chars, hence the short variant).
 - **What's done:** account created + privacy notice accepted; profile has your name, email, and phone. The portal's resume-upload widget hard-freezes automated browsers (tried 3 times across fresh sessions), so nothing was uploaded and the application was NOT submitted.
 - **Then:** sign in → the req 41923 application page opens automatically → Upload a Resume (the PDF above) → fill Previous Employment (CSL Behring, Bradley IL 2020–2026 + Sumitomo) and Education (MBA MTSU, GPA 3.67 · BA Valparaiso) → Job-Specific answers: heard about = Job Board; worked at L3Harris = No; government entity = No; ITT/Exelis/L3/Aerojet = No; EY/auditor = No; authorized to work US = Yes; sponsorship = No; date available = 11/02/2026; security-clearance questions = No impediment, US Citizen; EEO = Female / Hispanic? No — Black, not a protected veteran, disability Yes (Osteogenesis Imperfecta) → Apply.
 
