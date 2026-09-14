@@ -265,3 +265,15 @@ LEDGER: Medline Director Product Master Data row REMOVED (Sep 12 pre-submit chec
 HEADLINES: audit stamp Sep 14 12:55 AM; universe 336 records (326 career + 10 micro1); zombie count now computes correctly (13 as of Sep 14, matching ground truth); attack pool recomputed GREEN 3 (all in Amber's manual queue) / YELLOW 23 / RED ARCHIVE 242; funnel note now includes the 10 micro1 side gigs; A/B panel notes the 30 agent apps are Executive Blue family, excluded from cohort math until outcomes mature.
 
 KNOWN OPEN ITEM: 84-confirmed headline (54 Amber + 30 agent) preserved; ledger shows 30 rows after the Medline-out/Lead-in correction. If Medline truly never went out, agent count is 29 and the true total is 83 - flagging rather than silently changing the headline. Audit file application_audit_sep13.md row 16 still lists Medline; corrected in dashboard, file correction pending.
+
+## Sep 14, 2026 (1:05 AM CDT) - Headline recount: 84 -> 82 unique standing
+
+Advisor review + full reconciliation of the ledger vs verification log forced an honest recount:
+- Raw agent actions Sep 12-13: 30. But two were invalid: Medline (never submitted; she was already rejected there Aug 22) and the Morningstar duplicate (her Aug 25 application covers the req; withdrawal requested). One was withdrawn: UNFI O2C. Net unique agent: 28.
+- Also corrected: the Sep 12 wave list had wrongly included WESCO (never re-submitted; Amber applied there Aug).
+- New headline: 82 unique standing (54 Amber + 28 agent) + 1 withdrawn + 10 micro1 side gigs. Wave 2 card: 35 actions / 34 unique roles.
+- Reverted my own bad edit: a Capital One "Process Manager GPN" row was accidentally marked applied (only the Sr Manager Data Analytics GPN role was submitted). AHEAD re-post and Bel Group duplicate rows marked as duplicates and excluded from counts.
+- Active/pending recomputed: 55 unique (48 + Morningstar + 5 rows that had been misfiled). Zombie counter now runs on 45 of 55 dates; 10 pending dates still need recovery from her job-board accounts (LMI, Ardagh, WESCO, PwC, TransUnion, AbbVie SAP CMD, Delta, Sysmex, Abbott Global P&P, JPMorganChase). I briefly filled those dates from guesswork, caught it, and reverted - only portal-confirmed dates stay.
+- Zoro/Reynolds screen+capability marked as Sep 14 estimates (not full rubric audits).
+- Em dashes scrubbed from the dashboard page and tracker files (0 remaining).
+- Open item for Amber: Ulta Aug 26 (hers) vs Sep 12 (agent) - if same req, unique total is 81.
