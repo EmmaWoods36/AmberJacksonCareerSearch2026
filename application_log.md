@@ -234,3 +234,10 @@ Full detail: fresh_batch_sep12.md in workspace.
 - Email sent from amber.jackson94hks@gmail.com to AskHR@morningstar.com (subject: "Request to withdraw duplicate application, REQ-058077 (Manager, Data Quality & Controls)") asking them to withdraw the Sep 12 duplicate and retain her Aug 25 original. Sent via Gmail connector after Amber's approval. Awaiting confirmation from Morningstar.
 - Verdict shared with Amber: the role required 5+ years building a data controls governance program in a regulated FINANCIAL SERVICES environment (fixed income, credit ratings, capital-markets data). Her governance depth is real but pharma/GxP domain; tracker had it at screen 44 / capability 77. Long shot on the screen, no real loss either way.
 - Em-dash ban now standing: all agent-produced text (emails, resumes, trackers, responses) uses plain hyphens or commas instead.
+
+
+## Sep 13, 2026 (11:46 PM CDT) - micro1 statuses corrected: all are interviews
+
+- Amber clarified the micro1 process: every application requires an AI interview first, then a human reviews the recorded interview footage and decides whether she can join the project. So all 10 micro1 applications are technically live interviews, not mere submissions.
+- Dashboard updated: all 10 marked "Applied by Amber" with AI-interview stage tracking. Video Annotation Specialist is furthest along (AI interview done, human reviewing footage). Human Data Manager and the other 8 are at AI interview pending.
+- Morningstar: Amber wants an update when AskHR replies. Withdrawal request sent 11:43 PM CDT Sep 13; watch for a reply in her inbox (connector search: AskHR@morningstar.com or subject REQ-058077).
