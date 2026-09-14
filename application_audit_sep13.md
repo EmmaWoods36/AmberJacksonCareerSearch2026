@@ -85,3 +85,22 @@
 
 
 
+
+## micro1 applications (10 total — ALL applied by Amber, not the agent)
+
+Amber applied directly on jobs.micro1.ai (she met basic qualifications on every one, per her statement Sep 13). Added to the master index (ranks 1001-1010) at her instruction. These are side-gig / income-bridge roles alongside the main search — comp does not gate them per the "if it's green, apply" rule, and these were her explicit choices.
+
+| # | Role | Type | Applied | Status (per her dashboard screenshot) |
+|---|------|------|---------|----------------------------------------|
+| 1 | Human Data Manager | FULL-TIME, $40-$60/hr | Sep 13, 2026 | Interview pending (1 opening) |
+| 2 | AI Evaluation Specialist | Contract | Sep 13, 2026 | Interview pending (10 openings) |
+| 3 | AI Agent Power User | Contract | Sep 13, 2026 | Interview pending (10 openings) |
+| 4 | Data Analyst | Contract | Sep 13, 2026 | Interview pending (50 openings) |
+| 5 | Generalist | Contract | Sep 10, 2026 | Interview pending (10,000 openings) |
+| 6 | Video Annotation Specialist | Contract | Sep 10, 2026 | HIRING MANAGER REVIEWING (10,000 openings) — furthest along |
+| 7 | Product Management Specialist | Contract | Sep 13, 2026 | Interview pending (15 openings) |
+| 8 | Business Document Expert (Excel, PowerPoint, Word) | Contract | Sep 13, 2026 | Interview pending (100 openings) |
+| 9 | Voice Recorder (Japanese + English) | Contract | Sep 13, 2026 | Interview pending (80 openings) — her JLPT N2 is a strong fit |
+| 10 | Excel Specialist | Contract | Sep 13, 2026 | Interview pending (100 openings) |
+
+Notes: full 2-page tailored resume for Human Data Manager built and QA-passed Sep 13 (micro1_Human Data Manager_Amber_Jackson_Resume.pdf). micro1 applications keyed to her account on jobs.micro1.ai (email sign-in).
