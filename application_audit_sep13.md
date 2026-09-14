@@ -27,7 +27,7 @@
 | 13 | Enlyte  -  Senior Director, Data Strategy & Transformation |  -  | [Posting](https://careers-enlyte.icims.com/) | THIN | Sep 12 |
 | 14 | Novolex  -  Manager, Demand & Inventory Analytics |  -  | [Posting](https://jobs.novolex.com/) | THIN | Sep 12 |
 | 15 | Novolex  -  Manager, Supply & Capacity Analytics |  -  | [Posting](https://jobs.novolex.com/) | THIN | Sep 12 |
-| 16 | Medline  -  Director, Product Master Data |  -  | [Posting](https://www.medline.com/careers/) | THIN | Sep 12 |
+| 16 | ~~Medline  -  Director, Product Master Data~~ |  -  | [Posting](https://www.medline.com/careers/) | THIN | REMOVED Sep 14: pre-submit check found Amber already applied Aug 22 and was rejected ("No Longer Under Consideration"). Never submitted by agent; ledger corrected. |
 | 17 | Experis  -  SAP Master Data Support Analyst |  -  | [Posting](https://www.experis.com/) | 74% (borderline) | Sep 13 |
 | 18 | Komatsu  -  IT Manager, Data & Analytics |  -  | [Posting](https://komatsu.wd1.myworkdayjobs.com/Careers) | FULL (88%) | Sep 13 |
 | 19 | dv01  -  Data Governance Lead |  -  | [Posting](https://jobs.lever.co/dv01) | FULL (87%) | Sep 13 |

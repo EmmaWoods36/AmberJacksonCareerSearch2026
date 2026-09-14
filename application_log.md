@@ -251,3 +251,17 @@ Full detail: fresh_batch_sep12.md in workspace.
 
 - Caught a sync bug: the repo has TWO dashboard copies (root index.html, which GitHub Pages serves, and command_center/v4_1/index.html). I had been syncing only the v4_1 copy, so the LIVE page was still showing the old 324-role JSON. The Resultant Sr Manager skip, the micro1 batch, and morning status updates were all missing from the live site even though the repo files were correct.
 - Fixed: copied the fresh 334-role JSON into root index.html, scrubbed, committed e6aefe9, pushed, and VERIFIED live via curl: "SKIPPED per Amber, Sep 14" now renders on the live page, micro1 entries present. Root and v4_1 copies confirmed in sync.
+
+## Sep 14, 2026 (12:30-1:00 AM CDT) - Full dashboard audit + data-layer repair (per Amber: "update the entirety")
+
+Amber flagged stale dashboard cards. Full sweep found and fixed:
+
+CARDS (Strong Fits + others): Vantive now APPLIED SEP 13 BY AGENT (was "reviewed Sep 7" with open-apply button); Abbott Risk Manager status note updated; Regal Rexnord Supply Chain Program Manager flipped to CLOSED SEP 12 / DO NOT APPLY (verified closed but still showed SAFETY NET + Open role button); AMETEK updated to SUBMITTED SEP 9 (Plain Jane test); Progress Rail APPLIED SEP 13 (req 12096BR); Ferrara APPLIED SEP 12; Savant APPLIED SEP 12 (Lever).
+
+DATA LAYER (jobs.json, 334 -> 336 rows): Molex, Savant, Capital One GPN + BES, Crystal Clean, both Abbott rows set to applied with dates (were "Not Applied"); Novolex Supply & Capacity status fixed; US Foods reconciled (applied Sep 12, posting since filled); Rush University row corrected to applied Sep 7 + rejected within 12 hours; Zoro.com and Reynolds rows ADDED (submitted Sep 12 but never in universe); all applied_at values normalized to ISO dates (14 rows had text/timestamp formats that silently broke the live zombie counter - this is why the live page disagreed with the tracker); duplicate rows neutralized (AbbVie rank 159 = already-rejected role re-added from weekend batch; Cotiviti rank 300 = ChatGPT re-add of rank 131); Resultant Sr Manager skip flag from earlier tonight.
+
+LEDGER: Medline Director Product Master Data row REMOVED (Sep 12 pre-submit check found Amber already applied Aug 22 and was rejected there - never a valid agent submission); Blue Star Lead (job 1041181, submitted Sep 13 PM) ADDED - it was missing; header count corrected 29 -> 30.
+
+HEADLINES: audit stamp Sep 14 12:55 AM; universe 336 records (326 career + 10 micro1); zombie count now computes correctly (13 as of Sep 14, matching ground truth); attack pool recomputed GREEN 3 (all in Amber's manual queue) / YELLOW 23 / RED ARCHIVE 242; funnel note now includes the 10 micro1 side gigs; A/B panel notes the 30 agent apps are Executive Blue family, excluded from cohort math until outcomes mature.
+
+KNOWN OPEN ITEM: 84-confirmed headline (54 Amber + 30 agent) preserved; ledger shows 30 rows after the Medline-out/Lead-in correction. If Medline truly never went out, agent count is 29 and the true total is 83 - flagging rather than silently changing the headline. Audit file application_audit_sep13.md row 16 still lists Medline; corrected in dashboard, file correction pending.
