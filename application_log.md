@@ -246,3 +246,8 @@ Full detail: fresh_batch_sep12.md in workspace.
 ## Sep 14, 2026 (12:36 AM CDT) - Resultant Sr. Manager removed from queue
 
 - Amber: "why is one of these a 35 screening score?! That doesn't belong in the queue. I'll apply to the others." The Sr. Manager, Digital Transformation variant scores screen 35 (posting requires 9-13+ years progressive leadership, consulting strongly preferred; she has no consulting tenure). Removed from the Word action queue (now 7 sections, renumbered), tracker marked SKIPPED per Amber with a do-not-apply/do-not-alert flag, handoff doc updated. The Resultant MANAGER variant (78 yellow) stays in her queue.
+
+## Sep 14, 2026 (12:38 AM CDT) - Live dashboard was stale; root index.html fixed
+
+- Caught a sync bug: the repo has TWO dashboard copies (root index.html, which GitHub Pages serves, and command_center/v4_1/index.html). I had been syncing only the v4_1 copy, so the LIVE page was still showing the old 324-role JSON. The Resultant Sr Manager skip, the micro1 batch, and morning status updates were all missing from the live site even though the repo files were correct.
+- Fixed: copied the fresh 334-role JSON into root index.html, scrubbed, committed e6aefe9, pushed, and VERIFIED live via curl: "SKIPPED per Amber, Sep 14" now renders on the live page, micro1 entries present. Root and v4_1 copies confirmed in sync.
