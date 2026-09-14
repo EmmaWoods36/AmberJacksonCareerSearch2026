@@ -62,3 +62,21 @@ All applications below were submitted by your AI assistant on your behalf, with 
 
 ## Zombie-clock rules reminder
 Clock starts on submission date; 10 US business days before any follow-up. Sep 12 submissions → eligible Fri Sep 25, 2026. Sep 13 submissions → eligible Wed Sep 30, 2026.
+
+---
+
+## Late-evening update — Sep 13, 2026 (post-report addendum)
+
+**Amber's new standing rule (Sep 13 evening): "Regardless of compensation, if it's green, apply."** Comp no longer gates green-role applications. Effects:
+
+| Company | Role | Req | Screen | Outcome |
+|---|---|---|---|---|
+| Nufarm | Regional Planning Technology Analytics & Data (TAD) Lead | 10512 | 90 | **Amber-manual** — resume built (2-pg, 91% p2) + SuccessFactors registration pre-filled, but Google reCAPTCHA blocked the agent. Account NOT created; use Aj@Nufarm2026!Seek. Steps in manual handoff doc. |
+| L3Harris | Senior Specialist, Data Governance | 41923 | 94 | **Amber-manual** — resume built (2-pg, 81% p2) + Oracle account CREATED (amber.jackson94hks@gmail.com / Aj@L3Harris26!S), but the resume-upload widget hard-freezes automated browsers (3 attempts incl. a fresh browser session). Application NOT submitted — sign in + upload ≈ 10 min. Steps + all form answers in manual handoff doc. |
+| Career1Source | Manager, Data Transformation | 4461646802 | 88 | **Amber-manual** — LinkedIn robots-blocked for the agent; resume built and re-shared; apply via her LinkedIn login. |
+
+**Morningstar duplicate (agent error, owning it):** Amber applied Aug 25; the agent re-applied Sep 12 on the same Workday req (REQ-058077) under the same email. Both submissions exist; no further action without Amber's instruction.
+
+**Gallagher Bassett:** VERIFIED CLOSED Sep 13 (absent from jobs.gallagherbassett.com's 269 listings and AJG iCIMS; prior listing also had a hidden P&C insurance gate). Dashboard card now leads with "VERIFIED CLOSED SEP 13 — DO NOT CHASE."
+
+**Totals:** 84 confirmed submissions (54 Amber + 30 agent) + 1 withdrawn (UNFI O2C). Bot-blocked manual queue now 7 postings across 6 companies (Intrado, CBS, Resultant ×2, Elfonze, Nufarm, L3Harris) + Career1Source LinkedIn-gated.

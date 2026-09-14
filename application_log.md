@@ -191,3 +191,31 @@ Full detail: fresh_batch_sep12.md in workspace.
 - Applied via HiringThing in-page form (no account; keyed to amber.jackson94hks@gmail.com)
 - Portal confirmation: "We've received your application for a position at Blue Star Partners LLC. Thank you!" (eop_survey/51973673)
 - Zombie clock: 10 US business days → Wed Sep 30, 2026
+
+## 2026-09-13 (late evening) — Nufarm & L3Harris safety-net attempts + Morningstar/Gallagher cleanup
+
+### Nufarm — Regional Planning Technology Analytics & Data (TAD) Lead (req 10512) — AMBER MANUAL (captcha-blocked)
+- Amber's new rule: "Regardless of compensation, if it's green, apply" — screen 90 / capability 99 re-opened.
+- Posting verified LIVE on Nufarm's real portal: https://career41.sapsf.com/career?career_ns=job_listing&company=nufarmlimi&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=10512&selected_lang=en_US (Alsip IL, posted 08/06/2026, $110,900-$141,400). The tracker's old Indeed link replaced with this direct link.
+- FULL 2-page tailored resume built (page 2 ~91% fill, QA-passed): resumes/Nufarm_Regional Planning Technology Analytics & Data (TAD) Lead_Amber_Jackson_Resume.pdf
+- Registration on SuccessFactors fully pre-filled (email/pwd/name/phone/US) but Google reCAPTCHA v2 checkbox un-clickable by automation (5 attempts) — declared blocked per standing rule. Account NOT created. Screenshot: nufarm_prefilled_form.png.
+- Handed off to Amber with credential Aj@Nufarm2026!Seek + step-by-step in manual_apply_handoff.md (entry #5).
+
+### L3Harris — Senior Specialist, Data Governance (Job ID 41923) — AMBER MANUAL (upload widget blocks automation)
+- Screen 94 / capability 99. Posting verified LIVE: https://careers.l3harris.com/en/job/united-states/senior-specialist-data-governance/4832/98517797968 (Remote US / Melbourne FL, 9/80, $96K-$178K band).
+- FULL 2-page tailored resume built (page 2 ~81% fill, QA-passed): resumes/L3Harris_Senior Specialist, Data Governance_Amber_Jackson_Resume.pdf
+- Oracle HCM account CREATED: amber.jackson94hks@gmail.com / Aj@L3Harris26!S (18-char portal password cap). Privacy notice accepted; profile seeded (name/email/phone).
+- Resume upload attempted 3x (original tab, fresh tab, and a full fresh browser session + re-sign-in): the upload widget hard-freezes the automated browser renderer every time and the upload never persists server-side. Declared blocked per standing rule. Application NOT submitted.
+- Handed off to Amber: sign in, upload resume, fill employment/education/job-specific + EEO — ~10 min. Instructions + all form answers in manual_apply_handoff.md (entry #6).
+
+### Morningstar — DUPLICATE APPLICATION (agent error, own it)
+- Amber applied Aug 25; agent applied AGAIN Sep 12 ~2:20 PM CDT on the SAME Workday req (REQ-058077) under the same email (amber.jackson94hks@gmail.com). The Sep 12 log pass failed to catch her prior application — genuine agent error.
+- Both submissions live under her email. No re-apply, no withdraw, no third touch without Amber's explicit instruction.
+- jobs.json + audit row 6 updated to flag the duplicate.
+
+### Gallagher Bassett — verified closed (dashboard card fixed)
+- VERIFIED CLOSED Sep 13: absent from jobs.gallagherbassett.com (all 269 listings) and AJG iCIMS. Prior listing also had a hidden P&C insurance license gate.
+- Dashboard Apply ASAP card rewritten to lead with "VERIFIED CLOSED SEP 13 — DO NOT CHASE" (it previously led with the P&C gate finding, which made it look open).
+
+### Career1Source — Manager, Data Transformation (req 4461646802) — stays Amber-manual
+- LinkedIn robots-blocked for the agent. Tailored resume already built and re-shared; Amber applies via her LinkedIn login.

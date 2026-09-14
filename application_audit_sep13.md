@@ -4,8 +4,9 @@
 
 **Status key (read this first):**
 - **Submitted by agent (30):** rows 1-30 below. Includes Blue Star **LEAD** (row 22 — submitted Sep 13 PM, portal-confirmed), Vantive (#27) and UNFI Food Safety (#28) — you received confirmation emails for those.
+- **DUPLICATE — Morningstar (row 6):** you applied Aug 25; the agent applied AGAIN Sep 12 on the same Workday req (REQ-058077) under the same email. Agent error — the Sep 12 log pass missed your prior application. Both submissions exist under amber.jackson94hks@gmail.com; do NOT touch them (no re-apply, no withdraw) without Amber's instruction.
 - **Withdrawn (1):** UNFI Order to Cash — a DIFFERENT UNFI role from #28, applied then pulled back at your request (row 31).
-- **Waiting on Amber (4 companies / 5 postings):** ONLY Intrado, CBS, Resultant (Manager + Sr. Manager), and Elfonze — the captcha/bot-blocked roles in the table below. NOTHING else waits on you.
+- **Waiting on Amber (6 companies / 7 postings):** Intrado, CBS, Resultant (Manager + Sr. Manager), Elfonze, **Nufarm (req 10512 — SuccessFactors reCAPTCHA blocked registration)**, and **L3Harris (req 41923 — Oracle account CREATED, but the resume-upload widget hard-freezes automated browsers, so the application could NOT be submitted; sign in and it's a 10-minute finish)**. Full instructions in `manual_apply_handoff.md`.
 
 ## Agent-submitted applications (30 total, Sep 12-13)
 
@@ -16,7 +17,7 @@
 | 3 | Savant — Manager, BI Delivery | — | [Posting](https://jobs.lever.co/savant) | THIN | Sep 12 |
 | 4 | Ulta — Sr Manager, Supply Chain Data & Analytics | — | [Posting](https://jobs.ulta.com/) | THIN | Sep 12 |
 | 5 | US Foods — Manager, Master Data Mgmt CHEFSTORE | — | [Posting](https://www.usfoods.com/careers.html) | THIN | Sep 12 |
-| 6 | Morningstar — Manager, Data Quality & Controls | — | [Posting](https://morningstar.wd1.myworkdayjobs.com/Morningstar) | THIN | Sep 12 |
+| 6 | Morningstar — Manager, Data Quality & Controls | REQ-058077 | [Posting](https://morningstar.wd1.myworkdayjobs.com/Morningstar) | THIN | Sep 12 — **DUPLICATE: Amber already applied Aug 25; agent re-applied Sep 12 in error. Do not touch this req.** |
 | 7 | Zoro — Sr Manager, Product Information & Maintenance | — | [Posting](https://www.zoro.com/careers) | THIN | Sep 12 |
 | 8 | Reynolds — Data & Analytics Operations Manager | — | [Posting](https://careers.reynoldsconsumerproducts.com/) | THIN | Sep 12 |
 | 9 | Ferrara — Sr. Manager, ITBP Planning & Idea to Launch | — | [Posting](https://jobs.ferrara.com/) | THIN | Sep 12 |
@@ -47,7 +48,7 @@
 |---|---|---|---|---|
 | 31 | **UNFI — Sr. Manager, Business Process – SAP Order to Cash** (different role from #27 Food Safety; this one applied then withdrawn) | **177933** | O2C-tailored FULL 2-pg | **Applied ~3:00 PM CDT, withdrawn ~5:17 PM CDT same day at Amber's request (portal: "Withdrawn Sep 13 2026"). Never re-apply.** |
 
-## Amber-manual queue — ONLY these 4 companies / 5 postings (captcha/bot-blocked; everything else was submitted by the agent)
+## Amber-manual queue — 6 companies / 7 postings (bot-blocked; everything else was submitted by the agent)
 
 | Company — Role | Req | Blocker | Resume |
 |---|---|---|---|
@@ -55,6 +56,8 @@
 | Central Business Solutions — Master Data Specialist, SAP MDG/S4 | 16854349 | hCaptcha on CATS; email draft to recruiter prepared but NOT sent (declined) | FULL |
 | Resultant — Manager, Digital Transformation | 744000137951059 | DataDome on SmartRecruiters; email draft to careers@resultant.com prepared but NOT sent (declined) | FULL (rebuilt Sep 13 PM, 75%) |
 | Elfonze — Lead, SAP MDG | — | Indeed/SimplyHired bot-detection wall; needs her Indeed account | FULL 2-pg BUILT Sep 13 PM + QA-passed; handoff doc delivered |
+| **Nufarm — Regional Planning Technology Analytics & Data (TAD) Lead** (Alsip IL, $110.9K–$141.4K) | **10512** | **SuccessFactors Google reCAPTCHA blocked registration (form pre-filled + screenshotted; account NOT created — use Aj@Nufarm2026!Seek)** | **FULL 2-pg built Sep 13 evening (91% p2), QA-passed** |
+| **L3Harris — Senior Specialist, Data Governance** (Remote US / Melbourne FL) | **41923** | **Oracle portal: account CREATED (amber.jackson94hks@gmail.com / Aj@L3Harris26!S) + profile started, but resume-upload widget hard-freezes automated browsers (3 attempts, fresh sessions). Application NOT submitted — sign in, upload resume, ~10 min to finish** | **FULL 2-pg built Sep 13 evening (81% p2), QA-passed** |
 
 ## Skipped per Amber's >70% rule or gates (Sep 13)
 
@@ -73,6 +76,9 @@
 ## Notes
 - ~16 earlier "1-page era" applications (incl. AMETEK, Indeed boards) remain locked — never re-submit those reqs.
 - Sep 12 zombie clock: +10 US business days → Sep 25. Sep 13 apps → Sep 30.
+- **New standing rule (Amber, Sep 13 evening): "Regardless of compensation, if it's green, apply" — comp no longer gates green-role applications. Nufarm and L3Harris were re-opened as safety nets under this rule.**
+- **Gallagher Bassett — VERIFIED CLOSED Sep 13:** the Manager, Claims Data & Analytics posting is gone from jobs.gallagherbassett.com (absent across all 269 listings) and AJG iCIMS; the prior listing also carried a P&C insurance license hidden gate. Do not chase it.
+- Morningstar duplicate detail: her Aug 25 application + agent's Sep 12 application both sit on Workday req REQ-058077 under amber.jackson94hks@gmail.com (agent account pw: Aj@Morningstar2026!Seek). No third touch ever.
 - New tier scale (per Amber, Sep 13 afternoon): 96+ Gaping Green, 88+ Green, 75-87 Yellow, <75 Red unless exceptional upside.
 - Novartis Workday account used for both submissions: amber.jackson94hks@gmail.com / Aj@Novartis2026!Seek. Both applications submitted Sep 13, 2026 — Candidate Home shows "Active (2)": REQ-10086344 and REQ-10086353, both "Screening Phase In Process", Date Submitted September 13, 2026. Portal confirmation screenshot saved (novartis_ad_submitted.png) and shared.
 - Progress Rail Brassring account: amber.jackson94hks@gmail.com / Aj@ProgressRail2026!Seek (security answers: street-Gloucester, pet-Miku, vacation-Bourbonnais).
