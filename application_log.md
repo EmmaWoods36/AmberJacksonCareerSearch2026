@@ -241,3 +241,8 @@ Full detail: fresh_batch_sep12.md in workspace.
 - Amber clarified the micro1 process: every application requires an AI interview first, then a human reviews the recorded interview footage and decides whether she can join the project. So all 10 micro1 applications are technically live interviews, not mere submissions.
 - Dashboard updated: all 10 marked "Applied by Amber" with AI-interview stage tracking. Video Annotation Specialist is furthest along (AI interview done, human reviewing footage). Human Data Manager and the other 8 are at AI interview pending.
 - Morningstar: Amber wants an update when AskHR replies. Withdrawal request sent 11:43 PM CDT Sep 13; watch for a reply in her inbox (connector search: AskHR@morningstar.com or subject REQ-058077).
+
+
+## Sep 14, 2026 (12:36 AM CDT) - Resultant Sr. Manager removed from queue
+
+- Amber: "why is one of these a 35 screening score?! That doesn't belong in the queue. I'll apply to the others." The Sr. Manager, Digital Transformation variant scores screen 35 (posting requires 9-13+ years progressive leadership, consulting strongly preferred; she has no consulting tenure). Removed from the Word action queue (now 7 sections, renumbered), tracker marked SKIPPED per Amber with a do-not-apply/do-not-alert flag, handoff doc updated. The Resultant MANAGER variant (78 yellow) stays in her queue.

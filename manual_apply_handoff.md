@@ -23,12 +23,11 @@ These six applications were blocked by bot-protection walls or upload widgets th
 - **Notes:** This is a contract role ($50–$75/hr band); the resume is already framed for it.
 - (Email draft to recruiter Jatin Gupta exists if you prefer  -  ask for it.)
 
-## 3. Resultant  -  Manager, Digital Transformation (the better fit; also Sr. Manager variant)
+## 3. Resultant  -  Manager, Digital Transformation (the better fit)
 - **Job link (Manager):** https://jobs.smartrecruiters.com/Resultant/744000137951059-manager-digital-transformation-technology-ai-
-- **Job link (Sr. Manager):** https://jobs.smartrecruiters.com/Resultant/744000137948335-senior-manager-digital-transformation-technology-ai-
-- **Resumes:** `Resultant_Manager Digital Transformation_Amber_Jackson_Resume.pdf` and `Resultant_Senior Manager Digital Transformation_Amber_Jackson_Resume.pdf` (both in your shared assets)
+- **Resume:** `Resultant_Manager Digital Transformation_Amber_Jackson_Resume.pdf` (in your shared assets)
 - **Portal:** SmartRecruiters protected by DataDome  -  apply from your own browser (DataDome mostly flags datacenter IPs, so a home connection sails through).
-- **Notes:** Manager variant scores 78% for you; Sr. Manager is gated on consulting tenure  -  your call on one or both.
+- **Notes:** Manager variant scores 78% for you. The Sr. Manager variant (screen 35, consulting-tenure gate) was REMOVED from the queue at Amber's direction Sep 14; do not apply.
 
 ## 4. Elfonze Technologies  -  Lead, SAP Master Data Governance (contract, remote)
 - **Job link:** https://www.simplyhired.com/job/3kBTwgwSu2frH89SNskKiRel-hbPVqi_AEy18Rmo3oFfQxKriuQ7OA (re-posted on Indeed  -  apply from your own logged-in Indeed account if prompted)
