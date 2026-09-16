@@ -287,3 +287,10 @@ Advisor review + full reconciliation of the ledger vs verification log forced an
 - Savant, Manager Business Intelligence Delivery: rejection reconfirmed; already recorded Sep 14, not counted twice.
 - micro1, AI Training Expert: offer received at $90/hour, contract signing and acceptance unconfirmed. Originating application not identified in the email; one project offer recorded without adding an application or guessing which of ten applications produced it.
 - Source: user-provided employer email screenshots. Sep 16 is the recording date; no new email dates inferred.
+
+
+## Employer outcomes recorded September 16, 2026
+
+- Sysmex America: rejected per employer email from George Johnson. Email does not identify a title; matched to the sole tracked Sysmex application, Sr. Manager, IT Governance & Strategic Planning. Two screenshots show the same email, counted once.
+- Capital One: Business Manager - Enterprise Services, R241842, rejected per employer email. The separate Global Payment Network application is unchanged.
+- September 16 is the recording date; email calendar dates are not visible in the screenshots. No new applications were submitted.
