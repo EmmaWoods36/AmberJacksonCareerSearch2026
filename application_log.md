@@ -277,3 +277,13 @@ Advisor review + full reconciliation of the ledger vs verification log forced an
 - Zoro/Reynolds screen+capability marked as Sep 14 estimates (not full rubric audits).
 - Em dashes scrubbed from the dashboard page and tracker files (0 remaining).
 - Open item for Amber: Ulta Aug 26 (hers) vs Sep 12 (agent) - if same req, unique total is 81.
+
+
+## Employer status updates recorded September 16, 2026
+
+- Ferrara, Sr. Manager ITBP Planning & Idea to Launch: rejected, employer email.
+- Ulta, Sr Manager Supply Chain Data & Analytics: position filled, employer email.
+- UNFI, Sr. IT Manager Food Safety Quality & Traceability, req 177471: rejection reconfirmed; already recorded Sep 14, not counted twice.
+- Savant, Manager Business Intelligence Delivery: rejection reconfirmed; already recorded Sep 14, not counted twice.
+- micro1, AI Training Expert: offer received at $90/hour, contract signing and acceptance unconfirmed. Originating application not identified in the email; one project offer recorded without adding an application or guessing which of ten applications produced it.
+- Source: user-provided employer email screenshots. Sep 16 is the recording date; no new email dates inferred.

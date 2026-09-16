@@ -6,7 +6,7 @@
   "interview_request_events": 5,
   "distinct_positions_interviewed": 3,
   "completed_interview_meetings": 4,
-  "offers_extended": 0,
+  "offers_extended": 1,
   "zombie_threshold_business_days": 10,
   "resume_experiment": {
     "pretty_executive_blue": {
@@ -290,5 +290,22 @@
         "note": "Mixed roles including production planning, IT portfolio, data product."
       }
     ]
-  }
+  },
+  "career_offers_extended": 0,
+  "side_gig_offers_extended": 1,
+  "status_updates_as_of": "2026-09-16",
+  "offer_history": [
+    {
+      "company": "micro1",
+      "title": "AI Training Expert",
+      "status": "Offer received - contract signing pending",
+      "hourly_rate_usd": 90,
+      "recorded_at": "2026-09-16",
+      "offer_date": null,
+      "acceptance_confirmed": false,
+      "contract_signing_confirmed": false,
+      "source": "User-provided employer email from Brandon, micro1 Talent Operations.",
+      "application_mapping": "Original application not identified; do not assign this offer to a specific one of the ten micro1 applications or count a new application."
+    }
+  ]
 }
