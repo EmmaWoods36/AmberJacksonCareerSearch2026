@@ -310,3 +310,25 @@ Advisor review + full reconciliation of the ledger vs verification log forced an
 - Corrected tailored resume and cover letter attached. Correct employment dates and Bradley, IL CSL location used.
 - Desired salary: Negotiable, target $155K-$170K, per September 14 action queue.
 - Tracker: Applied / Pending. Submitted count 82 to 83; active/pending 48 to 49.
+
+
+## September 17, 2026: five-job batch completed and earlier submission reconciled
+
+| Company / role | Status | Confirmation |
+|---|---|---|
+| Resultant - Manager, Digital Transformation | Applied / Pending | SmartRecruiters: Application submitted |
+| Career1Source / Integra Partners - Manager, 18131 | Applied / Pending | Confirmation email received and reported by Amber |
+| Central Business Solutions - Master Data Specialist, SAP MDG / S/4HANA | Applied / Pending | CATS: Application received |
+| Elfonze - Lead, SAP Master Data Governance | Applied / Pending | Amber confirmed she submitted herself |
+| Intrado - Director, Enterprise Data Management | Skipped | Amber instructed us to skip after login failure |
+| L3Harris - Senior Specialist, Data Governance, 41923 | Applied / Pending | Earlier submission by Amber; exact date not reconciled |
+| Nufarm - Regional Planning Technology Analytics & Data Lead, 10512 | Applied / Pending | Previously confirmed Sep 17; salary wording subsequently corrected |
+
+- Four submissions in this five-job batch; Intrado was skipped, not rejected or submitted.
+- Elfonze was submitted by Amber after browser handoff. Career1Source is confirmed by the employer email Amber reported; do not resubmit either role.
+- L3Harris's earlier user-submitted application is newly reconciled in the tracker. Its calendar date remains blank; no automatic aging until that date is established.
+- Nufarm salary field was corrected after submission to $155,000-$170,000, removing 'Negotiable'; the portal confirmed the update. This correction is not a new application.
+- Resultant salary answer: $170,000/year; start November 2, 2026. CBS rate: $75/hour W-2, benefits to be discussed; start November 2, 2026.
+- CBS best-time-to-call field remained blank because Amber's afternoon preference arrived after submission. Do not claim a post-submission change was made.
+- Counts: standing applications 83 to 88 and active/pending 49 to 54 (four batch submissions plus L3Harris). Confirmed rejections remain 26. Existing Ulta duplicate caveat remains unresolved.
+- No applications were resubmitted and no monitoring automations were restarted.
