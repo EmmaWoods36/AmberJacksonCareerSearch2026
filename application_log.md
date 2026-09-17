@@ -294,3 +294,10 @@ Advisor review + full reconciliation of the ledger vs verification log forced an
 - Sysmex America: rejected per employer email from George Johnson. Email does not identify a title; matched to the sole tracked Sysmex application, Sr. Manager, IT Governance & Strategic Planning. Two screenshots show the same email, counted once.
 - Capital One: Business Manager - Enterprise Services, R241842, rejected per employer email. The separate Global Payment Network application is unchanged.
 - September 16 is the recording date; email calendar dates are not visible in the screenshots. No new applications were submitted.
+
+
+## September 17, 2026: Novartis rejection recorded
+
+- Director, Innovative Enterprise Data Product Lead, REQ-10086344: employer rejection confirmed. Two screenshots show one email; counted once. Calendar date not visible.
+- Rank 283 updated in both datasets and dashboards and application ledger; zombie clock canceled.
+- Confirmed rejections 25 to 26; active/pending 49 to 48; submitted applications remain 82. Associate Director REQ-10086353 remains pending.
