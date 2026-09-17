@@ -1,0 +1,30 @@
+{
+  "updated_at": "2026-09-16",
+  "purpose": "Keep closed/filled-before-consideration outcomes separate from true candidate rejections so rejection and conversion metrics are not inflated.",
+  "categories": {
+    "REJECTED_NOT_SELECTED": "Application was materially eligible for consideration and the employer declined to move the candidate forward or selected another candidate after consideration.",
+    "CLOSED_FILLED_BEFORE_CONSIDERATION": "Role was already filled, closed, canceled, or otherwise unavailable before the candidate had a realistic opportunity for consideration. Exclude from rejection-rate and resume-conversion calculations.",
+    "WITHDRAWN_SKIPPED": "Candidate chose not to continue, abandoned the application, or deliberately skipped the opportunity.",
+    "ACTIVE_PENDING": "Application remains genuinely in play."
+  },
+  "known_overrides": [
+    {
+      "company": "Ulta Beauty",
+      "title": "Sr Manager, Supply Chain Data & Analytics",
+      "applied_at": "2026-09-12",
+      "outcome": "CLOSED_FILLED_BEFORE_CONSIDERATION",
+      "notes": "Amber initially believed she had already applied. During the Sep. 12 application session, Perplexity found no prior Ulta submission and submitted the application. Amber then received the normal application-confirmation email, confirming this was the first actual submission. Ulta HR subsequently stated that the position had already been filled and that her information would be kept on file. Do not count as a rejection or as a duplicate application."
+    },
+    {
+      "company": "Oil-Dri",
+      "title": "Sr. Production Planning Data Analyst",
+      "outcome": "CLOSED_FILLED_BEFORE_CONSIDERATION",
+      "notes": "Role was filled before the recruiter screen could occur. Do not count as a candidate rejection."
+    }
+  ],
+  "analytics_policy": {
+    "rejection_rate_denominator": "Exclude CLOSED_FILLED_BEFORE_CONSIDERATION and WITHDRAWN_SKIPPED outcomes.",
+    "resume_conversion": "Exclude CLOSED_FILLED_BEFORE_CONSIDERATION because the resume did not receive a fair live-role test.",
+    "interview_conversion": "A recruiter-screen request may be recorded separately even when the role was subsequently filled before the meeting, but the terminal outcome remains CLOSED_FILLED_BEFORE_CONSIDERATION rather than rejection."
+  }
+}
