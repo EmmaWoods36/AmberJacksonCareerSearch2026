@@ -301,3 +301,12 @@ Advisor review + full reconciliation of the ledger vs verification log forced an
 - Director, Innovative Enterprise Data Product Lead, REQ-10086344: employer rejection confirmed. Two screenshots show one email; counted once. Calendar date not visible.
 - Rank 283 updated in both datasets and dashboards and application ledger; zombie clock canceled.
 - Confirmed rejections 25 to 26; active/pending 49 to 48; submitted applications remain 82. Associate Director REQ-10086353 remains pending.
+
+
+## September 17, 2026: Nufarm application submitted
+
+- Regional Planning Technology Analytics & Data (TAD) Lead, requisition 10512: submitted through Nufarm SuccessFactors.
+- Portal confirmation: "Your application has been sent. Thank you!"
+- Corrected tailored resume and cover letter attached. Correct employment dates and Bradley, IL CSL location used.
+- Desired salary: Negotiable, target $155K-$170K, per September 14 action queue.
+- Tracker: Applied / Pending. Submitted count 82 to 83; active/pending 48 to 49.
