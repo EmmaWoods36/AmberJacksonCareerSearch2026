@@ -152,5 +152,26 @@
     "triage": "Ignore",
     "next_action": "No response needed.",
     "notes": "Wrong lane and work model. The visible scope emphasizes NPI/process development, line layout, workstation design, SOPs, work instructions, process flows, routings, and production ramp-up."
+  },
+  {
+    "id": "inbound-2026-09-01-kimble-l3harris-program-scheduler",
+    "received_dates": [
+      "2026-09-01"
+    ],
+    "title": "Lead, Program Scheduler - L3Harris Technologies",
+    "employment": null,
+    "location": "Mt. Juliet, Tennessee",
+    "recruiters": [
+      {
+        "name": "Taylor",
+        "company": "Kimble Group"
+      }
+    ],
+    "source": "Unsolicited recruiter inbound",
+    "screen_estimate": null,
+    "capability_estimate": null,
+    "triage": "Declined - location / relocation",
+    "next_action": "No action. Kimble advised updating profile preferences to Illinois and senior leadership roles.",
+    "notes": "Kimble Group said they found Amber's profile and thought she could be an excellent fit for the L3Harris Lead, Program Scheduler role in Mt. Juliet. Amber replied that she is no longer in Tennessee, is not looking to relocate, and asked to be kept in mind for senior leadership roles in Illinois. Kimble acknowledged and directed her to update those profile preferences."
   }
 ]
