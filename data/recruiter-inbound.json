@@ -1,0 +1,156 @@
+[
+  {
+    "id": "inbound-2026-09-data-annotation-louisville",
+    "received_dates": [
+      "2026-09-15",
+      "2026-09-16"
+    ],
+    "title": "Data Annotation Program Lead / Data Annotation Engineer",
+    "employment": "Contract",
+    "location": "Remote; occasional travel to Louisville, Kentucky",
+    "recruiters": [
+      {
+        "name": "Dhananjay Jha",
+        "company": "Natsoft Corporation"
+      },
+      {
+        "name": "Ashish Kumar Singh",
+        "company": null
+      }
+    ],
+    "source": "Unsolicited recruiter inbound",
+    "duplicate_sourcing": true,
+    "screen_estimate": 91,
+    "capability_estimate": 97,
+    "triage": "Pursue selectively",
+    "next_action": "Ask for end client, hourly rate, contract length, W2/C2C terms, and written confirmation of remote expectations before sending a resume.",
+    "notes": "Both recruiters sent essentially the same underlying Annotation Program Lead JD. Scope includes AI quality annotation operations, annotator team leadership, guidelines and quality standards, reviewer calibration, gold-standard datasets, annotation accuracy/throughput/quality metrics, and reporting to Legal, Compliance, Responsible AI, and executives."
+  },
+  {
+    "id": "inbound-2026-09-18-tech-business-partner-supply-chain-director",
+    "received_dates": [
+      "2026-09-18"
+    ],
+    "title": "Technology Business Partner - Supply Chain, Director",
+    "employment": "Full time",
+    "location": "Menlo Park or Fremont, California; hybrid",
+    "recruiters": [
+      {
+        "name": "Anish Singh",
+        "company": null
+      }
+    ],
+    "source": "Unsolicited recruiter inbound",
+    "screen_estimate": 72,
+    "capability_estimate": 90,
+    "triage": "Do not pursue as presented",
+    "next_action": "Only revisit if location/work model or scope changes materially.",
+    "notes": "Single accountable delivery owner for the supply-chain application portfolio across product lifecycle, demand and supply planning, order and inventory management, logistics, supplier/ODM collaboration, application lifecycle, integrations, master data, production support, and team leadership."
+  },
+  {
+    "id": "inbound-2026-09-16-sap-bdc",
+    "received_dates": [
+      "2026-09-16"
+    ],
+    "title": "SAP BDC",
+    "employment": null,
+    "location": "Remote",
+    "recruiters": [
+      {
+        "name": "Ravi Kumar Pallela",
+        "company": null
+      }
+    ],
+    "source": "Unsolicited recruiter inbound",
+    "screen_estimate": 25,
+    "capability_estimate": 60,
+    "triage": "Ignore",
+    "next_action": "No response needed.",
+    "notes": "Explicit must-haves include SAP Business Data Cloud, SAP Datasphere, SAP Analytics Cloud, SAP data products, SQL/data modeling/ETL, governance/metadata/lineage, and SAP/non-SAP platform integration. BDC, Datasphere, and SAC are direct hard-gate gaps."
+  },
+  {
+    "id": "inbound-2026-09-08-sr-manager-app-production-support",
+    "received_dates": [
+      "2026-09-08"
+    ],
+    "title": "Sr Manager - Application Production Support - Techno Functional",
+    "employment": "Long term contract / engagement",
+    "location": "Remote; EST-based client",
+    "recruiters": [
+      {
+        "name": "Vipin Bahadur Nishad",
+        "company": null
+      }
+    ],
+    "source": "Unsolicited recruiter inbound",
+    "screen_estimate": 84,
+    "capability_estimate": 94,
+    "triage": "Worth asking for client and compensation",
+    "next_action": "Ask for client, compensation/rate, employment structure, and expected support hours/on-call requirements.",
+    "notes": "Focuses on managing application production support teams, ServiceNow tickets, internal and external vendor coordination, escalations, SLA tracking, and issue closure. Strong operational overlap but strategically more support-operations oriented than Amber's primary enterprise-data transformation lane."
+  },
+  {
+    "id": "inbound-2026-09-01-production-supervisor-portage",
+    "received_dates": [
+      "2026-09-01"
+    ],
+    "title": "Production Supervisor",
+    "employment": "Direct hire",
+    "location": "Portage, Indiana; onsite",
+    "recruiters": [
+      {
+        "name": "Maheshwari Maloth",
+        "company": "Axelon Services"
+      }
+    ],
+    "source": "Unsolicited recruiter inbound",
+    "screen_estimate": null,
+    "capability_estimate": null,
+    "triage": "Ignore",
+    "next_action": "No response needed.",
+    "compensation": "$59,000-$63,000",
+    "notes": "Clear recruiter keyword mismatch. Compensation, title, onsite location, and role direction are materially below Amber's target."
+  },
+  {
+    "id": "inbound-2026-08-31-product-mdm-data-integration",
+    "received_dates": [
+      "2026-08-31"
+    ],
+    "title": "Product MDM & Data Integration Specialist",
+    "employment": "12+ month contract",
+    "location": "100% remote",
+    "recruiters": [
+      {
+        "name": "Bunty Singh",
+        "company": null
+      }
+    ],
+    "source": "Unsolicited recruiter inbound",
+    "screen_estimate": 68,
+    "capability_estimate": 87,
+    "triage": "Do not pursue under current screen rule",
+    "next_action": "No response unless the actual client JD proves substantially more governance/MDM-led and less data-engineering-led than the recruiter excerpt.",
+    "notes": "Strong product MDM overlap, but the visible JD frames the role as a Data Engineer responsible for designing, building, and operationalizing the product-data backbone and large-scale integrations."
+  },
+  {
+    "id": "inbound-2026-09-17-manufacturing-engineer-boston",
+    "received_dates": [
+      "2026-09-17"
+    ],
+    "title": "Manufacturing Engineer",
+    "employment": "Full time",
+    "location": "Boston, Massachusetts; onsite 5 days/week",
+    "recruiters": [
+      {
+        "name": "Singh Aman Brijesh",
+        "company": null
+      }
+    ],
+    "source": "Unsolicited recruiter inbound",
+    "screen_estimate": 30,
+    "capability_estimate": 70,
+    "triage": "Ignore",
+    "next_action": "No response needed.",
+    "notes": "Wrong lane and work model. The visible scope emphasizes NPI/process development, line layout, workstation design, SOPs, work instructions, process flows, routings, and production ramp-up."
+  }
+]
