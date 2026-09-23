@@ -1,11 +1,11 @@
 {
-  "as_of": "2026-09-12T09:15:00-05:00",
-  "applications_total": 54,
-  "active_pending": 29,
-  "confirmed_rejections": 20,
-  "interview_request_events": 5,
-  "distinct_positions_interviewed": 3,
-  "completed_interview_meetings": 4,
+  "as_of": "2026-09-23T17:11:00-05:00",
+  "applications_total": 88,
+  "active_pending": 53,
+  "confirmed_rejections": 27,
+  "interview_request_events": 6,
+  "distinct_positions_interviewed": 4,
+  "completed_interview_meetings": 5,
   "offers_extended": 1,
   "zombie_threshold_business_days": 10,
   "resume_experiment": {
@@ -55,9 +55,16 @@
       "request_events": 1,
       "completed_meetings": 1,
       "status": "Assumed closed/rejected for planning as of Sep. 9; no formal rejection notice received"
+    },
+    {
+      "company": "Zoro.com",
+      "title": "Sr Manager, Product Information & Maintenance",
+      "request_events": 1,
+      "completed_meetings": 1,
+      "status": "HR screen completed Sep 23 with Sabrina DeLuca; advanced to Hiring Manager. Sabrina will follow up after Sep 24 meeting with Courtney, Director of Category Management, to schedule the next virtual interview."
     }
   ],
-  "confirmed_rejections_basis": "Evidence-backed minimum. Combined Metals is now a confirmed rejection based on Sep. 9 email. International Motors is closed for planning but excluded from the confirmed-rejection count until formal notice is received.",
+  "confirmed_rejections_basis": "Evidence-backed minimum through Sep 23, 2026. Includes L3Harris Senior Specialist, Data Governance rejection confirmed Sep 19. International Motors remains closed for planning but excluded from confirmed rejection count until formal notice is received.",
   "latest_confirmed_applications": [
     {
       "company": "Indeed",
@@ -209,17 +216,17 @@
   },
   "late_stage_conversion": {
     "description": "Measures whether first-round interviews are advancing to later stages.",
-    "first_round_interviews": 3,
-    "second_round_or_panel_interviews": 1,
+    "first_round_interviews": 4,
+    "second_round_or_panel_interviews": 2,
     "final_round_interviews": 0,
-    "late_stage_advancement_rate": "33.3%",
-    "calculation": "1 advanced (Combined Metals reached Hiring Manager stage) / 3 distinct positions interviewed",
-    "interpretation": "1 of 3 interviewed roles advanced past the first round. Small sample (n=3); track as more interviews occur.",
+    "late_stage_advancement_rate": "50.0%",
+    "calculation": "2 advanced (Combined Metals reached Hiring Manager stage; Zoro advanced from HR screen to Hiring Manager) / 4 distinct positions interviewed",
+    "interpretation": "2 of 4 interviewed roles advanced past the first round. Small sample (n=4); continue tracking as interviews mature.",
     "funnel_breakdown": {
-      "application_to_interview": "5 request events / 54 applications = 9.3% request-event rate",
-      "application_to_completed_interview": "3 distinct positions / 54 applications = 5.6% position-level conversion",
-      "interview_to_advance": "1 advanced / 3 distinct positions = 33.3% late-stage advancement",
-      "advance_to_offer": "0 offers / 1 advanced = 0% offer conversion"
+      "application_to_interview": "6 request events / 88 standing applications = 6.8% request-event rate",
+      "application_to_completed_interview": "4 distinct positions / 88 standing applications = 4.5% position-level conversion",
+      "interview_to_advance": "2 advanced / 4 distinct positions = 50.0% late-stage advancement",
+      "advance_to_offer": "0 career offers / 2 advanced = 0% offer conversion"
     }
   },
   "conversion_by_role_family": {
@@ -293,7 +300,7 @@
   },
   "career_offers_extended": 0,
   "side_gig_offers_extended": 1,
-  "status_updates_as_of": "2026-09-16",
+  "status_updates_as_of": "2026-09-23",
   "offer_history": [
     {
       "company": "micro1",
@@ -306,6 +313,20 @@
       "contract_signing_confirmed": false,
       "source": "User-provided employer email from Brandon, micro1 Talent Operations.",
       "application_mapping": "Original application not identified; do not assign this offer to a specific one of the ten micro1 applications or count a new application."
+    }
+  ],
+  "assessment_history": [
+    {
+      "company": "Capital One",
+      "title": "Senior Manager Data Analytics - Global Payment Network - Data Governance and Programs",
+      "requisition": "R999596",
+      "assessment": "Data Analytics Assessment (CodeSignal)",
+      "requested_at": "2026-09-21",
+      "deadline": "2026-10-03T13:45:00-04:00",
+      "time_limit_minutes": 70,
+      "status": "Pending",
+      "recruiter": "Denay Scharpf",
+      "next_step": "Complete assessment; recruiter stated follow-up conversation can be scheduled 24-48 hours after results are received."
     }
   ]
 }
