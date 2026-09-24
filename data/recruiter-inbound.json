@@ -1,5 +1,69 @@
 [
   {
+    "id": "inbound-2026-09-23-oxford-csl-consulting-outreach",
+    "received_dates": [
+      "2026-09-23"
+    ],
+    "title": "Consulting services / CSL stakeholder outreach",
+    "employment": null,
+    "location": null,
+    "recruiters": [
+      {
+        "name": "Jude Love",
+        "company": "Oxford Global Resources"
+      }
+    ],
+    "source": "Unsolicited recruiter / business-development inbound",
+    "screen_estimate": null,
+    "capability_estimate": null,
+    "triage": "Networking / vendor relationship, not a job lead",
+    "next_action": "Reply receptively without implying control over CSL purchasing or consulting spend.",
+    "notes": "Oxford Global Resources said it has an MSA with CSL and reached out to Amber as a potential CSL stakeholder to discuss consulting support across data/analytics, systems, automation and digital. This is not a specific employment opportunity."
+  },
+  {
+    "id": "inbound-2026-09-23-sparks-analytics-tech-support-japanese",
+    "received_dates": [
+      "2026-09-23"
+    ],
+    "title": "Analytics / Technical Support role (exact title not recovered)",
+    "employment": "W2",
+    "location": "Sparks, Nevada; hybrid 2-3 days/week; relocation required",
+    "recruiters": [
+      {
+        "name": "Karthick",
+        "company": null
+      }
+    ],
+    "source": "Unsolicited recruiter inbound",
+    "screen_estimate": null,
+    "capability_estimate": 88,
+    "triage": "Declined - compensation / location",
+    "next_action": "No action unless a materially higher-paid remote or Chicago-area role is offered.",
+    "compensation": "Maximum $44/hour W2",
+    "notes": "Visible scope referenced Palantir, Celonis, Power BI/Tableau, technical support/UI modification, and Japanese as desirable. Amber declined because $44/hour is significantly below current compensation and the Sparks, Nevada hybrid/relocation requirement is unattractive."
+  },
+  {
+    "id": "inbound-2026-09-23-sap-mdg-supplier-master-functional-lead",
+    "received_dates": [
+      "2026-09-23"
+    ],
+    "title": "SAP MDG Supplier Master Functional Lead",
+    "employment": null,
+    "location": "Seattle, Washington / remote",
+    "recruiters": [
+      {
+        "name": "Swatantra Mishra",
+        "company": null
+      }
+    ],
+    "source": "Unsolicited recruiter inbound",
+    "screen_estimate": null,
+    "capability_estimate": 97,
+    "triage": "High-priority clarification",
+    "next_action": "Ask for client, full JD, hourly rate or salary, engagement length, employment structure, and exact remote/onsite expectations.",
+    "notes": "Recruiter outreach was profile-specific and referenced Amber's Head of Data & Support background, SAP S/4HANA, governance, and operating-model experience. Supplier-master ownership is adjacent to Amber's enterprise master-data governance lane, but the full requirements and compensation were not yet provided."
+  },
+  {
     "id": "inbound-2026-09-22-program-director-sap-mdg-data",
     "received_dates": [
       "2026-09-22"
