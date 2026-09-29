@@ -10345,7 +10345,7 @@
     "link": "https://www.builtinchicago.org/job/director-enterprise-performance-analytics/10872716",
     "search_link": "https://www.builtinchicago.org/job/director-enterprise-performance-analytics/10872716",
     "link_type": "Open role",
-    "notes": "Hoffman Estates leadership role spanning BI, enterprise reporting, KPI governance, executive dashboards, data standards, Power BI, Microsoft Fabric, automation, Board reporting and analytics-team leadership. UPDATE Sep 13 2026: ChatGPT lead list re-surfaced this role - NO ACTION, agent already submitted this application Sep 12, 2026 (see ledger). UPDATE Sep 28 2026: Crystal Clean Talent Acquisition rejection email received for Req #5708; moved to confirmed rejected / historical.",
+    "notes": "Hoffman Estates leadership role spanning BI, enterprise reporting, KPI governance, executive dashboards, data standards, Power BI, Microsoft Fabric, automation, Board reporting and analytics-team leadership. UPDATE Sep 13 2026: ChatGPT lead list re-surfaced this role - NO ACTION, Perplexity appears to have submitted this application Sep 12, 2026; attribution is based on Amber's recollection (see ledger). UPDATE Sep 28 2026: Crystal Clean Talent Acquisition rejection email received for Req #5708; moved to confirmed rejected / historical.",
     "decision": "HISTORICAL - REJECTED",
     "traffic": "PIPELINE",
     "strategy_bucket": "HISTORICAL",
@@ -10362,7 +10362,9 @@
     "rejection_evidence": "User-provided Crystal Clean rejection email screenshot received Sep 28, 2026 for Req #5708, Director, Enterprise Performance & Analytics.",
     "status_updated_at": "2026-09-28",
     "audit_schedule_kind": "TERMINAL_NO_RECHECK",
-    "audit_cadence_days": 0
+    "audit_cadence_days": 0,
+    "application_agent": "Perplexity",
+    "application_attribution_status": "User-recalled attribution; not independently verified"
   },
   {
     "source_wave": "LinkedIn Premium audit - Sep 10",
