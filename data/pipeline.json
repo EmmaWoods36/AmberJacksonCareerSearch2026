@@ -1,8 +1,8 @@
 {
-  "as_of": "2026-09-23T17:11:00-05:00",
+  "as_of": "2026-09-28",
   "applications_total": 88,
-  "active_pending": 53,
-  "confirmed_rejections": 27,
+  "active_pending": 52,
+  "confirmed_rejections": 28,
   "interview_request_events": 6,
   "distinct_positions_interviewed": 4,
   "completed_interview_meetings": 5,
@@ -64,7 +64,7 @@
       "status": "HR screen completed Sep 23 with Sabrina DeLuca; advanced to Hiring Manager. Sabrina will follow up after Sep 24 meeting with Courtney, Director of Category Management, to schedule the next virtual interview."
     }
   ],
-  "confirmed_rejections_basis": "Evidence-backed minimum through Sep 23, 2026. Includes L3Harris Senior Specialist, Data Governance rejection confirmed Sep 19. International Motors remains closed for planning but excluded from confirmed rejection count until formal notice is received.",
+  "confirmed_rejections_basis": "Evidence-backed minimum through Sep 28, 2026. Includes L3Harris Senior Specialist, Data Governance rejection confirmed Sep 19 and Crystal Clean Director, Enterprise Performance & Analytics (Req #5708) rejection confirmed Sep 28 via employer email. International Motors remains closed for planning but excluded from confirmed rejection count until formal notice is received.",
   "latest_confirmed_applications": [
     {
       "company": "Indeed",
@@ -300,7 +300,7 @@
   },
   "career_offers_extended": 0,
   "side_gig_offers_extended": 1,
-  "status_updates_as_of": "2026-09-23",
+  "status_updates_as_of": "2026-09-28",
   "offer_history": [
     {
       "company": "micro1",
