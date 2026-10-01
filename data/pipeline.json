@@ -1,8 +1,8 @@
 {
   "as_of": "2026-10-01",
   "applications_total": 88,
-  "active_pending": 51,
-  "confirmed_rejections": 29,
+  "active_pending": 50,
+  "confirmed_rejections": 30,
   "interview_request_events": 6,
   "distinct_positions_interviewed": 4,
   "completed_interview_meetings": 5,
@@ -61,10 +61,11 @@
       "title": "Sr Manager, Product Information & Maintenance",
       "request_events": 1,
       "completed_meetings": 1,
-      "status": "HR screen completed Sep 23 with Sabrina DeLuca; advanced to Hiring Manager. Sabrina will follow up after Sep 24 meeting with Courtney, Director of Category Management, to schedule the next virtual interview."
+      "status": "REJECTED Oct. 1 after HR screen. On Sep. 23 Sabrina DeLuca had stated the next conversation would be with Courtney, Director of Category Management, but that hiring-manager interview was not scheduled/completed. Zoro later said it was moving forward with other candidates whose backgrounds more closely aligned with current needs.",
+      "outcome_confirmation": "Zoro employer rejection email received Oct. 1, 2026"
     }
   ],
-  "confirmed_rejections_basis": "Evidence-backed minimum through Oct 1, 2026. Includes L3Harris Senior Specialist, Data Governance rejection confirmed Sep 19; Crystal Clean Director, Enterprise Performance & Analytics (Req #5708) rejection confirmed Sep 28; and JPMorganChase Operations and Automation, Vice President (Job #210772265) rejection confirmed Oct 1 via employer email. International Motors remains closed for planning but excluded from confirmed rejection count until formal notice is received.",
+  "confirmed_rejections_basis": "Evidence-backed minimum through Oct 1, 2026. Includes L3Harris Senior Specialist, Data Governance rejection confirmed Sep 19; Crystal Clean Director, Enterprise Performance & Analytics (Req #5708) rejection confirmed Sep 28; JPMorganChase Operations and Automation, Vice President (Job #210772265) rejection confirmed Oct 1; and Zoro.com Sr Manager, Product Information & Maintenance rejection confirmed Oct 1 after recruiter screen. International Motors remains closed for planning but excluded from confirmed rejection count until formal notice is received.",
   "latest_confirmed_applications": [
     {
       "company": "Indeed",
@@ -221,7 +222,7 @@
     "final_round_interviews": 0,
     "late_stage_advancement_rate": "50.0%",
     "calculation": "2 advanced (Combined Metals reached Hiring Manager stage; Zoro advanced from HR screen to Hiring Manager) / 4 distinct positions interviewed",
-    "interpretation": "2 of 4 interviewed roles advanced past the first round. Small sample (n=4); continue tracking as interviews mature.",
+    "interpretation": "2 of 4 interviewed roles received an explicit next-stage advancement signal: Combined Metals reached the Hiring Manager stage; Zoro was told after the HR screen that the next conversation would be with the Director of Category Management, but Zoro rejected Amber before that hiring-manager interview was scheduled. Small sample (n=4); continue tracking as interviews mature.",
     "funnel_breakdown": {
       "application_to_interview": "6 request events / 88 standing applications = 6.8% request-event rate",
       "application_to_completed_interview": "4 distinct positions / 88 standing applications = 4.5% position-level conversion",
