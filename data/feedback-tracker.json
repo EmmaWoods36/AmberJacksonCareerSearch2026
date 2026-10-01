@@ -1,18 +1,67 @@
 {
-  "as_of": "2026-09-12T10:00:00-05:00",
+  "as_of": "2026-10-01T13:34:00-05:00",
   "description": "Evidence-based rejection and interview feedback tracker. Only exact wording where received; categories assigned even when formal feedback is missing.",
   "rejection_reason_categories": [
-    {"id": "scope", "label": "Scope/Scale Concern", "description": "Employer questioned whether candidate has already operated at the required scope level"},
-    {"id": "erp_breadth", "label": "ERP Breadth", "description": "Specific concern about enterprise-wide ERP portfolio leadership breadth"},
-    {"id": "procurement", "label": "Direct Procurement Experience", "description": "Specific concern about direct sourcing/category management/procurement leadership"},
-    {"id": "budget", "label": "Budget/P&L Ownership", "description": "Specific concern about direct ownership of $10M+ technology budget"},
-    {"id": "functional", "label": "Exact Functional Experience", "description": "Employer preferred candidate with exact functional pedigree match"},
-    {"id": "industry", "label": "Industry Experience", "description": "Employer preferred candidate with direct industry/domain experience"},
-    {"id": "internal", "label": "Internal Candidate", "description": "Position filled by internal candidate"},
-    {"id": "filled", "label": "Role Filled by Another Candidate", "description": "Position offered to candidate already further along in process"},
-    {"id": "unknown", "label": "Unknown/No Feedback", "description": "No feedback received from employer"}
+    {
+      "id": "scope",
+      "label": "Scope/Scale Concern",
+      "description": "Employer questioned whether candidate has already operated at the required scope level"
+    },
+    {
+      "id": "erp_breadth",
+      "label": "ERP Breadth",
+      "description": "Specific concern about enterprise-wide ERP portfolio leadership breadth"
+    },
+    {
+      "id": "procurement",
+      "label": "Direct Procurement Experience",
+      "description": "Specific concern about direct sourcing/category management/procurement leadership"
+    },
+    {
+      "id": "budget",
+      "label": "Budget/P&L Ownership",
+      "description": "Specific concern about direct ownership of $10M+ technology budget"
+    },
+    {
+      "id": "functional",
+      "label": "Exact Functional Experience",
+      "description": "Employer preferred candidate with exact functional pedigree match"
+    },
+    {
+      "id": "industry",
+      "label": "Industry Experience",
+      "description": "Employer preferred candidate with direct industry/domain experience"
+    },
+    {
+      "id": "internal",
+      "label": "Internal Candidate",
+      "description": "Position filled by internal candidate"
+    },
+    {
+      "id": "filled",
+      "label": "Role Filled by Another Candidate",
+      "description": "Position offered to candidate already further along in process"
+    },
+    {
+      "id": "unknown",
+      "label": "Unknown/No Feedback",
+      "description": "No feedback received from employer"
+    }
   ],
   "tracked_outcomes": [
+    {
+      "company": "Zoro.com",
+      "title": "Sr Manager, Product Information & Maintenance",
+      "outcome": "Rejected",
+      "date": "2026-10-01",
+      "exact_feedback": "Zoro said it was moving forward with other candidates whose backgrounds more closely aligned with current needs.",
+      "primary_reason_category": "unknown",
+      "secondary_reason_category": null,
+      "feedback_source": "Employer rejection email from Zoro",
+      "stage_reached": "Recruiter/HR screen completed; hiring-manager interview discussed but not scheduled",
+      "winning_candidate_background": "Not shared",
+      "lesson": "Generic rejection does not identify a specific gap. Preserve the recruiter-screen advancement signal, but do not infer a rejection reason that Zoro did not provide."
+    },
     {
       "company": "Combined Metals",
       "title": "Senior Manager, ERP Platform",
@@ -353,11 +402,31 @@
     }
   ],
   "reason_summary": {
-    "scope": {"count": 4, "label": "Scope/Scale Concern", "note": "Most common theme among interview-stage rejections. Includes ERP breadth, procurement depth, and supply-chain technology ownership breadth."},
-    "functional": {"count": 4, "label": "Exact Functional Experience", "note": "Primarily consulting firms (Deloitte x3, BCG/Inverto) preferring direct consulting pedigree."},
-    "industry": {"count": 3, "label": "Industry Experience", "note": "Pharma commercial, financial services, and Japan market roles requiring direct domain experience."},
-    "filled": {"count": 1, "label": "Role Filled by Another Candidate", "note": "Oil-Dri — not a rejection of candidacy."},
-    "unknown": {"count": 13, "label": "Unknown/No Feedback", "note": "Majority of application-only rejections received no feedback. Reduces ability to learn from ATS-level screens."}
+    "scope": {
+      "count": 4,
+      "label": "Scope/Scale Concern",
+      "note": "Most common theme among interview-stage rejections. Includes ERP breadth, procurement depth, and supply-chain technology ownership breadth."
+    },
+    "functional": {
+      "count": 4,
+      "label": "Exact Functional Experience",
+      "note": "Primarily consulting firms (Deloitte x3, BCG/Inverto) preferring direct consulting pedigree."
+    },
+    "industry": {
+      "count": 3,
+      "label": "Industry Experience",
+      "note": "Pharma commercial, financial services, and Japan market roles requiring direct domain experience."
+    },
+    "filled": {
+      "count": 1,
+      "label": "Role Filled by Another Candidate",
+      "note": "Oil-Dri — not a rejection of candidacy."
+    },
+    "unknown": {
+      "count": 14,
+      "label": "Unknown/No Feedback",
+      "note": "Majority of application-only rejections received no feedback. Reduces ability to learn from ATS-level screens."
+    }
   },
-  "feedback_quality_note": "Only 1 of 25 tracked rejections produced confirmed feedback (Combined Metals via Rachel Hecker email). 3 additional outcomes have inferred feedback themes based on interview stage reached. The remaining 21 are application-only rejections with no feedback. This is typical for senior-level searches but limits pattern analysis. The interview-stage feedback is the highest-value signal because it reflects actual hiring-team assessment, not just ATS screening."
+  "feedback_quality_note": "Only 1 of 26 tracked outcomes produced specific confirmed feedback (Combined Metals via Rachel Hecker email). Zoro provided only a generic alignment-based rejection after the recruiter screen, with no specific gap identified. 3 additional outcomes have inferred feedback themes based on interview stage reached. The remaining outcomes provide little or no actionable employer feedback, which limits pattern analysis."
 }
