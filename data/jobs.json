@@ -55,7 +55,8 @@
     "resume_variant": "executive_blue",
     "resume_variant_label": "Executive Blue",
     "wave2_application": true,
-    "wave2_resume_label": "Pretty / Executive Blue"
+    "wave2_resume_label": "Pretty / Executive Blue",
+    "fit_score": 95
   },
   {
     "rank": 2,
@@ -109,7 +110,8 @@
     "last_zombie_alert_key": "4417cf7e21baa0d3b677",
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
-    "resume_variant_label": "Executive Blue"
+    "resume_variant_label": "Executive Blue",
+    "fit_score": 93
   },
   {
     "rank": 3,
@@ -163,7 +165,8 @@
     "last_zombie_alert_key": "7ee7110916b8381667f6",
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
-    "resume_variant_label": "Executive Blue"
+    "resume_variant_label": "Executive Blue",
+    "fit_score": 25
   },
   {
     "rank": 4,
@@ -215,7 +218,8 @@
     "zombie": false,
     "zombie_business_days": null,
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
-    "wave1_note": "Wave1: already filled at that time (posting later re-opened; agent submitted Sep 12, 2026)."
+    "wave1_note": "Wave1: already filled at that time (posting later re-opened; agent submitted Sep 12, 2026).",
+    "fit_score": 90
   },
   {
     "rank": 5,
@@ -271,7 +275,8 @@
     "resume_variant_label": "Executive Blue",
     "outcome_class": "ROLE_FILLED",
     "status_updated_at": "2026-09-16",
-    "outcome_evidence": "User-provided employer email screenshot. September 16 is the recording date, not an inferred email date."
+    "outcome_evidence": "User-provided employer email screenshot. September 16 is the recording date, not an inferred email date.",
+    "fit_score": 90
   },
   {
     "rank": 6,
@@ -322,7 +327,8 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
+    "fit_score": 90
   },
   {
     "rank": 7,
@@ -378,7 +384,8 @@
     "outcome_class": "REJECTED_REPORTED_UNVERIFIED",
     "resume_variant": "executive_blue",
     "resume_variant_label": "Executive Blue",
-    "wave1_note": "Wave1: APPLIED by Amber."
+    "wave1_note": "Wave1: APPLIED by Amber.",
+    "fit_score": 89
   },
   {
     "rank": 8,
@@ -432,7 +439,8 @@
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "submitted",
     "resume_variant_label": "Executive Blue",
-    "resume_label": "Submitted (duplicate — do not touch)"
+    "resume_label": "Submitted (duplicate — do not touch)",
+    "fit_score": 44
   },
   {
     "rank": 9,
@@ -486,7 +494,8 @@
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
     "resume_variant_label": "Executive Blue",
-    "wave1_note": "Wave1: APPLIED by Amber."
+    "wave1_note": "Wave1: APPLIED by Amber.",
+    "fit_score": 88
   },
   {
     "rank": 10,
@@ -540,7 +549,8 @@
     "last_zombie_alert_key": "b93b39e60f4c5233d3f5",
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
-    "resume_variant_label": "Executive Blue"
+    "resume_variant_label": "Executive Blue",
+    "fit_score": 88
   },
   {
     "rank": 11,
@@ -596,7 +606,8 @@
     "rejection_evidence": "Previously established rejection in project history",
     "outcome_class": "REJECTED",
     "resume_variant": "executive_blue",
-    "resume_variant_label": "Executive Blue"
+    "resume_variant_label": "Executive Blue",
+    "fit_score": 88
   },
   {
     "rank": 12,
@@ -649,7 +660,8 @@
     "zombie_business_days": null,
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
-    "resume_variant_label": "Executive Blue"
+    "resume_variant_label": "Executive Blue",
+    "fit_score": 72
   },
   {
     "rank": 13,
@@ -703,7 +715,8 @@
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
     "resume_variant_label": "Executive Blue",
-    "wave1_note": "Wave1: APPLIED by Amber."
+    "wave1_note": "Wave1: APPLIED by Amber.",
+    "fit_score": 87
   },
   {
     "rank": 14,
@@ -757,7 +770,8 @@
     "last_zombie_alert_key": "836d08745f037b2a7e9b",
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
-    "resume_variant_label": "Executive Blue"
+    "resume_variant_label": "Executive Blue",
+    "fit_score": 87
   },
   {
     "rank": 15,
@@ -813,7 +827,8 @@
     "rejection_evidence": "Previously established rejection/closure in project history",
     "outcome_class": "REJECTED",
     "resume_variant": "executive_blue",
-    "resume_variant_label": "Executive Blue"
+    "resume_variant_label": "Executive Blue",
+    "fit_score": 86
   },
   {
     "rank": 16,
@@ -868,7 +883,8 @@
     "rejection_evidence_status": "NEEDS_RECONCILIATION",
     "outcome_class": "REJECTED_REPORTED_UNVERIFIED",
     "resume_variant": "executive_blue",
-    "resume_variant_label": "Executive Blue"
+    "resume_variant_label": "Executive Blue",
+    "fit_score": 86
   },
   {
     "rank": 17,
@@ -921,7 +937,8 @@
     "zombie_business_days": 7,
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
-    "resume_variant_label": "Executive Blue"
+    "resume_variant_label": "Executive Blue",
+    "fit_score": 85
   },
   {
     "rank": 18,
@@ -975,7 +992,8 @@
     "last_zombie_alert_key": "f7a047a8649c7269cc8f",
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
-    "resume_variant_label": "Executive Blue"
+    "resume_variant_label": "Executive Blue",
+    "fit_score": 85
   },
   {
     "rank": 19,
@@ -1035,7 +1053,8 @@
     "zombie_clock": "2026-09-30",
     "portal_evidence": "Workday Candidate Home: \"Senior Manager Supply Chain | 31159318 | Resume Received | September 13, 2026\" + modal \"Your application has successfully been submitted.\"",
     "account": "amber.jackson94hks@gmail.com (Abbott Workday, created Sep 13 2026)",
-    "zombie_date": "2026-09-30"
+    "zombie_date": "2026-09-30",
+    "fit_score": 88
   },
   {
     "rank": 20,
@@ -1088,7 +1107,8 @@
     "zombie_business_days": null,
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
-    "resume_variant_label": "Executive Blue"
+    "resume_variant_label": "Executive Blue",
+    "fit_score": 43
   },
   {
     "rank": 21,
@@ -1140,7 +1160,8 @@
     "zombie": false,
     "zombie_business_days": null,
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
-    "wave1_note": "Wave1: already filled before applying."
+    "wave1_note": "Wave1: already filled before applying.",
+    "fit_score": 84
   },
   {
     "rank": 22,
@@ -1196,7 +1217,8 @@
     "resume_variant_label": "Executive Blue",
     "outcome_class": "REJECTED",
     "status_updated_at": "2026-09-16",
-    "outcome_evidence": "User-provided employer email screenshot. September 16 is the recording date, not an inferred email date."
+    "outcome_evidence": "User-provided employer email screenshot. September 16 is the recording date, not an inferred email date.",
+    "fit_score": 87
   },
   {
     "rank": 23,
@@ -1253,7 +1275,8 @@
     "outcome_class": "REJECTED",
     "resume_variant": "executive_blue",
     "resume_variant_label": "Executive Blue",
-    "wave1_note": "Wave1: APPLIED by Amber."
+    "wave1_note": "Wave1: APPLIED by Amber.",
+    "fit_score": 83
   },
   {
     "rank": 24,
@@ -1304,7 +1327,8 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
+    "fit_score": 83
   },
   {
     "rank": 25,
@@ -1360,7 +1384,8 @@
     "resume_variant_label": "Executive Blue",
     "outcome_class": "REJECTED",
     "status_updated_at": "2026-09-16",
-    "outcome_evidence": "User-provided employer email screenshot. September 16 is the recording date, not an inferred email date."
+    "outcome_evidence": "User-provided employer email screenshot. September 16 is the recording date, not an inferred email date.",
+    "fit_score": 89
   },
   {
     "rank": 26,
@@ -1413,7 +1438,8 @@
     "zombie_business_days": 8,
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
-    "resume_variant_label": "Executive Blue"
+    "resume_variant_label": "Executive Blue",
+    "fit_score": 83
   },
   {
     "rank": 27,
@@ -1464,7 +1490,8 @@
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
-    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00"
+    "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
+    "fit_score": 83
   },
   {
     "rank": 28,
@@ -1517,7 +1544,8 @@
     "zombie_business_days": null,
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
-    "resume_variant_label": "Executive Blue"
+    "resume_variant_label": "Executive Blue",
+    "fit_score": 76
   },
   {
     "rank": 29,
@@ -1574,7 +1602,8 @@
     "outcome_class": "REJECTED",
     "resume_variant": "executive_blue",
     "resume_variant_label": "Executive Blue",
-    "wave1_note": "Wave1: APPLIED by Amber — rejected."
+    "wave1_note": "Wave1: APPLIED by Amber — rejected.",
+    "fit_score": 82
   },
   {
     "rank": 30,
@@ -1627,7 +1656,8 @@
     "zombie_business_days": null,
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
-    "resume_variant_label": "Executive Blue"
+    "resume_variant_label": "Executive Blue",
+    "fit_score": 82
   },
   {
     "rank": 31,
@@ -1683,7 +1713,8 @@
     "rejection_evidence": "User-provided BCG Inverto rejection email screenshot",
     "outcome_class": "REJECTED",
     "resume_variant": "executive_blue",
-    "resume_variant_label": "Executive Blue"
+    "resume_variant_label": "Executive Blue",
+    "fit_score": 82
   },
   {
     "rank": 32,
@@ -1739,7 +1770,8 @@
     "resume_variant_label": "Executive Blue",
     "outcome_class": "REJECTED",
     "rejection_evidence_status": "CONFIRMED",
-    "rejection_evidence": "User-provided Progress Rail rejection email received Sep 18, 2026 for req 12096BR."
+    "rejection_evidence": "User-provided Progress Rail rejection email received Sep 18, 2026 for req 12096BR.",
+    "fit_score": 75
   },
   {
     "rank": 33,
@@ -1793,7 +1825,8 @@
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
     "resume_variant_label": "Executive Blue",
-    "wave1_note": "Wave1: APPLIED by Amber (also agent-submitted Sep 12)."
+    "wave1_note": "Wave1: APPLIED by Amber (also agent-submitted Sep 12).",
+    "fit_score": 82
   },
   {
     "rank": 34,
@@ -1849,7 +1882,8 @@
     "rejection_evidence": "User-provided Deloitte rejection email screenshot",
     "outcome_class": "REJECTED",
     "resume_variant": "executive_blue",
-    "resume_variant_label": "Executive Blue"
+    "resume_variant_label": "Executive Blue",
+    "fit_score": 82
   },
   {
     "rank": 35,
@@ -1904,7 +1938,8 @@
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
     "resume_variant_label": "Pretty / Executive Blue",
-    "wave1_note": "Wave1 (8/14/26 notebook): APPLIED by Amber. Interviewed, advanced to 2nd interview. Keep."
+    "wave1_note": "Wave1 (8/14/26 notebook): APPLIED by Amber. Interviewed, advanced to 2nd interview. Keep.",
+    "fit_score": 82
   },
   {
     "rank": 36,
@@ -1959,7 +1994,8 @@
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
     "resume_variant_label": "Pretty / Executive Blue",
-    "wave1_note": "Wave1: APPLIED by Amber. INTERVIEWED."
+    "wave1_note": "Wave1: APPLIED by Amber. INTERVIEWED.",
+    "fit_score": 82
   },
   {
     "rank": 37,
@@ -2012,7 +2048,8 @@
     "zombie_business_days": null,
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
-    "resume_variant_label": "Executive Blue"
+    "resume_variant_label": "Executive Blue",
+    "fit_score": 82
   },
   {
     "rank": 38,
@@ -2070,7 +2107,8 @@
     "outcome_evidence": "Direct rejection email screenshot supplied by user on 2026-09-07.",
     "resume_variant": "executive_blue",
     "resume_variant_label": "Executive Blue",
-    "wave1_note": "Wave1: APPLIED by Amber — rejected."
+    "wave1_note": "Wave1: APPLIED by Amber — rejected.",
+    "fit_score": 82
   },
   {
     "rank": 39,
@@ -2123,7 +2161,8 @@
     "zombie_business_days": null,
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
-    "resume_variant_label": "Executive Blue"
+    "resume_variant_label": "Executive Blue",
+    "fit_score": 18
   },
   {
     "rank": 40,
@@ -2176,7 +2215,8 @@
     "zombie_business_days": null,
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
-    "resume_variant_label": "Executive Blue"
+    "resume_variant_label": "Executive Blue",
+    "fit_score": 64
   },
   {
     "rank": 41,
@@ -2229,7 +2269,8 @@
     "zombie_business_days": null,
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
-    "resume_variant_label": "Executive Blue"
+    "resume_variant_label": "Executive Blue",
+    "fit_score": 83
   },
   {
     "rank": 42,
@@ -2283,7 +2324,8 @@
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
     "resume_variant_label": "Executive Blue",
-    "last_action": "2026-09-13: honest score ~35-40 for SENIOR variant (pure consulting tenure gate) — below 70, SKIPPED. Manager variant is the fit (78%, separate row)."
+    "last_action": "2026-09-13: honest score ~35-40 for SENIOR variant (pure consulting tenure gate) — below 70, SKIPPED. Manager variant is the fit (78%, separate row).",
+    "fit_score": 35
   },
   {
     "rank": 43,
@@ -2341,7 +2383,8 @@
     "outcome_evidence": "Direct Rakuten rejection email screenshot supplied by user on 2026-09-07.",
     "resume_variant": "executive_blue",
     "resume_variant_label": "Executive Blue",
-    "wave1_note": "Wave1: APPLIED by Amber — rejected."
+    "wave1_note": "Wave1: APPLIED by Amber — rejected.",
+    "fit_score": 81
   },
   {
     "rank": 44,
@@ -2394,7 +2437,8 @@
     "zombie_business_days": null,
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
-    "resume_variant_label": "Executive Blue"
+    "resume_variant_label": "Executive Blue",
+    "fit_score": 40
   },
   {
     "rank": 45,
@@ -2447,7 +2491,8 @@
     "zombie_business_days": null,
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
-    "resume_variant_label": "Executive Blue"
+    "resume_variant_label": "Executive Blue",
+    "fit_score": 25
   },
   {
     "rank": 46,
@@ -2502,7 +2547,8 @@
     "outcome_reconciliation": "User explicitly confirmed this application was rejected on 2026-09-07.",
     "resume_variant": "executive_blue",
     "resume_variant_label": "Executive Blue",
-    "wave1_note": "Wave1: APPLIED by Amber — already filled / rejected."
+    "wave1_note": "Wave1: APPLIED by Amber — already filled / rejected.",
+    "fit_score": 80
   },
   {
     "rank": 47,
@@ -2554,7 +2600,8 @@
     "zombie": false,
     "zombie_business_days": null,
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
-    "wave1_note": "Wave1: APPLIED by Amber."
+    "wave1_note": "Wave1: APPLIED by Amber.",
+    "fit_score": 80
   },
   {
     "rank": 48,
@@ -2607,7 +2654,8 @@
     "zombie_business_days": null,
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
-    "resume_variant_label": "Executive Blue"
+    "resume_variant_label": "Executive Blue",
+    "fit_score": 56
   },
   {
     "rank": 49,
@@ -2660,7 +2708,8 @@
     "zombie_business_days": null,
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
-    "resume_variant_label": "Executive Blue"
+    "resume_variant_label": "Executive Blue",
+    "fit_score": 82
   },
   {
     "rank": 50,
@@ -2714,7 +2763,8 @@
     "last_zombie_alert_key": "2935a71e0cfd9be89c4e",
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
-    "resume_variant_label": "Executive Blue"
+    "resume_variant_label": "Executive Blue",
+    "fit_score": 79
   },
   {
     "rank": 51,
@@ -2767,7 +2817,8 @@
     "zombie_business_days": null,
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
-    "resume_variant_label": "Executive Blue"
+    "resume_variant_label": "Executive Blue",
+    "fit_score": 90
   },
   {
     "rank": 52,
@@ -2822,7 +2873,8 @@
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
     "resume_variant_label": "Pretty / Executive Blue",
-    "wave1_note": "Wave1: APPLIED by Amber. INTERVIEWED."
+    "wave1_note": "Wave1: APPLIED by Amber. INTERVIEWED.",
+    "fit_score": 78
   },
   {
     "rank": 53,
@@ -2875,7 +2927,8 @@
     "zombie_business_days": null,
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
-    "resume_variant_label": "Executive Blue"
+    "resume_variant_label": "Executive Blue",
+    "fit_score": 25
   },
   {
     "rank": 54,
@@ -2928,7 +2981,8 @@
     "zombie_business_days": null,
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
-    "resume_variant_label": "Executive Blue"
+    "resume_variant_label": "Executive Blue",
+    "fit_score": 21
   },
   {
     "rank": 55,
@@ -2981,7 +3035,8 @@
     "zombie_business_days": null,
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
-    "resume_variant_label": "Executive Blue"
+    "resume_variant_label": "Executive Blue",
+    "fit_score": 30
   },
   {
     "rank": 56,
@@ -3034,7 +3089,8 @@
     "zombie_business_days": null,
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
-    "resume_variant_label": "Executive Blue"
+    "resume_variant_label": "Executive Blue",
+    "fit_score": 35
   },
   {
     "rank": 57,
@@ -3086,7 +3142,8 @@
     "zombie": false,
     "zombie_business_days": null,
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
-    "wave1_note": "Wave1: Amber chose not to apply."
+    "wave1_note": "Wave1: Amber chose not to apply.",
+    "fit_score": 78
   },
   {
     "rank": 58,
@@ -3143,7 +3200,8 @@
     "wave1_note": "Wave1: APPLIED by Amber.",
     "outcome_class": "REJECTED",
     "rejection_evidence_status": "CONFIRMED",
-    "rejection_evidence": "User-provided TransUnion Workday rejection email received Sep 18, 2026 for Data Analysis Operations Manager."
+    "rejection_evidence": "User-provided TransUnion Workday rejection email received Sep 18, 2026 for Data Analysis Operations Manager.",
+    "fit_score": 78
   },
   {
     "rank": 59,
@@ -3196,7 +3254,8 @@
     "zombie_business_days": null,
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
-    "resume_variant_label": "Executive Blue"
+    "resume_variant_label": "Executive Blue",
+    "fit_score": 50
   },
   {
     "rank": 60,
@@ -3249,7 +3308,8 @@
     "zombie_business_days": null,
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
-    "resume_variant_label": "Executive Blue"
+    "resume_variant_label": "Executive Blue",
+    "fit_score": 35
   },
   {
     "rank": 61,
@@ -3302,7 +3362,8 @@
     "zombie_business_days": null,
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
-    "resume_variant_label": "Executive Blue"
+    "resume_variant_label": "Executive Blue",
+    "fit_score": 25
   },
   {
     "rank": 62,
@@ -3356,7 +3417,8 @@
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
     "resume_variant_label": "Executive Blue",
-    "wave1_note": "Wave1: APPLIED by Amber. Keep."
+    "wave1_note": "Wave1: APPLIED by Amber. Keep.",
+    "fit_score": 77
   },
   {
     "rank": 63,
@@ -3409,7 +3471,8 @@
     "zombie_business_days": null,
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
-    "resume_variant_label": "Executive Blue"
+    "resume_variant_label": "Executive Blue",
+    "fit_score": 25
   },
   {
     "rank": 64,
@@ -3462,7 +3525,8 @@
     "zombie_business_days": null,
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
-    "resume_variant_label": "Executive Blue"
+    "resume_variant_label": "Executive Blue",
+    "fit_score": 25
   },
   {
     "rank": 65,
@@ -3515,7 +3579,8 @@
     "zombie_business_days": null,
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
-    "resume_variant_label": "Executive Blue"
+    "resume_variant_label": "Executive Blue",
+    "fit_score": 35
   },
   {
     "rank": 66,
@@ -3568,7 +3633,8 @@
     "zombie_business_days": null,
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
-    "resume_variant_label": "Executive Blue"
+    "resume_variant_label": "Executive Blue",
+    "fit_score": 76
   },
   {
     "rank": 67,
@@ -3621,7 +3687,8 @@
     "zombie_business_days": null,
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
-    "resume_variant_label": "Executive Blue"
+    "resume_variant_label": "Executive Blue",
+    "fit_score": 36
   },
   {
     "rank": 68,
@@ -3677,7 +3744,8 @@
     "resume_variant_label": "Executive Blue",
     "status": "live",
     "url": "https://careers.veeva.com/job/ee49d4f3-6182-4385-92f3-443265e4920a/senior-product-manager-sap-erp-integrations-boston-ma/",
-    "last_action": "2026-09-13: live on Lever; stays borderline - product management not her function; 3-day third-party personality assessment follows apply"
+    "last_action": "2026-09-13: live on Lever; stays borderline - product management not her function; 3-day third-party personality assessment follows apply",
+    "fit_score": 44
   },
   {
     "rank": 69,
@@ -3734,7 +3802,8 @@
     "rejection_evidence": "Handwritten log confirms Grainger rejection for “Senior Manager, Supply Chain Systems & Technology”; current tracker row title differs and must not be silently conflated.",
     "resume_variant": "executive_blue",
     "resume_variant_label": "Executive Blue",
-    "wave1_note": "Wave1: APPLIED by Amber — REJECTED."
+    "wave1_note": "Wave1: APPLIED by Amber — REJECTED.",
+    "fit_score": 76
   },
   {
     "rank": 70,
@@ -3787,7 +3856,8 @@
     "zombie_business_days": null,
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
-    "resume_variant_label": "Executive Blue"
+    "resume_variant_label": "Executive Blue",
+    "fit_score": 70
   },
   {
     "rank": 71,
@@ -3839,7 +3909,8 @@
     "zombie": false,
     "zombie_business_days": null,
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
-    "wave1_note": "Wave1: posting no longer available 8/16/26."
+    "wave1_note": "Wave1: posting no longer available 8/16/26.",
+    "fit_score": 76
   },
   {
     "rank": 72,
@@ -3892,7 +3963,8 @@
     "zombie_business_days": null,
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
-    "resume_variant_label": "Executive Blue"
+    "resume_variant_label": "Executive Blue",
+    "fit_score": 83
   },
   {
     "rank": 73,
@@ -3945,7 +4017,8 @@
     "zombie_business_days": null,
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
-    "resume_variant_label": "Executive Blue"
+    "resume_variant_label": "Executive Blue",
+    "fit_score": 95
   },
   {
     "rank": 74,
@@ -4000,7 +4073,8 @@
     "resume_variant": "executive_blue",
     "resume_variant_label": "Executive Blue",
     "wave2_application": true,
-    "wave2_resume_label": "Pretty / Executive Blue"
+    "wave2_resume_label": "Pretty / Executive Blue",
+    "fit_score": 85
   },
   {
     "rank": 75,
@@ -4054,7 +4128,8 @@
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
     "resume_variant_label": "Executive Blue",
-    "wave1_note": "Wave1: APPLIED by Amber."
+    "wave1_note": "Wave1: APPLIED by Amber.",
+    "fit_score": 75
   },
   {
     "rank": 76,
@@ -4107,7 +4182,8 @@
     "zombie_business_days": 7,
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
-    "resume_variant_label": "Executive Blue"
+    "resume_variant_label": "Executive Blue",
+    "fit_score": 75
   },
   {
     "rank": 77,
@@ -4159,7 +4235,8 @@
     "zombie": false,
     "zombie_business_days": null,
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
-    "wave1_note": "Wave1: Amber chose not to apply."
+    "wave1_note": "Wave1: Amber chose not to apply.",
+    "fit_score": 75
   },
   {
     "rank": 78,
@@ -4212,7 +4289,8 @@
     "zombie_business_days": null,
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
-    "resume_variant_label": "Executive Blue"
+    "resume_variant_label": "Executive Blue",
+    "fit_score": 82
   },
   {
     "rank": 79,
@@ -4267,7 +4345,8 @@
     "resume_variant": "executive_blue",
     "resume_variant_label": "Executive Blue",
     "wave2_application": true,
-    "wave2_resume_label": "Pretty / Executive Blue"
+    "wave2_resume_label": "Pretty / Executive Blue",
+    "fit_score": 88
   },
   {
     "rank": 80,
@@ -4320,7 +4399,8 @@
     "zombie_business_days": null,
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
-    "resume_variant_label": "Executive Blue"
+    "resume_variant_label": "Executive Blue",
+    "fit_score": 74
   },
   {
     "rank": 81,
@@ -4379,7 +4459,8 @@
     "status": "REJECTED",
     "zombie_clock": null,
     "status_updated_at": "2026-09-16",
-    "outcome_evidence": "User-provided employer rejection email screenshot; recorded September 16, 2026. Email calendar date not visible. Sysmex email does not name the role; matched to the sole Sysmex application in this tracker."
+    "outcome_evidence": "User-provided employer rejection email screenshot; recorded September 16, 2026. Email calendar date not visible. Sysmex email does not name the role; matched to the sole Sysmex application in this tracker.",
+    "fit_score": 74
   },
   {
     "rank": 82,
@@ -4432,7 +4513,8 @@
     "zombie_business_days": null,
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
-    "resume_variant_label": "Executive Blue"
+    "resume_variant_label": "Executive Blue",
+    "fit_score": 41
   },
   {
     "rank": 83,
@@ -4485,7 +4567,8 @@
     "zombie_business_days": null,
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
-    "resume_variant_label": "Executive Blue"
+    "resume_variant_label": "Executive Blue",
+    "fit_score": 24
   },
   {
     "rank": 84,
@@ -4538,7 +4621,8 @@
     "zombie_business_days": null,
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
-    "resume_variant_label": "Executive Blue"
+    "resume_variant_label": "Executive Blue",
+    "fit_score": 38
   },
   {
     "rank": 85,
@@ -4591,7 +4675,8 @@
     "zombie_business_days": null,
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
-    "resume_variant_label": "Executive Blue"
+    "resume_variant_label": "Executive Blue",
+    "fit_score": 35
   },
   {
     "rank": 86,
@@ -4648,7 +4733,8 @@
     "outcome_class": "REJECTED",
     "resume_variant": "executive_blue",
     "resume_variant_label": "Executive Blue",
-    "wave1_note": "Wave1: APPLIED by Amber."
+    "wave1_note": "Wave1: APPLIED by Amber.",
+    "fit_score": 73
   },
   {
     "rank": 87,
@@ -4701,7 +4787,8 @@
     "zombie_business_days": null,
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
-    "resume_variant_label": "Executive Blue"
+    "resume_variant_label": "Executive Blue",
+    "fit_score": 25
   },
   {
     "rank": 88,
@@ -4754,7 +4841,8 @@
     "zombie_business_days": null,
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
-    "resume_variant_label": "Executive Blue"
+    "resume_variant_label": "Executive Blue",
+    "fit_score": 25
   },
   {
     "rank": 89,
@@ -4807,7 +4895,8 @@
     "zombie_business_days": null,
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
-    "resume_variant_label": "Executive Blue"
+    "resume_variant_label": "Executive Blue",
+    "fit_score": 73
   },
   {
     "rank": 90,
@@ -4860,7 +4949,8 @@
     "zombie_business_days": null,
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
-    "resume_variant_label": "Executive Blue"
+    "resume_variant_label": "Executive Blue",
+    "fit_score": 72
   },
   {
     "rank": 91,
@@ -4913,7 +5003,8 @@
     "zombie_business_days": null,
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
-    "resume_variant_label": "Executive Blue"
+    "resume_variant_label": "Executive Blue",
+    "fit_score": 67
   },
   {
     "rank": 92,
@@ -4967,7 +5058,8 @@
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "outcome_reconciliation": "User explicitly confirmed this application was rejected on 2026-09-07.",
     "resume_variant": "executive_blue",
-    "resume_variant_label": "Executive Blue"
+    "resume_variant_label": "Executive Blue",
+    "fit_score": 72
   },
   {
     "rank": 93,
@@ -5020,7 +5112,8 @@
     "zombie_business_days": null,
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
-    "resume_variant_label": "Executive Blue"
+    "resume_variant_label": "Executive Blue",
+    "fit_score": 34
   },
   {
     "rank": 94,
@@ -5074,7 +5167,8 @@
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
     "resume_variant_label": "Executive Blue",
-    "wave1_note": "Wave1: APPLIED by Amber (also agent-submitted resume for Senior PM Data Operations)."
+    "wave1_note": "Wave1: APPLIED by Amber (also agent-submitted resume for Senior PM Data Operations).",
+    "fit_score": 72
   },
   {
     "rank": 95,
@@ -5127,7 +5221,8 @@
     "zombie_business_days": null,
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
-    "resume_variant_label": "Executive Blue"
+    "resume_variant_label": "Executive Blue",
+    "fit_score": 32
   },
   {
     "rank": 96,
@@ -5180,7 +5275,8 @@
     "zombie_business_days": null,
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
-    "resume_variant_label": "Executive Blue"
+    "resume_variant_label": "Executive Blue",
+    "fit_score": 35
   },
   {
     "rank": 97,
@@ -5236,7 +5332,8 @@
     "resume_variant_label": "Executive Blue",
     "outcome_class": "REJECTED",
     "status_updated_at": "2026-09-16",
-    "outcome_evidence": "User-provided employer email screenshot. September 16 is the recording date, not an inferred email date."
+    "outcome_evidence": "User-provided employer email screenshot. September 16 is the recording date, not an inferred email date.",
+    "fit_score": 81
   },
   {
     "rank": 98,
@@ -5289,7 +5386,8 @@
     "zombie_business_days": null,
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
-    "resume_variant_label": "Executive Blue"
+    "resume_variant_label": "Executive Blue",
+    "fit_score": 31
   },
   {
     "rank": 99,
@@ -5342,7 +5440,8 @@
     "zombie_business_days": null,
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
-    "resume_variant_label": "Executive Blue"
+    "resume_variant_label": "Executive Blue",
+    "fit_score": 25
   },
   {
     "rank": 100,
@@ -5395,7 +5494,8 @@
     "zombie_business_days": null,
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
-    "resume_variant_label": "Executive Blue"
+    "resume_variant_label": "Executive Blue",
+    "fit_score": 70
   },
   {
     "rank": 101,
@@ -5450,7 +5550,8 @@
     "rejection_evidence_status": "NEEDS_RECONCILIATION",
     "outcome_class": "REJECTED_REPORTED_UNVERIFIED",
     "resume_variant": "executive_blue",
-    "resume_variant_label": "Executive Blue"
+    "resume_variant_label": "Executive Blue",
+    "fit_score": 70
   },
   {
     "rank": 102,
@@ -5507,7 +5608,8 @@
     "outcome_class": "REJECTED",
     "resume_variant": "executive_blue",
     "resume_variant_label": "Executive Blue",
-    "wave1_note": "Wave1: APPLIED by Amber — rejected (both Mgr and Sr Consultant reqs)."
+    "wave1_note": "Wave1: APPLIED by Amber — rejected (both Mgr and Sr Consultant reqs).",
+    "fit_score": 70
   },
   {
     "rank": 103,
@@ -5560,7 +5662,8 @@
     "zombie_business_days": null,
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
-    "resume_variant_label": "Executive Blue"
+    "resume_variant_label": "Executive Blue",
+    "fit_score": 55
   },
   {
     "rank": 104,
@@ -5613,7 +5716,8 @@
     "zombie_business_days": null,
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
-    "resume_variant_label": "Executive Blue"
+    "resume_variant_label": "Executive Blue",
+    "fit_score": 64
   },
   {
     "rank": 105,
@@ -5672,7 +5776,8 @@
     "zombie_clock": null,
     "outcome_class": "REJECTED",
     "status_updated_at": "2026-09-16",
-    "outcome_evidence": "User-provided employer rejection email screenshot; recorded September 16, 2026. Email calendar date not visible. Capital One email explicitly identifies requisition R241842."
+    "outcome_evidence": "User-provided employer rejection email screenshot; recorded September 16, 2026. Email calendar date not visible. Capital One email explicitly identifies requisition R241842.",
+    "fit_score": 35
   },
   {
     "rank": 106,
@@ -5725,7 +5830,8 @@
     "zombie_business_days": null,
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
-    "resume_variant_label": "Executive Blue"
+    "resume_variant_label": "Executive Blue",
+    "fit_score": 24
   },
   {
     "rank": 107,
@@ -5778,7 +5884,8 @@
     "zombie_business_days": null,
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
-    "resume_variant_label": "Executive Blue"
+    "resume_variant_label": "Executive Blue",
+    "fit_score": 61
   },
   {
     "rank": 108,
@@ -5831,7 +5938,8 @@
     "zombie_business_days": null,
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
-    "resume_variant_label": "Executive Blue"
+    "resume_variant_label": "Executive Blue",
+    "fit_score": 18
   },
   {
     "rank": 109,
@@ -5884,7 +5992,8 @@
     "zombie_business_days": null,
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
-    "resume_variant_label": "Executive Blue"
+    "resume_variant_label": "Executive Blue",
+    "fit_score": 68
   },
   {
     "rank": 110,
@@ -5937,7 +6046,8 @@
     "zombie_business_days": null,
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
-    "resume_variant_label": "Executive Blue"
+    "resume_variant_label": "Executive Blue",
+    "fit_score": 25
   },
   {
     "rank": 111,
@@ -5989,7 +6099,8 @@
     "zombie": false,
     "zombie_business_days": null,
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
-    "wave1_note": "Wave1: Amber decided not to apply for now; posting later expired."
+    "wave1_note": "Wave1: Amber decided not to apply for now; posting later expired.",
+    "fit_score": 92
   },
   {
     "rank": 112,
@@ -6042,7 +6153,8 @@
     "zombie_business_days": null,
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
-    "resume_variant_label": "Executive Blue"
+    "resume_variant_label": "Executive Blue",
+    "fit_score": 22
   },
   {
     "rank": 113,
@@ -6095,7 +6207,8 @@
     "zombie_business_days": null,
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
-    "resume_variant_label": "Executive Blue"
+    "resume_variant_label": "Executive Blue",
+    "fit_score": 25
   },
   {
     "rank": 114,
@@ -6152,7 +6265,8 @@
     "outcome_class": "REJECTED",
     "resume_variant": "executive_blue",
     "resume_variant_label": "Executive Blue",
-    "wave1_note": "Wave1: APPLIED by Amber, then REJECTED. Keep per notes."
+    "wave1_note": "Wave1: APPLIED by Amber, then REJECTED. Keep per notes.",
+    "fit_score": 67
   },
   {
     "rank": 115,
@@ -6205,7 +6319,8 @@
     "zombie_business_days": null,
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
-    "resume_variant_label": "Executive Blue"
+    "resume_variant_label": "Executive Blue",
+    "fit_score": 20
   },
   {
     "rank": 116,
@@ -6258,7 +6373,8 @@
     "zombie_business_days": null,
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
-    "resume_variant_label": "Executive Blue"
+    "resume_variant_label": "Executive Blue",
+    "fit_score": 36
   },
   {
     "rank": 117,
@@ -6315,7 +6431,8 @@
     "outcome_class": "REJECTED",
     "resume_variant": "executive_blue",
     "resume_variant_label": "Executive Blue",
-    "wave1_note": "Wave1: APPLIED by Amber — rejected."
+    "wave1_note": "Wave1: APPLIED by Amber — rejected.",
+    "fit_score": 66
   },
   {
     "rank": 118,
@@ -6370,7 +6487,8 @@
     "outcome_reconciliation": "User explicitly confirmed this application was rejected on 2026-09-07.",
     "resume_variant": "executive_blue",
     "resume_variant_label": "Executive Blue",
-    "wave1_note": "Wave1: APPLIED by Amber — rejected."
+    "wave1_note": "Wave1: APPLIED by Amber — rejected.",
+    "fit_score": 66
   },
   {
     "rank": 119,
@@ -6423,7 +6541,8 @@
     "zombie_business_days": null,
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
-    "resume_variant_label": "Executive Blue"
+    "resume_variant_label": "Executive Blue",
+    "fit_score": 71
   },
   {
     "rank": 120,
@@ -6476,7 +6595,8 @@
     "zombie_business_days": null,
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
-    "resume_variant_label": "Executive Blue"
+    "resume_variant_label": "Executive Blue",
+    "fit_score": 40
   },
   {
     "rank": 121,
@@ -6529,7 +6649,8 @@
     "zombie_business_days": null,
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
-    "resume_variant_label": "Executive Blue"
+    "resume_variant_label": "Executive Blue",
+    "fit_score": 28
   },
   {
     "rank": 122,
@@ -6582,7 +6703,8 @@
     "zombie_business_days": null,
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
-    "resume_variant_label": "Executive Blue"
+    "resume_variant_label": "Executive Blue",
+    "fit_score": 64
   },
   {
     "rank": 123,
@@ -6635,7 +6757,8 @@
     "zombie_business_days": null,
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
-    "resume_variant_label": "Executive Blue"
+    "resume_variant_label": "Executive Blue",
+    "fit_score": 35
   },
   {
     "rank": 124,
@@ -6647,14 +6770,14 @@
     "capability": 83,
     "office": "72% est.",
     "salary_target": "$180K",
-    "tracker_status": "Applied / Pending",
-    "status_class": "status-pending",
+    "tracker_status": "Rejected 2026-10-01 (JPMorganChase Talent Team email; Job #210772265)",
+    "status_class": "status-closed",
     "pay": "$123,500-$180,000",
     "domain": "Operations / Automation",
     "link": "",
-    "notes": "Financial-services domain and VP framing reduce screen versus capability. | E...",
-    "decision": "HISTORICAL - APPLIED/PENDING",
-    "live_status": "Applied / Pending",
+    "notes": "Financial-services domain and VP framing reduce screen versus capability. | E... UPDATE Oct 1 2026: Rejected via JPMorganChase Talent Team email for Job #210772265. Fit score retained at 63%, capability 83%.",
+    "decision": "HISTORICAL - REJECTED",
+    "live_status": "Rejected 2026-10-01",
     "hard_gate": "Empirical application status retained; not part of the current unapplied attack queue.",
     "audit_basis": "historical tracker + project status history",
     "duplicate_of": null,
@@ -6672,23 +6795,28 @@
     "audit_scope": "record + status/history + screening/capability + hidden-gate + duplicate/application-history consistency",
     "applied_at": null,
     "record_audited_at": "2026-09-07T16:00:42-05:00",
-    "posting_status": "PIPELINE",
-    "status_checked_at": "2026-09-07T16:00:42-05:00",
-    "status_check_source": "application pipeline status; posting state not used for prioritization",
+    "posting_status": "CLOSED_FOR_CANDIDATE",
+    "status_checked_at": "2026-10-01",
+    "status_check_source": "User-provided JPMorganChase Talent Team rejection email screenshot",
     "interview_request_count": 0,
     "completed_interview_count": 0,
     "potential_next_step": "",
     "office_score_basis": "Estimated - employer/social-capital proxy; exact office location not recovered",
     "office_score_confidence": "low",
     "office_score_type": "ESTIMATED",
-    "audit_schedule_kind": "PENDING_PIPELINE",
-    "audit_cadence_days": 3,
+    "audit_schedule_kind": "TERMINAL_NO_RECHECK",
+    "audit_cadence_days": 0,
     "scheduler_build_timestamp": "2026-09-07T16:19:00-05:00",
     "zombie": false,
     "zombie_business_days": null,
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
-    "resume_variant_label": "Executive Blue"
+    "resume_variant_label": "Executive Blue",
+    "fit_score": 63,
+    "outcome_class": "REJECTED",
+    "rejection_evidence_status": "CONFIRMED",
+    "rejection_evidence": "User-provided JPMorganChase rejection email screenshot received Oct 1, 2026 for Operations and Automation, Vice President, Job #210772265.",
+    "status_updated_at": "2026-10-01"
   },
   {
     "rank": 125,
@@ -6741,7 +6869,8 @@
     "zombie_business_days": null,
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
-    "resume_variant_label": "Executive Blue"
+    "resume_variant_label": "Executive Blue",
+    "fit_score": 68
   },
   {
     "rank": 126,
@@ -6794,7 +6923,8 @@
     "zombie_business_days": null,
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
-    "resume_variant_label": "Executive Blue"
+    "resume_variant_label": "Executive Blue",
+    "fit_score": 62
   },
   {
     "rank": 127,
@@ -6847,7 +6977,8 @@
     "zombie_business_days": null,
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
-    "resume_variant_label": "Executive Blue"
+    "resume_variant_label": "Executive Blue",
+    "fit_score": 44
   },
   {
     "rank": 128,
@@ -6900,7 +7031,8 @@
     "zombie_business_days": null,
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
-    "resume_variant_label": "Executive Blue"
+    "resume_variant_label": "Executive Blue",
+    "fit_score": 40
   },
   {
     "rank": 129,
@@ -6953,7 +7085,8 @@
     "zombie_business_days": null,
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
-    "resume_variant_label": "Executive Blue"
+    "resume_variant_label": "Executive Blue",
+    "fit_score": 25
   },
   {
     "rank": 130,
@@ -7008,7 +7141,8 @@
     "resume_variant": "executive_blue",
     "resume_variant_label": "Executive Blue",
     "resume_recommendation": "Do not apply in current wave unless explicit override.",
-    "wave1_note": "Wave1: posting stopped accepting applications before Amber could apply."
+    "wave1_note": "Wave1: posting stopped accepting applications before Amber could apply.",
+    "fit_score": 81
   },
   {
     "rank": 131,
@@ -7064,7 +7198,8 @@
     "resume_variant_label": "Executive Blue",
     "status": "live",
     "url": "https://careers-cotiviti.icims.com/jobs/20126/data-governance-and-analytics-architecture-director/job",
-    "apply_note": "iCIMS + hCaptcha; req 2026-20126; posted 8/27; window closes ~9/27"
+    "apply_note": "iCIMS + hCaptcha; req 2026-20126; posted 8/27; window closes ~9/27",
+    "fit_score": 35
   },
   {
     "rank": 132,
@@ -7117,7 +7252,8 @@
     "zombie_business_days": null,
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
-    "resume_variant_label": "Executive Blue"
+    "resume_variant_label": "Executive Blue",
+    "fit_score": 18
   },
   {
     "rank": 133,
@@ -7170,7 +7306,8 @@
     "zombie_business_days": null,
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
-    "resume_variant_label": "Executive Blue"
+    "resume_variant_label": "Executive Blue",
+    "fit_score": 25
   },
   {
     "rank": 134,
@@ -7223,7 +7360,8 @@
     "zombie_business_days": null,
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
-    "resume_variant_label": "Executive Blue"
+    "resume_variant_label": "Executive Blue",
+    "fit_score": 30
   },
   {
     "rank": 135,
@@ -7276,7 +7414,8 @@
     "zombie_business_days": null,
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
-    "resume_variant_label": "Executive Blue"
+    "resume_variant_label": "Executive Blue",
+    "fit_score": 38
   },
   {
     "rank": 136,
@@ -7329,7 +7468,8 @@
     "zombie_business_days": null,
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
-    "resume_variant_label": "Executive Blue"
+    "resume_variant_label": "Executive Blue",
+    "fit_score": 25
   },
   {
     "rank": 137,
@@ -7386,7 +7526,8 @@
     "outcome_class": "REJECTED",
     "resume_variant": "executive_blue",
     "resume_variant_label": "Executive Blue",
-    "wave1_note": "Wave1: APPLIED by Amber."
+    "wave1_note": "Wave1: APPLIED by Amber.",
+    "fit_score": 45
   },
   {
     "rank": 138,
@@ -7439,7 +7580,8 @@
     "zombie_business_days": null,
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
-    "resume_variant_label": "Executive Blue"
+    "resume_variant_label": "Executive Blue",
+    "fit_score": 43
   },
   {
     "rank": 139,
@@ -7492,7 +7634,8 @@
     "zombie_business_days": null,
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
-    "resume_variant_label": "Executive Blue"
+    "resume_variant_label": "Executive Blue",
+    "fit_score": 16
   },
   {
     "rank": 140,
@@ -7545,7 +7688,8 @@
     "zombie_business_days": null,
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
-    "resume_variant_label": "Executive Blue"
+    "resume_variant_label": "Executive Blue",
+    "fit_score": 20
   },
   {
     "rank": 141,
@@ -7598,7 +7742,8 @@
     "zombie_business_days": null,
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
-    "resume_variant_label": "Executive Blue"
+    "resume_variant_label": "Executive Blue",
+    "fit_score": 25
   },
   {
     "rank": 142,
@@ -7651,7 +7796,8 @@
     "zombie_business_days": null,
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
-    "resume_variant_label": "Executive Blue"
+    "resume_variant_label": "Executive Blue",
+    "fit_score": 22
   },
   {
     "rank": 143,
@@ -7704,7 +7850,8 @@
     "zombie_business_days": null,
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
-    "resume_variant_label": "Executive Blue"
+    "resume_variant_label": "Executive Blue",
+    "fit_score": 19
   },
   {
     "rank": 144,
@@ -7757,7 +7904,8 @@
     "zombie_business_days": null,
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
-    "resume_variant_label": "Executive Blue"
+    "resume_variant_label": "Executive Blue",
+    "fit_score": 18
   },
   {
     "rank": 145,
@@ -7811,7 +7959,8 @@
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
     "resume_variant_label": "Executive Blue",
-    "resume_recommendation": "If Amber explicitly overrides and applies, use Plain Jane / Basic Black & White ATS-optimized resume. Keep current hidden-gate rating."
+    "resume_recommendation": "If Amber explicitly overrides and applies, use Plain Jane / Basic Black & White ATS-optimized resume. Keep current hidden-gate rating.",
+    "fit_score": 15
   },
   {
     "rank": 146,
@@ -7864,7 +8013,8 @@
     "zombie_business_days": null,
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
-    "resume_variant_label": "Executive Blue"
+    "resume_variant_label": "Executive Blue",
+    "fit_score": 13
   },
   {
     "rank": 147,
@@ -7917,7 +8067,8 @@
     "zombie_business_days": null,
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
-    "resume_variant_label": "Executive Blue"
+    "resume_variant_label": "Executive Blue",
+    "fit_score": 0
   },
   {
     "rank": 148,
@@ -7970,7 +8121,8 @@
     "zombie_business_days": null,
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
-    "resume_variant_label": "Executive Blue"
+    "resume_variant_label": "Executive Blue",
+    "fit_score": 12
   },
   {
     "rank": 149,
@@ -8023,7 +8175,8 @@
     "zombie_business_days": null,
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
-    "resume_variant_label": "Executive Blue"
+    "resume_variant_label": "Executive Blue",
+    "fit_score": 40
   },
   {
     "rank": 150,
@@ -8076,7 +8229,8 @@
     "zombie_business_days": null,
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
-    "resume_variant_label": "Executive Blue"
+    "resume_variant_label": "Executive Blue",
+    "fit_score": 25
   },
   {
     "rank": 151,
@@ -8130,7 +8284,8 @@
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
     "resume_variant_label": "Executive Blue",
-    "wave1_note": "Wave1: Amber decided not to apply for now."
+    "wave1_note": "Wave1: Amber decided not to apply for now.",
+    "fit_score": 64
   },
   {
     "rank": 152,
@@ -8183,7 +8338,8 @@
     "zombie_business_days": null,
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
-    "resume_variant_label": "Executive Blue"
+    "resume_variant_label": "Executive Blue",
+    "fit_score": 35
   },
   {
     "rank": 153,
@@ -8236,7 +8392,8 @@
     "zombie_business_days": null,
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
-    "resume_variant_label": "Executive Blue"
+    "resume_variant_label": "Executive Blue",
+    "fit_score": 39
   },
   {
     "rank": 154,
@@ -8289,7 +8446,8 @@
     "zombie_business_days": null,
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
-    "resume_variant_label": "Executive Blue"
+    "resume_variant_label": "Executive Blue",
+    "fit_score": 35
   },
   {
     "rank": 155,
@@ -8342,7 +8500,8 @@
     "zombie_business_days": null,
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
-    "resume_variant_label": "Executive Blue"
+    "resume_variant_label": "Executive Blue",
+    "fit_score": 41
   },
   {
     "rank": 156,
@@ -8395,7 +8554,8 @@
     "zombie_business_days": null,
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
-    "resume_variant_label": "Executive Blue"
+    "resume_variant_label": "Executive Blue",
+    "fit_score": 27
   },
   {
     "rank": 157,
@@ -8448,7 +8608,8 @@
     "zombie_business_days": null,
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
-    "resume_variant_label": "Executive Blue"
+    "resume_variant_label": "Executive Blue",
+    "fit_score": 19
   },
   {
     "rank": 158,
@@ -8501,7 +8662,8 @@
     "zombie_business_days": null,
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
-    "resume_variant_label": "Executive Blue"
+    "resume_variant_label": "Executive Blue",
+    "fit_score": 24
   },
   {
     "rank": 159,
@@ -8554,7 +8716,8 @@
     "zombie_business_days": null,
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
-    "resume_variant_label": "Executive Blue"
+    "resume_variant_label": "Executive Blue",
+    "fit_score": 84
   },
   {
     "rank": 160,
@@ -8607,7 +8770,8 @@
     "zombie_business_days": null,
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
-    "resume_variant_label": "Executive Blue"
+    "resume_variant_label": "Executive Blue",
+    "fit_score": 12
   },
   {
     "rank": 161,
@@ -8661,7 +8825,8 @@
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
     "resume_variant_label": "Executive Blue",
-    "resume_recommendation": "Do not apply in current wave unless explicit override."
+    "resume_recommendation": "Do not apply in current wave unless explicit override.",
+    "fit_score": 71
   },
   {
     "rank": 162,
@@ -8715,7 +8880,8 @@
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
     "resume_variant_label": "Executive Blue",
-    "resume_recommendation": "Do not apply in current wave unless explicit override."
+    "resume_recommendation": "Do not apply in current wave unless explicit override.",
+    "fit_score": 72
   },
   {
     "rank": 163,
@@ -8769,7 +8935,8 @@
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
     "resume_variant_label": "Executive Blue",
-    "resume_recommendation": "Do not apply in current wave unless explicit override."
+    "resume_recommendation": "Do not apply in current wave unless explicit override.",
+    "fit_score": 62
   },
   {
     "rank": 164,
@@ -8822,7 +8989,8 @@
     "zombie_business_days": null,
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
-    "resume_variant_label": "Executive Blue"
+    "resume_variant_label": "Executive Blue",
+    "fit_score": 9
   },
   {
     "rank": 165,
@@ -8875,7 +9043,8 @@
     "zombie_business_days": null,
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
-    "resume_variant_label": "Executive Blue"
+    "resume_variant_label": "Executive Blue",
+    "fit_score": 12
   },
   {
     "rank": 166,
@@ -8928,7 +9097,8 @@
     "zombie_business_days": null,
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
-    "resume_variant_label": "Executive Blue"
+    "resume_variant_label": "Executive Blue",
+    "fit_score": 82
   },
   {
     "rank": 167,
@@ -8981,7 +9151,8 @@
     "zombie_business_days": null,
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
-    "resume_variant_label": "Executive Blue"
+    "resume_variant_label": "Executive Blue",
+    "fit_score": 8
   },
   {
     "rank": 168,
@@ -9034,7 +9205,8 @@
     "zombie_business_days": null,
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
-    "resume_variant_label": "Executive Blue"
+    "resume_variant_label": "Executive Blue",
+    "fit_score": 73
   },
   {
     "rank": 169,
@@ -9088,7 +9260,8 @@
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
     "resume_variant_label": "Executive Blue",
-    "resume_recommendation": "If Amber explicitly overrides and applies, use Plain Jane / Basic Black & White ATS-optimized resume. Keep current hidden-gate rating."
+    "resume_recommendation": "If Amber explicitly overrides and applies, use Plain Jane / Basic Black & White ATS-optimized resume. Keep current hidden-gate rating.",
+    "fit_score": 29
   },
   {
     "rank": 170,
@@ -9141,7 +9314,8 @@
     "zombie_business_days": null,
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
-    "resume_variant_label": "Executive Blue"
+    "resume_variant_label": "Executive Blue",
+    "fit_score": 76
   },
   {
     "rank": 171,
@@ -9194,7 +9368,8 @@
     "zombie_business_days": null,
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
-    "resume_variant_label": "Executive Blue"
+    "resume_variant_label": "Executive Blue",
+    "fit_score": 64
   },
   {
     "rank": 172,
@@ -9247,7 +9422,8 @@
     "zombie_business_days": null,
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
-    "resume_variant_label": "Executive Blue"
+    "resume_variant_label": "Executive Blue",
+    "fit_score": 43
   },
   {
     "rank": 173,
@@ -9300,7 +9476,8 @@
     "zombie_business_days": null,
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
-    "resume_variant_label": "Executive Blue"
+    "resume_variant_label": "Executive Blue",
+    "fit_score": 17
   },
   {
     "rank": 174,
@@ -9354,7 +9531,8 @@
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
     "resume_variant_label": "Executive Blue",
-    "resume_recommendation": "Do not apply unless the specialist Model N / Market Access gate changes."
+    "resume_recommendation": "Do not apply unless the specialist Model N / Market Access gate changes.",
+    "fit_score": 18
   },
   {
     "rank": 175,
@@ -9408,7 +9586,8 @@
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
     "resume_variant_label": "Executive Blue",
-    "resume_recommendation": "Do not apply unless Astellas broadens the drug-development / Planisware gate."
+    "resume_recommendation": "Do not apply unless Astellas broadens the drug-development / Planisware gate.",
+    "fit_score": 42
   },
   {
     "rank": 176,
@@ -9461,7 +9640,8 @@
     "zombie_business_days": null,
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
-    "resume_variant_label": "Executive Blue"
+    "resume_variant_label": "Executive Blue",
+    "fit_score": 35
   },
   {
     "rank": 177,
@@ -9517,7 +9697,8 @@
     "resume_variant_status": "CONFIRMED_SUBMITTED",
     "wave2_application": true,
     "wave2_resume_label": "Pretty / Executive Blue",
-    "audit_basis": "Evidence-bank re-evaluation Sep 12, 2026"
+    "audit_basis": "Evidence-bank re-evaluation Sep 12, 2026",
+    "fit_score": 94
   },
   {
     "rank": 178,
@@ -9570,7 +9751,8 @@
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
     "resume_variant_label": "Executive Blue",
-    "audit_basis": "Evidence-bank re-evaluation Sep 12, 2026"
+    "audit_basis": "Evidence-bank re-evaluation Sep 12, 2026",
+    "fit_score": 93
   },
   {
     "rank": 179,
@@ -9624,7 +9806,8 @@
     "resume_variant": "executive_blue",
     "resume_variant_label": "Executive Blue",
     "audit_basis": "Evidence-bank re-evaluation Sep 12, 2026",
-    "zombie_date": "2026-09-30"
+    "zombie_date": "2026-09-30",
+    "fit_score": 91
   },
   {
     "rank": 180,
@@ -9677,7 +9860,8 @@
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
     "resume_variant_label": "Executive Blue",
-    "audit_basis": "Evidence-bank re-evaluation Sep 12, 2026"
+    "audit_basis": "Evidence-bank re-evaluation Sep 12, 2026",
+    "fit_score": 82
   },
   {
     "rank": 181,
@@ -9730,7 +9914,8 @@
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
     "resume_variant_label": "Executive Blue",
-    "audit_basis": "Evidence-bank re-evaluation Sep 12, 2026"
+    "audit_basis": "Evidence-bank re-evaluation Sep 12, 2026",
+    "fit_score": 70
   },
   {
     "rank": 182,
@@ -9786,7 +9971,8 @@
     "outcome_type": "ROLE_FILLED_AFTER_INTERVIEW_REQUEST",
     "outcome_evidence": "Recruiter email: screen canceled because team extended an offer for the role; not counted as candidate rejection.",
     "resume_variant": "executive_blue",
-    "resume_variant_label": "Executive Blue"
+    "resume_variant_label": "Executive Blue",
+    "fit_score": 88
   },
   {
     "rank": 183,
@@ -9839,7 +10025,8 @@
     "zombie_business_days": null,
     "scheduler_last_run_at": "2026-09-07T16:57:17-05:00",
     "resume_variant": "executive_blue",
-    "resume_variant_label": "Executive Blue"
+    "resume_variant_label": "Executive Blue",
+    "fit_score": 90
   },
   {
     "rank": 184,
@@ -9894,7 +10081,8 @@
     "resume_variant": "executive_blue",
     "resume_variant_label": "Executive Blue",
     "wave2_application": true,
-    "wave2_resume_label": "Pretty / Executive Blue"
+    "wave2_resume_label": "Pretty / Executive Blue",
+    "fit_score": 94
   },
   {
     "rank": 185,
@@ -9948,7 +10136,8 @@
     "resume_variant_status": "CONFIRMED_SUBMITTED",
     "record_audited_at": "2026-09-09T21:12:00-05:00",
     "wave2_application": true,
-    "wave2_resume_label": "Plain Jane / Basic Black & White"
+    "wave2_resume_label": "Plain Jane / Basic Black & White",
+    "fit_score": 65
   },
   {
     "source_wave": "Target-company expansion - 2026-09-09",
@@ -9998,7 +10187,8 @@
     "office_score_confidence": "medium",
     "office_score_type": "ESTIMATED",
     "resume_recommendation": "Plain Jane / Basic Black & White ATS-optimized direct-application resume.",
-    "audit_basis": "Evidence-bank re-evaluation Sep 12, 2026"
+    "audit_basis": "Evidence-bank re-evaluation Sep 12, 2026",
+    "fit_score": 65
   },
   {
     "source_wave": "Target-company expansion - 2026-09-09",
@@ -10048,7 +10238,8 @@
     "office_score_confidence": "medium",
     "office_score_type": "ESTIMATED",
     "resume_recommendation": "Plain Jane / Basic Black & White ATS-optimized resume if applied.",
-    "audit_basis": "Evidence-bank re-evaluation Sep 12, 2026"
+    "audit_basis": "Evidence-bank re-evaluation Sep 12, 2026",
+    "fit_score": 92
   },
   {
     "source_wave": "Target-company expansion - 2026-09-09",
@@ -10098,7 +10289,8 @@
     "office_score_confidence": "medium",
     "office_score_type": "ESTIMATED",
     "resume_recommendation": "No apply under current gate. If requirements materially change, use Plain Jane ATS resume.",
-    "audit_basis": "Evidence-bank re-evaluation Sep 12, 2026"
+    "audit_basis": "Evidence-bank re-evaluation Sep 12, 2026",
+    "fit_score": 40
   },
   {
     "source_wave": "Target-company expansion - 2026-09-09",
@@ -10148,7 +10340,8 @@
     "office_score_confidence": "medium",
     "office_score_type": "ESTIMATED",
     "resume_recommendation": "No application under current specialist gate.",
-    "audit_basis": "Evidence-bank re-evaluation Sep 12, 2026"
+    "audit_basis": "Evidence-bank re-evaluation Sep 12, 2026",
+    "fit_score": 38
   },
   {
     "source_wave": "LinkedIn Premium audit - Sep 10",
@@ -10202,7 +10395,8 @@
     "resume_recommendation": "Plain Jane ATS if pursued; emphasize governance controls, validation, large-scale analytics and risk-based program leadership.",
     "status": "APPLIED",
     "applied_date": "2026-09-12",
-    "zombie_clock": "2026-09-25"
+    "zombie_clock": "2026-09-25",
+    "fit_score": 58
   },
   {
     "source_wave": "LinkedIn Premium audit - Sep 10",
@@ -10253,7 +10447,8 @@
     "office_score_basis": "Chicago location; exact office not inspected",
     "office_score_confidence": "medium",
     "office_score_type": "ESTIMATED",
-    "resume_recommendation": "Plain Jane ATS if pursued; sell enablement, data products, governance adoption, training, self-service and operating-model leadership."
+    "resume_recommendation": "Plain Jane ATS if pursued; sell enablement, data products, governance adoption, training, self-service and operating-model leadership.",
+    "fit_score": 25
   },
   {
     "source_wave": "LinkedIn Premium audit - Sep 10",
@@ -10306,7 +10501,8 @@
     "office_score_type": "ESTIMATED",
     "resume_recommendation": "Plain Jane ATS only as a deliberate high-upside reach.",
     "application_portal": "iCIMS (careers-mitchell.icims.com) — account credentials in Amber's private handoff (not published)",
-    "zombie_followup_eligible": "2026-09-25"
+    "zombie_followup_eligible": "2026-09-25",
+    "fit_score": 45
   },
   {
     "source_wave": "LinkedIn Premium audit - Sep 10",
@@ -10364,7 +10560,8 @@
     "audit_schedule_kind": "TERMINAL_NO_RECHECK",
     "audit_cadence_days": 0,
     "application_agent": "Perplexity",
-    "application_attribution_status": "User-recalled attribution; not independently verified"
+    "application_attribution_status": "User-recalled attribution; not independently verified",
+    "fit_score": 76
   },
   {
     "source_wave": "LinkedIn Premium audit - Sep 10",
@@ -10415,7 +10612,8 @@
     "office_score_basis": "Alsip location; exact office not inspected",
     "office_score_confidence": "low",
     "office_score_type": "ESTIMATED",
-    "resume_recommendation": "Tailored resume and cover letter submitted."
+    "resume_recommendation": "Tailored resume and cover letter submitted.",
+    "fit_score": 90
   },
   {
     "source_wave": "LinkedIn Premium audit - Sep 10",
@@ -10472,7 +10670,8 @@
     "submitted_by": "Agent",
     "submission_evidence": "Amber received confirmation email: \"Thank you for applying for Manager - 18131\" from Integra Partners dba Ag1Source/Career1Source.",
     "submission_recorded_at": "2026-09-17",
-    "last_action": "2026-09-17: Submission confirmed by employer email reported by Amber. Job 18131. Do not resubmit."
+    "last_action": "2026-09-17: Submission confirmed by employer email reported by Amber. Job 18131. Do not resubmit.",
+    "fit_score": 88
   },
   {
     "source_wave": "LinkedIn Premium audit - Sep 10",
@@ -10529,7 +10728,8 @@
     "submitted_by": "Amber",
     "submission_evidence": "Amber reported that she submitted the application herself after correcting her details.",
     "submission_recorded_at": "2026-09-17",
-    "last_action": "2026-09-19: Rejection confirmed by user-provided employer notice."
+    "last_action": "2026-09-19: Rejection confirmed by user-provided employer notice.",
+    "fit_score": 94
   },
   {
     "source_wave": "LinkedIn Premium audit - Sep 10",
@@ -10580,7 +10780,8 @@
     "office_score_basis": "NITA administrative offices are at 175 W Jackson Blvd, Suite 1550, in the Chicago Loop. Subjective office-cuteness score.",
     "office_score_confidence": "high",
     "office_score_type": "VERIFIED_LOCATION_ESTIMATE",
-    "resume_recommendation": "No resume build under the current hard tenure and transit-domain gates unless Amber explicitly overrides."
+    "resume_recommendation": "No resume build under the current hard tenure and transit-domain gates unless Amber explicitly overrides.",
+    "fit_score": 24
   },
   {
     "source_wave": "LinkedIn Premium audit - Sep 10",
@@ -10631,7 +10832,8 @@
     "office_score_basis": "Wood Dale location; exact office not inspected",
     "office_score_confidence": "low",
     "office_score_type": "ESTIMATED",
-    "resume_recommendation": "No application."
+    "resume_recommendation": "No application.",
+    "fit_score": 54
   },
   {
     "source_wave": "LinkedIn Premium audit - Sep 10",
@@ -10682,7 +10884,8 @@
     "office_score_basis": "Remote work mode; office score treated as lifestyle proxy",
     "office_score_confidence": "high",
     "office_score_type": "WORK_MODE_PROXY",
-    "resume_recommendation": "No application under current platform gate and compensation."
+    "resume_recommendation": "No application under current platform gate and compensation.",
+    "fit_score": 60
   },
   {
     "source_wave": "Tier 2 Chicago safety-net audit - Sep 11",
@@ -10733,7 +10936,8 @@
     "office_score_basis": "Remote work mode; office score treated as lifestyle proxy",
     "office_score_confidence": "high",
     "office_score_type": "WORK_MODE_PROXY",
-    "resume_recommendation": "Already applied Sep 11 with Plain Jane ATS."
+    "resume_recommendation": "Already applied Sep 11 with Plain Jane ATS.",
+    "fit_score": 72
   },
   {
     "source_wave": "Tier 2 Chicago safety-net audit - Sep 11",
@@ -10784,7 +10988,8 @@
     "office_score_basis": "U.S. Bank has a major Chicago office at 190 S LaSalle Street in the Loop. Subjective office-cuteness score.",
     "office_score_confidence": "medium",
     "office_score_type": "VERIFIED_COMPANY_LOCATION_ESTIMATE",
-    "resume_recommendation": "Skip for Tier 2. Not a safety application because the technical stack is a real screen gate."
+    "resume_recommendation": "Skip for Tier 2. Not a safety application because the technical stack is a real screen gate.",
+    "fit_score": 40
   },
   {
     "source_wave": "Tier 2 Chicago safety-net audit - Sep 11",
@@ -10835,7 +11040,8 @@
     "office_score_basis": "CNH North America office is at 711 Jorie Blvd, Oak Brook. Subjective suburban-office score.",
     "office_score_confidence": "high",
     "office_score_type": "VERIFIED_LOCATION_ESTIMATE",
-    "resume_recommendation": "No resume build under current NPI/electronics gates."
+    "resume_recommendation": "No resume build under current NPI/electronics gates.",
+    "fit_score": 34
   },
   {
     "source_wave": "Tier 2 Chicago safety-net audit - Sep 11",
@@ -10886,7 +11092,8 @@
     "office_score_basis": "Belvedere headquarters is at 10 S Riverside Plaza in downtown Chicago near Ogilvie and the river. Subjective office-cuteness/location score.",
     "office_score_confidence": "high",
     "office_score_type": "VERIFIED_LOCATION_ESTIMATE",
-    "resume_recommendation": "Selective only. If applying, use a Plain Jane ATS resume emphasizing technology delivery, requirements, KPIs, risk management, executive reporting and cross-functional ownership without claiming Agile tenure, trading experience or a formal PM title that is not supported."
+    "resume_recommendation": "Selective only. If applying, use a Plain Jane ATS resume emphasizing technology delivery, requirements, KPIs, risk management, executive reporting and cross-functional ownership without claiming Agile tenure, trading experience or a formal PM title that is not supported.",
+    "fit_score": 56
   },
   {
     "source_wave": "Tier 2 Chicago safety-net audit - Sep 11",
@@ -10937,7 +11144,8 @@
     "office_score_basis": "Posting states the office may be in a warehouse near yard space and the role visits construction sites; score reflects work environment rather than a polished downtown office.",
     "office_score_confidence": "high",
     "office_score_type": "POSTING_ENVIRONMENT_SCORE",
-    "resume_recommendation": "Skip. This was a bad safety-net recommendation after full gate audit."
+    "resume_recommendation": "Skip. This was a bad safety-net recommendation after full gate audit.",
+    "fit_score": 12
   },
   {
     "rank": 205,
@@ -10968,7 +11176,8 @@
     "applied_at": null,
     "hard_gate": "Financial services domain preferred; no Lean/Six Sigma/PMP certification",
     "suggested_ask_k": 139,
-    "role_focus": "Process Management / Analytics / Governance"
+    "role_focus": "Process Management / Analytics / Governance",
+    "fit_score": 68
   },
   {
     "rank": 206,
@@ -10999,7 +11208,8 @@
     "applied_at": null,
     "hard_gate": "Financial services domain preferred; no Lean/Six Sigma/PMP certification",
     "suggested_ask_k": 158,
-    "role_focus": "Project Management / Analytics / Governance"
+    "role_focus": "Project Management / Analytics / Governance",
+    "fit_score": 70
   },
   {
     "rank": 207,
@@ -11030,7 +11240,8 @@
     "applied_at": null,
     "hard_gate": "Financial services / complaints governance domain; no PMP/Lean/Six Sigma cert",
     "suggested_ask_k": 139,
-    "role_focus": "Process Management / Governance / Risk"
+    "role_focus": "Process Management / Governance / Risk",
+    "fit_score": 65
   },
   {
     "rank": 208,
@@ -11062,7 +11273,8 @@
     "hard_gate": "Financial services / payments domain; no Lean/Six Sigma cert",
     "suggested_ask_k": 139,
     "role_focus": "Process Management / Risk / Compliance",
-    "status": null
+    "status": null,
+    "fit_score": 68
   },
   {
     "rank": 209,
@@ -11093,7 +11305,8 @@
     "applied_at": null,
     "hard_gate": "Financial services domain; no PMP cert",
     "suggested_ask_k": 158,
-    "role_focus": "Project Management / Platforms / Transformation"
+    "role_focus": "Project Management / Platforms / Transformation",
+    "fit_score": 70
   },
   {
     "rank": 210,
@@ -11124,7 +11337,8 @@
     "applied_at": null,
     "hard_gate": "Financial services / debit network domain; no Lean/Six Sigma cert",
     "suggested_ask_k": 170,
-    "role_focus": "Process Management / Risk / Governance"
+    "role_focus": "Process Management / Risk / Governance",
+    "fit_score": 72
   },
   {
     "rank": 211,
@@ -11155,7 +11369,8 @@
     "applied_at": null,
     "hard_gate": "Comp floor low; GBS shared-services model may require specific experience",
     "suggested_ask_k": 170,
-    "role_focus": "Process Excellence / Transformation / Manufacturing"
+    "role_focus": "Process Excellence / Transformation / Manufacturing",
+    "fit_score": 78
   },
   {
     "rank": 212,
@@ -11186,7 +11401,8 @@
     "applied_at": null,
     "hard_gate": "Advanced SQL + data architecture + GenAI + 5yr legal/compliance/risk analytics",
     "suggested_ask_k": null,
-    "role_focus": "Legal Analytics / AI / Compliance"
+    "role_focus": "Legal Analytics / AI / Compliance",
+    "fit_score": 25
   },
   {
     "rank": 213,
@@ -11217,7 +11433,8 @@
     "applied_at": null,
     "hard_gate": "Comp below target; possible Mars company cap",
     "suggested_ask_k": 149,
-    "role_focus": "Transformation / Program Management / Manufacturing"
+    "role_focus": "Transformation / Program Management / Manufacturing",
+    "fit_score": 80
   },
   {
     "rank": 214,
@@ -11248,7 +11465,8 @@
     "applied_at": null,
     "hard_gate": "5+ years IT experience; SSRS/Cognos specific tools; 5-day onsite commute",
     "suggested_ask_k": 185,
-    "role_focus": "Data Analytics / BI / Manufacturing"
+    "role_focus": "Data Analytics / BI / Manufacturing",
+    "fit_score": 72
   },
   {
     "rank": 215,
@@ -11279,7 +11497,8 @@
     "applied_at": null,
     "hard_gate": "40-50% travel; wide comp range with low floor",
     "suggested_ask_k": 171,
-    "role_focus": "Process Management / Supply Chain / Operations"
+    "role_focus": "Process Management / Supply Chain / Operations",
+    "fit_score": 75
   },
   {
     "rank": 216,
@@ -11310,7 +11529,8 @@
     "applied_at": null,
     "hard_gate": "Tech-sector partner operations screening; comp below target; possible Google company cap",
     "suggested_ask_k": 159,
-    "role_focus": "Data Operations / Partner Management / Governance"
+    "role_focus": "Data Operations / Partner Management / Governance",
+    "fit_score": 55
   },
   {
     "rank": 217,
@@ -11341,7 +11561,8 @@
     "applied_at": null,
     "hard_gate": "Comp below target; less direct ERP/data-governance content",
     "suggested_ask_k": 160,
-    "role_focus": "Program Management / Strategy / Digital"
+    "role_focus": "Program Management / Strategy / Digital",
+    "fit_score": 72
   },
   {
     "rank": 218,
@@ -11372,7 +11593,8 @@
     "applied_at": null,
     "hard_gate": "6-7 years enterprise PM; consulting firm tenure/pedigree",
     "suggested_ask_k": 176,
-    "role_focus": "Project Management / Consulting / Enterprise"
+    "role_focus": "Project Management / Consulting / Enterprise",
+    "fit_score": 55
   },
   {
     "rank": 219,
@@ -11407,7 +11629,8 @@
     "live_status": "CLOSED / not on employer portal (verified Sep 12, 2026)",
     "posting_status": "CLOSED_AT_LAST_CHECK",
     "status_checked_at": "2026-09-12T16:50:00-05:00",
-    "status_check_source": "Sep 12 Wave-3 employer-site verification (agent sweep)"
+    "status_check_source": "Sep 12 Wave-3 employer-site verification (agent sweep)",
+    "fit_score": 75
   },
   {
     "rank": 220,
@@ -11438,7 +11661,8 @@
     "applied_at": null,
     "hard_gate": "8-year analytics/BI/automation/quality-systems requirement",
     "suggested_ask_k": null,
-    "role_focus": "Data Analytics / Quality Systems / Medical Devices"
+    "role_focus": "Data Analytics / Quality Systems / Medical Devices",
+    "fit_score": 30
   },
   {
     "rank": 221,
@@ -11469,7 +11693,8 @@
     "applied_at": null,
     "hard_gate": "6 years formal PM + 3 years people management",
     "suggested_ask_k": null,
-    "role_focus": "Customer Service Platforms / Project Management"
+    "role_focus": "Customer Service Platforms / Project Management",
+    "fit_score": 35
   },
   {
     "rank": 222,
@@ -11500,7 +11725,8 @@
     "applied_at": null,
     "hard_gate": "10+ years technology + 8+ years CMDB/governance/ServiceNow/IT ops",
     "suggested_ask_k": null,
-    "role_focus": "ServiceNow CMDB / IT Operations / Configuration Management"
+    "role_focus": "ServiceNow CMDB / IT Operations / Configuration Management",
+    "fit_score": 25
   },
   {
     "rank": 223,
@@ -11531,7 +11757,8 @@
     "applied_at": null,
     "hard_gate": "SaaS client implementation and integration-delivery experience required",
     "suggested_ask_k": null,
-    "role_focus": "SaaS Implementation / Client Delivery / Integration"
+    "role_focus": "SaaS Implementation / Client Delivery / Integration",
+    "fit_score": 35
   },
   {
     "rank": 224,
@@ -11562,7 +11789,8 @@
     "applied_at": null,
     "hard_gate": "Full-cycle consulting implementation; Agile/SAP delivery; consulting firm tenure",
     "suggested_ask_k": null,
-    "role_focus": "SAP Consulting / Program Management / Advisory"
+    "role_focus": "SAP Consulting / Program Management / Advisory",
+    "fit_score": 30
   },
   {
     "rank": 225,
@@ -11598,7 +11826,8 @@
     "posting_status": "OPEN_AT_LAST_CHECK",
     "status_checked_at": "2026-09-12T16:50:00-05:00",
     "status_check_source": "Sep 12 Wave-3 employer-site verification (agent sweep)",
-    "status": "APPLIED"
+    "status": "APPLIED",
+    "fit_score": 82
   },
   {
     "rank": 226,
@@ -11633,7 +11862,8 @@
     "live_status": "OPEN / verified live Sep 12, 2026 / Lake Forest hybrid 3 days",
     "posting_status": "OPEN_AT_LAST_CHECK",
     "status_checked_at": "2026-09-12T22:42:00-05:00",
-    "status_check_source": "Sep 12 Wave-3 submission (iCIMS job 35150, green confirmation banner)"
+    "status_check_source": "Sep 12 Wave-3 submission (iCIMS job 35150, green confirmation banner)",
+    "fit_score": 80
   },
   {
     "rank": 227,
@@ -11664,7 +11894,8 @@
     "applied_at": null,
     "hard_gate": "Comp below target; onsite commute from Bourbonnais",
     "suggested_ask_k": 166,
-    "role_focus": "Global Demand Planning / Supply Chain / Manufacturing"
+    "role_focus": "Global Demand Planning / Supply Chain / Manufacturing",
+    "fit_score": 78
   },
   {
     "rank": 228,
@@ -11699,7 +11930,8 @@
     "live_status": "CLOSED / expired (verified Sep 12, 2026)",
     "posting_status": "CLOSED_AT_LAST_CHECK",
     "status_checked_at": "2026-09-12T16:50:00-05:00",
-    "status_check_source": "Sep 12 Wave-3 employer-site verification (agent sweep)"
+    "status_check_source": "Sep 12 Wave-3 employer-site verification (agent sweep)",
+    "fit_score": 80
   },
   {
     "rank": 229,
@@ -11730,7 +11962,8 @@
     "applied_at": null,
     "hard_gate": "Formal MDM title/tenure screening risk; salary not published",
     "suggested_ask_k": null,
-    "role_focus": "Master Data Management / Data Governance / CPG"
+    "role_focus": "Master Data Management / Data Governance / CPG",
+    "fit_score": 72
   },
   {
     "rank": 230,
@@ -11761,7 +11994,8 @@
     "applied_at": null,
     "hard_gate": "Procurement category management tenure; salary not published",
     "suggested_ask_k": null,
-    "role_focus": "Procurement Excellence / Global Operations / Healthcare"
+    "role_focus": "Procurement Excellence / Global Operations / Healthcare",
+    "fit_score": 74
   },
   {
     "rank": 231,
@@ -11796,7 +12030,8 @@
     "live_status": "CLOSED / not on employer portal (verified Sep 12, 2026)",
     "posting_status": "CLOSED_AT_LAST_CHECK",
     "status_checked_at": "2026-09-12T16:50:00-05:00",
-    "status_check_source": "Sep 12 Wave-3 employer-site verification (agent sweep)"
+    "status_check_source": "Sep 12 Wave-3 employer-site verification (agent sweep)",
+    "fit_score": 78
   },
   {
     "rank": 232,
@@ -11831,7 +12066,8 @@
     "live_status": "CLOSED / not on employer portal (verified Sep 12, 2026)",
     "posting_status": "CLOSED_AT_LAST_CHECK",
     "status_checked_at": "2026-09-12T16:50:00-05:00",
-    "status_check_source": "Sep 12 Wave-3 employer-site verification (agent sweep)"
+    "status_check_source": "Sep 12 Wave-3 employer-site verification (agent sweep)",
+    "fit_score": 80
   },
   {
     "rank": 233,
@@ -11862,7 +12098,8 @@
     "applied_at": null,
     "hard_gate": "5 years management (borderline); Lean/Six Sigma mentioned; salary not published",
     "suggested_ask_k": null,
-    "role_focus": "Process Innovation / MDM / Digital Transformation"
+    "role_focus": "Process Innovation / MDM / Digital Transformation",
+    "fit_score": 72
   },
   {
     "rank": 234,
@@ -11897,7 +12134,8 @@
     "live_status": "CLOSED / expired (verified Sep 12, 2026)",
     "posting_status": "CLOSED_AT_LAST_CHECK",
     "status_checked_at": "2026-09-12T16:50:00-05:00",
-    "status_check_source": "Sep 12 Wave-3 employer-site verification (agent sweep)"
+    "status_check_source": "Sep 12 Wave-3 employer-site verification (agent sweep)",
+    "fit_score": 82
   },
   {
     "rank": 235,
@@ -11932,7 +12170,8 @@
     "live_status": "CLOSED / not on employer portal (verified Sep 12, 2026)",
     "posting_status": "CLOSED_AT_LAST_CHECK",
     "status_checked_at": "2026-09-12T16:50:00-05:00",
-    "status_check_source": "Sep 12 Wave-3 employer-site verification (agent sweep)"
+    "status_check_source": "Sep 12 Wave-3 employer-site verification (agent sweep)",
+    "fit_score": 80
   },
   {
     "rank": 236,
@@ -11967,7 +12206,8 @@
     "live_status": "CLOSED / expired (verified Sep 12, 2026)",
     "posting_status": "CLOSED_AT_LAST_CHECK",
     "status_checked_at": "2026-09-12T16:50:00-05:00",
-    "status_check_source": "Sep 12 Wave-3 employer-site verification (agent sweep)"
+    "status_check_source": "Sep 12 Wave-3 employer-site verification (agent sweep)",
+    "fit_score": 72
   },
   {
     "rank": 237,
@@ -11998,7 +12238,8 @@
     "applied_at": null,
     "hard_gate": "Third-party recruiter (unknown client); comp floor below current",
     "suggested_ask_k": 175,
-    "role_focus": "Data Governance / Data Stewardship / Manufacturing"
+    "role_focus": "Data Governance / Data Stewardship / Manufacturing",
+    "fit_score": 75
   },
   {
     "rank": 238,
@@ -12033,7 +12274,8 @@
     "live_status": "CLOSED / not on employer portal (verified Sep 12, 2026)",
     "posting_status": "CLOSED_AT_LAST_CHECK",
     "status_checked_at": "2026-09-12T16:50:00-05:00",
-    "status_check_source": "Sep 12 Wave-3 employer-site verification (agent sweep)"
+    "status_check_source": "Sep 12 Wave-3 employer-site verification (agent sweep)",
+    "fit_score": 65
   },
   {
     "rank": 239,
@@ -12064,7 +12306,8 @@
     "applied_at": null,
     "hard_gate": "6+ years pharma experience (Amber has ~2.5); CTMS awareness; AbbVie Quality System",
     "suggested_ask_k": null,
-    "role_focus": "Process Excellence / GxP Compliance / Pharmaceuticals"
+    "role_focus": "Process Excellence / GxP Compliance / Pharmaceuticals",
+    "fit_score": 68
   },
   {
     "rank": 240,
@@ -12095,7 +12338,8 @@
     "applied_at": null,
     "hard_gate": "None — 7+ years is the only gate and Amber meets it. No tools, no certs, no education beyond bachelor's.",
     "suggested_ask_k": null,
-    "role_focus": "Data Governance Consulting / 1099 Contract"
+    "role_focus": "Data Governance Consulting / 1099 Contract",
+    "fit_score": 82
   },
   {
     "rank": 241,
@@ -12126,7 +12370,8 @@
     "applied_at": null,
     "hard_gate": "8+ years (borderline); Finance domain gap (GL, consolidation, close, reconciliation); SOX environment",
     "suggested_ask_k": 194,
-    "role_focus": "Finance Data Governance / Contract"
+    "role_focus": "Finance Data Governance / Contract",
+    "fit_score": 65
   },
   {
     "rank": 242,
@@ -12157,7 +12402,8 @@
     "applied_at": null,
     "hard_gate": "10+ years SAP PM/EAM (Amber has ~4); SAP S/4HANA required; SAP WM/EWM, Fiori, IAM required",
     "suggested_ask_k": null,
-    "role_focus": "SAP PM/EAM Consulting / W2 Contract"
+    "role_focus": "SAP PM/EAM Consulting / W2 Contract",
+    "fit_score": 35
   },
   {
     "rank": 999,
@@ -12187,7 +12433,8 @@
     "strategy_bucket": "HISTORICAL",
     "traffic": "PIPELINE",
     "audit_status": "AUDITED",
-    "audit_timestamp": "2026-09-13T09:15:00-05:00"
+    "audit_timestamp": "2026-09-13T09:15:00-05:00",
+    "fit_score": 90
   },
   {
     "company": "dv01",
@@ -12204,7 +12451,8 @@
     "screen": 85,
     "capability": 88,
     "audit_status": "AUDITED",
-    "audit_timestamp": "2026-09-13T09:15:00-05:00"
+    "audit_timestamp": "2026-09-13T09:15:00-05:00",
+    "fit_score": 85
   },
   {
     "company": "Mercury",
@@ -12221,7 +12469,8 @@
     "screen": 84,
     "capability": 88,
     "audit_status": "AUDITED",
-    "audit_timestamp": "2026-09-13T09:15:00-05:00"
+    "audit_timestamp": "2026-09-13T09:15:00-05:00",
+    "fit_score": 84
   },
   {
     "company": "Experis (ManpowerGroup)",
@@ -12241,7 +12490,8 @@
     "capability": 75,
     "applied_at": "2026-09-13",
     "audit_status": "AUDITED",
-    "audit_timestamp": "2026-09-13T09:15:00-05:00"
+    "audit_timestamp": "2026-09-13T09:15:00-05:00",
+    "fit_score": 70
   },
   {
     "company": "West Leland Group",
@@ -12258,7 +12508,8 @@
     "status_class": "status-closed",
     "screen": 20,
     "audit_status": "AUDITED",
-    "audit_timestamp": "2026-09-13T09:15:00-05:00"
+    "audit_timestamp": "2026-09-13T09:15:00-05:00",
+    "fit_score": 20
   },
   {
     "company": "Central Business Solutions",
@@ -12298,7 +12549,8 @@
     "resume_recommendation": "Application submitted; await recruiter response.",
     "salary_target": "$75/hour W-2",
     "search_link": "https://cbsinfosys.catsone.com/careers/4147/jobs/16854349-Master-Data-Specialist-SAP-MDG-S4-HANA-or-100percent-Remote-or-Contract-or-AS",
-    "link_type": "Open role"
+    "link_type": "Open role",
+    "fit_score": 78
   },
   {
     "company": "Intone Networks",
@@ -12315,7 +12567,8 @@
     "screen": 60,
     "capability": 70,
     "audit_status": "AUDITED",
-    "audit_timestamp": "2026-09-13T09:15:00-05:00"
+    "audit_timestamp": "2026-09-13T09:15:00-05:00",
+    "fit_score": 60
   },
   {
     "company": "Elfonze Technologies",
@@ -12354,7 +12607,8 @@
     "resume_label": "Tailored application materials",
     "resume_recommendation": "Application submitted; await recruiter response.",
     "search_link": "https://www.simplyhired.com/job/3kBTwgwSu2frH89SNskKiRel-hbPVqi_AEy18Rmo3oFfQxKriuQ7OA",
-    "link_type": "Open role"
+    "link_type": "Open role",
+    "fit_score": 72
   },
   {
     "company": "Genesis10",
@@ -12371,7 +12625,8 @@
     "status_class": "status-closed",
     "screen": 20,
     "audit_status": "AUDITED",
-    "audit_timestamp": "2026-09-13T09:15:00-05:00"
+    "audit_timestamp": "2026-09-13T09:15:00-05:00",
+    "fit_score": 20
   },
   {
     "company": "Patriot Talent Solutions",
@@ -12388,7 +12643,8 @@
     "status_class": "status-closed",
     "screen": 20,
     "audit_status": "AUDITED",
-    "audit_timestamp": "2026-09-13T09:15:00-05:00"
+    "audit_timestamp": "2026-09-13T09:15:00-05:00",
+    "fit_score": 20
   },
   {
     "company": "Abacus Service Corporation",
@@ -12405,7 +12661,8 @@
     "status_class": "status-closed",
     "screen": 20,
     "audit_status": "AUDITED",
-    "audit_timestamp": "2026-09-13T09:15:00-05:00"
+    "audit_timestamp": "2026-09-13T09:15:00-05:00",
+    "fit_score": 20
   },
   {
     "company": "Blue Star Partners",
@@ -12427,7 +12684,8 @@
     "capability": 86,
     "applied_at": "2026-09-13",
     "audit_status": "AUDITED",
-    "audit_timestamp": "2026-09-13T09:15:00-05:00"
+    "audit_timestamp": "2026-09-13T09:15:00-05:00",
+    "fit_score": 82
   },
   {
     "company": "Capgemini",
@@ -12444,7 +12702,8 @@
     "screen": 65,
     "capability": 75,
     "audit_status": "AUDITED",
-    "audit_timestamp": "2026-09-13T09:15:00-05:00"
+    "audit_timestamp": "2026-09-13T09:15:00-05:00",
+    "fit_score": 65
   },
   {
     "company": "Capgemini",
@@ -12461,7 +12720,8 @@
     "screen": 65,
     "capability": 75,
     "audit_status": "AUDITED",
-    "audit_timestamp": "2026-09-13T09:15:00-05:00"
+    "audit_timestamp": "2026-09-13T09:15:00-05:00",
+    "fit_score": 65
   },
   {
     "company": "Neo Prism Solutions",
@@ -12478,7 +12738,8 @@
     "status_class": "status-closed",
     "screen": 20,
     "audit_status": "AUDITED",
-    "audit_timestamp": "2026-09-13T09:15:00-05:00"
+    "audit_timestamp": "2026-09-13T09:15:00-05:00",
+    "fit_score": 20
   },
   {
     "company": "Kforce",
@@ -12495,7 +12756,8 @@
     "status_class": "status-closed",
     "screen": 20,
     "audit_status": "AUDITED",
-    "audit_timestamp": "2026-09-13T09:15:00-05:00"
+    "audit_timestamp": "2026-09-13T09:15:00-05:00",
+    "fit_score": 20
   },
   {
     "company": "nLeague Services / Nebraska DHHS",
@@ -12512,7 +12774,8 @@
     "screen": 58,
     "capability": 65,
     "audit_status": "AUDITED",
-    "audit_timestamp": "2026-09-13T09:15:00-05:00"
+    "audit_timestamp": "2026-09-13T09:15:00-05:00",
+    "fit_score": 58
   },
   {
     "company": "Trebecon",
@@ -12529,7 +12792,8 @@
     "status_class": "status-closed",
     "screen": 20,
     "audit_status": "AUDITED",
-    "audit_timestamp": "2026-09-13T09:15:00-05:00"
+    "audit_timestamp": "2026-09-13T09:15:00-05:00",
+    "fit_score": 20
   },
   {
     "company": "TalentBurst / Inova",
@@ -12546,7 +12810,8 @@
     "screen": 60,
     "capability": 70,
     "audit_status": "AUDITED",
-    "audit_timestamp": "2026-09-13T09:15:00-05:00"
+    "audit_timestamp": "2026-09-13T09:15:00-05:00",
+    "fit_score": 60
   },
   {
     "company": "Blue Star Partners",
@@ -12566,7 +12831,8 @@
     "audit_status": "AUDITED",
     "audit_timestamp": "2026-09-13T09:15:00-05:00",
     "status_class": "applied",
-    "zombie": "2026-09-30"
+    "zombie": "2026-09-30",
+    "fit_score": 82
   },
   {
     "company": "PTR Global",
@@ -12583,7 +12849,8 @@
     "screen": 65,
     "capability": 72,
     "audit_status": "AUDITED",
-    "audit_timestamp": "2026-09-13T09:15:00-05:00"
+    "audit_timestamp": "2026-09-13T09:15:00-05:00",
+    "fit_score": 65
   },
   {
     "company": "Insight Global",
@@ -12600,7 +12867,8 @@
     "status_class": "status-closed",
     "screen": 20,
     "audit_status": "AUDITED",
-    "audit_timestamp": "2026-09-13T09:15:00-05:00"
+    "audit_timestamp": "2026-09-13T09:15:00-05:00",
+    "fit_score": 20
   },
   {
     "company": "Motion Recruitment",
@@ -12617,7 +12885,8 @@
     "screen": 35,
     "capability": 55,
     "audit_status": "AUDITED",
-    "audit_timestamp": "2026-09-13T09:15:00-05:00"
+    "audit_timestamp": "2026-09-13T09:15:00-05:00",
+    "fit_score": 35
   },
   {
     "company": "Hirewell",
@@ -12892,7 +13161,8 @@
     "audit_status": "AUDITED",
     "audit_timestamp": "2026-09-13T10:50:00-05:00",
     "applied_at": null,
-    "zombie": false
+    "zombie": false,
+    "fit_score": 40
   },
   {
     "rank": 280,
@@ -12927,7 +13197,8 @@
     "audit_status": "AUDITED",
     "audit_timestamp": "2026-09-13T10:50:00-05:00",
     "applied_at": null,
-    "zombie": false
+    "zombie": false,
+    "fit_score": 35
   },
   {
     "rank": 281,
@@ -12962,7 +13233,8 @@
     "audit_status": "AUDITED",
     "audit_timestamp": "2026-09-13T10:50:00-05:00",
     "applied_at": null,
-    "zombie": false
+    "zombie": false,
+    "fit_score": 55
   },
   {
     "rank": 282,
@@ -12997,7 +13269,8 @@
     "audit_status": "AUDITED",
     "audit_timestamp": "2026-09-13T12:30:00-05:00",
     "applied_at": null,
-    "zombie": false
+    "zombie": false,
+    "fit_score": 78
   },
   {
     "rank": 283,
@@ -13040,7 +13313,8 @@
     "zombie_clock": null,
     "status_updated_at": "2026-09-17",
     "audit_schedule_kind": "CLOSED",
-    "outcome_evidence": "Novartis rejection email for REQ-10086344. Two screenshots of one email; counted once. Recorded September 17, 2026; email calendar date not visible."
+    "outcome_evidence": "Novartis rejection email for REQ-10086344. Two screenshots of one email; counted once. Recorded September 17, 2026; email calendar date not visible.",
+    "fit_score": 82
   },
   {
     "rank": 284,
@@ -13075,7 +13349,8 @@
     "audit_status": "LEAD-UNVERIFIED",
     "audit_timestamp": "2026-09-13T11:30:00-05:00",
     "applied_at": null,
-    "zombie": false
+    "zombie": false,
+    "fit_score": 62
   },
   {
     "rank": 285,
@@ -13110,7 +13385,8 @@
     "audit_status": "LEAD-UNVERIFIED",
     "audit_timestamp": "2026-09-13T11:30:00-05:00",
     "applied_at": null,
-    "zombie": false
+    "zombie": false,
+    "fit_score": 68
   },
   {
     "rank": 286,
@@ -13145,7 +13421,8 @@
     "audit_status": "LEAD-UNVERIFIED",
     "audit_timestamp": "2026-09-13T11:30:00-05:00",
     "applied_at": null,
-    "zombie": false
+    "zombie": false,
+    "fit_score": 62
   },
   {
     "rank": 287,
@@ -13180,7 +13457,8 @@
     "audit_status": "LEAD-UNVERIFIED",
     "audit_timestamp": "2026-09-13T11:30:00-05:00",
     "applied_at": null,
-    "zombie": false
+    "zombie": false,
+    "fit_score": 68
   },
   {
     "rank": 288,
@@ -13215,7 +13493,8 @@
     "audit_status": "LEAD-UNVERIFIED",
     "audit_timestamp": "2026-09-13T11:30:00-05:00",
     "applied_at": null,
-    "zombie": false
+    "zombie": false,
+    "fit_score": 70
   },
   {
     "rank": 289,
@@ -13250,7 +13529,8 @@
     "audit_status": "LEAD-UNVERIFIED",
     "audit_timestamp": "2026-09-13T11:30:00-05:00",
     "applied_at": null,
-    "zombie": false
+    "zombie": false,
+    "fit_score": 52
   },
   {
     "rank": 290,
@@ -13285,7 +13565,8 @@
     "audit_status": "LEAD-UNVERIFIED",
     "audit_timestamp": "2026-09-13T11:30:00-05:00",
     "applied_at": null,
-    "zombie": false
+    "zombie": false,
+    "fit_score": 64
   },
   {
     "rank": 291,
@@ -13320,7 +13601,8 @@
     "audit_status": "LEAD-UNVERIFIED",
     "audit_timestamp": "2026-09-13T11:30:00-05:00",
     "applied_at": null,
-    "zombie": false
+    "zombie": false,
+    "fit_score": 68
   },
   {
     "rank": 292,
@@ -13355,7 +13637,8 @@
     "audit_status": "LEAD-UNVERIFIED",
     "audit_timestamp": "2026-09-13T11:30:00-05:00",
     "applied_at": null,
-    "zombie": false
+    "zombie": false,
+    "fit_score": 60
   },
   {
     "rank": 293,
@@ -13390,7 +13673,8 @@
     "audit_status": "LEAD-UNVERIFIED",
     "audit_timestamp": "2026-09-13T11:30:00-05:00",
     "applied_at": null,
-    "zombie": false
+    "zombie": false,
+    "fit_score": 55
   },
   {
     "rank": 294,
@@ -13425,7 +13709,8 @@
     "audit_status": "LEAD-UNVERIFIED",
     "audit_timestamp": "2026-09-13T11:30:00-05:00",
     "applied_at": null,
-    "zombie": false
+    "zombie": false,
+    "fit_score": 60
   },
   {
     "rank": 295,
@@ -13460,7 +13745,8 @@
     "audit_status": "LEAD-UNVERIFIED",
     "audit_timestamp": "2026-09-13T11:30:00-05:00",
     "applied_at": null,
-    "zombie": false
+    "zombie": false,
+    "fit_score": 58
   },
   {
     "rank": 296,
@@ -13495,7 +13781,8 @@
     "audit_status": "LEAD-UNVERIFIED",
     "audit_timestamp": "2026-09-13T11:30:00-05:00",
     "applied_at": null,
-    "zombie": false
+    "zombie": false,
+    "fit_score": 62
   },
   {
     "rank": 297,
@@ -13530,7 +13817,8 @@
     "audit_status": "AUDITED",
     "audit_timestamp": "2026-09-13T11:30:00-05:00",
     "applied_at": null,
-    "zombie": false
+    "zombie": false,
+    "fit_score": 78
   },
   {
     "rank": 298,
@@ -13565,7 +13853,8 @@
     "audit_status": "AUDITED",
     "audit_timestamp": "2026-09-13T11:30:00-05:00",
     "applied_at": null,
-    "zombie": false
+    "zombie": false,
+    "fit_score": 35
   },
   {
     "rank": 299,
@@ -13600,7 +13889,8 @@
     "audit_status": "LEAD-UNVERIFIED",
     "audit_timestamp": "2026-09-13T11:30:00-05:00",
     "applied_at": null,
-    "zombie": false
+    "zombie": false,
+    "fit_score": 55
   },
   {
     "rank": 300,
@@ -13635,7 +13925,8 @@
     "audit_status": "LEAD-UNVERIFIED",
     "audit_timestamp": "2026-09-13T11:30:00-05:00",
     "applied_at": null,
-    "zombie": false
+    "zombie": false,
+    "fit_score": 55
   },
   {
     "rank": 301,
@@ -13670,7 +13961,8 @@
     "audit_status": "LEAD-UNVERIFIED",
     "audit_timestamp": "2026-09-13T11:30:00-05:00",
     "applied_at": null,
-    "zombie": false
+    "zombie": false,
+    "fit_score": 20
   },
   {
     "rank": 302,
@@ -13705,7 +13997,8 @@
     "audit_status": "LEAD-UNVERIFIED",
     "audit_timestamp": "2026-09-13T11:30:00-05:00",
     "applied_at": null,
-    "zombie": false
+    "zombie": false,
+    "fit_score": 15
   },
   {
     "rank": 303,
@@ -13740,7 +14033,8 @@
     "audit_status": "LEAD-UNVERIFIED",
     "audit_timestamp": "2026-09-13T11:30:00-05:00",
     "applied_at": null,
-    "zombie": false
+    "zombie": false,
+    "fit_score": 15
   },
   {
     "rank": 304,
@@ -13775,7 +14069,8 @@
     "audit_status": "LEAD-UNVERIFIED",
     "audit_timestamp": "2026-09-13T11:30:00-05:00",
     "applied_at": null,
-    "zombie": false
+    "zombie": false,
+    "fit_score": 62
   },
   {
     "rank": 305,
@@ -13810,7 +14105,8 @@
     "audit_status": "LEAD-UNVERIFIED",
     "audit_timestamp": "2026-09-13T11:30:00-05:00",
     "applied_at": null,
-    "zombie": false
+    "zombie": false,
+    "fit_score": 68
   },
   {
     "rank": 306,
@@ -13845,7 +14141,8 @@
     "audit_status": "LEAD-UNVERIFIED",
     "audit_timestamp": "2026-09-13T11:30:00-05:00",
     "applied_at": null,
-    "zombie": false
+    "zombie": false,
+    "fit_score": 0
   },
   {
     "rank": 307,
@@ -13880,7 +14177,8 @@
     "audit_status": "LEAD-UNVERIFIED",
     "audit_timestamp": "2026-09-13T11:30:00-05:00",
     "applied_at": null,
-    "zombie": false
+    "zombie": false,
+    "fit_score": 50
   },
   {
     "rank": 308,
@@ -13915,7 +14213,8 @@
     "audit_status": "LEAD-UNVERIFIED",
     "audit_timestamp": "2026-09-13T11:30:00-05:00",
     "applied_at": null,
-    "zombie": false
+    "zombie": false,
+    "fit_score": 58
   },
   {
     "rank": 309,
@@ -13950,7 +14249,8 @@
     "audit_status": "AUDITED",
     "audit_timestamp": "2026-09-13T11:30:00-05:00",
     "applied_at": null,
-    "zombie": false
+    "zombie": false,
+    "fit_score": 40
   },
   {
     "rank": 310,
@@ -13985,7 +14285,8 @@
     "audit_status": "LEAD-UNVERIFIED",
     "audit_timestamp": "2026-09-13T11:30:00-05:00",
     "applied_at": null,
-    "zombie": false
+    "zombie": false,
+    "fit_score": 62
   },
   {
     "rank": 311,
@@ -14020,7 +14321,8 @@
     "audit_status": "LEAD-UNVERIFIED",
     "audit_timestamp": "2026-09-13T11:30:00-05:00",
     "applied_at": null,
-    "zombie": false
+    "zombie": false,
+    "fit_score": 55
   },
   {
     "rank": 312,
@@ -14055,7 +14357,8 @@
     "audit_status": "LEAD-UNVERIFIED",
     "audit_timestamp": "2026-09-13T11:30:00-05:00",
     "applied_at": null,
-    "zombie": false
+    "zombie": false,
+    "fit_score": 40
   },
   {
     "rank": 313,
@@ -14090,7 +14393,8 @@
     "audit_status": "LEAD-UNVERIFIED",
     "audit_timestamp": "2026-09-13T11:30:00-05:00",
     "applied_at": null,
-    "zombie": false
+    "zombie": false,
+    "fit_score": 60
   },
   {
     "rank": 314,
@@ -14125,7 +14429,8 @@
     "audit_status": "LEAD-UNVERIFIED",
     "audit_timestamp": "2026-09-13T11:30:00-05:00",
     "applied_at": null,
-    "zombie": false
+    "zombie": false,
+    "fit_score": 52
   },
   {
     "rank": 315,
@@ -14160,7 +14465,8 @@
     "audit_status": "LEAD-UNVERIFIED",
     "audit_timestamp": "2026-09-13T11:30:00-05:00",
     "applied_at": null,
-    "zombie": false
+    "zombie": false,
+    "fit_score": 45
   },
   {
     "rank": 316,
@@ -14195,7 +14501,8 @@
     "audit_status": "LEAD-UNVERIFIED",
     "audit_timestamp": "2026-09-13T11:30:00-05:00",
     "applied_at": null,
-    "zombie": false
+    "zombie": false,
+    "fit_score": 50
   },
   {
     "rank": 317,
@@ -14230,7 +14537,8 @@
     "audit_status": "LEAD-UNVERIFIED",
     "audit_timestamp": "2026-09-13T11:30:00-05:00",
     "applied_at": null,
-    "zombie": false
+    "zombie": false,
+    "fit_score": 45
   },
   {
     "rank": 318,
@@ -14265,7 +14573,8 @@
     "audit_status": "LEAD-UNVERIFIED",
     "audit_timestamp": "2026-09-13T11:30:00-05:00",
     "applied_at": null,
-    "zombie": false
+    "zombie": false,
+    "fit_score": 50
   },
   {
     "company": "Novartis",
@@ -14397,6 +14706,7 @@
     "potential_next_step": "Sabrina DeLuca will follow up after her Sep 24 meeting with Courtney, Director of Category Management, to schedule a 30-45 minute virtual hiring-manager interview.",
     "status_checked_at": "2026-09-23",
     "status_check_source": "User-provided Zoro HR screen transcript",
-    "completed_interview_count": 1
+    "completed_interview_count": 1,
+    "fit_score": 88
   }
 ]
