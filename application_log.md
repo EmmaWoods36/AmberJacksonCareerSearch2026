@@ -332,3 +332,10 @@ Advisor review + full reconciliation of the ledger vs verification log forced an
 - CBS best-time-to-call field remained blank because Amber's afternoon preference arrived after submission. Do not claim a post-submission change was made.
 - Counts: standing applications 83 to 88 and active/pending 49 to 54 (four batch submissions plus L3Harris). Confirmed rejections remain 26. Existing Ulta duplicate caveat remains unresolved.
 - No applications were resubmitted and no monitoring automations were restarted.
+
+## October 3, 2026: Capital One assessment not completed / application closed
+
+- Capital One — Senior Manager Data Analytics - Global Payment Network - Data Governance and Programs (R999596): CodeSignal sent a missed-assessment notification and the required Data Analytics Assessment was no longer active.
+- **No Capital One interview occurred for this role.** The terminal outcome was caused by the required pre-interview assessment not being completed, not by rejection after an interview.
+- Track this as **ASSESSMENT_NOT_COMPLETED / pre-interview attrition**, separate from confirmed post-interview rejection outcomes.
+
