@@ -1,11 +1,12 @@
 {
-  "updated_at": "2026-09-16",
+  "updated_at": "2026-10-03",
   "purpose": "Keep closed/filled-before-consideration outcomes separate from true candidate rejections so rejection and conversion metrics are not inflated.",
   "categories": {
     "REJECTED_NOT_SELECTED": "Application was materially eligible for consideration and the employer declined to move the candidate forward or selected another candidate after consideration.",
     "CLOSED_FILLED_BEFORE_CONSIDERATION": "Role was already filled, closed, canceled, or otherwise unavailable before the candidate had a realistic opportunity for consideration. Exclude from rejection-rate and resume-conversion calculations.",
     "WITHDRAWN_SKIPPED": "Candidate chose not to continue, abandoned the application, or deliberately skipped the opportunity.",
-    "ACTIVE_PENDING": "Application remains genuinely in play."
+    "ACTIVE_PENDING": "Application remains genuinely in play.",
+    "ASSESSMENT_NOT_COMPLETED": "Application closed because a required pre-interview assessment was not completed before access expired. Track separately from interview rejection; no interview-performance inference should be made."
   },
   "known_overrides": [
     {
@@ -20,11 +21,19 @@
       "title": "Sr. Production Planning Data Analyst",
       "outcome": "CLOSED_FILLED_BEFORE_CONSIDERATION",
       "notes": "Role was filled before the recruiter screen could occur. Do not count as a candidate rejection."
+    },
+    {
+      "company": "Capital One",
+      "title": "Senior Manager Data Analytics - Global Payment Network - Data Governance and Programs",
+      "requisition": "R999596",
+      "outcome": "ASSESSMENT_NOT_COMPLETED",
+      "notes": "CodeSignal notified Amber on Oct. 3, 2026 that the required Data Analytics Assessment had not been completed and the assessment was no longer active. No Capital One interview occurred for this role. Do not characterize this as rejection after an interview."
     }
   ],
   "analytics_policy": {
     "rejection_rate_denominator": "Exclude CLOSED_FILLED_BEFORE_CONSIDERATION and WITHDRAWN_SKIPPED outcomes.",
     "resume_conversion": "Exclude CLOSED_FILLED_BEFORE_CONSIDERATION because the resume did not receive a fair live-role test.",
-    "interview_conversion": "A recruiter-screen request may be recorded separately even when the role was subsequently filled before the meeting, but the terminal outcome remains CLOSED_FILLED_BEFORE_CONSIDERATION rather than rejection."
+    "interview_conversion": "A recruiter-screen request may be recorded separately even when the role was subsequently filled before the meeting, but the terminal outcome remains CLOSED_FILLED_BEFORE_CONSIDERATION rather than rejection.",
+    "assessment_noncompletion": "Track ASSESSMENT_NOT_COMPLETED separately from interview rejection and interview-performance outcomes. It may be treated as application attrition, but no interview occurred."
   }
 }
