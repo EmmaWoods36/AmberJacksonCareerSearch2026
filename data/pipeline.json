@@ -1,7 +1,7 @@
 {
-  "as_of": "2026-10-01",
+  "as_of": "2026-10-03",
   "applications_total": 88,
-  "active_pending": 50,
+  "active_pending": 49,
   "confirmed_rejections": 30,
   "interview_request_events": 6,
   "distinct_positions_interviewed": 4,
@@ -65,7 +65,7 @@
       "outcome_confirmation": "Zoro employer rejection email received Oct. 1, 2026"
     }
   ],
-  "confirmed_rejections_basis": "Evidence-backed minimum through Oct 1, 2026. Includes L3Harris Senior Specialist, Data Governance rejection confirmed Sep 19; Crystal Clean Director, Enterprise Performance & Analytics (Req #5708) rejection confirmed Sep 28; JPMorganChase Operations and Automation, Vice President (Job #210772265) rejection confirmed Oct 1; and Zoro.com Sr Manager, Product Information & Maintenance rejection confirmed Oct 1 after recruiter screen. International Motors remains closed for planning but excluded from confirmed rejection count until formal notice is received.",
+  "confirmed_rejections_basis": "Evidence-backed minimum through Oct 3, 2026. Includes L3Harris Senior Specialist, Data Governance rejection confirmed Sep 19; Crystal Clean Director, Enterprise Performance & Analytics (Req #5708) rejection confirmed Sep 28; JPMorganChase Operations and Automation, Vice President (Job #210772265) rejection confirmed Oct 1; and Zoro.com Sr Manager, Product Information & Maintenance rejection confirmed Oct 1 after recruiter screen. Capital One R999596 is closed separately as ASSESSMENT_NOT_COMPLETED because the required CodeSignal assessment was not completed and no interview occurred; it is not counted as a post-interview or confirmed employer rejection. International Motors remains closed for planning but excluded from confirmed rejection count until formal notice is received.",
   "latest_confirmed_applications": [
     {
       "company": "Indeed",
@@ -258,8 +258,9 @@
         "interviews": 0,
         "interview_rate": "0.0%",
         "rejections": 6,
-        "pending": 4,
-        "note": "No interviews despite high capability scores. Possible ATS screening issue."
+        "pending": 3,
+        "note": "No interviews despite high capability scores. One Capital One application closed at the pre-interview assessment stage because the required assessment was not completed; track that separately from rejection-after-interview outcomes.",
+        "assessment_not_completed": 1
       },
       {
         "family": "ERP / SAP Transformation",
@@ -301,7 +302,7 @@
   },
   "career_offers_extended": 0,
   "side_gig_offers_extended": 1,
-  "status_updates_as_of": "2026-10-01",
+  "status_updates_as_of": "2026-10-03",
   "offer_history": [
     {
       "company": "micro1",
@@ -325,9 +326,12 @@
       "requested_at": "2026-09-21",
       "deadline": "2026-10-03T13:45:00-04:00",
       "time_limit_minutes": 70,
-      "status": "Pending",
+      "status": "Expired / Not Completed",
       "recruiter": "Denay Scharpf",
-      "next_step": "Complete assessment; recruiter stated follow-up conversation can be scheduled 24-48 hours after results are received."
+      "next_step": "None. Track separately from interview rejection; the application closed at the pre-interview assessment gate.",
+      "closed_at": "2026-10-03",
+      "outcome": "CLOSED - ASSESSMENT NOT COMPLETED",
+      "closure_reason": "Required CodeSignal Data Analytics Assessment was not completed before access closed. No Capital One interview occurred for this role."
     }
   ]
 }
