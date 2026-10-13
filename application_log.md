@@ -339,3 +339,10 @@ Advisor review + full reconciliation of the ledger vs verification log forced an
 - **No Capital One interview occurred for this role.** The terminal outcome was caused by the required pre-interview assessment not being completed, not by rejection after an interview.
 - Track this as **ASSESSMENT_NOT_COMPLETED / pre-interview attrition**, separate from confirmed post-interview rejection outcomes.
 
+
+## October 13, 2026 - Amgen outcomes and Career1Source invitation
+
+- Amgen - Data Management Manager (R-248047; rank 50): rejected October 10, 2026. Confirmed by user-provided employer email screenshots. No specific feedback.
+- Amgen - Strategic Planning & Operations Sr Mgr - Global Customer Capabilities & Innovation (rank 79): rejected October 7, 2026. Confirmed by user-provided employer email screenshots. No specific feedback.
+- Career1Source - David Weaver: phone-screen invitation received October 13, 2026. Scheduling requested; no scheduled or completed meeting evidenced. Exact title/requisition absent from invitation. Possible association with existing Manager - Data Transformation / Manager 18131 (rank 195) is explicitly unconfirmed. Recorded as one recruiter-screen request event in pipeline history, without assigning a confirmed role-level interview count or adding an application.
+- Standing applications remain 88; pending 49 -> 47; confirmed rejections 30 -> 32; interview requests 6 -> 7. Completed meetings remain 5 across 4 positions. Amgen company cap remains in force.
