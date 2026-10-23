@@ -1,8 +1,8 @@
 {
-  "as_of": "2026-10-13",
+  "as_of": "2026-10-23",
   "applications_total": 88,
-  "active_pending": 47,
-  "confirmed_rejections": 32,
+  "active_pending": 43,
+  "confirmed_rejections": 35,
   "interview_request_events": 7,
   "distinct_positions_interviewed": 4,
   "completed_interview_meetings": 5,
@@ -71,14 +71,16 @@
       "requested_at": "2026-10-13",
       "request_events": 1,
       "completed_meetings": 0,
-      "status": "Phone-screen invitation received; not yet scheduled or completed",
+      "status": "Role placed on hold Oct. 23, 2026; recruiter David Weaver said he will reconnect if it opens back up next year.",
       "possible_tracker_rank": 195,
       "possible_requisition": "18131",
-      "application_mapping": "Provisional match only. Invitation refers to an online application but does not name the role or requisition. Do not count a new application.",
-      "source": "User-provided email screenshot dated Oct 13, 2026"
+      "application_mapping": "Likely Manager - Data Transformation / requisition 18131 based on prior application and recruiter thread, but exact title remains unconfirmed in the hold email. Do not count a new application.",
+      "source": "User-provided David Weaver email screenshots dated Oct. 23, 2026; subject line Strongpoint.",
+      "hold_status": "ON HOLD",
+      "hold_date": "2026-10-23"
     }
   ],
-  "confirmed_rejections_basis": "Evidence-backed minimum through Oct 3, 2026. Includes L3Harris Senior Specialist, Data Governance rejection confirmed Sep 19; Crystal Clean Director, Enterprise Performance & Analytics (Req #5708) rejection confirmed Sep 28; JPMorganChase Operations and Automation, Vice President (Job #210772265) rejection confirmed Oct 1; and Zoro.com Sr Manager, Product Information & Maintenance rejection confirmed Oct 1 after recruiter screen. Capital One R999596 is closed separately as ASSESSMENT_NOT_COMPLETED because the required CodeSignal assessment was not completed and no interview occurred; it is not counted as a post-interview or confirmed employer rejection. International Motors remains closed for planning but excluded from confirmed rejection count until formal notice is received. Update Oct 13: Amgen Data Management Manager rejected Oct 10 and Strategic Planning & Operations Sr Mgr - Global Customer Capabilities & Innovation rejected Oct 7, both confirmed by employer-email screenshots.",
+  "confirmed_rejections_basis": "Evidence-backed minimum through Oct 3, 2026. Includes L3Harris Senior Specialist, Data Governance rejection confirmed Sep 19; Crystal Clean Director, Enterprise Performance & Analytics (Req #5708) rejection confirmed Sep 28; JPMorganChase Operations and Automation, Vice President (Job #210772265) rejection confirmed Oct 1; and Zoro.com Sr Manager, Product Information & Maintenance rejection confirmed Oct 1 after recruiter screen. Capital One R999596 is closed separately as ASSESSMENT_NOT_COMPLETED because the required CodeSignal assessment was not completed and no interview occurred; it is not counted as a post-interview or confirmed employer rejection. International Motors remains closed for planning but excluded from confirmed rejection count until formal notice is received. Update Oct 13: Amgen Data Management Manager rejected Oct 10 and Strategic Planning & Operations Sr Mgr - Global Customer Capabilities & Innovation rejected Oct 7, both confirmed by employer-email screenshots. Update Oct 23: Deepgram Senior Program Manager, Data Operations rejected Oct 16; Ardagh Group Sr Manager, Data & Analytics rejected Oct 21; United Airlines Sr. IT Manager - Supply Chain (WHQ00026344) rejected Oct 22, all confirmed by user-provided employer-email screenshots. Career1Source/Strongpoint-related role was placed on hold Oct 23 and is not counted as a rejection.",
   "latest_confirmed_applications": [
     {
       "company": "Indeed",
@@ -316,7 +318,7 @@
   },
   "career_offers_extended": 0,
   "side_gig_offers_extended": 1,
-  "status_updates_as_of": "2026-10-13",
+  "status_updates_as_of": "2026-10-23",
   "offer_history": [
     {
       "company": "micro1",
@@ -346,6 +348,39 @@
       "closed_at": "2026-10-03",
       "outcome": "CLOSED - ASSESSMENT NOT COMPLETED",
       "closure_reason": "Required CodeSignal Data Analytics Assessment was not completed before access closed. No Capital One interview occurred for this role."
+    }
+  ],
+  "roles_on_hold": 1,
+  "recent_outcomes": [
+    {
+      "company": "Deepgram",
+      "title": "Senior Program Manager, Data Operations",
+      "outcome": "REJECTED",
+      "date": "2026-10-16",
+      "evidence": "Employer rejection email screenshot; high application volume, moved forward with another candidate."
+    },
+    {
+      "company": "Ardagh Group",
+      "title": "Sr Manager, Data & Analytics",
+      "outcome": "REJECTED",
+      "date": "2026-10-21",
+      "evidence": "Employer rejection email screenshot; moving forward with candidates matching requirements more closely."
+    },
+    {
+      "company": "United Airlines",
+      "title": "Sr. IT Manager - Supply Chain",
+      "requisition": "WHQ00026344",
+      "outcome": "REJECTED",
+      "date": "2026-10-22",
+      "evidence": "United Airlines employer rejection email screenshot."
+    },
+    {
+      "company": "Career1Source / Strongpoint",
+      "title": "Manager - Data Transformation / role mapping still provisional",
+      "requisition": "18131",
+      "outcome": "ON HOLD",
+      "date": "2026-10-23",
+      "evidence": "David Weaver email: role is on hold for the time being; may reopen next year."
     }
   ]
 }
