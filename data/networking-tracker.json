@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-12T10:00:00-05:00",
+  "as_of": "2026-10-27T13:51:00-05:00",
   "description": "Networking and referral tracker. Senior Manager searches benefit from warm introductions. Track contacts, outreach, referrals, and follow-up cadence.",
   "contacts": [
     {
@@ -66,17 +66,31 @@
       "next_action": "Schedule consultation call; evaluate paid engagement terms",
       "next_action_date": "2026-09-15",
       "notes": "At least one reverse-recruiter contact accepted Amber's LinkedIn invitation. No paid engagement selected yet. Evaluate whether paid reverse-recruiting could accelerate search."
+    },
+    {
+      "name": "Andrea Caso",
+      "company": "Black Diamond Networks",
+      "relationship": "VP Recruiting / consulting recruiter — warm ongoing source",
+      "title": "VP Recruiting",
+      "outreach_date": "2026-10-27",
+      "last_touch": "Confirmed Gaithersburg SAP Master Data Specialist role is fully onsite and said most roles she sees are remote; she also has a fair amount of Chicago-area clients and will keep Amber in the loop on new openings.",
+      "response": "Warm and responsive — explicitly offered to keep Amber in mind for future remote and Chicago-area opportunities",
+      "referral_status": "No active referral; ongoing recruiter relationship",
+      "next_action": "Keep relationship warm and respond promptly to future remote/Chicago SAP PM, master data governance, enterprise systems, data transformation, or adjacent leadership opportunities.",
+      "next_action_date": null,
+      "notes": "Initial SAP Master Data Specialist - GMP Maintenance & Asset Management role was an exceptionally high functional fit but fully onsite in Gaithersburg, Maryland, so Amber declined relocation. Andrea clarified that consultants are paid through Black Diamond Networks and said most positions she typically encounters are remote, with a fair amount of clients in the Chicago area. This converts the interaction from a one-off mismatched role into a potentially valuable recurring recruiter channel."
     }
   ],
   "referral_pipeline": {
-    "status": "Not yet established",
-    "note": "No applications have been submitted via referral or warm introduction yet. All applications have been cold/direct. Establishing a referral pipeline could improve conversion rates — referred applications typically convert at 5-10x the rate of cold applications at senior levels.",
+    "status": "Emerging",
+    "note": "No applications have yet been confirmed as submitted via formal employee referral, but recruiter/network channels are strengthening. Andrea Caso at Black Diamond Networks is now a warm recurring source for remote and Chicago-area consulting opportunities. Continue building warm introductions alongside direct applications.",
     "target_referral_sources": [
       "CSL Behring colleagues and former managers",
       "Sumitomo Electric colleagues and former managers",
       "MTSU MBA network",
       "LinkedIn connections at target companies (United Airlines, Abbott, Amgen, Mars, Gallagher Bassett)",
-      "Reverse recruiter network"
+      "Reverse recruiter network",
+      "Andrea Caso / Black Diamond Networks remote and Chicago-area client network"
     ]
   }
 }
