@@ -6,12 +6,12 @@
     "source": "Gmail rejection/status audit reconciled against existing GitHub tracker"
   },
   "summary": {
-    "confirmed_rejections_in_window": 10,
+    "confirmed_rejections_in_window": 11,
     "already_logged_before_email_audit": 8,
-    "newly_logged_rejections": 2,
+    "newly_logged_rejections": 3,
     "newly_logged_non_rejection_status_changes": 1,
-    "confirmed_rejections_minimum_after_audit": 37,
-    "active_pending_estimate_after_audit": 40,
+    "confirmed_rejections_minimum_after_audit": 38,
+    "active_pending_estimate_after_audit": 39,
     "roles_on_hold_or_suspended": 2
   },
   "rejections": [
@@ -93,6 +93,15 @@
       "status": "REJECTED",
       "github_reconciliation": "newly logged from Gmail audit",
       "reply_action": "No reply sent; rejection routes to no-reply Greenhouse address"
+    },
+    {
+      "company": "Komatsu",
+      "title": "IT Manager, Data & Analytics",
+      "date": "2026-10-27",
+      "status": "REJECTED",
+      "github_reconciliation": "newly logged from Gmail audit",
+      "reply_action": "No reply sent; rejection was generated through SuccessFactors and routes to pmnotifications@successfactors.com with a Komatsu no-reply address copied",
+      "notes": "Komatsu said it reviewed Amber's submission and qualifications and decided to pursue applicants who more closely match the needs of the position."
     }
   ],
   "non_rejection_status_updates": [
@@ -124,7 +133,8 @@
     "skipped_as_non_replyable": [
       "Mercury - Senior Manager - Data & AI Governance",
       "Deepgram - Senior Program Manager, Data Operations",
-      "Ardagh Group - Sr Manager, Data & Analytics"
+      "Ardagh Group - Sr Manager, Data & Analytics",
+      "Komatsu - IT Manager, Data & Analytics"
     ]
   },
   "micro1_note": "On 2026-10-27 micro1 sent 'Great work on your interview' and stated Amber's performance showed strong potential and her profile is under client review for final project approval. This is a positive post-interview signal, not a confirmed offer. Existing micro1 paid project history and the previously recorded $90/hour AI Training Expert offer remain separate from this current consideration."
