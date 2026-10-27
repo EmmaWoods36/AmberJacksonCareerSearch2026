@@ -1,0 +1,131 @@
+{
+  "as_of": "2026-10-27",
+  "audit_window": {
+    "start": "2026-09-28",
+    "end": "2026-10-27",
+    "source": "Gmail rejection/status audit reconciled against existing GitHub tracker"
+  },
+  "summary": {
+    "confirmed_rejections_in_window": 10,
+    "already_logged_before_email_audit": 8,
+    "newly_logged_rejections": 2,
+    "newly_logged_non_rejection_status_changes": 1,
+    "confirmed_rejections_minimum_after_audit": 37,
+    "active_pending_estimate_after_audit": 40,
+    "roles_on_hold_or_suspended": 2
+  },
+  "rejections": [
+    {
+      "company": "Crystal Clean, LLC",
+      "title": "Director, Enterprise Performance & Analytics",
+      "requisition": "5708",
+      "date": "2026-09-28",
+      "status": "REJECTED",
+      "github_reconciliation": "already logged"
+    },
+    {
+      "company": "JPMorganChase",
+      "title": "Operations and Automation, Vice President",
+      "requisition": "210772265",
+      "date": "2026-10-01",
+      "status": "REJECTED",
+      "github_reconciliation": "already logged"
+    },
+    {
+      "company": "Zoro.com",
+      "title": "Sr Manager, Product Information & Maintenance",
+      "date": "2026-10-01",
+      "status": "REJECTED",
+      "github_reconciliation": "already logged",
+      "reply_action": "Amber replied Oct. 1 thanking recruiter for the interview opportunity"
+    },
+    {
+      "company": "Amgen",
+      "title": "Strategic Planning & Operations Sr Mgr - Global Customer Capabilities & Innovation",
+      "date": "2026-10-07",
+      "status": "REJECTED",
+      "github_reconciliation": "already logged"
+    },
+    {
+      "company": "Amgen",
+      "title": "Data Management Manager",
+      "date": "2026-10-10",
+      "status": "REJECTED",
+      "github_reconciliation": "already logged"
+    },
+    {
+      "company": "Deepgram",
+      "title": "Senior Program Manager, Data Operations",
+      "date": "2026-10-16",
+      "status": "REJECTED",
+      "github_reconciliation": "already logged",
+      "reply_action": "No reply sent; rejection routes to no-reply ATS address"
+    },
+    {
+      "company": "Ardagh Group",
+      "title": "Sr Manager, Data & Analytics",
+      "date": "2026-10-21",
+      "status": "REJECTED",
+      "github_reconciliation": "already logged",
+      "reply_action": "No reply sent; employer email explicitly says automated email, please do not reply"
+    },
+    {
+      "company": "United Airlines",
+      "title": "Sr. IT Manager - Supply Chain",
+      "requisition": "WHQ00026344",
+      "date": "2026-10-22",
+      "status": "REJECTED",
+      "github_reconciliation": "already logged",
+      "reply_action": "Reply sent 2026-10-27 thanking Talent Acquisition and requesting consideration for future enterprise systems, supply chain technology, data governance, analytics, and transformation roles"
+    },
+    {
+      "company": "Novolex",
+      "title": "Manager, Supply & Capacity Analytics",
+      "date": "2026-10-26",
+      "status": "REJECTED",
+      "github_reconciliation": "newly logged from Gmail audit",
+      "reply_action": "Reply sent 2026-10-27 thanking Talent Acquisition and requesting consideration for future enterprise data, supply chain analytics, SAP/ERP transformation, and data governance roles"
+    },
+    {
+      "company": "Mercury",
+      "title": "Senior Manager - Data & AI Governance",
+      "date": "2026-10-27",
+      "status": "REJECTED",
+      "github_reconciliation": "newly logged from Gmail audit",
+      "reply_action": "No reply sent; rejection routes to no-reply Greenhouse address"
+    }
+  ],
+  "non_rejection_status_updates": [
+    {
+      "company": "Career1Source / Strongpoint",
+      "title": "Manager - Data Transformation / role mapping provisional",
+      "requisition": "18131",
+      "date": "2026-10-23",
+      "status": "ON HOLD",
+      "github_reconciliation": "already logged",
+      "notes": "Recruiter said the role is on hold for the time being and may reopen next year."
+    },
+    {
+      "company": "Catalight Foundation",
+      "title": "Senior Data Governance Manager",
+      "date": "2026-10-26",
+      "status": "SEARCH SUSPENDED",
+      "github_reconciliation": "newly logged from Gmail audit",
+      "notes": "Employer suspended the search; do not count as a rejection."
+    }
+  ],
+  "reply_policy": {
+    "window": "2026-10-13 through 2026-10-27 inclusive",
+    "rule": "Reply only to recent rejection threads where Amber had not already replied and the mailbox accepts replies; skip no-reply and explicit do-not-reply ATS messages.",
+    "sent": [
+      "United Airlines - Sr. IT Manager - Supply Chain",
+      "Novolex - Manager, Supply & Capacity Analytics"
+    ],
+    "skipped_as_non_replyable": [
+      "Mercury - Senior Manager - Data & AI Governance",
+      "Deepgram - Senior Program Manager, Data Operations",
+      "Ardagh Group - Sr Manager, Data & Analytics"
+    ]
+  },
+  "micro1_note": "Gmail audit found multiple automated interview/application reminders through Oct. 22 for Everyday AI Agent Tester, AI Trainer, Data Analyst (AI Evaluation), and other micro1 roles, but no email matching the newer 'great interview' wording described by Amber. The previously recorded $90/hour AI Training Expert offer remains separately tracked in pipeline.json. Await direct screenshot or exact message before mapping a newer interview signal."
+}
