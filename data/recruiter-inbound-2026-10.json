@@ -186,6 +186,20 @@
     "notes": "Andrea Caso, VP of Recruiting at Black Diamond, directly approached Amber about a 12-24 month SAP PM Master Data consulting role in Maryland. The functional fit is exceptionally strong given Amber's SAP PM master-data governance, S/4 transformation, BOM/task-list/maintenance-plan experience and governed mass-change work. This is a strong inbound-market validation signal even if contract structure or location ultimately make it unattractive."
   },
   {
+    "id": "inbound-2026-10-27-imcs-manufacturing-master-data-analyst",
+    "received_dates": ["2026-10-27"],
+    "title": "Manufacturing Master Data Analyst",
+    "employment": "6-month contract",
+    "location": "San Francisco, California; onsite",
+    "recruiters": [{"name": "Shri Chandra Verma", "company": "IMCS Group"}],
+    "source": "Unsolicited recruiter email",
+    "screen_estimate": 70,
+    "capability_estimate": 97,
+    "triage": "Skip as a target role - exceptionally strong task fit but down-level, short-term, and onsite/location mismatch",
+    "next_action": "No action unless compensation is unusually high and Amber explicitly wants a short-term consulting bridge. If responding, ask rate and whether onsite is truly mandatory before investing further.",
+    "notes": "Role requires life-sciences/healthcare experience plus Microsoft Dynamics 365 or similar ERP experience, item/part masters, BOMs and BOM versions, component data, units of measure, manufacturing attributes, new-part setup/release, revisions, lifecycle changes, eBOM-to-mBOM alignment, routings/operations, work centers, production orders, MRP, purchasing/inventory/warehouse data, PLM-to-ERP validation, reconciliation, testing, traceability and controlled change. Amber's SAP and regulated-manufacturing master-data background maps extremely closely to the substance even though she is not a Dynamics 365 specialist. The analyst title, six-month contract, and San Francisco onsite requirement make it directionally weak for her next move."
+  },
+  {
     "id": "pipeline-signal-2026-10-27-micro1-post-interview-client-review",
     "received_dates": ["2026-10-27"],
     "title": "Open micro1 role - post-interview client review",
