@@ -1,0 +1,42 @@
+{
+  "as_of": "2026-10-27T15:31:00-05:00",
+  "signals": [
+    {
+      "id": "network-2026-10-27-sapinsider-chicago-summit",
+      "type": "targeted_event_invitation",
+      "organization": "SAPinsider",
+      "contact": "Sarah",
+      "channel": "phone voicemail",
+      "event": "SAPinsider Summit Chicago 2026",
+      "dates": ["2026-11-11", "2026-11-12"],
+      "location": "Radisson Blu Aqua, Chicago, Illinois",
+      "triage": "High-value SAP leadership / transformation networking signal; strongly consider attending",
+      "notes": "Caller said the event is for SAP experts and leaders in Chicago and specifically said it could be a great fit for Amber's work at CSL. Official SAPinsider materials confirm a Chicago summit on Nov. 11-12, 2026. Agenda themes include SAP Cloud ERP transformation, S/4HANA migration/readiness, data migration governance, SAP Business AI, AI agents, governance, clean core, and transformation strategy. This is strategically aligned with Amber's current SAP/S4 governance work and desired AI/data-transformation direction.",
+      "source": "User-provided voicemail screenshot plus official SAPinsider event pages"
+    },
+    {
+      "id": "inbound-2026-10-27-3b-staffing-sap-erp-implementation",
+      "type": "recruiter_phone_outreach",
+      "organization": "3B Staffing LLC",
+      "contact": "Caller name uncertain; voicemail transcript rendered Kamala, but transcription was low-confidence",
+      "channel": "phone voicemail",
+      "title": "SAP / ERP Implementation role (exact title unconfirmed)",
+      "employment": null,
+      "location": "Remote with travel, per voicemail",
+      "triage": "Investigate promptly; potentially relevant ERP/SAP transformation inbound, but role scope, client, rate, travel cadence and seniority are not yet known",
+      "next_action": "Return call or request written job description. Confirm exact title, end client, compensation, contract structure, travel expectation, implementation scope, and whether role is leadership/functional/technical.",
+      "notes": "Voicemail described a very urgent SAP/ERP implementation opportunity and said it is basically remote with travel. The phone number shown in the voicemail is publicly associated with 3B Staffing LLC in current job-posting sources. The transcript term 'Timoto' could not be reliably identified and should not be treated as the client or role name without confirmation.",
+      "source": "User-provided voicemail screenshot plus public verification of callback number"
+    },
+    {
+      "id": "relationship-update-2026-10-27-andrea-caso-black-diamond",
+      "type": "recruiter_relationship_update",
+      "organization": "Black Diamond Networks",
+      "contact": "Andrea Caso",
+      "channel": "LinkedIn",
+      "triage": "Keep warm as recruiter source",
+      "notes": "After Amber declined the fully onsite Gaithersburg SAP Master Data Specialist engagement due to location, Andrea said most positions she typically sees are remote and she has a fair amount of clients in the Chicago area. Andrea said she will keep Amber in the loop on new opportunities and invited referrals. This converts the Maryland mismatch into a useful ongoing recruiter relationship.",
+      "source": "User-provided LinkedIn screenshots"
+    }
+  ]
+}
