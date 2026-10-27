@@ -71,6 +71,20 @@
     "notes": "Work involves recording the computer screen and narrating professional workflow/reasoning for a frontier AI lab. A qualifying Mac is mandatory. Amber replied that she is interested but does not own a Mac."
   },
   {
+    "id": "inbound-2026-10-20-natsoft-sap-ai-solution-architect",
+    "received_dates": ["2026-10-20"],
+    "title": "SAP AI Solution Architect / SAP Joule AI Architect",
+    "employment": "Contract",
+    "location": "Chicago, Illinois; onsite",
+    "recruiters": [{"name": "Shivam Sharma", "company": "Natsoft"}],
+    "source": "LinkedIn recruiter inbound",
+    "screen_estimate": 38,
+    "capability_estimate": 67,
+    "triage": "Interesting directional signal, but do not pursue as presented - architect-depth and experience gates",
+    "next_action": "No response required unless recruiter can materially relax the 12-15 year experience requirement and deep hands-on SAP Joule/BTP/AI architecture expectations.",
+    "notes": "Role is Chicago onsite and centers on enterprise SAP Business AI/Joule architecture, BTP, Generative AI Hub, Joule Studio, SAP AI Core, agentic AI, multi-agent architecture, AI governance and life-sciences compliance. It explicitly asks for 12-15 years of experience and hands-on architecture depth. The outreach is still strategically notable because the market is associating Amber's profile with SAP + AI + regulated life-sciences transformation work."
+  },
+  {
     "id": "inbound-2026-10-21-kimberly-clark-material-planner-support",
     "received_dates": ["2026-10-21"],
     "title": "Material Planner & Support",
@@ -128,6 +142,48 @@
     "triage": "Do not pursue as presented - 16+ year and architect-level MDG gate",
     "next_action": "Only revisit if recruiter confirms the 16+ years requirement and deep hands-on MDG architecture expectation are flexible.",
     "notes": "Responsibilities overlap Amber's governance leadership, but the posting explicitly requires 16+ years and strong hands-on SAP MDG expertise at Lead Architect/SME depth. Amber has controlled MDG mass-upload/support experience, not 16+ years or end-to-end MDG architecture ownership."
+  },
+  {
+    "id": "inbound-2026-10-26-techtalk-summits-executive-networking",
+    "received_dates": ["2026-10-26", "2026-10-27"],
+    "title": "Chicago technology executive networking event invitation",
+    "employment": null,
+    "location": "Soho House Chicago; December 10 at 6 PM",
+    "recruiters": [{"name": "Mike Healy", "company": "TechTalk Summits"}],
+    "source": "Direct LinkedIn invitation / executive-networking outreach",
+    "screen_estimate": null,
+    "capability_estimate": null,
+    "triage": "High-value networking signal - attend",
+    "next_action": "Amber replied Oct. 27 that she is interested in attending. Follow through on registration/details when Mike responds.",
+    "notes": "Mike Healy, Founder & Managing Director of TechTalk Summits, invited Amber to an exclusive Chicago technology-executive networking and cocktails event at Soho House. Keynote listed as Tim Walter, CIO of Edward Don & Company. This is not a job lead, but it is a useful seniority/market-positioning signal because Amber was directly invited into a technology-executive networking audience."
+  },
+  {
+    "id": "inbound-2026-10-26-sonata-software-csl-data-governance-ai",
+    "received_dates": ["2026-10-26"],
+    "title": "Strategic intro - CSL / SAP data governance and AI automation",
+    "employment": null,
+    "location": null,
+    "recruiters": [{"name": "Nishant Sharma", "company": "Sonata Software"}],
+    "source": "Highly targeted LinkedIn business-development / relationship outreach",
+    "screen_estimate": null,
+    "capability_estimate": null,
+    "triage": "High-value strategic networking signal - respond and take intro call",
+    "next_action": "Reply and schedule a short intro call. Treat primarily as relationship/business-development networking rather than a job opening, while preserving it as evidence that Amber's external profile is attracting attention for SAP governance, automation and life-sciences transformation work.",
+    "notes": "Nishant said he came across Amber's work building the SAP Plant Maintenance data-governance model and the Python/NLP solution that reduced a 500-hour manual review to under an hour. He said Sonata Software is an approved CSL technology partner under an active MSA, already working across CSL R&D, Data & AI and digital, and supports life-sciences clients on SAP, master-data governance and automation. He invited Amber to discuss Sonata's CSL work and market trends in data governance and AI automation for maintenance/manufacturing operations."
+  },
+  {
+    "id": "inbound-2026-10-27-black-diamond-sap-pm-master-data-consulting",
+    "received_dates": ["2026-10-27"],
+    "title": "SAP PM Master Data Consulting",
+    "employment": "12-24 month contract",
+    "location": "Maryland",
+    "recruiters": [{"name": "Andrea Caso", "company": "Black Diamond"}],
+    "source": "Direct LinkedIn recruiter outreach",
+    "screen_estimate": 74,
+    "capability_estimate": 99,
+    "triage": "Very high capability fit; pursue discovery call, but contract/location/compensation determine desirability",
+    "next_action": "Amber replied Oct. 27 that she is interested in learning more. Ask for remote/onsite expectations, client, rate, travel requirements, scope/level and conversion potential before deciding whether to advance.",
+    "notes": "Andrea Caso, VP of Recruiting at Black Diamond, directly approached Amber about a 12-24 month SAP PM Master Data consulting role in Maryland. The functional fit is exceptionally strong given Amber's SAP PM master-data governance, S/4 transformation, BOM/task-list/maintenance-plan experience and governed mass-change work. This is a strong inbound-market validation signal even if contract structure or location ultimately make it unattractive."
   },
   {
     "id": "pipeline-signal-2026-10-27-micro1-post-interview-client-review",
