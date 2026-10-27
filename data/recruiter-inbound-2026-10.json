@@ -1,5 +1,19 @@
 [
   {
+    "id": "inbound-2026-10-09-micro1-senior-data-analyst",
+    "received_dates": ["2026-10-09"],
+    "title": "Senior Data Analyst",
+    "employment": null,
+    "location": "Fully remote / flexible",
+    "recruiters": [{"name": "Chirag Patel", "company": "micro1"}],
+    "source": "Profile-sourced recruiter outreach",
+    "screen_estimate": null,
+    "capability_estimate": 94,
+    "triage": "Positive inbound AI/data-market signal; pursue selectively",
+    "next_action": "Amber replied Oct. 12 expressing interest. Keep separate from unrelated micro1 applications and projects unless micro1 explicitly maps the opportunity.",
+    "notes": "micro1 said it came across Amber's profile while reviewing candidates for a Senior Data Analyst opportunity and that her background looked relevant. The opportunity was described as fully remote and flexible."
+  },
+  {
     "id": "inbound-2026-10-14-aptask-sr-specialist-planner-scheduler-calibration",
     "received_dates": ["2026-10-14"],
     "title": "Sr Specialist, Planner Scheduler Maintenance & Calibration",
@@ -114,5 +128,19 @@
     "triage": "Do not pursue as presented - 16+ year and architect-level MDG gate",
     "next_action": "Only revisit if recruiter confirms the 16+ years requirement and deep hands-on MDG architecture expectation are flexible.",
     "notes": "Responsibilities overlap Amber's governance leadership, but the posting explicitly requires 16+ years and strong hands-on SAP MDG expertise at Lead Architect/SME depth. Amber has controlled MDG mass-upload/support experience, not 16+ years or end-to-end MDG architecture ownership."
+  },
+  {
+    "id": "pipeline-signal-2026-10-27-micro1-post-interview-client-review",
+    "received_dates": ["2026-10-27"],
+    "title": "Open micro1 role - post-interview client review",
+    "employment": null,
+    "location": null,
+    "recruiters": [{"name": "micro1 team", "company": "micro1"}],
+    "source": "Post-interview status email",
+    "screen_estimate": null,
+    "capability_estimate": null,
+    "triage": "Positive pipeline signal - awaiting client final approval",
+    "next_action": "No action required; await client review outcome. Do not call this an offer until micro1 confirms selection.",
+    "notes": "micro1 emailed 'Great work on your interview' and said Amber's performance showed strong potential and her profile is now under review by its client for final project approval. The email explicitly says this is not a confirmed offer yet. Exact role mapping was not stated in the status email, so keep it separate from the Senior Data Analyst outreach and prior AI Training Expert work unless micro1 confirms the mapping."
   }
 ]
