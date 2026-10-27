@@ -1,0 +1,59 @@
+[
+  {
+    "id": "linkedin-2026-10-23-anna-thorne-leverx",
+    "date": "2026-10-23",
+    "name": "Anna Thorne",
+    "company": "LeverX",
+    "role": "Senior Tech Coordinator",
+    "profile_context": "S/4HANA Implementation, Migration & Support",
+    "signal_type": "Professional connection request",
+    "job_opportunity": false,
+    "strategic_value": "Moderate",
+    "notes": "Relevant SAP/S/4HANA ecosystem connection. No specific role, hiring discussion, or project was included in the connection request, so treat as networking rather than recruiter inbound."
+  },
+  {
+    "id": "linkedin-2026-10-23-kamal-mishra-general-hiring",
+    "date": "2026-10-23",
+    "name": "Kamal Mishra",
+    "company": null,
+    "role": "Hiring across multiple domains in the US and Canada",
+    "signal_type": "Generic recruiting connection request",
+    "job_opportunity": false,
+    "strategic_value": "Low",
+    "notes": "Connection request indicates recruiting activity across FTE and C2C roles but contains no role specifically tied to Amber's target lanes. Keep as a low-value recruiter-network signal only."
+  },
+  {
+    "id": "linkedin-2026-10-27-sejal-parmar-qks-ai-data-transformation",
+    "date": "2026-10-27",
+    "name": "Sejal Parmar",
+    "company": "QKS Group",
+    "role": "Key Account Manager",
+    "signal_type": "Targeted AI/data-transformation networking and market-intelligence outreach",
+    "job_opportunity": false,
+    "strategic_value": "High",
+    "notes": "Sejal said she works with QKS Group's AI and data transformation practice and is speaking with technology and transformation leaders across the U.S. about what changes when AI moves from pilots into daily operations. This is not a job opportunity, but it is a strong market-positioning signal because Amber is being approached as part of the technology/transformation-leader audience relevant to enterprise AI adoption."
+  },
+  {
+    "id": "linkedin-2026-10-27-eduardo-duran-sap-ai-roundtable",
+    "date": "2026-10-27",
+    "name": "Eduardo Duran",
+    "company": null,
+    "role": null,
+    "signal_type": "SAP AI event / professional-network invitation",
+    "job_opportunity": false,
+    "strategic_value": "High",
+    "event": "SAP AI: Opportunity, Cost Trap, or Both? An Expert Round Table",
+    "notes": "Amber received a direct LinkedIn invitation to an SAP AI expert round table. This is not hiring evidence, but it aligns tightly with her emerging SAP + AI + enterprise-transformation positioning and is worth tracking as ecosystem/network development."
+  },
+  {
+    "id": "linkedin-2026-10-27-grant-looney-biotech-data-support",
+    "date": "2026-10-27",
+    "name": "Grant Looney",
+    "company": null,
+    "role": null,
+    "signal_type": "Targeted vendor/network outreach",
+    "job_opportunity": false,
+    "strategic_value": "Moderate",
+    "notes": "Visible invitation text begins by saying he is talking to heads of data & support in the biotechnology industry. The screenshot does not show enough of the message to classify the underlying product/service or opportunity further, so do not treat this as a job lead. It is still a relevant seniority/positioning signal because the outreach targets Amber as a head-of-data/support profile in biotech."
+  }
+]
