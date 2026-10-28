@@ -1,0 +1,45 @@
+{
+  "as_of": "2026-10-28",
+  "company": "micro1",
+  "title": "Senior Data Analyst",
+  "role_type": "Contractor / part-time",
+  "location": "Remote, U.S.-based only",
+  "compensation": "$50-$60/hour",
+  "status": "Role still visible in Amber's micro1 portal; interview/application appears available",
+  "source": "User-provided screenshots of micro1 role page on 2026-10-28",
+  "job_summary": "Senior Data Analyst role supporting AI training, evaluation, and application to real-world data work. Emphasis on large business data sets, quality assurance, analytical precision, and PII handling.",
+  "key_responsibilities": [
+    "Review data sets for PII and flag sensitive information using data privacy best practices",
+    "Assess AI responses to data and business-analysis scenarios and provide expert feedback",
+    "Apply QA practices to validate data quality, identify inconsistencies, and verify analytical results",
+    "Create objective evaluation frameworks and grading criteria for AI performance on analytical tasks",
+    "Collaborate with product and research teams to refine data, guidelines, and AI-driven analytics best practices"
+  ],
+  "required_qualifications": [
+    "Bachelor's degree in business, analytics, statistics, information systems, related field, or equivalent experience",
+    "3+ years as Business Analyst or Data Analyst working with large business data sets",
+    "Hands-on QA experience including data validation, reconciliation, and analytical-output verification",
+    "Expertise handling and analyzing large business data sets",
+    "Experience managing PII and sensitive material"
+  ],
+  "preferred_qualifications": [
+    "PII/data privacy handling familiarity",
+    "SQL, Excel, and BI/visualization tools",
+    "Advanced degree or professional certification in business analysis/data analytics",
+    "Prior AI, data labeling, or model evaluation exposure"
+  ],
+  "fit_assessment": {
+    "capability_estimate": 94,
+    "strategic_fit": "Strong AI-transition side-project / portfolio bridge, but not a replacement for Amber's Senior Manager/Director career target",
+    "strongest_matches": [
+      "Large-scale enterprise data analysis and reconciliation",
+      "Quality assurance, data validation, discrepancy detection, and controlled-change verification",
+      "Excel and Power BI / visualization experience",
+      "MBA / advanced degree",
+      "Current paid micro1 AI-training contract and prior AI evaluation exposure"
+    ],
+    "primary_gap_or_question": "PII-specific handling should be substantiated carefully; do not overclaim privacy experience if evidence is limited",
+    "secondary_question": "SQL depth should be represented accurately; SQL is preferred rather than required"
+  },
+  "next_action": "Interview after the Oct. 28 event if the portal remains open. Prepare examples around large-data QA/reconciliation, objective grading criteria, analytical validation, discrepancy triage, and any defensible PII/privacy handling experience. Create a targeted resume if the application flow requests or permits one."
+}
