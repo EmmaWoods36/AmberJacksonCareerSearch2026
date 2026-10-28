@@ -1,0 +1,19 @@
+{
+  "as_of": "2026-10-28",
+  "company": "micro1",
+  "offers": [
+    {
+      "project_name": "Titan Beacon",
+      "role": "Expert / AI training project",
+      "hourly_rate_usd": 90,
+      "offer_status": "ACCEPTING / user confirmed intent to accept",
+      "offer_observed_at": "2026-10-28",
+      "official_offer_email_date": "2026-10-27",
+      "email_subject": "Your first micro1 project offer is here!",
+      "email_summary": "micro1 Talent Operations officially invited Amber to join an AI training project as an Expert, applying professional experience to evaluate and train frontier AI models. Project-specific details are presented in the micro1 talent account.",
+      "project_relationship_note": "Amber believes Titan Beacon may be related to the earlier robot-training/video workflow. This relationship is not yet independently verified from the available email, so do not merge it with another project solely on that assumption.",
+      "source": "User report from micro1 talent portal plus micro1 official offer email dated 2026-10-27."
+    }
+  ],
+  "tracking_note": "Treat Titan Beacon as a confirmed $90/hour micro1 project offer with acceptance intent confirmed by Amber. Keep distinct from earlier micro1 outreach/offers unless the portal or micro1 explicitly shows they are the same project."
+}
