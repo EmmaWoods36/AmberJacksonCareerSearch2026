@@ -69,9 +69,8 @@
         "LNG/oil & gas domain is not Amber's direct industry background",
         "Do not allow multiple staffing vendors to submit Amber to the same Capgemini/Venture Global requisition"
       ],
-      "response_status": "LinkedIn response drafted for Ashish; not yet confirmed sent. Gmail response to Keshav not yet sent.",
-      "linkedin_response_intent": "Warm but firm: thank Ashish, note strong alignment, state that Amber is based in Illinois and is not relocating, ask whether remote work with occasional travel is possible, and preserve the relationship for future remote/Chicago SAP PM/CMMS/data-governance roles.",
-      "next_action": "Ask whether the role can be remote with occasional travel. If onsite Louisiana is firm, decline while preserving recruiter relationships. If remote flexibility exists, obtain compensation, employment structure, and conversion details before authorizing any submission.",
+      "response_status": "Amber sent the warm-but-firm LinkedIn response to Ashish asking whether the role can be remote with occasional travel, and ChatGPT sent the vetted Gmail reply to Keshav on 2026-10-29 asking for compensation, whether onsite is mandatory, expected onsite schedule, and conversion structure.",
+      "next_action": "Await both recruiters' responses. If onsite Louisiana is firm, decline while preserving recruiter relationships. If remote flexibility exists, obtain compensation and representation details before authorizing any submission. Avoid duplicate submission to the same Capgemini/Venture Global requisition.",
       "duplicate_submission_warning": true
     }
   ]
