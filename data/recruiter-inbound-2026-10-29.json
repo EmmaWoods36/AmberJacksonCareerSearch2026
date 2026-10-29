@@ -72,7 +72,8 @@
         "Do not allow multiple staffing vendors to submit Amber to the same Capgemini/Venture Global requisition"
       ],
       "response_status": "Amber sent the warm-but-firm LinkedIn response to Ashish. ChatGPT sent the vetted Gmail reply to Keshav. Keshav replied at 2:30 PM on 2026-10-29 confirming the position can be remote and offering $90/hour W2, and requested Amber's updated resume.",
-      "next_action": "Prepare/send a tailored SAP PM/CMMS/data-governance resume through one representation channel only. Clarify who owns representation before authorizing submission, and continue to preserve duplicate-submission controls.",
+      "resume_status": "Tailored two-page SAP PM / CMMS Data Governance & Reliability Systems resume created on 2026-10-29 as Amber_Jackson_Capgemini_CMMS_Specialist_Resume.pdf. It emphasizes 40,000+ assets, 11,000+ maintenance plans, 2,167 FLOC BOM migration, SAP PM/MM/MDG support, PM optimization, spare parts/MRO, reliability analytics, S/4HANA transformation, ServiceNow/Power BI, and planning/scheduling experience.",
+      "next_action": "Send the tailored resume through one representation channel only after confirming representation ownership. Preserve duplicate-submission controls if Ashish also confirms remote flexibility.",
       "duplicate_submission_warning": true
     }
   ]
