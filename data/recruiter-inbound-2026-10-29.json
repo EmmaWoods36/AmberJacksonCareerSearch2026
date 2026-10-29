@@ -1,0 +1,78 @@
+{
+  "as_of": "2026-10-29",
+  "location_rule": "Amber is based in Illinois and is not considering relocation out of Illinois at this time. Remote roles, Chicago-area roles, and roles with limited/occasional travel may be considered; mandatory relocation or full-time onsite roles outside Illinois should be treated as non-starters unless circumstances materially change.",
+  "inbound": [
+    {
+      "id": "inbound-2026-10-29-clifyx-sap-data-quality-analyst",
+      "received_dates": ["2026-10-29"],
+      "title": "SAP Data Quality Analyst",
+      "employment": "Full time; exact employer/pay structure not yet disclosed",
+      "location": "Remote",
+      "recruiters": [
+        {"name": "Shakib MD", "company": "ClifyX Inc.", "role": "Sr. US IT Recruiter"}
+      ],
+      "source": "Unsolicited recruiter email",
+      "screen_estimate": 93,
+      "capability_estimate": 98,
+      "strategic_label": "Yellow / Selective",
+      "triage": "Extremely strong functional fit, but Analyst title is below Amber's primary Senior Manager/Director target. Worth discovery only because it is remote and compensation/client are unknown.",
+      "strong_matches": [
+        "SAP S/4HANA data governance",
+        "Master data and SAP data structures",
+        "Data profiling and data-quality metrics",
+        "Facilitating business discussions to define data-quality rules for materials, assets, and equipment",
+        "Business/IT collaboration",
+        "Requirements gathering, workshops, implementation support, and technical project leadership",
+        "Change management, ServiceNow incident/problem/change processes, audit support, and security/access governance"
+      ],
+      "gaps_or_cautions": [
+        "No confirmed hands-on SAP Information Steward experience",
+        "Do not overstate enterprise-architecture ownership; Amber has strong solution/process/data architecture and governance experience but is not claiming formal Enterprise Architect scope"
+      ],
+      "response_status": "Replied by Gmail on 2026-10-29",
+      "response_summary": "Amber stated that the scope closely aligns with her SAP PM data-governance/data-integrity background, confirmed U.S. citizenship and Illinois location, and asked for client, compensation/rate, employment structure, and expected working hours before sending a resume.",
+      "next_action": "Await recruiter response. Do not send a resume or anchor compensation until client, rate/budget, and employment structure are disclosed.",
+      "gmail_thread_subject": "SAP Data Quality Analyst- Remote"
+    },
+    {
+      "id": "inbound-2026-10-29-capgemini-venture-global-cmms-specialist",
+      "received_dates": ["2026-10-29"],
+      "title": "CMMS Specialist",
+      "employment": "8 months + extendable; 90-day contract-to-hire language in Capgemini requisition",
+      "location": "Port Arthur, Louisiana or Lake Charles, Louisiana; presented as onsite",
+      "recruiters": [
+        {"name": "Ashish Tomar", "company": "Axiom Global Technologies", "channel": "LinkedIn"},
+        {"name": "Keshav Kuhar", "company": "Millennium Software Inc.", "channel": "Email"}
+      ],
+      "known_chain": {
+        "end_client": "Venture Global",
+        "engagement": "Capgemini",
+        "capgemini_requisition": "CGEMJP00362105",
+        "staffing_vendors": ["Axiom Global Technologies", "Millennium Software Inc."]
+      },
+      "source": "Same-day LinkedIn recruiter outreach plus Capgemini requisition email; strong evidence these are duplicate submissions for the same underlying role",
+      "screen_estimate": 95,
+      "capability_estimate": 99,
+      "strategic_label": "Red / Skip as currently structured",
+      "triage": "Near-perfect task fit but poor career/location fit. Mandatory Louisiana onsite work conflicts with Amber's Illinois-only relocation constraint, and Specialist/contract scope is below her target management trajectory.",
+      "strong_matches": [
+        "SAP PM equipment and functional-location master data",
+        "Asset hierarchy and technical-object governance",
+        "Preventive-maintenance plans, task lists, maintenance items, and strategies",
+        "Equipment BOMs, SAP PM/MM, material master, and spare-parts optimization",
+        "Data cleansing, validation, gap analysis, load readiness, mass data management, and reporting",
+        "Maintenance, Engineering, Reliability, Supply Chain, and Information Management coordination",
+        "CMMS governance, audits, KPIs, workshops, and continuous improvement"
+      ],
+      "gaps_or_cautions": [
+        "ISO 14224 is not confirmed direct experience",
+        "LNG/oil & gas domain is not Amber's direct industry background",
+        "Do not allow multiple staffing vendors to submit Amber to the same Capgemini/Venture Global requisition"
+      ],
+      "response_status": "LinkedIn response drafted for Ashish; not yet confirmed sent. Gmail response to Keshav not yet sent.",
+      "linkedin_response_intent": "Warm but firm: thank Ashish, note strong alignment, state that Amber is based in Illinois and is not relocating, ask whether remote work with occasional travel is possible, and preserve the relationship for future remote/Chicago SAP PM/CMMS/data-governance roles.",
+      "next_action": "Ask whether the role can be remote with occasional travel. If onsite Louisiana is firm, decline while preserving recruiter relationships. If remote flexibility exists, obtain compensation, employment structure, and conversion details before authorizing any submission.",
+      "duplicate_submission_warning": true
+    }
+  ]
+}
