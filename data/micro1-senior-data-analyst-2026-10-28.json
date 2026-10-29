@@ -1,13 +1,13 @@
 {
-  "as_of": "2026-10-28",
+  "as_of": "2026-10-29",
   "company": "micro1",
   "title": "Senior Data Analyst",
   "role_type": "Contractor / part-time",
   "location": "Remote, U.S.-based only",
   "compensation": "$50-$60/hour",
-  "status": "Role still visible in Amber's micro1 portal; interview/application appears available",
-  "source": "User-provided screenshots of micro1 role page on 2026-10-28",
-  "job_summary": "Senior Data Analyst role supporting AI training, evaluation, and application to real-world data work. Emphasis on large business data sets, quality assurance, analytical precision, and PII handling.",
+  "status": "Role remains available in Amber's micro1 portal. Application responses and a dedicated two-page resume have been prepared; submission/interview completion has not yet been confirmed in chat.",
+  "source": "User-provided screenshots of micro1 role page and application form on 2026-10-28, plus user clarification of direct PII handling experience.",
+  "job_summary": "Senior Data Analyst role supporting AI training, evaluation, and application to real-world data work. Emphasis on large business data sets, quality assurance, analytical precision, PII handling, and objective evaluation of AI outputs.",
   "key_responsibilities": [
     "Review data sets for PII and flag sensitive information using data privacy best practices",
     "Assess AI responses to data and business-analysis scenarios and provide expert feedback",
@@ -28,18 +28,32 @@
     "Advanced degree or professional certification in business analysis/data analytics",
     "Prior AI, data labeling, or model evaluation exposure"
   ],
+  "application_answers_prepared": {
+    "start_in_days": 1,
+    "expected_hourly_rate_usd": 60,
+    "availability_hours_per_week": 15,
+    "years_data_analysis": 7,
+    "pii_response_summary": "Amber regularly works with ServiceNow and enterprise datasets containing names, addresses, phone numbers, and other identifying details. She conceals PII before analysis or broader sharing, limits unnecessary exposure, maintains confidentiality, and performs access-governance/data-owner responsibilities in a regulated biopharmaceutical environment.",
+    "qa_response_summary": "Amber leads four-eye verification for SAP master-data changes, reconciles approved requests to system records, investigates discrepancies, validates analytical logic and reporting outputs, supports UAT and controlled mass-data changes, and uses Excel, Power BI, SQL, Python, ServiceNow, and SAP tools for validation and exception analysis."
+  },
   "fit_assessment": {
-    "capability_estimate": 94,
-    "strategic_fit": "Strong AI-transition side-project / portfolio bridge, but not a replacement for Amber's Senior Manager/Director career target",
+    "capability_estimate": 96,
+    "strategic_fit": "Green as a paid AI/data-analysis side contract and portfolio bridge; not a replacement for Amber's Senior Manager/Director primary-career target.",
     "strongest_matches": [
       "Large-scale enterprise data analysis and reconciliation",
-      "Quality assurance, data validation, discrepancy detection, and controlled-change verification",
-      "Excel and Power BI / visualization experience",
+      "Direct PII handling and concealment in ServiceNow-derived data",
+      "Quality assurance, four-eye verification, data validation, discrepancy detection, and controlled-change verification",
+      "Power BI, Excel, SQL, Python, ServiceNow analytics, and SAP data tools",
       "MBA / advanced degree",
-      "Current paid micro1 AI-training contract and prior AI evaluation exposure"
+      "Current paid micro1 AI-training contract plus prior chatbot/model-evaluation exposure"
     ],
-    "primary_gap_or_question": "PII-specific handling should be substantiated carefully; do not overclaim privacy experience if evidence is limited",
-    "secondary_question": "SQL depth should be represented accurately; SQL is preferred rather than required"
+    "primary_gap_or_question": "No material PII gap after user clarification. SQL depth should still be represented accurately because SQL is preferred rather than required.",
+    "title_level_note": "Senior Data Analyst is below Amber's primary management-title target, but the role is part-time AI-adjacent contract work rather than the intended replacement for her management career."
   },
-  "next_action": "Interview after the Oct. 28 event if the portal remains open. Prepare examples around large-data QA/reconciliation, objective grading criteria, analytical validation, discrepancy triage, and any defensible PII/privacy handling experience. Create a targeted resume if the application flow requests or permits one."
+  "resume": {
+    "status": "Created and revised into a detailed two-page targeted version",
+    "filename": "Amber_Jackson_micro1_Senior_Data_Analyst_Detailed.pdf",
+    "positioning": "Senior Data Analyst | Data Quality | AI Evaluation, emphasizing PII handling, QA/reconciliation, large datasets, Power BI/SQL/Python, SAP/ServiceNow analytics, and AI evaluation."
+  },
+  "next_action": "Complete the micro1 application/interview when convenient and confirm final submission/interview status afterward."
 }
