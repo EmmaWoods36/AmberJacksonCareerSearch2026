@@ -1,0 +1,42 @@
+{
+  "as_of": "2026-10-29",
+  "status": "Amber remains employed at CSL Behring; prior LinkedIn content sequencing that assumed a near-term exit is no longer current.",
+  "posting_cadence": "Approximately one LinkedIn post per week",
+  "publishing_workflow": "ChatGPT drafts and formats the post with hashtags; Amber manually copy/pastes and publishes to LinkedIn. Metricool was considered but rejected because LinkedIn scheduling would require a paid plan Amber does not want solely for weekly posting.",
+  "brand_direction": "Enterprise data governance + SAP/enterprise systems transformation + analytics/automation + AI/model evaluation + technical leadership",
+  "current_voice": "Current operating leader building in public. Posts should sound like practical thought leadership from someone actively doing the work, not coded resignation messaging or a retrospective farewell sequence.",
+  "do_not_signal_yet": [
+    "Impending resignation",
+    "A farewell to CSL",
+    "A completed chapter or 'next chapter' announcement",
+    "Explicit job-search language in the first 12 posts"
+  ],
+  "employed_safe_sequence": [
+    "Data governance is an operating model, not a policy document",
+    "AI plus human validation",
+    "Python/NLP automation: 500+ hours reduced to under one hour",
+    "Data quality upstream: prevention rather than cleanup",
+    "ServiceNow operational data as a data product",
+    "What S/4 transformation actually requires beyond transaction migration",
+    "AI evaluation and quality thinking: objective criteria, consistency, traceability, and edge cases",
+    "Turning 2.4M+ SAP change records into business decisions",
+    "Automation without controls is dangerous: mapping, dry runs, validation, reconciliation, evidence",
+    "Knowledge transfer as a technical leadership capability",
+    "The SAP + AI intersection: trustworthy enterprise data makes AI more useful",
+    "Why technical leaders should understand tables, joins, object relationships, and business rules beneath dashboards"
+  ],
+  "defer_until_actual_exit": [
+    "What building the function taught me",
+    "Gratitude / accomplishments retrospective",
+    "Next chapter announcement",
+    "Explicit market-facing post describing what Amber wants to build next"
+  ],
+  "style_rules": [
+    "No em dashes",
+    "Use specific practitioner insight rather than generic motivational content",
+    "Protect CSL, micro1, client, and project confidentiality",
+    "Do not disclose confidential Titan Beacon task details",
+    "Use metrics only when already validated and appropriately scoped",
+    "Keep AI increasingly visible because it is now part of Amber's paid work and future positioning"
+  ]
+}
