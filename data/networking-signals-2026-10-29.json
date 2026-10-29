@@ -33,7 +33,17 @@
       "action": "Amber reached out to reconnect.",
       "strategic_value": "High",
       "notes": "Kashan previously held senior supply-chain innovation/data leadership at CSL and had enough trust in Amber to grant SAP MDG mass-update access even without directly managing her. The relationship is strategically relevant to Amber's enterprise systems, data governance, transformation, and senior-leadership network."
+    },
+    {
+      "id": "networking-2026-10-29-dren-mustafa-linkedin-invite",
+      "date": "2026-10-29",
+      "name": "Dren Mustafa",
+      "type": "Inbound LinkedIn connection invitation",
+      "status": "Invite received",
+      "strategic_value": "Medium-High",
+      "likely_context": "Executive technology / CIO-CXO event ecosystem",
+      "notes": "Dren Mustafa sent Amber a LinkedIn connection invitation shortly after Amber's recent CIO/AI dinner and increased executive-event visibility. Public web results suggest a Dren Mustafa currently works in delegate acquisition for CXO Media Group and previously worked in senior delegate-acquisition roles tied to C-Vision International, where he helped facilitate executive technology panels/events. Treat as a potentially useful executive-networking connection rather than a job lead. Accepting is low effort and may improve access to future CIO, CDO, data, AI, and technology-leadership events. Exact identity/company should be confirmed from the LinkedIn profile before relying on current-title details."
     }
   ],
-  "tracking_note": "Treat executive-event visibility and warm former-colleague outreach as part of the same career-search system as applications and recruiter inbound. These are not job applications, but they strengthen senior-level market visibility and referral/network optionality."
+  "tracking_note": "Treat executive-event visibility, inbound executive-network connections, and warm former-colleague outreach as part of the same career-search system as applications and recruiter inbound. These are not job applications, but they strengthen senior-level market visibility, event access, and referral/network optionality."
 }
