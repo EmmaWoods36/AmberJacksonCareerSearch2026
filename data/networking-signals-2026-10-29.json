@@ -1,0 +1,39 @@
+{
+  "as_of": "2026-10-29",
+  "signals": [
+    {
+      "id": "networking-2026-10-28-cio-ai-dinner",
+      "date": "2026-10-28",
+      "type": "Executive AI/CIO networking event attendance",
+      "event": "CIO / AI dinner in Chicago",
+      "status": "Attended",
+      "visibility_signal": "Event organizer posted afterward and named Amber among the technology leaders who attended, creating external LinkedIn visibility beyond the in-room networking itself.",
+      "strategic_value": "High",
+      "notes": "The dinner reinforced Amber's positioning in enterprise AI, technology leadership, and executive networking. The organizer's public follow-up post increases visibility because Amber is now associated publicly with the event and peer group, not just privately present in the room."
+    },
+    {
+      "id": "networking-2026-10-29-shirino-flynn-lilly",
+      "date": "2026-10-29",
+      "name": "Shirino Flynn, PMP",
+      "company": "Eli Lilly",
+      "title": "PMO Lead",
+      "relationship": "Former CSL colleague / acquaintance; knew each other and exchanged greetings but did not work directly together",
+      "action": "Amber reached out on LinkedIn to reconnect and discuss Shirino's transition from CSL to Lilly.",
+      "response_status": "Shirino offered a call to discuss her move",
+      "strategic_value": "High",
+      "notes": "Eli Lilly is on Amber's target-company radar. This is a warm relationship-development path rather than an immediate referral ask. Preserve the relationship and learn about Lilly's organization, culture, and opportunities before asking for anything transactional."
+    },
+    {
+      "id": "networking-2026-10-29-kashan-baqai-honeywell",
+      "date": "2026-10-29",
+      "name": "Kashan Baqai",
+      "company": "Honeywell Technologies",
+      "title": "Senior Director, Program Management",
+      "relationship": "Former CSL leader / trusted prior connection",
+      "action": "Amber reached out to reconnect.",
+      "strategic_value": "High",
+      "notes": "Kashan previously held senior supply-chain innovation/data leadership at CSL and had enough trust in Amber to grant SAP MDG mass-update access even without directly managing her. The relationship is strategically relevant to Amber's enterprise systems, data governance, transformation, and senior-leadership network."
+    }
+  ],
+  "tracking_note": "Treat executive-event visibility and warm former-colleague outreach as part of the same career-search system as applications and recruiter inbound. These are not job applications, but they strengthen senior-level market visibility and referral/network optionality."
+}
