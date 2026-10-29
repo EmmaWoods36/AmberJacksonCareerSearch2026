@@ -8,27 +8,14 @@
       "title": "SAP Data Quality Analyst",
       "employment": "Full time; exact employer/pay structure not yet disclosed",
       "location": "Remote",
-      "recruiters": [
-        {"name": "Shakib MD", "company": "ClifyX Inc.", "role": "Sr. US IT Recruiter"}
-      ],
+      "recruiters": [{"name": "Shakib MD", "company": "ClifyX Inc.", "role": "Sr. US IT Recruiter"}],
       "source": "Unsolicited recruiter email",
       "screen_estimate": 93,
       "capability_estimate": 98,
       "strategic_label": "Yellow / Selective",
       "triage": "Extremely strong functional fit, but Analyst title is below Amber's primary Senior Manager/Director target. Worth discovery only because it is remote and compensation/client are unknown.",
-      "strong_matches": [
-        "SAP S/4HANA data governance",
-        "Master data and SAP data structures",
-        "Data profiling and data-quality metrics",
-        "Facilitating business discussions to define data-quality rules for materials, assets, and equipment",
-        "Business/IT collaboration",
-        "Requirements gathering, workshops, implementation support, and technical project leadership",
-        "Change management, ServiceNow incident/problem/change processes, audit support, and security/access governance"
-      ],
-      "gaps_or_cautions": [
-        "No confirmed hands-on SAP Information Steward experience",
-        "Do not overstate enterprise-architecture ownership; Amber has strong solution/process/data architecture and governance experience but is not claiming formal Enterprise Architect scope"
-      ],
+      "strong_matches": ["SAP S/4HANA data governance", "Master data and SAP data structures", "Data profiling and data-quality metrics", "Facilitating business discussions to define data-quality rules for materials, assets, and equipment", "Business/IT collaboration", "Requirements gathering, workshops, implementation support, and technical project leadership", "Change management, ServiceNow incident/problem/change processes, audit support, and security/access governance"],
+      "gaps_or_cautions": ["No confirmed hands-on SAP Information Steward experience", "Do not overstate enterprise-architecture ownership; Amber has strong solution/process/data architecture and governance experience but is not claiming formal Enterprise Architect scope"],
       "response_status": "Replied by Gmail on 2026-10-29",
       "response_summary": "Amber stated that the scope closely aligns with her SAP PM data-governance/data-integrity background, confirmed U.S. citizenship and Illinois location, and asked for client, compensation/rate, employment structure, and expected working hours before sending a resume.",
       "next_action": "Await recruiter response. Do not send a resume or anchor compensation until client, rate/budget, and employment structure are disclosed.",
@@ -41,36 +28,15 @@
       "employment": "8 months + extendable; 90-day contract-to-hire language in Capgemini requisition; W2 confirmed by Keshav",
       "location": "Remote confirmed by Keshav on 2026-10-29; original requisition listed Port Arthur or Lake Charles, Louisiana",
       "compensation": "$90/hour W2",
-      "recruiters": [
-        {"name": "Ashish Tomar", "company": "Axiom Global Technologies", "channel": "LinkedIn"},
-        {"name": "Keshav Kuhar", "company": "Millennium Software Inc.", "channel": "Email"}
-      ],
-      "known_chain": {
-        "end_client": "Venture Global",
-        "engagement": "Capgemini",
-        "capgemini_requisition": "CGEMJP00362105",
-        "staffing_vendors": ["Axiom Global Technologies", "Millennium Software Inc."]
-      },
+      "recruiters": [{"name": "Ashish Tomar", "company": "Axiom Global Technologies", "channel": "LinkedIn"}, {"name": "Keshav Kuhar", "company": "Millennium Software Inc.", "channel": "Email"}],
+      "known_chain": {"end_client": "Venture Global", "engagement": "Capgemini", "capgemini_requisition": "CGEMJP00362105", "staffing_vendors": ["Axiom Global Technologies", "Millennium Software Inc."]},
       "source": "Same-day LinkedIn recruiter outreach plus Capgemini requisition email; strong evidence these are duplicate submissions for the same underlying role",
       "screen_estimate": 98,
       "capability_estimate": 99,
       "strategic_label": "Yellow / Selective, high-value fallback",
       "triage": "Remote work and $90/hour W2 materially improve the opportunity. The role is now worth pursuing selectively because compensation is strong and functional fit is nearly exact, but the Specialist title and maintenance-heavy CMMS lane remain below/weaker than Amber's primary Senior Manager/Director enterprise data/AI/transformation target.",
-      "strong_matches": [
-        "SAP PM equipment and functional-location master data",
-        "Asset hierarchy and technical-object governance",
-        "Preventive-maintenance plans, task lists, maintenance items, and strategies",
-        "Equipment BOMs, SAP PM/MM, material master, and spare-parts optimization",
-        "Data cleansing, validation, gap analysis, load readiness, mass data management, and reporting",
-        "Maintenance, Engineering, Reliability, Supply Chain, and Information Management coordination",
-        "CMMS governance, audits, KPIs, workshops, and continuous improvement"
-      ],
-      "gaps_or_cautions": [
-        "ISO 14224 is not confirmed direct experience",
-        "LNG/oil & gas domain is not Amber's direct industry background",
-        "Specialist title is below Amber's current manager/head-of-data positioning",
-        "Do not allow multiple staffing vendors to submit Amber to the same Capgemini/Venture Global requisition"
-      ],
+      "strong_matches": ["SAP PM equipment and functional-location master data", "Asset hierarchy and technical-object governance", "Preventive-maintenance plans, task lists, maintenance items, and strategies", "Equipment BOMs, SAP PM/MM, material master, and spare-parts optimization", "Data cleansing, validation, gap analysis, load readiness, mass data management, and reporting", "Maintenance, Engineering, Reliability, Supply Chain, and Information Management coordination", "CMMS governance, audits, KPIs, workshops, and continuous improvement"],
+      "gaps_or_cautions": ["ISO 14224 is not confirmed direct experience", "LNG/oil & gas domain is not Amber's direct industry background", "Specialist title is below Amber's current manager/head-of-data positioning", "Do not allow multiple staffing vendors to submit Amber to the same Capgemini/Venture Global requisition"],
       "response_status": "Amber sent the warm-but-firm LinkedIn response to Ashish. ChatGPT sent the vetted Gmail reply to Keshav. Keshav replied at 2:30 PM on 2026-10-29 confirming the position can be remote and offering $90/hour W2, and requested Amber's updated resume. On 2026-10-29, ChatGPT sent Keshav a follow-up confirming the remote arrangement and $90/hour W2 rate work for Amber, attached the tailored resume, expressed strong interest, and asked for next steps.",
       "resume_status": "Tailored two-page SAP PM / CMMS Data Governance & Reliability Systems resume created and sent to Keshav on 2026-10-29 as Amber_Jackson_Capgemini_CMMS_Specialist_Resume.pdf. It emphasizes 40,000+ assets, 11,000+ maintenance plans, 2,167 FLOC BOM migration, SAP PM/MM/MDG support, PM optimization, spare parts/MRO, reliability analytics, S/4HANA transformation, ServiceNow/Power BI, and planning/scheduling experience.",
       "next_action": "Await Keshav/Capgemini next steps. Do not authorize a second vendor submission for the same requisition unless representation ownership is explicitly resolved.",
@@ -82,32 +48,32 @@
       "title": "Production Planning & Materials Specialist",
       "employment": "Full time",
       "location": "Houston, Texas; onsite explicitly stated in duplicate EdgeGlobal email",
-      "recruiters": [
-        {"name": "Amit Singh", "company": "EdgeGlobal", "channel": "Email", "email": "amit.singh@edgeglobal.net"},
-        {"name": "Abhishek Singh", "company": "EdgeGlobal", "channel": "Email", "email": "abhishek.singh@edgeglobal.net"}
-      ],
+      "recruiters": [{"name": "Amit Singh", "company": "EdgeGlobal", "channel": "Email", "email": "amit.singh@edgeglobal.net"}, {"name": "Abhishek Singh", "company": "EdgeGlobal", "channel": "Email", "email": "abhishek.singh@edgeglobal.net"}],
       "source": "Two unsolicited EdgeGlobal recruiter emails received one minute apart for the same role; one subject explicitly states Houston, TX (Onsite)",
       "screen_estimate": 92,
       "capability_estimate": 96,
       "strategic_label": "Red / Skip",
       "triage": "Strong capability match to Amber's earlier planner/scheduler and supply-chain execution background, but the role is a clear step backward from current Manager/Head of Data scope, sits outside the preferred enterprise data/AI/transformation trajectory, and requires onsite work in Houston while Amber is not relocating from Illinois.",
-      "strong_matches": [
-        "Production and maintenance planning/scheduling experience",
-        "ERP/MRP processes, work orders, purchase orders, inventory, routings, lead times, material allocation, and capacity planning",
-        "KPI/dashboard reporting, Excel analysis, data-quality controls, and planning-performance analysis",
-        "Cross-functional coordination with Operations, Procurement, Engineering, Supply Chain, and Inventory teams",
-        "Work-order prioritization, schedule attainment, backlog/aging analysis, escalation, and corrective-action follow-through",
-        "Continuous improvement, bottleneck analysis, and planning standardization"
-      ],
-      "gaps_or_cautions": [
-        "No direct oil-and-gas domain experience, though manufacturing/industrial operations experience is transferable",
-        "DRP and fill-rate dashboard ownership are not among Amber's strongest recent differentiators",
-        "Specialist title is materially below current Manager/Head of Data positioning",
-        "Onsite Houston requirement conflicts with Amber's Illinois no-relocation constraint"
-      ],
+      "strong_matches": ["Production and maintenance planning/scheduling experience", "ERP/MRP processes, work orders, purchase orders, inventory, routings, lead times, material allocation, and capacity planning", "KPI/dashboard reporting, Excel analysis, data-quality controls, and planning-performance analysis", "Cross-functional coordination with Operations, Procurement, Engineering, Supply Chain, and Inventory teams", "Work-order prioritization, schedule attainment, backlog/aging analysis, escalation, and corrective-action follow-through", "Continuous improvement, bottleneck analysis, and planning standardization"],
+      "gaps_or_cautions": ["No direct oil-and-gas domain experience, though manufacturing/industrial operations experience is transferable", "DRP and fill-rate dashboard ownership are not among Amber's strongest recent differentiators", "Specialist title is materially below current Manager/Head of Data positioning", "Onsite Houston requirement conflicts with Amber's Illinois no-relocation constraint"],
       "response_status": "Replied to Amit Singh by Gmail on 2026-10-29. Amber thanked him for the outreach, noted the strong scope alignment, stated she is based in Illinois and not considering relocation, and asked to be considered if the role can be remote or for similar remote/Chicago-area opportunities.",
       "next_action": "Await any response regarding remote flexibility. Do not invest in a tailored resume unless the location materially changes; otherwise preserve EdgeGlobal as a recruiter relationship for remote/Chicago or more senior roles.",
       "duplicate_recruiter_outreach": true
+    },
+    {
+      "id": "inbound-2026-10-29-dice-senior-sap-mm-ewm-consultant",
+      "received_dates": ["2026-10-29"],
+      "title": "Senior SAP MM / EWM Consultant",
+      "employment": "Permanent",
+      "location": "United States; exact work arrangement and city not yet disclosed",
+      "recruiters": [{"name": "Pavani Yedugani", "company": "Unknown / via Dice Private Email", "channel": "Email"}],
+      "source": "Trusted Dice Private Email",
+      "strategic_label": "Needs details before triage",
+      "triage": "Potentially relevant because it is permanent and SAP-adjacent, but title alone is insufficient. Direct SAP MM/EWM configuration depth may be materially outside Amber's strongest SAP PM/data-governance lane, so do not assume fit until the full JD, client, location/remote status, seniority expectations, and compensation are known.",
+      "known_strengths": ["SAP S/4HANA transformation context", "SAP PM and enterprise master-data governance", "MRO/spare-parts and material-master adjacency", "Manufacturing and regulated life-sciences operations", "Cross-functional supply-chain and enterprise-systems leadership"],
+      "potential_gaps": ["Deep hands-on SAP MM configuration is not established", "Deep SAP EWM implementation/configuration is not established"],
+      "response_status": "No response sent yet",
+      "next_action": "Review the complete recruiter message/JD before deciding whether to respond or tailor a resume. If the role is heavily configuration/EWM-implementation focused, likely skip; if it is governance/transformation/leadership-heavy, reassess."
     }
   ]
 }
