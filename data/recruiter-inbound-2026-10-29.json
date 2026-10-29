@@ -38,8 +38,9 @@
       "id": "inbound-2026-10-29-capgemini-venture-global-cmms-specialist",
       "received_dates": ["2026-10-29"],
       "title": "CMMS Specialist",
-      "employment": "8 months + extendable; 90-day contract-to-hire language in Capgemini requisition",
-      "location": "Port Arthur, Louisiana or Lake Charles, Louisiana; presented as onsite",
+      "employment": "8 months + extendable; 90-day contract-to-hire language in Capgemini requisition; W2 confirmed by Keshav",
+      "location": "Remote confirmed by Keshav on 2026-10-29; original requisition listed Port Arthur or Lake Charles, Louisiana",
+      "compensation": "$90/hour W2",
       "recruiters": [
         {"name": "Ashish Tomar", "company": "Axiom Global Technologies", "channel": "LinkedIn"},
         {"name": "Keshav Kuhar", "company": "Millennium Software Inc.", "channel": "Email"}
@@ -51,10 +52,10 @@
         "staffing_vendors": ["Axiom Global Technologies", "Millennium Software Inc."]
       },
       "source": "Same-day LinkedIn recruiter outreach plus Capgemini requisition email; strong evidence these are duplicate submissions for the same underlying role",
-      "screen_estimate": 95,
+      "screen_estimate": 98,
       "capability_estimate": 99,
-      "strategic_label": "Red / Skip as currently structured",
-      "triage": "Near-perfect task fit but poor career/location fit. Mandatory Louisiana onsite work conflicts with Amber's Illinois-only relocation constraint, and Specialist/contract scope is below her target management trajectory.",
+      "strategic_label": "Yellow / Selective, high-value fallback",
+      "triage": "Remote work and $90/hour W2 materially improve the opportunity. The role is now worth pursuing selectively because compensation is strong and functional fit is nearly exact, but the Specialist title and maintenance-heavy CMMS lane remain below/weaker than Amber's primary Senior Manager/Director enterprise data/AI/transformation target.",
       "strong_matches": [
         "SAP PM equipment and functional-location master data",
         "Asset hierarchy and technical-object governance",
@@ -67,10 +68,11 @@
       "gaps_or_cautions": [
         "ISO 14224 is not confirmed direct experience",
         "LNG/oil & gas domain is not Amber's direct industry background",
+        "Specialist title is below Amber's current manager/head-of-data positioning",
         "Do not allow multiple staffing vendors to submit Amber to the same Capgemini/Venture Global requisition"
       ],
-      "response_status": "Amber sent the warm-but-firm LinkedIn response to Ashish asking whether the role can be remote with occasional travel, and ChatGPT sent the vetted Gmail reply to Keshav on 2026-10-29 asking for compensation, whether onsite is mandatory, expected onsite schedule, and conversion structure.",
-      "next_action": "Await both recruiters' responses. If onsite Louisiana is firm, decline while preserving recruiter relationships. If remote flexibility exists, obtain compensation and representation details before authorizing any submission. Avoid duplicate submission to the same Capgemini/Venture Global requisition.",
+      "response_status": "Amber sent the warm-but-firm LinkedIn response to Ashish. ChatGPT sent the vetted Gmail reply to Keshav. Keshav replied at 2:30 PM on 2026-10-29 confirming the position can be remote and offering $90/hour W2, and requested Amber's updated resume.",
+      "next_action": "Prepare/send a tailored SAP PM/CMMS/data-governance resume through one representation channel only. Clarify who owns representation before authorizing submission, and continue to preserve duplicate-submission controls.",
       "duplicate_submission_warning": true
     }
   ]
