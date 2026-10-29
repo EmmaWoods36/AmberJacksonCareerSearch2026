@@ -1,0 +1,41 @@
+{
+  "as_of": "2026-10-29",
+  "company": "Natsoft",
+  "recruiter": "Shivam Sharma",
+  "role": "SAP AI Solution Architect / SAP Joule AI Architect",
+  "location": "Chicago, IL onsite",
+  "employment": "Contract",
+  "source": "Direct LinkedIn recruiter outreach on 2026-10-20; Amber replied on 2026-10-27 that she was interested if still available; recruiter responded requesting her most updated resume.",
+  "role_scope": [
+    "Enterprise SAP Business AI and SAP Joule architecture strategy",
+    "Multi-year AI transformation roadmaps for SAP S/4HANA and Business Suite",
+    "AI reference architectures, standards, security models, and governance frameworks",
+    "SAP Joule business assistants and AI agents",
+    "Joule Studio, SAP AI Core, Generative AI Hub, SAP BTP, APIs, and agentic AI",
+    "Life sciences, GxP, FDA, and data-privacy controls",
+    "Hands-on technical architecture and developer-team leadership"
+  ],
+  "screen_estimate": 45,
+  "capability_estimate": 68,
+  "strategic_label": "Yellow / Stretch, directionally attractive",
+  "triage": "Strong strategic alignment with Amber's desired SAP + AI + regulated-life-sciences direction, but a significant direct-experience gap remains in hands-on SAP Joule Studio, BTP architecture, AI Core/Generative AI Hub, and the explicit 12-15 year architect requirement. Worth responding because the recruiter requested a resume and the role is Chicago-based, but the resume must not overclaim architecture depth.",
+  "strong_matches": [
+    "SAP S/4HANA transformation, SAP RISE, UAT, release readiness, hypercare, and global standardization",
+    "Enterprise data governance operating models and access/quality controls",
+    "Regulated biopharma, GxP/FDA, audit/CAPA/change-control environment",
+    "Python, GenAI-assisted automation, NLP/text parsing, analytics, data quality, and validation",
+    "Technical design-document interpretation and SAP object/data-model problem solving",
+    "Business-to-technical translation, global workshops, requirements, training, and stakeholder leadership",
+    "Current paid frontier-AI model evaluation/training engagement selected through internal and client screening"
+  ],
+  "gaps_or_cautions": [
+    "No confirmed direct hands-on SAP Joule Studio implementation",
+    "No confirmed direct SAP BTP solution-architecture ownership",
+    "No confirmed SAP AI Core or Generative AI Hub implementation",
+    "Does not meet the stated 12-15 years of architecture experience as written",
+    "Do not claim formal enterprise AI architect title or developer-team architecture leadership that Amber has not performed"
+  ],
+  "resume_status": "Tailored two-page PDF created on 2026-10-29: Amber_Jackson_Natsoft_SAP_AI_Solution_Architect_Resume.pdf. It positions Amber as an SAP transformation, data governance, AI automation, and regulated-life-sciences leader without claiming unsupported Joule/BTP architecture depth.",
+  "response_status": "LinkedIn response drafted, not yet sent by ChatGPT. Draft thanks Shivam, says the updated resume is attached, highlights Amber's SAP S/4HANA, enterprise data governance, AI/automation, and regulated-life-sciences background, and expresses interest in discussing fit.",
+  "next_action": "Amber can attach the tailored PDF and send the LinkedIn response. If Natsoft advances her, clarify client, rate, onsite expectations, and whether the 12-15 year/Joule-BTP requirements are hard gates before investing heavily in interview prep."
+}
