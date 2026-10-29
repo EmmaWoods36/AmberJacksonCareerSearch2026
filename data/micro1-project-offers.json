@@ -1,20 +1,35 @@
 {
-  "as_of": "2026-10-28",
+  "as_of": "2026-10-29",
   "company": "micro1",
   "offers": [
     {
       "project_name": "Titan Beacon",
       "role": "Expert / AI training project",
       "hourly_rate_usd": 90,
-      "offer_status": "CONTRACT SIGNED / LIVE",
+      "offer_status": "CONTRACT SIGNED / LIVE / PROJECT ONBOARDING ACTIVE",
       "offer_observed_at": "2026-10-28",
       "contract_signed_at": "2026-10-28",
       "official_offer_email_date": "2026-10-27",
       "email_subject": "Your first micro1 project offer is here!",
       "email_summary": "micro1 Talent Operations officially invited Amber to join an AI training project as an Expert, applying professional experience to evaluate and train frontier AI models. Project-specific details are presented in the micro1 talent account.",
-      "project_relationship_note": "Amber believes Titan Beacon may be related to the earlier robot-training/video workflow involving robotic-arm or similar embodied-AI training. This relationship is not yet independently verified from the available email, so do not merge it with another project solely on that assumption.",
-      "source": "User report from micro1 talent portal plus micro1 official offer email dated 2026-10-27. Amber confirmed on 2026-10-28 that she signed the contract and the project is live."
+      "onboarding_status": {
+        "weekly_office_hours_invite": true,
+        "multiple_project_slack_channels": true,
+        "project_specific_personal_chatbot": true,
+        "observed_at": "2026-10-29"
+      },
+      "selection_context": {
+        "prior_project_production_work": false,
+        "prior_path": "Amber passed an internal screener and then a client screener. The earlier project ended before she received production work.",
+        "return_invite_signal": "Amber reports micro1/client explicitly stated that return invitations would be quality-based and that only the best/strongest performers would be invited back. Amber was invited back into Titan Beacon.",
+        "rescreening": "Amber reports that previously selected returnees were told they would not need to repeat the screeners; current onboarding appears consistent with prior client selection, but exact policy should be treated as user-reported until confirmed in project documentation.",
+        "cohort_snapshot": "Amber observed approximately 123 people in the current project environment, including managers. This is only a point-in-time visible-channel count and may grow; do not convert it into an exact acceptance percentile.",
+        "earlier_funnel_scale": "Amber recalls several thousand people, possibly roughly 6,000-10,000, in pre-onboarding. Exact funnel size is not verified and should not be presented as a precise statistic.",
+        "interpretation": "Strong evidence that Amber cleared a client/project quality threshold through screening performance. Do not claim a specific percentile or production-quality ranking because she had no production work on the earlier project."
+      },
+      "project_relationship_note": "Amber believes Titan Beacon may be related to the earlier robot-training/video workflow involving robotic-arm or similar embodied-AI training. This relationship is not yet independently verified from available project materials, so do not merge it with another project solely on that assumption.",
+      "source": "User report from micro1 talent portal and project environment plus micro1 official offer email dated 2026-10-27. Amber confirmed on 2026-10-28 that she signed the contract and the project is live; on 2026-10-29 she confirmed office-hours, Slack-channel, and project-chatbot onboarding."
     }
   ],
-  "tracking_note": "Treat Titan Beacon as a confirmed live $90/hour micro1 AI-training contract. Keep distinct from earlier micro1 outreach/offers unless the portal or micro1 explicitly shows they are the same project."
+  "tracking_note": "Treat Titan Beacon as a confirmed live $90/hour micro1 AI-training contract with active project onboarding. Keep distinct from other micro1 opportunities unless micro1 explicitly maps them together."
 }
