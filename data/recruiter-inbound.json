@@ -1,18 +1,11 @@
 [
   {
     "id": "inbound-2026-09-23-oxford-csl-consulting-outreach",
-    "received_dates": [
-      "2026-09-23"
-    ],
+    "received_dates": ["2026-09-23"],
     "title": "Consulting services / CSL stakeholder outreach",
     "employment": null,
     "location": null,
-    "recruiters": [
-      {
-        "name": "Jude Love",
-        "company": "Oxford Global Resources"
-      }
-    ],
+    "recruiters": [{"name": "Jude Love", "company": "Oxford Global Resources"}],
     "source": "Unsolicited recruiter / business-development inbound",
     "screen_estimate": null,
     "capability_estimate": null,
@@ -22,18 +15,11 @@
   },
   {
     "id": "inbound-2026-09-23-sparks-analytics-tech-support-japanese",
-    "received_dates": [
-      "2026-09-23"
-    ],
+    "received_dates": ["2026-09-23"],
     "title": "Analytics / Technical Support role (exact title not recovered)",
     "employment": "W2",
     "location": "Sparks, Nevada; hybrid 2-3 days/week; relocation required",
-    "recruiters": [
-      {
-        "name": "Karthick",
-        "company": null
-      }
-    ],
+    "recruiters": [{"name": "Karthick", "company": null}],
     "source": "Unsolicited recruiter inbound",
     "screen_estimate": null,
     "capability_estimate": 88,
@@ -44,18 +30,11 @@
   },
   {
     "id": "inbound-2026-09-23-sap-mdg-supplier-master-functional-lead",
-    "received_dates": [
-      "2026-09-23"
-    ],
+    "received_dates": ["2026-09-23"],
     "title": "SAP MDG Supplier Master Functional Lead",
     "employment": null,
     "location": "Seattle, Washington / remote",
-    "recruiters": [
-      {
-        "name": "Swatantra Mishra",
-        "company": null
-      }
-    ],
+    "recruiters": [{"name": "Swatantra Mishra", "company": null}],
     "source": "Unsolicited recruiter inbound",
     "screen_estimate": null,
     "capability_estimate": 97,
@@ -65,18 +44,11 @@
   },
   {
     "id": "inbound-2026-09-22-program-director-sap-mdg-data",
-    "received_dates": [
-      "2026-09-22"
-    ],
+    "received_dates": ["2026-09-22"],
     "title": "Program Director SAP MDG - Data",
     "employment": "Full time",
     "location": "Remote / anywhere in US; travel can be up to 100% at times",
-    "recruiters": [
-      {
-        "name": "Kunal Kumar (TSI1231)",
-        "company": "Tanisha Systems"
-      }
-    ],
+    "recruiters": [{"name": "Kunal Kumar (TSI1231)", "company": "Tanisha Systems"}],
     "source": "Unsolicited recruiter inbound",
     "screen_estimate": null,
     "capability_estimate": 95,
@@ -86,18 +58,11 @@
   },
   {
     "id": "inbound-2026-09-22-fhl-bank-reporting-insights-analyst",
-    "received_dates": [
-      "2026-09-22"
-    ],
+    "received_dates": ["2026-09-22"],
     "title": "Reporting and Insights Analyst",
     "employment": "6+ month contract",
     "location": "Chicago, Illinois; hybrid",
-    "recruiters": [
-      {
-        "name": "Rajeev Zakku",
-        "company": "Javen Technologies Inc."
-      }
-    ],
+    "recruiters": [{"name": "Rajeev Zakku", "company": "Javen Technologies Inc."}],
     "source": "Unsolicited recruiter inbound",
     "screen_estimate": null,
     "capability_estimate": 94,
@@ -107,18 +72,11 @@
   },
   {
     "id": "inbound-2026-09-22-sap-mro-lead-remote",
-    "received_dates": [
-      "2026-09-22"
-    ],
+    "received_dates": ["2026-09-22"],
     "title": "SAP MRO Lead",
     "employment": "Contract / W2",
     "location": "Dallas, Texas client; remote",
-    "recruiters": [
-      {
-        "name": "Kanchan Soni",
-        "company": "Cynet"
-      }
-    ],
+    "recruiters": [{"name": "Kanchan Soni", "company": "Cynet"}],
     "source": "Unsolicited recruiter inbound",
     "screen_estimate": null,
     "capability_estimate": 97,
@@ -128,18 +86,11 @@
   },
   {
     "id": "inbound-2026-09-23-sap-program-manager-quality-testing-fashion",
-    "received_dates": [
-      "2026-09-23"
-    ],
+    "received_dates": ["2026-09-23"],
     "title": "SAP Program Manager, Quality & Testing Lead (ECC to S/4HANA Fashion Transformation)",
     "employment": "Long-term contract",
     "location": "Jersey City, New Jersey; remote with possible NJ travel",
-    "recruiters": [
-      {
-        "name": "Shivam Ojha",
-        "company": null
-      }
-    ],
+    "recruiters": [{"name": "Shivam Ojha", "company": null}],
     "source": "Unsolicited recruiter inbound",
     "screen_estimate": 58,
     "capability_estimate": 84,
@@ -149,18 +100,11 @@
   },
   {
     "id": "inbound-2026-09-23-sap-plant-maintenance-ba-nj",
-    "received_dates": [
-      "2026-09-23"
-    ],
+    "received_dates": ["2026-09-23"],
     "title": "SAP Plant Maintenance BA",
     "employment": "Contract",
     "location": "Parsippany or Paulsboro, New Jersey",
-    "recruiters": [
-      {
-        "name": "Yogendra Singh",
-        "company": "InterSources Inc."
-      }
-    ],
+    "recruiters": [{"name": "Yogendra Singh", "company": "InterSources Inc."}],
     "source": "Unsolicited recruiter inbound",
     "screen_estimate": null,
     "capability_estimate": 96,
@@ -170,18 +114,11 @@
   },
   {
     "id": "inbound-2026-09-23-sap-test-program-manager-nj-remote",
-    "received_dates": [
-      "2026-09-23"
-    ],
+    "received_dates": ["2026-09-23"],
     "title": "SAP Test Program Manager",
     "employment": "Long-term contract",
     "location": "New Jersey / remote; 1 week onsite travel referenced",
-    "recruiters": [
-      {
-        "name": "Shivendra Nath Tiwari",
-        "company": "Clifyx Inc."
-      }
-    ],
+    "recruiters": [{"name": "Shivendra Nath Tiwari", "company": "Clifyx Inc."}],
     "source": "Unsolicited recruiter inbound",
     "screen_estimate": null,
     "capability_estimate": 88,
@@ -191,18 +128,11 @@
   },
   {
     "id": "inbound-2026-09-23-fleet-facilities-technical-coordinator-nashville",
-    "received_dates": [
-      "2026-09-23"
-    ],
+    "received_dates": ["2026-09-23"],
     "title": "Fleet/Facilities Technical Coordinator (66379)",
     "employment": "2+ month contract",
     "location": "Nashville, Tennessee 37243; hybrid",
-    "recruiters": [
-      {
-        "name": "Saba Sultana",
-        "company": "Softpath System LLC"
-      }
-    ],
+    "recruiters": [{"name": "Saba Sultana", "company": "Softpath System LLC"}],
     "source": "Unsolicited recruiter inbound",
     "screen_estimate": 20,
     "capability_estimate": 55,
@@ -212,22 +142,13 @@
   },
   {
     "id": "inbound-2026-09-data-annotation-louisville",
-    "received_dates": [
-      "2026-09-15",
-      "2026-09-16"
-    ],
+    "received_dates": ["2026-09-15", "2026-09-16"],
     "title": "Data Annotation Program Lead / Data Annotation Engineer",
     "employment": "Contract",
     "location": "Remote; occasional travel to Louisville, Kentucky",
     "recruiters": [
-      {
-        "name": "Dhananjay Jha",
-        "company": "Natsoft Corporation"
-      },
-      {
-        "name": "Ashish Kumar Singh",
-        "company": null
-      }
+      {"name": "Dhananjay Jha", "company": "Natsoft Corporation"},
+      {"name": "Ashish Kumar Singh", "company": null}
     ],
     "source": "Unsolicited recruiter inbound",
     "duplicate_sourcing": true,
@@ -239,18 +160,11 @@
   },
   {
     "id": "inbound-2026-09-18-tech-business-partner-supply-chain-director",
-    "received_dates": [
-      "2026-09-18"
-    ],
+    "received_dates": ["2026-09-18"],
     "title": "Technology Business Partner - Supply Chain, Director",
     "employment": "Full time",
     "location": "Menlo Park or Fremont, California; hybrid",
-    "recruiters": [
-      {
-        "name": "Anish Singh",
-        "company": null
-      }
-    ],
+    "recruiters": [{"name": "Anish Singh", "company": null}],
     "source": "Unsolicited recruiter inbound",
     "screen_estimate": 72,
     "capability_estimate": 90,
@@ -260,18 +174,11 @@
   },
   {
     "id": "inbound-2026-09-16-sap-bdc",
-    "received_dates": [
-      "2026-09-16"
-    ],
+    "received_dates": ["2026-09-16"],
     "title": "SAP BDC",
     "employment": null,
     "location": "Remote",
-    "recruiters": [
-      {
-        "name": "Ravi Kumar Pallela",
-        "company": null
-      }
-    ],
+    "recruiters": [{"name": "Ravi Kumar Pallela", "company": null}],
     "source": "Unsolicited recruiter inbound",
     "screen_estimate": 25,
     "capability_estimate": 60,
@@ -281,18 +188,11 @@
   },
   {
     "id": "inbound-2026-09-08-sr-manager-app-production-support",
-    "received_dates": [
-      "2026-09-08"
-    ],
+    "received_dates": ["2026-09-08"],
     "title": "Sr Manager - Application Production Support - Techno Functional",
     "employment": "Long term contract / engagement",
     "location": "Remote; EST-based client",
-    "recruiters": [
-      {
-        "name": "Vipin Bahadur Nishad",
-        "company": null
-      }
-    ],
+    "recruiters": [{"name": "Vipin Bahadur Nishad", "company": null}],
     "source": "Unsolicited recruiter inbound",
     "screen_estimate": 84,
     "capability_estimate": 94,
@@ -302,18 +202,11 @@
   },
   {
     "id": "inbound-2026-09-01-production-supervisor-portage",
-    "received_dates": [
-      "2026-09-01"
-    ],
+    "received_dates": ["2026-09-01"],
     "title": "Production Supervisor",
     "employment": "Direct hire",
     "location": "Portage, Indiana; onsite",
-    "recruiters": [
-      {
-        "name": "Maheshwari Maloth",
-        "company": "Axelon Services"
-      }
-    ],
+    "recruiters": [{"name": "Maheshwari Maloth", "company": "Axelon Services"}],
     "source": "Unsolicited recruiter inbound",
     "screen_estimate": null,
     "capability_estimate": null,
@@ -324,18 +217,11 @@
   },
   {
     "id": "inbound-2026-08-31-product-mdm-data-integration",
-    "received_dates": [
-      "2026-08-31"
-    ],
+    "received_dates": ["2026-08-31"],
     "title": "Product MDM & Data Integration Specialist",
     "employment": "12+ month contract",
     "location": "100% remote",
-    "recruiters": [
-      {
-        "name": "Bunty Singh",
-        "company": null
-      }
-    ],
+    "recruiters": [{"name": "Bunty Singh", "company": null}],
     "source": "Unsolicited recruiter inbound",
     "screen_estimate": 68,
     "capability_estimate": 87,
@@ -345,18 +231,11 @@
   },
   {
     "id": "inbound-2026-09-17-manufacturing-engineer-boston",
-    "received_dates": [
-      "2026-09-17"
-    ],
+    "received_dates": ["2026-09-17"],
     "title": "Manufacturing Engineer",
     "employment": "Full time",
     "location": "Boston, Massachusetts; onsite 5 days/week",
-    "recruiters": [
-      {
-        "name": "Singh Aman Brijesh",
-        "company": null
-      }
-    ],
+    "recruiters": [{"name": "Singh Aman Brijesh", "company": null}],
     "source": "Unsolicited recruiter inbound",
     "screen_estimate": 30,
     "capability_estimate": 70,
@@ -366,23 +245,47 @@
   },
   {
     "id": "inbound-2026-09-01-kimble-l3harris-program-scheduler",
-    "received_dates": [
-      "2026-09-01"
-    ],
+    "received_dates": ["2026-09-01"],
     "title": "Lead, Program Scheduler - L3Harris Technologies",
     "employment": null,
     "location": "Mt. Juliet, Tennessee",
-    "recruiters": [
-      {
-        "name": "Taylor",
-        "company": "Kimble Group"
-      }
-    ],
+    "recruiters": [{"name": "Taylor", "company": "Kimble Group"}],
     "source": "Unsolicited recruiter inbound",
     "screen_estimate": null,
     "capability_estimate": null,
     "triage": "Declined - location / relocation",
     "next_action": "No action. Kimble advised updating profile preferences to Illinois and senior leadership roles.",
     "notes": "Kimble Group said they found Amber's profile and thought she could be an excellent fit for the L3Harris Lead, Program Scheduler role in Mt. Juliet. Amber replied that she is no longer in Tennessee, is not looking to relocate, and asked to be kept in mind for senior leadership roles in Illinois. Kimble acknowledged and directed her to update those profile preferences."
+  },
+  {
+    "id": "inbound-2026-10-29-clifyx-sap-data-quality-analyst",
+    "received_dates": ["2026-10-29"],
+    "title": "SAP Data Quality Analyst",
+    "employment": "Full time; exact employer/pay structure not yet disclosed",
+    "location": "Remote",
+    "recruiters": [{"name": "Shakib MD", "company": "ClifyX Inc."}],
+    "source": "Unsolicited recruiter email",
+    "screen_estimate": 93,
+    "capability_estimate": 98,
+    "triage": "Yellow / selective - near-perfect functional fit, but Analyst title is below Amber's primary Senior Manager/Director trajectory. Worth discovery because it is remote and compensation/client are unknown.",
+    "next_action": "Await recruiter response after Amber asked for client, compensation/rate, employment structure, and expected working hours before sending a resume.",
+    "notes": "Role centers on S/4HANA data governance, data profiling, data-quality rules/metrics, master data and SAP data structures, workshops, requirements, implementation support, technical leadership, change/SLA processes, audit/security support, and customer engagement. Main caution is no confirmed SAP Information Steward experience and no claim of formal Enterprise Architect ownership. Amber replied by Gmail on Oct. 29."
+  },
+  {
+    "id": "inbound-2026-10-29-capgemini-venture-global-cmms-specialist",
+    "received_dates": ["2026-10-29"],
+    "title": "CMMS Specialist",
+    "employment": "8 months + extendable; 90-day CTH language",
+    "location": "Port Arthur, Louisiana or Lake Charles, Louisiana; onsite as presented",
+    "recruiters": [
+      {"name": "Ashish Tomar", "company": "Axiom Global Technologies"},
+      {"name": "Keshav Kuhar", "company": "Millennium Software Inc."}
+    ],
+    "source": "Duplicate same-day LinkedIn and email recruiter outreach for Capgemini requisition CGEMJP00362105; end client appears to be Venture Global",
+    "screen_estimate": 95,
+    "capability_estimate": 99,
+    "triage": "Red / skip as currently structured - near-perfect task fit but onsite Louisiana, Specialist title, and contract structure conflict with Amber's Illinois-only relocation constraint and management trajectory.",
+    "next_action": "Ask whether remote work with occasional travel is possible. If onsite Louisiana is firm, decline while preserving recruiter relationships. Do not allow multiple vendors to submit Amber to the same requisition.",
+    "notes": "Scope covers SAP PM equipment/FLOC data, asset hierarchy, PM strategies/plans/task lists/items, equipment BOMs, PM/MM, spare-parts/material-master optimization, data cleansing/validation/load readiness, Excel, workshops, governance, audits, Reliability/Supply Chain collaboration, and ISO 14224 alignment. Direct fit is exceptional. ISO 14224 and LNG/oil & gas are the main domain-specific gaps. Amber is not relocating from Illinois at this time."
   }
 ]
