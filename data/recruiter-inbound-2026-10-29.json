@@ -75,6 +75,39 @@
       "resume_status": "Tailored two-page SAP PM / CMMS Data Governance & Reliability Systems resume created and sent to Keshav on 2026-10-29 as Amber_Jackson_Capgemini_CMMS_Specialist_Resume.pdf. It emphasizes 40,000+ assets, 11,000+ maintenance plans, 2,167 FLOC BOM migration, SAP PM/MM/MDG support, PM optimization, spare parts/MRO, reliability analytics, S/4HANA transformation, ServiceNow/Power BI, and planning/scheduling experience.",
       "next_action": "Await Keshav/Capgemini next steps. Do not authorize a second vendor submission for the same requisition unless representation ownership is explicitly resolved.",
       "duplicate_submission_warning": true
+    },
+    {
+      "id": "inbound-2026-10-29-edgeglobal-production-planning-materials-specialist",
+      "received_dates": ["2026-10-29"],
+      "title": "Production Planning & Materials Specialist",
+      "employment": "Full time",
+      "location": "Houston, Texas; onsite explicitly stated in duplicate EdgeGlobal email",
+      "recruiters": [
+        {"name": "Amit Singh", "company": "EdgeGlobal", "channel": "Email", "email": "amit.singh@edgeglobal.net"},
+        {"name": "Abhishek Singh", "company": "EdgeGlobal", "channel": "Email", "email": "abhishek.singh@edgeglobal.net"}
+      ],
+      "source": "Two unsolicited EdgeGlobal recruiter emails received one minute apart for the same role; one subject explicitly states Houston, TX (Onsite)",
+      "screen_estimate": 92,
+      "capability_estimate": 96,
+      "strategic_label": "Red / Skip",
+      "triage": "Strong capability match to Amber's earlier planner/scheduler and supply-chain execution background, but the role is a clear step backward from current Manager/Head of Data scope, sits outside the preferred enterprise data/AI/transformation trajectory, and requires onsite work in Houston while Amber is not relocating from Illinois.",
+      "strong_matches": [
+        "Production and maintenance planning/scheduling experience",
+        "ERP/MRP processes, work orders, purchase orders, inventory, routings, lead times, material allocation, and capacity planning",
+        "KPI/dashboard reporting, Excel analysis, data-quality controls, and planning-performance analysis",
+        "Cross-functional coordination with Operations, Procurement, Engineering, Supply Chain, and Inventory teams",
+        "Work-order prioritization, schedule attainment, backlog/aging analysis, escalation, and corrective-action follow-through",
+        "Continuous improvement, bottleneck analysis, and planning standardization"
+      ],
+      "gaps_or_cautions": [
+        "No direct oil-and-gas domain experience, though manufacturing/industrial operations experience is transferable",
+        "DRP and fill-rate dashboard ownership are not among Amber's strongest recent differentiators",
+        "Specialist title is materially below current Manager/Head of Data positioning",
+        "Onsite Houston requirement conflicts with Amber's Illinois no-relocation constraint"
+      ],
+      "response_status": "No response sent",
+      "next_action": "Skip as presented. Do not invest in a tailored resume. If EdgeGlobal follows up, only engage if they have a remote/Chicago opportunity or materially more senior planning, supply-chain technology, enterprise systems, or data-governance scope.",
+      "duplicate_recruiter_outreach": true
     }
   ]
 }
