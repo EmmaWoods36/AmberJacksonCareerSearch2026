@@ -65,15 +65,17 @@
       "received_dates": ["2026-10-29"],
       "title": "Senior SAP MM / EWM Consultant",
       "employment": "Permanent",
-      "location": "United States; exact work arrangement and city not yet disclosed",
-      "recruiters": [{"name": "Pavani Yedugani", "company": "Unknown / via Dice Private Email", "channel": "Email"}],
-      "source": "Trusted Dice Private Email",
-      "strategic_label": "Needs details before triage",
-      "triage": "Potentially relevant because it is permanent and SAP-adjacent, but title alone is insufficient. Direct SAP MM/EWM configuration depth may be materially outside Amber's strongest SAP PM/data-governance lane, so do not assume fit until the full JD, client, location/remote status, seniority expectations, and compensation are known.",
-      "known_strengths": ["SAP S/4HANA transformation context", "SAP PM and enterprise master-data governance", "MRO/spare-parts and material-master adjacency", "Manufacturing and regulated life-sciences operations", "Cross-functional supply-chain and enterprise-systems leadership"],
-      "potential_gaps": ["Deep hands-on SAP MM configuration is not established", "Deep SAP EWM implementation/configuration is not established"],
-      "response_status": "No response sent yet",
-      "next_action": "Review the complete recruiter message/JD before deciding whether to respond or tailor a resume. If the role is heavily configuration/EWM-implementation focused, likely skip; if it is governance/transformation/leadership-heavy, reassess."
+      "location": "United States; exact work arrangement and city not stated",
+      "recruiters": [{"name": "Pavani Yedugani", "company": "Avance Consulting", "channel": "Dice Private Email"}],
+      "source": "Trusted Dice Private Email with full JD included",
+      "screen_estimate": 58,
+      "capability_estimate": 52,
+      "strategic_label": "Red / Skip as presented",
+      "triage": "The full JD confirms this is a deep hands-on SAP MM/EWM configuration and implementation role, not a general SAP data-governance or transformation role. Amber has strong adjacent SAP, master-data, MRO/material, S/4HANA, manufacturing, and business-process experience, but the role requires configuration depth she should not claim.",
+      "strong_matches": ["SAP S/4HANA transformation exposure", "SAP material-master and inventory-adjacent experience", "MRO/spare-parts governance and material relationships", "Manufacturing and regulated operations context", "Business-process workshops, requirements, governance, validation, and cross-functional SAP work"],
+      "gaps_or_cautions": ["Requires at least 4 years of SAP Material Management and Inventory Management skills", "Requires hands-on configuration/customization of purchasing, inventory, MRP, variant configuration, valuation, JIT, S2L/Kanban, EWM inbound/outbound, internal warehousing, RF scanner usage, and PPF processing", "Requires at least one end-to-end S/4HANA greenfield implementation", "Requires WRICEF, EDI, IDoc, and batch-processing knowledge in MM/EWM", "Requires MM/EWM integration expertise with SD, PP, PS, FI/CO and related modules", "This is meaningfully outside Amber's strongest SAP PM/data-governance/enterprise transformation lane"],
+      "response_status": "No response sent",
+      "next_action": "Skip as presented. Do not create a tailored resume that implies MM/EWM configuration expertise. Preserve recruiter contact for SAP data governance, S/4 transformation, MDM, enterprise systems, or SAP PM roles that better match Amber's background."
     }
   ]
 }
