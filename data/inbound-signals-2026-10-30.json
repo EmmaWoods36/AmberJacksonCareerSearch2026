@@ -1,0 +1,60 @@
+{
+  "as_of": "2026-10-30",
+  "signals": [
+    {
+      "id": "networking-2026-10-30-amazon-quick-executive-event",
+      "date": "2026-10-30",
+      "type": "Personal executive AI event invitation",
+      "sender": "Dr. Patience Mudundulu",
+      "sender_role": "Sr. Worldwide GTM Specialist, Amazon Quick",
+      "company": "Amazon / AWS",
+      "event": "Amazon Quick Executive Event - Chicago",
+      "event_date": "2026-11-10",
+      "event_time": "2:00 PM-6:00 PM CST",
+      "location": "NAIA, 300 N La Salle Dr, Chicago, IL 60654",
+      "status": "Invited; registration not yet confirmed in tracker",
+      "strategic_value": "Very High",
+      "source": "Personal email from Dr. Patience after meeting Amber earlier in the week at an executive roundtable",
+      "audience": "C-suite executives, VPs, senior leaders, Heads of Digital Transformation, Innovation, Data and Enterprise Technology, and decision-makers evaluating generative AI",
+      "topics": [
+        "Amazon Quick",
+        "Agentic AI applied to enterprise data",
+        "Enterprise productivity and insight generation",
+        "Security",
+        "Data governance",
+        "Compliance"
+      ],
+      "notes": "Dr. Patience wrote that it was nice to meet Amber earlier in the week at the roundtable and personally invited her to the Chicago event. The email states capacity is limited and seats are by personal invitation only. This is a strong senior-market visibility and network-positioning signal because Amber is being directly included in an executive AI audience aligned with her enterprise data-governance, life-sciences, transformation and AI direction.",
+      "next_action": "Prioritize attending if schedule permits. Register promptly and send a brief personal thank-you to Dr. Patience after registration."
+    },
+    {
+      "id": "inbound-2026-10-30-clifyx-sap-data-quality-analyst-duplicate",
+      "date": "2026-10-30",
+      "type": "Duplicate recruiter outreach",
+      "title": "SAP Data Quality Analyst",
+      "employment": "Full time",
+      "location": "Remote",
+      "recruiter": "Aman Rastogi",
+      "company": "ClifyX Inc.",
+      "source": "Email",
+      "strategic_label": "Duplicate of active ClifyX lead",
+      "notes": "Aman Rastogi sent the same or substantially identical SAP Data Quality Analyst role already received from Shakib MD at ClifyX. Do not create a second candidate submission or duplicate process. Existing Shakib thread remains the primary recruiter path unless ClifyX directs otherwise.",
+      "next_action": "No separate application. If needed, reply that Amber is already in discussion with Shakib regarding the role."
+    },
+    {
+      "id": "inbound-2026-10-30-tanisha-junior-application-developer-statistics",
+      "date": "2026-10-30",
+      "type": "Recruiter outreach",
+      "title": "Junior Application Developer - Statistics",
+      "employment": "Not specified in visible email",
+      "location": "Peoria, Illinois; Day 1 onsite",
+      "recruiter": "Soniya Sharma (#TSI2858)",
+      "company": "Tanisha Systems",
+      "source": "Email",
+      "strategic_label": "Red / Skip",
+      "capability_comment": "Possible analytics/statistics adjacency, but role level is materially below Amber's current Manager/Head of Data positioning and target Senior Manager/Director trajectory.",
+      "notes": "Recruiter requested immediate interview interest for a junior application-development/statistics role in Peoria with Day 1 onsite expectations. The junior level alone makes this a non-starter regardless of location convenience.",
+      "next_action": "Skip; no resume investment. Preserve recruiter only for materially more senior data, enterprise systems, SAP, governance or AI roles."
+    }
+  ]
+}
