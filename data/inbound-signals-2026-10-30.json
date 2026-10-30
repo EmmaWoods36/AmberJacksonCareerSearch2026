@@ -102,6 +102,17 @@
       ],
       "notes": "ITW is Illinois Tool Works, a major industrial manufacturer headquartered in Glenview, Illinois, but this specific role is with ITW Pro Brands in Tucker, Georgia. The job leads pricing strategy, governance, profitability/margin analysis, pricing models, dashboards and cross-functional commercial decision support. It is a credible adjacent analytics/strategy fit, but the Georgia onsite requirement and pricing-specialist emphasis make it unattractive as a next move. The better opportunity is to monitor ITW's Chicago/Glenview corporate and business-unit openings for data, analytics, enterprise systems, SAP, governance, transformation or senior technology roles.",
       "next_action": "Do not prioritize this Tucker role. Use the existing ITW connection strategically if a stronger Chicago/Glenview or remote ITW role appears."
+    },
+    {
+      "id": "market-signal-2026-10-30-dice-recruiter-profile-view",
+      "date": "2026-10-30",
+      "type": "Recruiter-market visibility signal",
+      "platform": "Dice",
+      "source": "Dice notification",
+      "status": "A recruiter viewed Amber's Dice profile",
+      "strategic_value": "Moderate",
+      "notes": "Dice notified Amber that her profile had been viewed by a recruiter and described her profile as 'getting hits.' This is not a job lead or confirmed recruiter interest by itself, but it is useful evidence that Amber's profile is actively surfacing in recruiter searches during a period of elevated inbound activity.",
+      "next_action": "No direct action required from this notification alone. Continue monitoring Dice outreach and log concrete recruiter contacts or role details when they arrive."
     }
   ]
 }
