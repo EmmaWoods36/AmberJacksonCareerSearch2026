@@ -1,0 +1,117 @@
+{
+  "as_of": "2026-10-30 15:15 CT",
+  "scan_scope": "Recent Gmail inbox and active career threads, excluding obvious promotional/noise where possible",
+  "immediate_action_items": [
+    {
+      "type": "Executive networking / event",
+      "name": "Dr. Patience Mudundulu",
+      "company": "Amazon / AWS",
+      "status": "Amazon Quick Executive Event registration is confirmed. Separate LinkedIn notification shows Dr. Patience sent Amber a new message that still awaits response.",
+      "priority": "High",
+      "next_action": "Open and respond to Dr. Patience's LinkedIn message. Registration itself is complete; no further registration action needed."
+    },
+    {
+      "type": "Executive networking / event",
+      "name": "Lee W. / CxO Institute Chicago",
+      "status": "Lee sent two LinkedIn replies asking Amber to register ASAP because invitations are closing over the weekend and provided the event registration link via Apply Now.",
+      "priority": "High",
+      "next_action": "Register for the CxO Institute Chicago event promptly if not already completed, then retain the scheduled discussion with Art Shllaku."
+    }
+  ],
+  "active_recruiter_threads": [
+    {
+      "role": "CMMS Specialist",
+      "company_chain": "Venture Global / Capgemini / Millennium Software",
+      "recruiter": "Keshav Kuhar",
+      "status": "Amber sent the tailored resume after Keshav confirmed remote and $90/hr W2. No newer recruiter reply was found in this scan.",
+      "next_action": "Wait for response; no follow-up yet."
+    },
+    {
+      "role": "SAP Data Quality Analyst",
+      "company": "ClifyX",
+      "recruiter": "Shakib MD",
+      "status": "Amber replied previously. No newer response from Shakib was found in this scan.",
+      "next_action": "Wait for response."
+    },
+    {
+      "role": "SAP Data Quality Analyst",
+      "company": "ClifyX",
+      "recruiter": "Aman Rastogi",
+      "status": "Duplicate outreach for the same or substantially identical role already being handled through Shakib.",
+      "next_action": "Do not create a duplicate submission."
+    },
+    {
+      "role": "SAP Data Quality Analyst",
+      "company": "EdgeGlobal",
+      "recruiter": "Abhishek Singh",
+      "status": "A second staffing vendor sent what appears to be the same or substantially similar SAP S/4HANA Data Quality Analyst role, listed as remote with Seattle/Dallas references.",
+      "next_action": "Treat as possible duplicate-client requisition until client/requisition details are compared. Do not authorize duplicate submission."
+    }
+  ],
+  "new_or_noteworthy_job_signals": [
+    {
+      "company": "S&C Electric Company",
+      "title": "Senior Manager - Master Data & Governance",
+      "source": "LinkedIn saved-job reminder",
+      "strategic_read": "Strong title and functional alignment with Amber's target lane. High-priority role to reopen and evaluate if still active.",
+      "priority": "High"
+    },
+    {
+      "company": "The Vertex Companies, LLC",
+      "title": "Director/Senior Director - Data Driven Disputes & Analytics",
+      "source": "Indeed match",
+      "compensation_signal": "$128,000-$419,000/year listed in the email",
+      "strategic_read": "Director/Senior Director level and analytics leadership are attractive, but the disputes/forensics specialization may be materially outside Amber's preferred enterprise-data transformation lane. Worth reviewing before deciding.",
+      "priority": "Medium-High"
+    },
+    {
+      "company": "Fidelity Investments",
+      "title": "Director, Data Analytics and Insights",
+      "source": "LinkedIn job alert",
+      "location": "Boston, MA; onsite",
+      "connections": 3,
+      "strategic_read": "Title and function are attractive, but onsite Boston conflicts with Amber's current Illinois-only relocation constraint. Not a priority unless location flexibility exists.",
+      "priority": "Medium"
+    },
+    {
+      "company": "Siemens",
+      "title": "Senior Business and Digitalization Professional",
+      "source": "LinkedIn job alert",
+      "strategic_read": "Digitalization/transformation wording is directionally relevant. Full JD and location need review before scoring.",
+      "priority": "Medium"
+    },
+    {
+      "company": "Oracle",
+      "title": "Principal Data Analyst",
+      "source": "LinkedIn remote-job alert",
+      "work_arrangement": "Remote per alert",
+      "strategic_read": "Potentially useful on scope and company, but Principal Data Analyst may still be below Amber's preferred Senior Manager/Director leadership lane. Needs JD and compensation review.",
+      "priority": "Medium"
+    },
+    {
+      "company": "Honeywell Technologies",
+      "title": "Pricing Director",
+      "source": "LinkedIn job alert",
+      "strategic_read": "Director level and existing Honeywell network connection make it noteworthy, but pricing is not Amber's primary target lane. Evaluate only if broader data/transformation scope is substantial.",
+      "priority": "Medium-Low"
+    }
+  ],
+  "networking_messages_waiting": [
+    {
+      "name": "Dr. Gaurav",
+      "source": "LinkedIn message digest",
+      "status": "New message notification present; email digest does not expose enough message text to evaluate content."
+    },
+    {
+      "name": "Praveen Kumar Gubiligari",
+      "source": "LinkedIn message digest",
+      "status": "New message notification present; email digest does not expose enough message text to evaluate content."
+    }
+  ],
+  "other_notes": [
+    "Amazon Quick Executive Event registration is now confirmed by AWS Connected Community; previous tracker status that registration was pending is outdated.",
+    "Dice sent a recruiter-profile-view notification, reinforcing elevated recruiter visibility but not constituting a lead by itself.",
+    "Junior Application Developer - Statistics in Peoria remains a Red/Skip due to junior level and onsite requirement.",
+    "Meta Energy Analytics Manager alert lists $104K-$155K, below Amber's target base and not a priority absent exceptional strategic scope."
+  ]
+}
