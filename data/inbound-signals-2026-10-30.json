@@ -16,14 +16,7 @@
       "strategic_value": "Very High",
       "source": "Personal email from Dr. Patience after meeting Amber earlier in the week at an executive roundtable",
       "audience": "C-suite executives, VPs, senior leaders, Heads of Digital Transformation, Innovation, Data and Enterprise Technology, and decision-makers evaluating generative AI",
-      "topics": [
-        "Amazon Quick",
-        "Agentic AI applied to enterprise data",
-        "Enterprise productivity and insight generation",
-        "Security",
-        "Data governance",
-        "Compliance"
-      ],
+      "topics": ["Amazon Quick", "Agentic AI applied to enterprise data", "Enterprise productivity and insight generation", "Security", "Data governance", "Compliance"],
       "notes": "Dr. Patience wrote that it was nice to meet Amber earlier in the week at the roundtable and personally invited her to the Chicago event. The email states capacity is limited and seats are by personal invitation only. This is a strong senior-market visibility and network-positioning signal because Amber is being directly included in an executive AI audience aligned with her enterprise data-governance, life-sciences, transformation and AI direction.",
       "next_action": "Prioritize attending if schedule permits. Register promptly and send a brief personal thank-you to Dr. Patience after registration."
     },
@@ -55,6 +48,32 @@
       "capability_comment": "Possible analytics/statistics adjacency, but role level is materially below Amber's current Manager/Head of Data positioning and target Senior Manager/Director trajectory.",
       "notes": "Recruiter requested immediate interview interest for a junior application-development/statistics role in Peoria with Day 1 onsite expectations. The junior level alone makes this a non-starter regardless of location convenience.",
       "next_action": "Skip; no resume investment. Preserve recruiter only for materially more senior data, enterprise systems, SAP, governance or AI roles."
+    },
+    {
+      "id": "job-signal-2026-10-30-fidelity-director-data-analytics-insights",
+      "date": "2026-10-30",
+      "type": "LinkedIn job opportunity signal",
+      "company": "Fidelity Investments",
+      "title": "Director, Data Analytics and Insights",
+      "source": "LinkedIn notification",
+      "status": "Actively recruiting per LinkedIn notification; not yet evaluated or applied",
+      "strategic_label": "Potential Green / evaluate",
+      "notes": "This title is directly aligned with Amber's target move toward Director-level data, analytics, insights, governance and transformation leadership. The notification itself is not recruiter outreach and should not be interpreted as personalized interest. Full JD, location, compensation and role scope still need review before scoring.",
+      "next_action": "Open the posting and evaluate full JD, location, compensation, reporting level and analytics/governance scope before deciding whether to tailor and apply."
+    },
+    {
+      "id": "inbound-2026-10-30-robert-half-material-planner-elk-grove-village",
+      "date": "2026-10-30",
+      "type": "Direct recruiter SMS outreach",
+      "company": "Robert Half",
+      "recruiter": "Dusica Martic",
+      "title": "Material Planner",
+      "location": "Elk Grove Village area, Illinois",
+      "source": "SMS",
+      "strategic_label": "Likely Red / Skip pending details",
+      "capability_comment": "Amber has strong prior planning, scheduling, materials, ERP, MRO and supply-chain execution experience, so capability is likely high. However, Material Planner is directionally below her current Manager/Head of Data scope and target Senior Manager/Director enterprise data, systems, governance and AI trajectory.",
+      "notes": "The recruiter asked whether Amber is available and interested and offered to call the same day. The role is geographically convenient compared with out-of-state onsite roles, but title/scope are likely a significant strategic step backward unless compensation, level, or responsibilities are materially different from a standard planner role.",
+      "next_action": "Do not invest in a tailored resume yet. If responding, ask for the full JD, compensation, employment type, onsite/hybrid expectations and level before deciding."
     }
   ]
 }
