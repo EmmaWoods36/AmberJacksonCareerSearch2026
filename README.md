@@ -71,3 +71,12 @@ The scout script is intentionally non-spending until its exact search/scoring pr
 ## Status philosophy
 
 The automation is conservative on purpose. A job page returning HTTP 200 is **reachable**, not automatically proven open. A role is auto-closed only on a strong closure signal. That prevents a flaky employer site or bot block from trashing the live tracker.
+
+## Admission policy for role index (2026-11-13 correction)
+
+- **Include** genuine, person-to-person recruiter outreach, even when a role is still being clarified. Mark it *Recruiter Inbound / Not Applied* and keep unknown details unknown.
+- **Include** roles actively selected for evaluation or pursuit in the job-search workflow, after deliberate fit screening. High task capability alone does not make a role Green; a Green decision requires strong strategic career-direction, compensation and location fit.
+- **Do not include** generic LinkedIn/Indeed/Dice automated recommendation emails, sponsored job matches, mass digests, or algorithm-generated notifications merely because they mention a matching keyword, company or salary. These are not recruiter outreach, offers, invitations, or automatically approved additions.
+- **Do not add** freelance/AI side-gig recommendations (such as AuraOne) from generic alerts unless Amber expressly selects the opportunity for tracking.
+- **Do not count** recruiter outreach or unsubmitted job alerts as applications, interviews or offers. Preserve current history and deduplicate shared positions.
+- If a notification points to a potentially relevant job, treat it as research only until deliberately shortlisted; do not silently insert it into the indexed job inventory.
