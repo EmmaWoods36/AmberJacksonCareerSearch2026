@@ -436,23 +436,56 @@
     "received_dates": [
       "2026-11-13"
     ],
-    "title": "SAP recruiting opportunity - position unconfirmed",
-    "employment": null,
-    "location": null,
+    "title": "Aerospace greenfield S/4HANA program — SAP MDG, Data Quality, Migration and DMC openings",
+    "employment": "Undisclosed: consulting-firm hire or contract to confirm",
+    "location": "Undisclosed; aerospace program travel / onsite expectations to confirm",
     "recruiters": [
       {
         "name": "Ryan Leo Casey",
         "company": "Claddagh Resources"
       }
     ],
-    "source": "Nov 13 LinkedIn notification screenshot; full LinkedIn message unavailable in Gmail",
+    "source": "Direct LinkedIn InMail message, full text in two user-provided Nov 13 screenshots (2:58 PM)",
     "screen_estimate": null,
     "capability_estimate": null,
-    "triage": "Yellow / priority contact - no JD yet",
-    "next_action": "Ask for full JD, client, compensation, seniority and location/work model.",
-    "notes": "Notification says Amber's SAP background caught Ryan's eye and he is hiring for something uncommon. CEO affiliation verified publicly, but no job title, location, pay, employer or specific fit established. Not applied.",
+    "triage": "Yellow / High-priority exploratory call — functional MDG Material + Data Quality strongest; not Green without job descriptions",
+    "next_action": "Respond to Ryan for a 10-minute call next week and ask for the eight separate position descriptions, compensation bands/rates, employment arrangement, expected location/travel, consulting-firm/client identities and level/leadership scope. Prioritize MDG Material and SAP Data Quality; screen migration only if tool demands flexible.",
+    "notes": "November 13, 2026: Ryan Leo Casey, CEO at Claddagh Resources, contacted Amber via LinkedIn with subject 'Amber, several job openings for you'. Said a top-tier global consulting firm is hiring for a large, multi-year GREENFIELD S/4HANA program for one of aerospace's biggest names, with eight roles being filled. Role categories actually named: SAP MDG (Material, Business Partner, Supplier, Technical/ABAP); SAP Data Migration (Syniti ADM/DSP, SAP BODS, Migration Cockpit); SAP Data Quality (Information Steward); SAP Digital Manufacturing (DMC) Value Stream Lead. Roles are not individual exact requisitions, and no client/company, salaries, locations, travel, contract terms or JDs were supplied. Candidate fit: strongest domain adjacency in Material master data governance and SAP Data Quality, some supplier/business-partner master governance and migration validation. Key hard gates include greenfield implementation tenure, dedicated Syniti/BODS/Information Steward/ABAP or DMC hands-on experience, none of which should be claimed. Ryan invites 10-minute call and asks reply with phone number and convenient time. No reply sent and no application.",
     "profile_url": "https://www.linkedin.com/in/ryan-leo-casey-91355471/",
-    "job_index_rank": 334
+    "job_index_rank": 334,
+    "position_families": [
+      {
+        "family": "SAP MDG — Material",
+        "alignment": "Best functional overlap",
+        "caution": "Controlled MDG mass uploads and governance are not end-to-end SAP MDG implementation/configuration"
+      },
+      {
+        "family": "SAP Data Quality — Information Steward",
+        "alignment": "Very strong conceptual governance/data quality overlap",
+        "caution": "Specific SAP Information Steward platform experience not established"
+      },
+      {
+        "family": "SAP MDG — Business Partner / Supplier",
+        "alignment": "Transferable MDM governance and manufacturing/supplier background",
+        "caution": "Direct MDG BP/Supplier functional module ownership not established"
+      },
+      {
+        "family": "SAP Data Migration",
+        "alignment": "Mass-change execution, data mapping/validation/reconciliation and migration support",
+        "caution": "Syniti ADM/DSP, BODS and Migration Cockpit expertise not established"
+      },
+      {
+        "family": "SAP Digital Manufacturing (DMC) Value Stream Lead",
+        "alignment": "Broader manufacturing transformation leadership",
+        "caution": "Dedicated SAP DMC program ownership/implementation not established"
+      },
+      {
+        "family": "SAP MDG — Technical / ABAP",
+        "alignment": "Low",
+        "caution": "ABAP development not demonstrated"
+      }
+    ],
+    "contact_note": "Recruiter-provided contact phone +1 678-446-7791; user's callback details not submitted."
   },
   {
     "id": "inbound-2026-11-13-shishir-intelliswift-veeva-crm",
