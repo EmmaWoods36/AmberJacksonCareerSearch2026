@@ -388,7 +388,8 @@
   {
     "id": "inbound-2026-10-29-clifyx-sap-data-quality-analyst",
     "received_dates": [
-      "2026-10-29"
+      "2026-10-29",
+      "2026-11-18"
     ],
     "title": "SAP Data Quality Analyst",
     "employment": "Full time; exact employer/pay structure not yet disclosed",
@@ -397,6 +398,10 @@
       {
         "name": "Shakib MD",
         "company": "ClifyX Inc."
+      },
+      {
+        "name": "Sonu",
+        "company": "Tanisha Systems"
       }
     ],
     "source": "Unsolicited recruiter email",
@@ -404,7 +409,7 @@
     "capability_estimate": 98,
     "triage": "Yellow / selective - near-perfect functional fit, but Analyst title is below Amber's primary Senior Manager/Director trajectory. Worth discovery because it is remote and compensation/client are unknown.",
     "next_action": "Await recruiter response after Amber asked for client, compensation/rate, employment structure, and expected working hours before sending a resume.",
-    "notes": "Role centers on S/4HANA data governance, data profiling, data-quality rules/metrics, master data and SAP data structures, workshops, requirements, implementation support, technical leadership, change/SLA processes, audit/security support, and customer engagement. Main caution is no confirmed SAP Information Steward experience and no claim of formal Enterprise Architect ownership. Amber replied by Gmail on Oct. 29."
+    "notes": "Role centers on S/4HANA data governance, data profiling, data-quality rules/metrics, master data and SAP data structures, workshops, requirements, implementation support, technical leadership, change/SLA processes, audit/security support, and customer engagement. Main caution is no confirmed SAP Information Steward experience and no claim of formal Enterprise Architect ownership. Amber replied by Gmail on Oct. 29. Nov 18 Tanisha Systems supplied a substantially similar S/4HANA data-quality analyst JD; unconfirmed whether same end client/requisition. Source: https://mail.google.com/mail/u/?authuser=amber.jackson94hks%40gmail.com#all/1a1ef891337c97b5."
   },
   {
     "id": "inbound-2026-10-29-capgemini-venture-global-cmms-specialist",
@@ -509,5 +514,603 @@
     "notes": "Explicit must-have configuring and administering Veeva CRM. Quality-system Veeva experience is not equivalent; individual contributor analyst below target trajectory.",
     "email_url": "https://mail.google.com/mail/u/?authuser=amber.jackson94hks%40gmail.com#all/1a1d6e7a97ad660a",
     "job_index_rank": 335
+  },
+  {
+    "id": "inbound-2026-11-18-japanese-prompt-evaluator",
+    "received_dates": [
+      "2026-11-18"
+    ],
+    "title": "Japanese Prompt Evaluator",
+    "employment": "Freelance / gig",
+    "location": "Remote; 10 hours/week",
+    "recruiters": [
+      {
+        "name": "Justin Jacob",
+        "company": "E-Solutions"
+      }
+    ],
+    "source": "Direct recruiter email",
+    "screen_estimate": null,
+    "capability_estimate": null,
+    "triage": "YELLOW - SELECTIVE / INBOUND",
+    "next_action": "Request rate, duration, paid-training terms and account-data safeguards.",
+    "notes": "Japanese-language AI-generated Gmail search-response evaluation, rubric scoring and written feedback; excellent for supplemental AI work, not a substitute for senior leadership search. Hard screen: Rate, task payment, project length, US eligibility and Gmail privacy safeguards not disclosed.",
+    "email_url": "https://mail.google.com/mail/u/?authuser=amber.jackson94hks%40gmail.com#all/1a1f079d85aebd80",
+    "job_index_rank": 336
+  },
+  {
+    "id": "inbound-2026-11-18-package-specialist-sap-hana-master-data-governance",
+    "received_dates": [
+      "2026-11-18"
+    ],
+    "title": "Package Specialist - SAP HANA Master Data Governance",
+    "employment": "Long-term contract",
+    "location": "Chicago, IL; onsite",
+    "recruiters": [
+      {
+        "name": "Sonam Kumari",
+        "company": "Tanisha Systems"
+      }
+    ],
+    "source": "Direct recruiter email",
+    "screen_estimate": null,
+    "capability_estimate": null,
+    "triage": "YELLOW - SELECTIVE / INBOUND",
+    "next_action": "Ask end client, hourly rate, site and whether Syniti is a hard gate.",
+    "notes": "Long-term Syniti-based SAP migration and master-data reconciliation; transferable source/target mapping and cleansing work but specialist level. Hard screen: Strong hands-on Syniti specifically required; onsite Chicago; pay unspecified.",
+    "email_url": "https://mail.google.com/mail/u/?authuser=amber.jackson94hks%40gmail.com#all/1a1eeeb732ed4936",
+    "job_index_rank": 337
+  },
+  {
+    "id": "inbound-2026-11-17-sap-mdg-business-partner-functional-consultant-437759",
+    "received_dates": [
+      "2026-11-17"
+    ],
+    "title": "SAP MDG Business Partner Functional Consultant (437759)",
+    "employment": "Full-time",
+    "location": "Remote / Seattle, WA / Dallas, TX (exact remote eligibility unclear)",
+    "recruiters": [
+      {
+        "name": "Sibjyoti Ojha",
+        "company": "ClifyX Inc."
+      }
+    ],
+    "source": "Direct recruiter email",
+    "screen_estimate": null,
+    "capability_estimate": null,
+    "triage": "RED - SKIP / INBOUND",
+    "next_action": "Skip; do not misrepresent MDG-BP implementation tenure.",
+    "notes": "Configuration-focused MDG-BP position, distinct from SAP PM master-data governance leadership. Hard screen: 10+ years SAP, 5+ years MDG-BP and two full-cycle implementations, BRF+/DRF configuration; salary ceiling below $180K floor.",
+    "email_url": "https://mail.google.com/mail/u/?authuser=amber.jackson94hks%40gmail.com#all/1a1eba244ab7ee9a",
+    "job_index_rank": 338
+  },
+  {
+    "id": "inbound-2026-11-18-finance-data-business-analyst-project-manager",
+    "received_dates": [
+      "2026-11-18"
+    ],
+    "title": "Finance Data Business Analyst / Project Manager",
+    "employment": "Contract",
+    "location": "Chicago, IL; work model undisclosed",
+    "recruiters": [
+      {
+        "name": "Neeraj Dinawale",
+        "company": "Client undisclosed"
+      }
+    ],
+    "source": "Direct recruiter email",
+    "screen_estimate": null,
+    "capability_estimate": null,
+    "triage": "YELLOW - SELECTIVE / INBOUND",
+    "next_action": "Ask rate, finance-domain gate, duration and ownership level before proceeding.",
+    "notes": "Finance Data CoE: translate finance data requirements, manage data engineering/analytics delivery, governance, KPIs and UAT. Transferable but finance-specific and below desired senior manager title. Hard screen: Finance GL/AP/AR/FP&A subject knowledge and contract rate not disclosed.",
+    "email_url": "https://mail.google.com/mail/u/?authuser=amber.jackson94hks%40gmail.com#all/1a1ef613e02409eb",
+    "job_index_rank": 340
+  },
+  {
+    "id": "inbound-2026-11-16-sap-mdg-lead",
+    "received_dates": [
+      "2026-11-16"
+    ],
+    "title": "SAP MDG Lead",
+    "employment": "Full-time",
+    "location": "Seattle, WA / Dallas, TX; onsite",
+    "recruiters": [
+      {
+        "name": "Sonu",
+        "company": "Tanisha Systems"
+      }
+    ],
+    "source": "Direct recruiter email",
+    "screen_estimate": null,
+    "capability_estimate": null,
+    "triage": "RED - SKIP / INBOUND",
+    "next_action": "Skip unless role becomes remote and requirements differ.",
+    "notes": "Design and oversee SAP MDG architecture, workflow, configuration and large implementation delivery. Hard screen: Onsite out of state and direct MDG solution architecture/implementation experience beyond demonstrated scope.",
+    "email_url": "https://mail.google.com/mail/u/?authuser=amber.jackson94hks%40gmail.com#all/1a1e54ae122851aa",
+    "job_index_rank": 341
+  },
+  {
+    "id": "inbound-2026-11-17-uipath-rpa-developer-automation-engineer",
+    "received_dates": [
+      "2026-11-17"
+    ],
+    "title": "UiPath RPA Developer / Automation Engineer",
+    "employment": "W2; long-term",
+    "location": "Remote",
+    "recruiters": [
+      {
+        "name": "Recruiter name not visible",
+        "company": "HCL via staffing outreach"
+      }
+    ],
+    "source": "Direct recruiter email",
+    "screen_estimate": null,
+    "capability_estimate": null,
+    "triage": "RED - SKIP / INBOUND",
+    "next_action": "Skip; RPA is currently an adjacent upskilling area, not primary specialty.",
+    "notes": "Hands-on UiPath Studio/Orchestrator and REFramework production development. Hard screen: Advanced production UiPath development not established; individual-contributor engineering track.",
+    "email_url": "https://mail.google.com/mail/u/?authuser=amber.jackson94hks%40gmail.com#all/1a1eb537b765d5a8",
+    "job_index_rank": 342
+  },
+  {
+    "id": "inbound-2026-11-17-sap-pp-manufacturing-functional-consultant",
+    "received_dates": [
+      "2026-11-17"
+    ],
+    "title": "SAP PP / Manufacturing Functional Consultant",
+    "employment": "12+ month contract",
+    "location": "Kinston, NC; onsite",
+    "recruiters": [
+      {
+        "name": "Amit Kumar",
+        "company": "Q1 Technologies"
+      }
+    ],
+    "source": "Direct recruiter email",
+    "screen_estimate": null,
+    "capability_estimate": null,
+    "triage": "RED - SKIP / INBOUND",
+    "next_action": "Skip.",
+    "notes": "SAP production-planning functional consultant in North Carolina. Hard screen: 10+ years specialized SAP PP implementation required; onsite NC.",
+    "email_url": "https://mail.google.com/mail/u/?authuser=amber.jackson94hks%40gmail.com#all/1a1eb0e0efaa45e8",
+    "job_index_rank": 343
+  },
+  {
+    "id": "inbound-2026-11-16-solution-enablement-engineer-bom-configuration-engineer",
+    "received_dates": [
+      "2026-11-16"
+    ],
+    "title": "Solution Enablement Engineer / BOM Configuration Engineer",
+    "employment": "W2",
+    "location": "Remote",
+    "recruiters": [
+      {
+        "name": "Arnav Tiwari",
+        "company": "Tekfortune"
+      }
+    ],
+    "source": "Direct recruiter email",
+    "screen_estimate": null,
+    "capability_estimate": null,
+    "triage": "RED - SKIP / INBOUND",
+    "next_action": "Skip unless actual JD shows strategic governance mandate.",
+    "notes": "Remote role advertised as BOM/configuration engineer, describing UCID, product configuration and factory readiness. Hard screen: Engineering/configuration position rather than enterprise master-data leadership; compensation unspecified.",
+    "email_url": "https://mail.google.com/mail/u/?authuser=amber.jackson94hks%40gmail.com#all/1a1e5b34c0c5791b",
+    "job_index_rank": 344
+  },
+  {
+    "id": "inbound-2026-11-16-delivery-assurance-specialist",
+    "received_dates": [
+      "2026-11-16"
+    ],
+    "title": "Delivery Assurance Specialist",
+    "employment": "Full-time",
+    "location": "Elma NY / Erie PA / Naples FL / Centennial CO / Phoenix AZ; hybrid",
+    "recruiters": [
+      {
+        "name": "Raj",
+        "company": "Tanisha Systems"
+      }
+    ],
+    "source": "Direct recruiter email",
+    "screen_estimate": null,
+    "capability_estimate": null,
+    "triage": "RED - SKIP / INBOUND",
+    "next_action": "Skip.",
+    "notes": "Aerospace supplier recovery and delivery assurance; automotive supply-chain history is adjacent. Hard screen: Location mismatch; ITAR/clearance requirement; specialist role.",
+    "email_url": "https://mail.google.com/mail/u/?authuser=amber.jackson94hks%40gmail.com#all/1a1e4f6a4a19b9ed",
+    "job_index_rank": 345
+  },
+  {
+    "id": "inbound-2026-11-17-calibration-engineer-medical-devices",
+    "received_dates": [
+      "2026-11-17"
+    ],
+    "title": "Calibration Engineer - Medical Devices",
+    "employment": "Contract / W2 or C2C requested",
+    "location": "Reedsville, PA; day-one onsite",
+    "recruiters": [
+      {
+        "name": "Neeraj Verma",
+        "company": "Excelon Solutions"
+      }
+    ],
+    "source": "Direct recruiter email",
+    "screen_estimate": null,
+    "capability_estimate": null,
+    "triage": "RED - SKIP / INBOUND",
+    "next_action": "Skip.",
+    "notes": "Regulated calibration/metrology and asset controls, technically familiar through CSL. Hard screen: Onsite PA, engineering rather than governance leadership, rate far below target.",
+    "email_url": "https://mail.google.com/mail/u/?authuser=amber.jackson94hks%40gmail.com#all/1a1eb53802af94d2",
+    "job_index_rank": 346
+  },
+  {
+    "id": "inbound-2026-10-20-project-odin-ai-professional-workflow-recording",
+    "received_dates": [
+      "2026-10-20"
+    ],
+    "title": "Project Odin - AI Professional Workflow Recording",
+    "employment": "Short-term freelance",
+    "location": "Remote; Mac mandatory",
+    "recruiters": [
+      {
+        "name": "Chloe",
+        "company": "Mercor"
+      }
+    ],
+    "source": "Direct recruiter email",
+    "screen_estimate": null,
+    "capability_estimate": null,
+    "triage": "RED - SKIP / INBOUND",
+    "next_action": "Skip unless pay and privacy terms materially improve.",
+    "notes": "Short-term AI research collecting narrated computer-screen recordings of professional work; separate from Micro1. Hard screen: Requires Mac and screen-recording of potentially sensitive workflows; lower than current confirmed freelance rate.",
+    "email_url": "https://mail.google.com/mail/u/?authuser=amber.jackson94hks%40gmail.com#all/1a156e44798bb1cc",
+    "job_index_rank": 347
+  },
+  {
+    "id": "inbound-2026-10-20-sap-ai-solution-architect-joule-ai-architect",
+    "received_dates": [
+      "2026-10-20"
+    ],
+    "title": "SAP AI Solution Architect / Joule AI Architect",
+    "employment": "Contract",
+    "location": "Chicago, IL; onsite",
+    "recruiters": [
+      {
+        "name": "Shivam Sharma",
+        "company": "Natsoft"
+      }
+    ],
+    "source": "Direct recruiter email",
+    "screen_estimate": null,
+    "capability_estimate": null,
+    "triage": "RED - SKIP / INBOUND",
+    "next_action": "Skip as currently configured; not equivalent to AI-enabled SAP governance leadership.",
+    "notes": "Strategy, SAP Joule, BTP, multi-agent architecture in life sciences; conceptually attractive AI direction. Hard screen: 12-15 years of hands-on BTP/Joule solution architecture, onsite, contractor assignment.",
+    "email_url": "https://mail.google.com/mail/u/?authuser=amber.jackson94hks%40gmail.com#all/1a15a69169a6515d",
+    "job_index_rank": 348
+  },
+  {
+    "id": "inbound-2026-10-21-sap-mdg-lead-architect-sme",
+    "received_dates": [
+      "2026-10-21"
+    ],
+    "title": "SAP MDG Lead Architect / SME",
+    "employment": "Unspecified",
+    "location": "Remote",
+    "recruiters": [
+      {
+        "name": "Sandeep Dhakad",
+        "company": "Tanisha Systems"
+      }
+    ],
+    "source": "Direct recruiter email",
+    "screen_estimate": null,
+    "capability_estimate": null,
+    "triage": "RED - SKIP / INBOUND",
+    "next_action": "Skip under hard-screen rule.",
+    "notes": "AMS/CAS MDG service delivery governance, MDG-M and MDG-BP functional coordination and escalations. Hard screen: Explicit 16+ years SAP experience and deep multi-domain MDG implementation expertise.",
+    "email_url": "https://mail.google.com/mail/u/?authuser=amber.jackson94hks%40gmail.com#all/1a1607cd37e17121",
+    "job_index_rank": 349
+  },
+  {
+    "id": "inbound-2026-10-21-sap-bw-with-sac-planning-technical-lead",
+    "received_dates": [
+      "2026-10-21"
+    ],
+    "title": "SAP BW with SAC Planning - Technical Lead",
+    "employment": "W2 contract",
+    "location": "Remote with travel to Greensboro, NC",
+    "recruiters": [
+      {
+        "name": "Rahul",
+        "company": "HCL via Tekfortune"
+      }
+    ],
+    "source": "Direct recruiter email",
+    "screen_estimate": null,
+    "capability_estimate": null,
+    "triage": "RED - SKIP / INBOUND",
+    "next_action": "Skip.",
+    "notes": "SAP BW/HANA, BDC, Datasphere, SAC and Joule Studio technical lead. Hard screen: Deep specialist BW/Datasphere/SAC experience and banking/finance domain, not demonstrated.",
+    "email_url": "https://mail.google.com/mail/u/?authuser=amber.jackson94hks%40gmail.com#all/1a15f9fce4a99684",
+    "job_index_rank": 350
+  },
+  {
+    "id": "inbound-2026-10-21-material-planner-support",
+    "received_dates": [
+      "2026-10-21"
+    ],
+    "title": "Material Planner & Support",
+    "employment": "1-year contract",
+    "location": "Fully remote (Neenah WI client)",
+    "recruiters": [
+      {
+        "name": "Recruiter name not confirmed",
+        "company": "Kimberly-Clark via staffing outreach"
+      }
+    ],
+    "source": "Direct recruiter email",
+    "screen_estimate": null,
+    "capability_estimate": null,
+    "triage": "RED - SKIP / INBOUND",
+    "next_action": "Skip.",
+    "notes": "Supply-chain material planning; one-year contract. Hard screen: $27/hour and planner level substantially below target.",
+    "email_url": "https://mail.google.com/mail/u/?authuser=amber.jackson94hks%40gmail.com#all/1a15e8bdefaa71f9",
+    "job_index_rank": 351
+  },
+  {
+    "id": "inbound-2026-10-22-sap-pm-maintenance-planner-plant-maintenance",
+    "received_dates": [
+      "2026-10-22"
+    ],
+    "title": "SAP PM Maintenance Planner / Plant Maintenance",
+    "employment": "Long-term contract or full-time",
+    "location": "Lake Charles / Port Sulphur, LA; day-one onsite",
+    "recruiters": [
+      {
+        "name": "Multiple recruiters",
+        "company": "Various recruiters"
+      }
+    ],
+    "source": "Direct recruiter email",
+    "screen_estimate": null,
+    "capability_estimate": null,
+    "triage": "RED - SKIP / INBOUND",
+    "next_action": "Skip; record multiple vendor pitches as a single program-family lead.",
+    "notes": "Repeated Oct 21-22 solicitations for Louisiana plant-maintenance master-data/CMMS cleanup and PM planning, LNG/petrochemical environment. Related to, but not assumed identical to, later Capgemini CMMS lead. Hard screen: Relocation/onsite LA, planner rather than manager, 10+ years heavy industry planning experience.",
+    "email_url": "https://mail.google.com/mail/u/?authuser=amber.jackson94hks%40gmail.com#all/1a163d8e59be6ce3",
+    "job_index_rank": 352
+  },
+  {
+    "id": "inbound-2026-10-22-sap-pm-and-calibration-consultant-112448-1",
+    "received_dates": [
+      "2026-10-22"
+    ],
+    "title": "SAP PM and Calibration Consultant (112448-1)",
+    "employment": "6+ month C2C contract",
+    "location": "Somerset, NJ; hybrid",
+    "recruiters": [
+      {
+        "name": "Rishabh Pandey",
+        "company": "Q1 Technologies"
+      }
+    ],
+    "source": "Direct recruiter email",
+    "screen_estimate": null,
+    "capability_estimate": null,
+    "triage": "RED - SKIP / INBOUND",
+    "next_action": "Skip.",
+    "notes": "Regulated SAP PM/calibration consulting role. Hard screen: 2-3 full-lifecycle validated implementations and NJ onsite hybrid; rate below target.",
+    "email_url": "https://mail.google.com/mail/u/?authuser=amber.jackson94hks%40gmail.com#all/1a1645100e4decaa",
+    "job_index_rank": 353
+  },
+  {
+    "id": "inbound-2026-10-22-itsm-process-consultant",
+    "received_dates": [
+      "2026-10-22"
+    ],
+    "title": "ITSM Process Consultant",
+    "employment": "Full-time",
+    "location": "Richmond, VA; onsite",
+    "recruiters": [
+      {
+        "name": "Recruiter name not confirmed",
+        "company": "Client undisclosed"
+      }
+    ],
+    "source": "Direct recruiter email",
+    "screen_estimate": null,
+    "capability_estimate": null,
+    "triage": "RED - SKIP / INBOUND",
+    "next_action": "Skip.",
+    "notes": "ITIL/ServiceNow incident, problem, request, CMDB and change process design. Hard screen: Onsite Virginia and ITSM consultancy not senior data governance/AI.",
+    "email_url": "https://mail.google.com/mail/u/?authuser=amber.jackson94hks%40gmail.com#all/1a165c5c97c77eb4",
+    "job_index_rank": 354
+  },
+  {
+    "id": "inbound-2026-11-02-sap-program-manager-ams-and-transformation",
+    "received_dates": [
+      "2026-11-02"
+    ],
+    "title": "SAP Program Manager (AMS and Transformation)",
+    "employment": "W2 contract",
+    "location": "Remote",
+    "recruiters": [
+      {
+        "name": "Rahul",
+        "company": "HCL via Tekfortune"
+      }
+    ],
+    "source": "Direct recruiter email",
+    "screen_estimate": null,
+    "capability_estimate": null,
+    "triage": "YELLOW - SELECTIVE / INBOUND",
+    "next_action": "Follow up only if client permits adjacent governance/program experience and rate is strong.",
+    "notes": "Enterprise SAP AMS/support and transformation program direction. Amber replied to recruiter Nov 2 requesting more information. Hard screen: 15+ years SAP and enterprise delivery management requirement; rate and client unspecified.",
+    "email_url": "https://mail.google.com/mail/u/?authuser=amber.jackson94hks%40gmail.com#all/1a19d6f3ca43b42c",
+    "job_index_rank": 355
+  },
+  {
+    "id": "inbound-2026-10-28-sap-data-migration-specialist-with-pl2pr",
+    "received_dates": [
+      "2026-10-28"
+    ],
+    "title": "SAP Data Migration Specialist with PL2PR",
+    "employment": "Full-time",
+    "location": "Seattle, WA / Dallas, TX; onsite",
+    "recruiters": [
+      {
+        "name": "Recruiter name not confirmed",
+        "company": "Client undisclosed"
+      }
+    ],
+    "source": "Direct recruiter email",
+    "screen_estimate": null,
+    "capability_estimate": null,
+    "triage": "RED - SKIP / INBOUND",
+    "next_action": "Skip.",
+    "notes": "S/4HANA greenfield data migration program, P2P and PL2PR data domain. Hard screen: 10+ years SAP migration, multiple greenfield implementations and onsite out of state.",
+    "email_url": "https://mail.google.com/mail/u/?authuser=amber.jackson94hks%40gmail.com#all/1a184b960b4e8095",
+    "job_index_rank": 356
+  },
+  {
+    "id": "inbound-2026-10-28-junior-sap-bods-consultant",
+    "received_dates": [
+      "2026-10-28"
+    ],
+    "title": "Junior SAP BODS Consultant",
+    "employment": "W2",
+    "location": "Riverwoods, IL; onsite",
+    "recruiters": [
+      {
+        "name": "Recruiter name not confirmed",
+        "company": "Client undisclosed"
+      }
+    ],
+    "source": "Direct recruiter email",
+    "screen_estimate": null,
+    "capability_estimate": null,
+    "triage": "RED - SKIP / INBOUND",
+    "next_action": "Skip.",
+    "notes": "SAP BODS ETL design, development and production job monitoring. Hard screen: Explicit SAP BODS hands-on years required; junior individual-contributor role.",
+    "email_url": "https://mail.google.com/mail/u/?authuser=amber.jackson94hks%40gmail.com#all/1a182c06d0b99dcf",
+    "job_index_rank": 357
+  },
+  {
+    "id": "inbound-2026-10-29-senior-sap-mm-ewm-consultant",
+    "received_dates": [
+      "2026-10-29"
+    ],
+    "title": "Senior SAP MM / EWM Consultant",
+    "employment": "Permanent",
+    "location": "United States; location/work model not disclosed",
+    "recruiters": [
+      {
+        "name": "Recruiter name not confirmed",
+        "company": "Client undisclosed"
+      }
+    ],
+    "source": "Direct recruiter email",
+    "screen_estimate": null,
+    "capability_estimate": null,
+    "triage": "RED - SKIP / INBOUND",
+    "next_action": "Skip unless substantially different role scope.",
+    "notes": "S/4HANA MM inventory and EWM warehouse process configuration. Hard screen: Dedicated EWM configuration and greenfield implementation required; consultancy specialist direction.",
+    "email_url": "https://mail.google.com/mail/u/?authuser=amber.jackson94hks%40gmail.com#all/1a1897bb4599a9f2",
+    "job_index_rank": 358
+  },
+  {
+    "id": "inbound-2026-11-04-sap-s-4hana-finance-consultant-data-conversion-lead",
+    "received_dates": [
+      "2026-11-04"
+    ],
+    "title": "SAP S/4HANA Finance Consultant - Data Conversion Lead",
+    "employment": "Unspecified",
+    "location": "Lisle, IL; onsite four days/week",
+    "recruiters": [
+      {
+        "name": "Artech recruiter",
+        "company": "Artech"
+      }
+    ],
+    "source": "Direct recruiter email",
+    "screen_estimate": null,
+    "capability_estimate": null,
+    "triage": "RED - SKIP / INBOUND",
+    "next_action": "Skip/selectively revisit only if rate and team ownership are exceptional.",
+    "notes": "Finance data-conversion leadership within SAP S/4HANA implementation; geographically convenient. Hard screen: Finance conversion/configuration expertise and four onsite days; less aligned to next senior leadership move.",
+    "email_url": "https://mail.google.com/mail/u/?authuser=amber.jackson94hks%40gmail.com#all/1a1a83c3ea6505d9",
+    "job_index_rank": 359
+  },
+  {
+    "id": "inbound-2026-11-05-sap-program-manager-with-hana",
+    "received_dates": [
+      "2026-11-05"
+    ],
+    "title": "SAP Program Manager with HANA",
+    "employment": "Contract",
+    "location": "Dallas, TX; hybrid onsite",
+    "recruiters": [
+      {
+        "name": "Recruiter name not confirmed",
+        "company": "Client undisclosed"
+      }
+    ],
+    "source": "Direct recruiter email",
+    "screen_estimate": null,
+    "capability_estimate": null,
+    "triage": "RED - SKIP / INBOUND",
+    "next_action": "Skip due to relocation/work model.",
+    "notes": "Large SAP transformation program oversight, budgeting and stakeholder leadership. Hard screen: 13+ years SAP program management and onsite Dallas.",
+    "email_url": "https://mail.google.com/mail/u/?authuser=amber.jackson94hks%40gmail.com#all/1a1acdde48cddd8f",
+    "job_index_rank": 360
+  },
+  {
+    "id": "inbound-2026-10-20-technical-program-manager-automotive-embedded-boards",
+    "received_dates": [
+      "2026-10-20"
+    ],
+    "title": "Technical Program Manager - Automotive & Embedded Boards",
+    "employment": "Full-time",
+    "location": "Santa Clara, CA; onsite",
+    "recruiters": [
+      {
+        "name": "Recruiter name not confirmed",
+        "company": "Client undisclosed"
+      }
+    ],
+    "source": "Direct recruiter email",
+    "screen_estimate": null,
+    "capability_estimate": null,
+    "triage": "RED - SKIP / INBOUND",
+    "next_action": "Skip.",
+    "notes": "Hardware/embedded platform project execution in automotive. Hard screen: Onsite California, board validation/hardware development specialization.",
+    "email_url": "https://mail.google.com/mail/u/?authuser=amber.jackson94hks%40gmail.com#all/1a159c1e0f0d6694",
+    "job_index_rank": 361
+  },
+  {
+    "id": "inbound-2026-10-20-program-manager-operations-data-platform",
+    "received_dates": [
+      "2026-10-20"
+    ],
+    "title": "Program Manager - Operations Data Platform",
+    "employment": "Full-time",
+    "location": "Santa Clara, CA; onsite",
+    "recruiters": [
+      {
+        "name": "Recruiter name not confirmed",
+        "company": "Client undisclosed"
+      }
+    ],
+    "source": "Direct recruiter email",
+    "screen_estimate": null,
+    "capability_estimate": null,
+    "triage": "RED - SKIP / INBOUND",
+    "next_action": "Skip.",
+    "notes": "Operations Data Platform program work, engineering requirements and projects. Hard screen: Onsite California, hardware/engineering specialization, pay undisclosed.",
+    "email_url": "https://mail.google.com/mail/u/?authuser=amber.jackson94hks%40gmail.com#all/1a159c1055e0398b",
+    "job_index_rank": 362
   }
 ]
