@@ -1112,5 +1112,51 @@
     "notes": "Operations Data Platform program work, engineering requirements and projects. Hard screen: Onsite California, hardware/engineering specialization, pay undisclosed.",
     "email_url": "https://mail.google.com/mail/u/?authuser=amber.jackson94hks%40gmail.com#all/1a159c1055e0398b",
     "job_index_rank": 362
+  },
+  {
+    "id": "inbound-2026-11-06-techdeliverysmesapp2ps2p",
+    "received_dates": [
+      "2026-11-06"
+    ],
+    "title": "Tech Delivery SME - SAP P2P & S2P",
+    "employment": "4-month contract",
+    "location": "Lisle IL; onsite Mon-Thu",
+    "recruiters": [
+      {
+        "name": "Not confirmed",
+        "company": "Stellent IT (client undisclosed)"
+      }
+    ],
+    "source": "Recruiter email",
+    "screen_estimate": null,
+    "capability_estimate": null,
+    "triage": "RED - SKIP / HARD SCREEN",
+    "next_action": "Skip.",
+    "notes": "Procurement systems adjacent.",
+    "job_index_rank": 394,
+    "email_url": "https://mail.google.com/mail/u/?authuser=amber.jackson94hks%40gmail.com#all/1a1b12795ddde037"
+  },
+  {
+    "id": "inbound-2026-10-19-sapeamconsultantisutilities",
+    "received_dates": [
+      "2026-10-19"
+    ],
+    "title": "SAP EAM Consultant (IS-Utilities)",
+    "employment": "W2 contract",
+    "location": "Remote",
+    "recruiters": [
+      {
+        "name": "Not confirmed",
+        "company": "Recruiter - SAP IS Utilities client"
+      }
+    ],
+    "source": "Recruiter email",
+    "screen_estimate": null,
+    "capability_estimate": null,
+    "triage": "RED - SKIP / HARD SCREEN",
+    "next_action": "Skip.",
+    "notes": "SAP PM/EAM master data overlap.",
+    "job_index_rank": 395,
+    "email_url": "https://mail.google.com/mail/u/?authuser=amber.jackson94hks%40gmail.com#all/1a155fd8c868e08c"
   }
 ]
